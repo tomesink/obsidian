@@ -7,7 +7,7 @@ status:
   - To Do
 URL: 
 type: "[[Course]]"
-created: <% tp.date.now("YYYY-MM-DD") %>
+created: 2024-09-05
 tags:
 ---
 
