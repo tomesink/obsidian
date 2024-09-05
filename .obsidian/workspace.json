@@ -40,6 +40,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "LMŠ Lesinka",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Notes/Admin/LMŠ Lesinka.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Source,  Book",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Source,  Book.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Zettelkasten",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "Groundhog Day",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Movies/Groundhog Day.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -86,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "Atlas/Economy.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -205,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/Template, Properties, Source (Kit).md"
+                "file": "Atlas/Economy.md"
               }
             }
           },
@@ -281,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/Template, Properties, Source (Kit).md",
+                "file": "Atlas/Economy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/Template, Properties, Source (Kit).md",
+                "file": "Atlas/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,9 +361,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6738f735ad2a2ef",
+  "active": "a8be1c1f6731e07a",
   "lastOpenFiles": [
+    "Spaces/Notes/Admin/LMŠ Lesinka.md",
+    "Extras/Templates/Source,  Book.md",
     "Zettelkasten.md",
+    "Extras/Templates/Template, Properties, Source (Kit).md",
     "Cards/Sources/Movies/Groundhog Day.md",
     "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Permanent note.md",
@@ -369,9 +390,6 @@
     "Spaces/Simmering/Web Design For Beginners 2024.md",
     "+/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
     "Spaces/Notes/z_archive/Engineering/Embedded/Baremetal resources (archived).md",
-    "+/Austrian school of economy.md",
-    "+/Subjektivni teorie hodnot.md",
-    "+/Zákon klesajícího mezního užitku.md",
     "Cards/Sources/Videos",
     "Calendar/2023",
     "Spaces/Notes/CSS layout & positioning",
