@@ -81,17 +81,23 @@
             "id": "a8be1c1f6731e07a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Webdesign",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Webdesign.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Webdesign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Webdesign.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Motion Design In Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/On/Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
                   "title": "Learning",
@@ -182,7 +188,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/On/Motion Design In Figma.md",
+                "file": "Atlas/Web.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -310,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/On/Motion Design In Figma.md"
+                "file": "Atlas/Web.md"
               }
             }
           },
@@ -395,7 +401,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/On/Motion Design In Figma.md",
+                "file": "Atlas/Web.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -421,7 +427,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/On/Motion Design In Figma.md",
+                "file": "Atlas/Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -459,10 +465,10 @@
   },
   "active": "a8be1c1f6731e07a",
   "lastOpenFiles": [
-    "Spaces/Notes/Politics/Svoboda slova.md",
+    "Atlas/Webdesign.md",
     "Spaces/On/Motion Design In Figma.md",
+    "Spaces/Notes/Politics/Svoboda slova.md",
     "Spaces/Notes/Motion Design In Figma",
-    "Webdesign.md",
     "Spaces/Ongoing/Learning.md",
     "Spaces/Notes/CSS layout & positioning/Web HTML Sizing.md",
     "Zettelkasten.md",
