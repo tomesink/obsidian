@@ -31,8 +31,6 @@ tags:
 > > ```
 
 
-
-
 > [!AWARD]- Done 
 > ```dataview
 > TABLE WITHOUT ID

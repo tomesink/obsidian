@@ -16,13 +16,61 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Zettelkasten",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":11}"
+                },
+                {
+                  "title": "Filmy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Filmy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Financial Bubbles",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Financial Bubbles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Yuri Bezmenov - The Four Stages of Ideological Subversion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Yuri Bezmenov - The Four Stages of Ideological Subversion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":286},\"to\":{\"line\":10,\"ch\":286}},\"scroll\":10}"
+                },
+                {
+                  "title": "Prayers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Ongoing/Prayers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.218400675770801}"
+                },
+                {
+                  "title": "💰 Finance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Ongoing/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":8}"
+                },
+                {
+                  "title": "Zákon klesajícího mezního užitku",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Zákon klesajícího mezního užitku.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":15}"
+                },
+                {
+                  "title": "My Subscriptions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/My Subscriptions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/My Subscriptions.md",
+                "file": "Spaces/Notes/CSS layout & positioning/Web HTML Sizing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,6 +86,66 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "bookmarks_05_09_2024",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/bookmarks_05_09_2024.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":24.908212560386474}"
+                },
+                {
+                  "title": "Prayers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Ongoing/Prayers.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Economy.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "LMŠ Lesinka",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Notes/Admin/LMŠ Lesinka.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Source,  Book",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Source,  Book.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Zettelkasten",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Groundhog Day",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Movies/Groundhog Day.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "feynman-triangulation-2",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/feynman-triangulation-2.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Permanent note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Permanent note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Capital",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Capital.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Become intentional about content consumption",
@@ -62,8 +170,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Capital.md",
-                "mode": "source",
+                "file": "Spaces/Ongoing/Learning.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -142,6 +250,14 @@
                 "sortOrder": "byModifiedTime"
               }
             }
+          },
+          {
+            "id": "12d1d1d7fdfd584d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -173,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/Capital.md"
+                "file": "Spaces/Ongoing/Learning.md"
               }
             }
           },
@@ -249,7 +365,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/Capital.md",
+                "file": "Spaces/Ongoing/Learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Capital.md",
+                "file": "Spaces/Ongoing/Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,13 +406,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
-      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "workspaces:Manage workspace layouts": false,
       "periodic-notes:Open today's daily note": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
@@ -314,32 +429,33 @@
   },
   "active": "a8be1c1f6731e07a",
   "lastOpenFiles": [
+    "Spaces/Notes/CSS layout & positioning/Web HTML Sizing.md",
+    "Zettelkasten.md",
+    "+/Filmy.md",
     "+/Financial Bubbles.md",
+    "+/Yuri Bezmenov - The Four Stages of Ideological Subversion.md",
+    "Spaces/Ongoing/Prayers.md",
+    "Spaces/Ongoing/💰 Finance.md",
+    "+/Zákon klesajícího mezního užitku.md",
+    "+/My Subscriptions.md",
+    "Spaces/Ongoing/Learning.md",
+    "+/William B. Erwin.md",
+    "+/bookmarks_05_09_2024.md",
+    "Atlas/Economy.md",
+    "Spaces/Notes/Admin/LMŠ Lesinka.md",
+    "Extras/Templates/Source,  Book.md",
+    "Extras/Templates/Template, Properties, Source (Kit).md",
+    "Cards/Sources/Movies/Groundhog Day.md",
+    "Extras/Attachments/feynman-triangulation-2.png",
+    "Cards/Permanent note.md",
+    "+/Časová preference.md",
     "+/Capital.md",
     "+/Become intentional about content consumption.md",
-    "Spaces/Ongoing/Learning.md",
     "+/Goldman Sachs.md",
-    "+/My Subscriptions.md",
     "+/My Expenses.md",
-    "Spaces/Ongoing/💰 Finance.md",
     "+/Nepi Jano, nepi vodu.md",
     "+/Lightning Node.md",
     "+/Neni li Buh vse je dovoleno.md",
-    "Spaces/On/Project - janadolezelova.com.md",
-    "Spaces/Notes/Web Design For Beginners 2024/Day 5 - Development & publishing!.md",
-    "Spaces/Notes/Web Design For Beginners 2024/Day 4 - Design.md",
-    "Spaces/Notes/Web Design For Beginners 2024/Day 2 - Planning & Strategy.md",
-    "Spaces/Notes/Web Design For Beginners 2024/Day 3 - Structure & Wireframes for your website.md",
-    "Spaces/Simmering/Web Design For Beginners 2024.md",
-    "+/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
-    "Spaces/Notes/z_archive/Engineering/Embedded/Baremetal resources (archived).md",
-    "+/Austrian school of economy.md",
-    "+/Subjektivni teorie hodnot.md",
-    "+/Zákon klesajícího mezního užitku.md",
-    "+/Zle peniaze. Sprievodca krizou..md",
-    "+/Aggregate supply.md",
-    "+/Aggregate demand.md",
-    "Extras/Templates/Source,  Article.md",
     "Cards/Sources/Videos",
     "Calendar/2023",
     "Spaces/Notes/CSS layout & positioning",
@@ -359,7 +475,6 @@
     "backup/icons/ril_a_b.svg",
     "backup/icons/ril_4k.svg",
     "+/Apple Notes/Filmy/images/Filmy-5.png",
-    "+/Apple Notes/Filmy/images/Filmy-4.png",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
