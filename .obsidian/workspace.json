@@ -16,24 +16,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "My Expenses",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/My Expenses.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":10},\"to\":{\"line\":13,\"ch\":10}}}"
-                },
-                {
-                  "title": "💰 Finance",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Ongoing/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":12},\"to\":{\"line\":16,\"ch\":12}}}"
-                },
-                {
-                  "title": "Nepi Jano, nepi vodu",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Nepi Jano, nepi vodu.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":46},\"to\":{\"line\":34,\"ch\":46}},\"scroll\":13}"
                 }
               ]
             },
@@ -58,17 +40,29 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Goldman Sachs",
+                  "title": "Become intentional about content consumption",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Goldman Sachs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":159},\"to\":{\"line\":19,\"ch\":159}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Become intentional about content consumption.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Capital",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Capital.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":24},\"to\":{\"line\":4,\"ch\":24}}}"
+                },
+                {
+                  "title": "Learning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Ongoing/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Ongoing/Learning.md",
+                "file": "+/Capital.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -179,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Ongoing/Learning.md"
+                "file": "+/Capital.md"
               }
             }
           },
@@ -223,9 +217,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "39e510f1e309cd22",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "8e15cd93a6a4be64",
@@ -247,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Ongoing/Learning.md",
+                "file": "+/Capital.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Ongoing/Learning.md",
+                "file": "+/Capital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +290,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "daily-notes:Open today's daily note": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
@@ -301,16 +302,22 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "cmdr:Toggle stacked tabs": false,
+      "callout-manager:Insert Callout": false,
       "obsidian42-brat:BRAT": false,
       "sheet-plus:Create excel file": false,
-      "callout-manager:Insert Callout": false,
       "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a8be1c1f6731e07a",
   "lastOpenFiles": [
+    "+/Financial Bubbles.md",
+    "+/Capital.md",
+    "+/Become intentional about content consumption.md",
+    "Spaces/Ongoing/Learning.md",
     "+/Goldman Sachs.md",
     "+/My Subscriptions.md",
     "+/My Expenses.md",
@@ -333,10 +340,6 @@
     "+/Aggregate supply.md",
     "+/Aggregate demand.md",
     "Extras/Templates/Source,  Article.md",
-    "Extras/Templates/Note.md",
-    "+/Yuri Bezmenov - The Four Stages of Ideological Subversion.md",
-    "Extras/Templates/Source,  Book.md",
-    "Extras/Templates/Source, Course.md",
     "Cards/Sources/Videos",
     "Calendar/2023",
     "Spaces/Notes/CSS layout & positioning",

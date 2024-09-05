@@ -36,5 +36,6 @@
   "dbfolder",
   "templater-obsidian",
   "obsidian-projects",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-git"
 ]
