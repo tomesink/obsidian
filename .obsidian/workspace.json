@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Zettelkasten",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":11}"
+                },
+                {
+                  "title": "Filmy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Filmy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Financial Bubbles",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Financial Bubbles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Yuri Bezmenov - The Four Stages of Ideological Subversion",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Yuri Bezmenov - The Four Stages of Ideological Subversion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -52,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Financial Bubbles.md",
+                "file": "Spaces/Notes/CSS layout & positioning/Web HTML Sizing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -159,7 +177,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/Financial Bubbles.md"
+                "file": "Spaces/Ongoing/Learning.md"
               }
             }
           },
@@ -346,7 +365,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/Financial Bubbles.md",
+                "file": "Spaces/Ongoing/Learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -372,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Financial Bubbles.md",
+                "file": "Spaces/Ongoing/Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -408,8 +427,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "956af3016e8105f2",
+  "active": "a8be1c1f6731e07a",
   "lastOpenFiles": [
+    "Spaces/Notes/CSS layout & positioning/Web HTML Sizing.md",
+    "Zettelkasten.md",
+    "+/Filmy.md",
+    "+/Financial Bubbles.md",
     "+/Yuri Bezmenov - The Four Stages of Ideological Subversion.md",
     "Spaces/Ongoing/Prayers.md",
     "Spaces/Ongoing/💰 Finance.md",
@@ -421,22 +444,18 @@
     "Atlas/Economy.md",
     "Spaces/Notes/Admin/LMŠ Lesinka.md",
     "Extras/Templates/Source,  Book.md",
-    "Zettelkasten.md",
     "Extras/Templates/Template, Properties, Source (Kit).md",
     "Cards/Sources/Movies/Groundhog Day.md",
     "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Permanent note.md",
     "+/Časová preference.md",
     "+/Capital.md",
-    "+/Financial Bubbles.md",
     "+/Become intentional about content consumption.md",
     "+/Goldman Sachs.md",
     "+/My Expenses.md",
     "+/Nepi Jano, nepi vodu.md",
     "+/Lightning Node.md",
     "+/Neni li Buh vse je dovoleno.md",
-    "Spaces/On/Project - janadolezelova.com.md",
-    "Spaces/Notes/Web Design For Beginners 2024/Day 5 - Development & publishing!.md",
     "Cards/Sources/Videos",
     "Calendar/2023",
     "Spaces/Notes/CSS layout & positioning",
