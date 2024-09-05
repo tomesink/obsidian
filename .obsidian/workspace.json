@@ -40,6 +40,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Capital",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Capital.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Become intentional about content consumption",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Become intentional about content consumption.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -62,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Capital.md",
+                "file": "Cards/Permanent note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -173,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/Capital.md"
+                "file": "Cards/Permanent note.md"
               }
             }
           },
@@ -249,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/Capital.md",
+                "file": "Cards/Permanent note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Capital.md",
+                "file": "Cards/Permanent note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,8 +320,9 @@
   },
   "active": "a8be1c1f6731e07a",
   "lastOpenFiles": [
-    "+/Financial Bubbles.md",
     "+/Capital.md",
+    "Cards/Permanent note.md",
+    "+/Financial Bubbles.md",
     "+/Become intentional about content consumption.md",
     "Spaces/Ongoing/Learning.md",
     "+/Goldman Sachs.md",
@@ -339,7 +346,6 @@
     "+/Zle peniaze. Sprievodca krizou..md",
     "+/Aggregate supply.md",
     "+/Aggregate demand.md",
-    "Extras/Templates/Source,  Article.md",
     "Cards/Sources/Videos",
     "Calendar/2023",
     "Spaces/Notes/CSS layout & positioning",
