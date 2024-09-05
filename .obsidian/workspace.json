@@ -88,6 +88,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Webdesign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Webdesign.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Motion Design In Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/On/Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Learning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Ongoing/Learning.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "bookmarks_05_09_2024",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/bookmarks_05_09_2024.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
@@ -170,8 +188,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Ongoing/Learning.md",
-                "mode": "preview",
+                "file": "Atlas/Web.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -254,6 +272,15 @@
           {
             "id": "12d1d1d7fdfd584d",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {}
@@ -289,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Ongoing/Learning.md"
+                "file": "Atlas/Web.md"
               }
             }
           },
@@ -337,6 +364,15 @@
           {
             "id": "39e510f1e309cd22",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "git-view",
               "state": {}
@@ -365,7 +401,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Ongoing/Learning.md",
+                "file": "Atlas/Web.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -391,7 +427,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Ongoing/Learning.md",
+                "file": "Atlas/Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -429,6 +465,11 @@
   },
   "active": "a8be1c1f6731e07a",
   "lastOpenFiles": [
+    "Atlas/Webdesign.md",
+    "Spaces/On/Motion Design In Figma.md",
+    "Spaces/Notes/Politics/Svoboda slova.md",
+    "Spaces/Notes/Motion Design In Figma",
+    "Spaces/Ongoing/Learning.md",
     "Spaces/Notes/CSS layout & positioning/Web HTML Sizing.md",
     "Zettelkasten.md",
     "+/Filmy.md",
@@ -438,7 +479,6 @@
     "Spaces/Ongoing/💰 Finance.md",
     "+/Zákon klesajícího mezního užitku.md",
     "+/My Subscriptions.md",
-    "Spaces/Ongoing/Learning.md",
     "+/William B. Erwin.md",
     "+/bookmarks_05_09_2024.md",
     "Atlas/Economy.md",
@@ -453,9 +493,6 @@
     "+/Become intentional about content consumption.md",
     "+/Goldman Sachs.md",
     "+/My Expenses.md",
-    "+/Nepi Jano, nepi vodu.md",
-    "+/Lightning Node.md",
-    "+/Neni li Buh vse je dovoleno.md",
     "Cards/Sources/Videos",
     "Calendar/2023",
     "Spaces/Notes/CSS layout & positioning",
@@ -465,7 +502,6 @@
     "Spaces/Notes/Personal",
     "Cards/Productivity",
     "Cards/Sources",
-    "Spaces/Personal/Ongoing",
     "Extras/Attachments/CLimate.jpeg",
     "CLimate.jpeg",
     "backup/icons/ril_building.svg",
