@@ -1,0 +1,24 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "URL": "text",
+    "URLs": "multitext",
+    "date": "date",
+    "related": "multitext",
+    "created": "date",
+    "premiered": "date",
+    "year": "number",
+    "encountered": "date",
+    "people": "multitext",
+    "read": "checkbox",
+    "spent": "number",
+    "Amount": "number",
+    "Category": "multitext",
+    "zettel": "multitext",
+    "topic": "multitext",
+    "references": "multitext",
+    "status": "multitext"
+  }
+}

@@ -1,0 +1,13 @@
+---
+zettel:
+  - Fleeting Note
+topic: 
+references: 
+created: 2024-09-01
+status:
+  - To Do
+URL: 
+type: "[[Card]]"
+tags:
+---
+Do not let the algorithm decide!

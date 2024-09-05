@@ -1,0 +1,19 @@
+# Banky
+
+**Unikredit**
+
+Cislo uctu: 2113403577/2700
+
+IBAN: **CZ8727000000002113403577**
+**BIC: BACXCZPP**
+
+uzivatelske cislo ibank: 25870495
+
+Visa Debit
+4782
+
+AirBank
+
+1010288014/3030
+
+CZ41 3030 0000 0010 1028 8014

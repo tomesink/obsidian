@@ -1,0 +1,9 @@
+{
+  "showSheetButton": "true",
+  "folder": "Sources/Utilities/Sheets",
+  "excelFilenamePrefix": "Excel ",
+  "excelFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
+  "sheetHeight": "300",
+  "rowHeight": "25",
+  "colWidth": "100"
+}
