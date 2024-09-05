@@ -40,6 +40,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Groundhog Day",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Movies/Groundhog Day.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "feynman-triangulation-2",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/feynman-triangulation-2.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Permanent note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Permanent note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
                   "title": "Capital",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Capital.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -68,8 +86,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Permanent note.md",
-                "mode": "source",
+                "file": "Zettelkasten.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -187,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Permanent note.md"
+                "file": "Extras/Templates/Template, Properties, Source (Kit).md"
               }
             }
           },
@@ -263,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Permanent note.md",
+                "file": "Extras/Templates/Template, Properties, Source (Kit).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Permanent note.md",
+                "file": "Extras/Templates/Template, Properties, Source (Kit).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,10 +343,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8be1c1f6731e07a",
+  "active": "c6738f735ad2a2ef",
   "lastOpenFiles": [
-    "+/Časová preference.md",
+    "Zettelkasten.md",
+    "Cards/Sources/Movies/Groundhog Day.md",
+    "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Permanent note.md",
+    "+/Časová preference.md",
     "+/Capital.md",
     "+/Financial Bubbles.md",
     "+/Become intentional about content consumption.md",
@@ -351,8 +372,6 @@
     "+/Austrian school of economy.md",
     "+/Subjektivni teorie hodnot.md",
     "+/Zákon klesajícího mezního užitku.md",
-    "+/Zle peniaze. Sprievodca krizou..md",
-    "+/Aggregate supply.md",
     "Cards/Sources/Videos",
     "Calendar/2023",
     "Spaces/Notes/CSS layout & positioning",
@@ -372,7 +391,6 @@
     "backup/icons/ril_a_b.svg",
     "backup/icons/ril_4k.svg",
     "+/Apple Notes/Filmy/images/Filmy-5.png",
-    "+/Apple Notes/Filmy/images/Filmy-4.png",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
