@@ -40,6 +40,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Prayers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Ongoing/Prayers.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Economy.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
@@ -110,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Ongoing/Prayers.md",
+                "file": "+/bookmarks_05_09_2024.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -229,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Ongoing/Prayers.md"
+                "file": "+/bookmarks_05_09_2024.md"
               }
             }
           },
@@ -305,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Ongoing/Prayers.md",
+                "file": "+/bookmarks_05_09_2024.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +337,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Ongoing/Prayers.md",
+                "file": "+/bookmarks_05_09_2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -369,6 +375,8 @@
   },
   "active": "a8be1c1f6731e07a",
   "lastOpenFiles": [
+    "Spaces/Ongoing/Prayers.md",
+    "+/bookmarks_05_09_2024.md",
     "Atlas/Economy.md",
     "Spaces/Notes/Admin/LMŠ Lesinka.md",
     "Extras/Templates/Source,  Book.md",
@@ -394,8 +402,6 @@
     "Spaces/Notes/Web Design For Beginners 2024/Day 4 - Design.md",
     "Spaces/Notes/Web Design For Beginners 2024/Day 2 - Planning & Strategy.md",
     "Spaces/Notes/Web Design For Beginners 2024/Day 3 - Structure & Wireframes for your website.md",
-    "Spaces/Simmering/Web Design For Beginners 2024.md",
-    "+/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
     "Cards/Sources/Videos",
     "Calendar/2023",
     "Spaces/Notes/CSS layout & positioning",
