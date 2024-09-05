@@ -1,178 +1,36 @@
 {
   "main": {
-    "id": "7c4d1a22b903f4ef",
+    "id": "d673c837cfdb51ab",
     "type": "split",
     "children": [
       {
-        "id": "dca7eecc2608b726",
+        "id": "54f7eb21f51b22d9",
         "type": "tabs",
         "children": [
           {
-            "id": "e2a1e06d2d87c40d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e47972c1132c5b6e",
+            "id": "456c326e00f5c393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Bavorsky zajatecky tabor.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91ea861f6e4e6908",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "20e484f6d260ab44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/Regulations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0010aa69116f30b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/Financial Bubbles.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "debb99bfae6bccf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/Rothbarland vs. Krugmanistan.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "743552ca59191ed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/Austrian Cycle.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04cad8e1c2fe1dcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/Regulations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72046961949d1b40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/Urok, cena penez, cena uveru.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a5c8da0237fc8bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/Malinvestments.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b2b52d2d68f053f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/Credit Default Swap.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58786b30dc476ac5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dac6dc64cf7e2a46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Ongoing/Prayers.md",
+                "file": "+/Capital.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d1cd0d25e0cdbb6c",
+    "id": "47d7a787f677684f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "4b662389b4bde997",
+        "id": "14a7de380207d0cf",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -182,12 +40,12 @@
         }
       },
       {
-        "id": "46207975d49d8678",
+        "id": "ce348409e679cac8",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "Pray",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -197,7 +55,7 @@
         }
       },
       {
-        "id": "4a1d84f53ab9c323",
+        "id": "d63476c36a5ba782",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -208,31 +66,27 @@
         }
       },
       {
-        "id": "3834bb30eb4295b5",
+        "id": "0dd4ad1854d3a5fe",
         "type": "leaf",
         "state": {
-          "type": "all-properties",
-          "state": {
-            "sortOrder": "frequency",
-            "showSearch": false,
-            "searchQuery": ""
-          }
+          "type": "bookmarks",
+          "state": {}
         }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "7b8a44a85171a6e0",
+    "id": "d70399a4a496ceea",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9ac5887e1af6a8cd",
+        "id": "d9e7ef15fdee3219",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Spaces/Ongoing/Prayers.md",
+            "file": "+/Capital.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -244,29 +98,29 @@
         }
       },
       {
-        "id": "7a8afd4c5ef60a56",
+        "id": "6b9fe9b176730c8c",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Spaces/Ongoing/Prayers.md",
+            "file": "+/Capital.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "f07cf8a2486a166c",
+        "id": "9d4981daad7e61d6",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Spaces/Ongoing/Prayers.md"
+            "file": "+/Capital.md"
           }
         }
       },
       {
-        "id": "639b3107a17acec9",
+        "id": "dbbe9cf48a5d669b",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -278,74 +132,74 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
-      "obsidian-projects:Open projects": false,
+      "periodic-notes:Open today's daily note": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "cmdr:Toggle stacked tabs": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian42-brat:BRAT": false,
+      "sheet-plus:Create excel file": false,
       "dbfolder:Create a new database table": false,
       "templater-obsidian:Templater": false,
-      "callout-manager:Insert Callout": false,
-      "sheet-plus:Create excel file": false,
-      "cmdr:Toggle stacked tabs": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false,
-      "periodic-notes:Open today's daily note": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "dac6dc64cf7e2a46",
+  "active": "456c326e00f5c393",
   "lastOpenFiles": [
-    "Zettelkasten.md",
-    "Spaces/Ongoing/Prayers.md",
-    "+/Untitled.md",
-    "Spaces/Ongoing/prayers.md",
-    "Spaces/Ongoing/Untitled.md",
-    "Atlas/Zettelkasten.md",
-    "Spaces/🙂 Personal/4_Archive/🍺 Vareni piva/images/Vareni 29-8- 2017.png",
-    "Spaces/🙂 Personal/4_Archive/🎥 Video/Kids Of Pripyat/Destroyed city tags.md",
-    "Spaces/🙂 Personal/4_Archive/🎥 Video/Kids Of Pripyat/YT Partner Program.md",
-    "Spaces/🙂 Personal/4_Archive/🎥 Video/Kids Of Pripyat/Membership.md",
-    "Spaces/🙂 Personal/4_Archive/🎥 Video/Kids Of Pripyat/Ideas.md",
-    "Spaces/🙂 Personal/4_Archive/🎥 Video/Kids Of Pripyat/Instagram.md",
-    "Spaces/🙂 Personal/4_Archive/🎥 Video/Kids Of Pripyat/Description.md",
-    "Spaces/🙂 Personal/4_Archive/🎥 Video/Tlouky Ceskou Neminulosti/Krokovy Dcery.md",
-    "Spaces/🙂 Personal/4_Archive/🎥 Video/Tlouky Ceskou Neminulosti/Dalibor.md",
-    "Spaces/🙂 Personal/4_Archive/🎥 Video/PostApo Talk/PostApo Talk Episode 1- Stalker.md",
-    "Spaces/🙂 Personal/4_Archive/🎥 Video/PostApo Talk/PostApo Talk Episode 0- Introduction.md",
-    "Spaces/🙂 Personal/4_Archive/🎥 Video/PostApo Talk/Intro.md",
-    "Spaces/🙂 Personal/4_Archive/🍺 Vareni piva/Vareni 29-8- 2017.md",
-    "Spaces/🙂 Personal/4_Archive/🍺 Vareni piva/attachments",
-    "Spaces/🙂 Personal/4_Archive/🍺 Vareni piva/Vareni piva 4-12-2016.md",
-    "Spaces/🙂 Personal/4_Archive/🍺 Vareni piva/images",
-    "Spaces/🙂 Personal/4_Archive/🍺 Vareni piva/Vareni 20-11-2018.md",
-    "Spaces/🙂 Personal/4_Archive/🍺 Vareni piva/Vareni 7- Unora 2017.md",
-    "Spaces/🙂 Personal/4_Archive/🎥 Video/Kids Of Pripyat",
-    "Spaces/🙂 Personal/4_Archive/🎥 Video/Tlouky Ceskou Neminulosti",
-    "Spaces/🙂 Personal/4_Archive/🎥 Video/PostApo Talk",
-    "Spaces/🙂 Personal/4_Archive/blog/why-not-blogging.md",
-    "Spaces/🙂 Personal/4_Archive/🍺 Vareni piva",
-    "Spaces/🙂 Personal/4_Archive/🎥 Video",
-    "Spaces/🙂 Personal/4_Archive/blog",
-    "Spaces/🙂 Personal/4_Archive",
-    "Spaces/🙂 Personal/3_Resources/Notes/Religion/attachments/ranni.jpeg",
-    "Spaces/🙂 Personal/3_Resources/Notes/Religion/attachments/vecerni.jpeg",
-    "Spaces/🙂 Personal/3_Resources/Notes/Religion/attachments/Misal-0-Mešní-řád-latinsky-českyA5.pdf",
-    "Spaces/🙂 Personal/3_Resources/Notes/Games/Twilight Imperium 4/Sardak Noor.md",
-    "Spaces/🙂 Personal/3_Resources/Notes/Games/Twilight Imperium 4/Jol Nar.md",
-    "Spaces/🙂 Personal/3_Resources/Notes/Games/Twilight Imperium 4/Hacan.md",
-    "Spaces/🙂 Personal/3_Resources/Notes/Games/Twilight Imperium 4/L1Z1.md",
-    "+/Economics/images/Ekonomika.png",
-    "+/Economics/images/Ekonomika-1.png",
-    "+/Economics/images/Ekonomika-2.png",
-    "+/Economics/images/Ekonomika-3.png",
-    "+/Web/Webflow/attachments/grid_child_justify.png",
-    "+/Web/Webflow/attachments/Screenshot 2024-07-26 at 10.51.20.png",
-    "+/Web/Webflow/attachments/Screenshot 2024-07-26 at 9.17.32.png"
+    "Atlas/Types/Game.md",
+    "Atlas/Types/Paper.md",
+    "Atlas/Types/Speech.md",
+    "Atlas/Types/Movie.md",
+    "Atlas/Types/Course.md",
+    "Atlas/Types/Song.md",
+    "Atlas/Types/Video.md",
+    "Atlas/Types/Card.md",
+    "Atlas/Types/Article.md",
+    "Atlas/Types/Book.md",
+    "Atlas/Economy.md",
+    "Atlas/Religion.md",
+    "Atlas/Bitcoin.md",
+    "Atlas/Graphic design.md",
+    "Atlas/Types",
+    "Atlas/Philosophy.md",
+    "Atlas/Web.md",
+    "Atlas/Productivity.md",
+    "Atlas/+ About Atlas.md",
+    "Atlas",
+    "Spaces/Notes/z_archive/Engineering/Embedded/LCD1602/hd44780_datasheet.pdf",
+    "Spaces/Notes/z_archive/Engineering/Embedded/LCD1602/eone-1602a1_datasheet.pdf",
+    "Spaces/Notes/z_archive/Engineering/Embedded/LCD1602/lcd1602-drivers.md",
+    "Spaces/Notes/z_archive/🍺 Vareni piva/images/Vareni 29-8- 2017.png",
+    "Spaces/Notes/z_archive/🎥 Video/Kids Of Pripyat/Destroyed city tags.md",
+    "Spaces/Notes/z_archive/🎥 Video/Kids Of Pripyat/YT Partner Program.md",
+    "Spaces/Notes/z_archive/🎥 Video/Kids Of Pripyat/Membership.md",
+    "Spaces/Notes/z_archive/🎥 Video/Kids Of Pripyat/Ideas.md",
+    "Spaces/Notes/z_archive/🎥 Video/Kids Of Pripyat/Instagram.md",
+    "Spaces/Notes/z_archive/🎥 Video/Kids Of Pripyat/Description.md",
+    "Spaces/Notes/z_archive/🎥 Video/Tlouky Ceskou Neminulosti/Krokovy Dcery.md",
+    "Spaces/Notes/z_archive/Engineering/Embedded/LCD1602",
+    "Spaces/Notes/Web/Webflow/attachments/grid_child_justify.png",
+    "Spaces/Notes/Web/Webflow/attachments/Screenshot 2024-07-26 at 10.51.20.png",
+    "Spaces/Notes/Web/Webflow/attachments/Screenshot 2024-07-26 at 9.17.32.png",
+    "Spaces/Notes/z_archive/🍺 Vareni piva/images",
+    "Spaces/Notes/z_archive/🎥 Video/Kids Of Pripyat",
+    "Spaces/Notes/z_archive/🎥 Video/Tlouky Ceskou Neminulosti",
+    "Spaces/Notes/z_archive/🎥 Video/PostApo Talk",
+    "Spaces/Notes/z_archive/Games/Twilight Imperium 4",
+    "Extras/Attachments/robert-mccall-black-hole-concept-art copy.jpg",
+    "Extras/Attachments/stay-on-target.jpg",
+    "Extras/Attachments/mckie-ship-and-sea-mid-narrow.jpg",
+    "Extras/Attachments/ptolemy-model.png",
+    "Extras/Attachments/flow-four-factors.png",
+    "Extras/Attachments/sort-by-file-name-a-to-z.png"
   ]
 }
