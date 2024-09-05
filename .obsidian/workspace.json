@@ -40,6 +40,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Economy.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "LMŠ Lesinka",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Notes/Admin/LMŠ Lesinka.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
@@ -104,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Economy.md",
+                "file": "Spaces/Ongoing/Prayers.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -223,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Economy.md"
+                "file": "Spaces/Ongoing/Prayers.md"
               }
             }
           },
@@ -299,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Economy.md",
+                "file": "Spaces/Ongoing/Prayers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Economy.md",
+                "file": "Spaces/Ongoing/Prayers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,6 +369,7 @@
   },
   "active": "a8be1c1f6731e07a",
   "lastOpenFiles": [
+    "Atlas/Economy.md",
     "Spaces/Notes/Admin/LMŠ Lesinka.md",
     "Extras/Templates/Source,  Book.md",
     "Zettelkasten.md",
@@ -389,7 +396,6 @@
     "Spaces/Notes/Web Design For Beginners 2024/Day 3 - Structure & Wireframes for your website.md",
     "Spaces/Simmering/Web Design For Beginners 2024.md",
     "+/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
-    "Spaces/Notes/z_archive/Engineering/Embedded/Baremetal resources (archived).md",
     "Cards/Sources/Videos",
     "Calendar/2023",
     "Spaces/Notes/CSS layout & positioning",
