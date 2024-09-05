@@ -40,6 +40,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "bookmarks_05_09_2024",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/bookmarks_05_09_2024.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":24.908212560386474}"
+                },
+                {
                   "title": "Prayers",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Ongoing/Prayers.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
@@ -116,7 +122,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/bookmarks_05_09_2024.md",
+                "file": "Spaces/Ongoing/Learning.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -235,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/bookmarks_05_09_2024.md"
+                "file": "Spaces/Ongoing/Learning.md"
               }
             }
           },
@@ -311,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/bookmarks_05_09_2024.md",
+                "file": "Spaces/Ongoing/Learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/bookmarks_05_09_2024.md",
+                "file": "Spaces/Ongoing/Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,8 +381,8 @@
   },
   "active": "a8be1c1f6731e07a",
   "lastOpenFiles": [
-    "Spaces/Ongoing/Prayers.md",
     "+/bookmarks_05_09_2024.md",
+    "Spaces/Ongoing/Prayers.md",
     "Atlas/Economy.md",
     "Spaces/Notes/Admin/LMŠ Lesinka.md",
     "Extras/Templates/Source,  Book.md",
