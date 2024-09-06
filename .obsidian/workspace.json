@@ -194,9 +194,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f091349ad1f7bc7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/Figma.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -316,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Web.md"
+                "file": "+/Figma.md"
               }
             }
           },
@@ -401,7 +423,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Web.md",
+                "file": "+/Figma.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -427,7 +449,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Web.md",
+                "file": "+/Figma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -463,8 +485,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8be1c1f6731e07a",
+  "active": "2f091349ad1f7bc7",
   "lastOpenFiles": [
+    "Atlas/Web.md",
+    "+/Figma.md",
     "Atlas/Webdesign.md",
     "Spaces/On/Motion Design In Figma.md",
     "Spaces/Notes/Politics/Svoboda slova.md",
@@ -491,8 +515,6 @@
     "+/Časová preference.md",
     "+/Capital.md",
     "+/Become intentional about content consumption.md",
-    "+/Goldman Sachs.md",
-    "+/My Expenses.md",
     "Cards/Sources/Videos",
     "Calendar/2023",
     "Spaces/Notes/CSS layout & positioning",
