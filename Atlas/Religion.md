@@ -1,12 +1,7 @@
 ---
-zettel:
-  - Map of Content
-topic: 
-references: 
+related:
+  - "[[Philosophy]]"
 created: 2024-09-01
-status:
-  - To Do
-URL: 
 type: "[[MoC]]"
 tags:
 ---

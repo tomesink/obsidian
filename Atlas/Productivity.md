@@ -1,12 +1,6 @@
 ---
-zettel:
-  - Map of Content
-topic: 
-references: 
+related: 
 created: 2024-09-01
-status:
-  - To Do
-URL: 
 type: "[[MoC]]"
 tags:
 ---

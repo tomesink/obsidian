@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Religion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Religion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "Productivity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Productivity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Philosophy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Philosophy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
                   "title": "Math",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Math.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -568,6 +586,9 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
+    "Atlas/Religion.md",
+    "Atlas/Productivity.md",
+    "Atlas/Philosophy.md",
     "Atlas/Math.md",
     "Atlas/Life.md",
     "Atlas/Economy.md",
@@ -581,7 +602,6 @@
     "Cards/Serif.md",
     "Atlas/Graphic design.md",
     "Cards/Sans-Serif.md",
-    "Atlas/Religion.md",
     "Atlas/Web.md",
     "Cards/Webflow Animations & Interactions.md",
     "Spaces/Notes/CSS layout & positioning/Web HTML Sizing.md",
@@ -592,8 +612,6 @@
     "Spaces/Notes/Web Design 101/Episode 4 - Typography.md",
     "Spaces/Notes/Web Design 101/Episode 3 - History of Web (and Graphic) Design.md",
     "Spaces/Notes/CSS layout & positioning/Display Settings.md",
-    "Spaces/On/CSS layout & positioning.md",
-    "Atlas/Productivity.md",
     "Spaces/Notes/Motion Design In Figma",
     "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Sources/Videos",
