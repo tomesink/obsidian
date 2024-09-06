@@ -18,6 +18,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bitcoin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Bitcoin.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Life",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bitcoin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Bitcoin.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Life",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
                   "title": "RSS Readers",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/RSS Readers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -202,7 +238,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Life.md",
+                "file": "Atlas/Life.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -329,7 +365,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/Life.md"
+                "file": "Atlas/Life.md"
               }
             }
           },
@@ -414,7 +450,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/Life.md",
+                "file": "Atlas/Life.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -440,7 +476,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Life.md",
+                "file": "Atlas/Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -478,8 +514,10 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
+    "Atlas/Economy.md",
+    "Atlas/Bitcoin.md",
+    "Atlas/Life.md",
     "+/RSS Readers.md",
-    "+/Life.md",
     "+/Bavorsky zajatecky tabor.md",
     "+/Austrian school of economy.md",
     "+/Austrian Cycle.md",
@@ -502,8 +540,6 @@
     "Spaces/On/CSS layout & positioning.md",
     "Atlas/Productivity.md",
     "Atlas/Philosophy.md",
-    "Atlas/Math.md",
-    "Atlas/Economy.md",
     "Spaces/Notes/Motion Design In Figma",
     "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Sources/Videos",

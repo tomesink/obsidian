@@ -1,11 +1,6 @@
 ---
-zettel:
-  - Map of Content
-topic: 
 references: 
-status: []
 related: 
-URL: 
 type: "[[MoC]]"
 created: 2024-09-06
 tags:
