@@ -21,6 +21,24 @@
                   "title": "Religion",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Religion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Productivity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Productivity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Philosophy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Philosophy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Religion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Religion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
@@ -310,7 +328,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Philosophy.md",
+                "file": "Atlas/Webdesign.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -437,7 +455,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Philosophy.md"
+                "file": "Atlas/Webdesign.md"
               }
             }
           },
@@ -522,7 +540,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Philosophy.md",
+                "file": "Atlas/Webdesign.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -548,7 +566,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Philosophy.md",
+                "file": "Atlas/Webdesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
