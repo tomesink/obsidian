@@ -228,6 +228,60 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bitcoin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Bitcoin.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "MoC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Types/MoC.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Game",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Types/Game.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Course",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Types/Course.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Card",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Types/Card.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Book",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Types/Book.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Article",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Types/Article.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Card",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Types/Card.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
+                },
+                {
                   "title": "Graphic design",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Graphic design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -286,7 +340,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Types/Card.md",
+                "file": "Atlas/Math.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -414,7 +468,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Types/Card.md"
+                "file": "Atlas/Math.md"
               }
             }
           },
@@ -499,7 +553,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Types/Card.md",
+                "file": "Atlas/Math.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -525,7 +579,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Types/Card.md",
+                "file": "Atlas/Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -563,6 +617,14 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
+    "Atlas/Economy.md",
+    "Atlas/Bitcoin.md",
+    "Atlas/Types/MoC.md",
+    "Atlas/Types/Game.md",
+    "Atlas/Types/Course.md",
+    "Atlas/Types/Card.md",
+    "Atlas/Types/Book.md",
+    "Atlas/Types/Article.md",
     "Atlas/Graphic design.md",
     "Atlas/Philosophy.md",
     "Atlas/Math.md",
@@ -582,14 +644,6 @@
     "+/Yuri Bezmenov - The Four Stages of Ideological Subversion.md",
     "Spaces/Ongoing/Prayers.md",
     "Spaces/Ongoing/💰 Finance.md",
-    "+/Zákon klesajícího mezního užitku.md",
-    "+/My Subscriptions.md",
-    "+/William B. Erwin.md",
-    "+/bookmarks_05_09_2024.md",
-    "Atlas/Economy.md",
-    "Spaces/Notes/Admin/LMŠ Lesinka.md",
-    "Extras/Templates/Source,  Book.md",
-    "Extras/Templates/Template, Properties, Source (Kit).md",
     "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Sources/Videos",
     "Calendar/2023",
