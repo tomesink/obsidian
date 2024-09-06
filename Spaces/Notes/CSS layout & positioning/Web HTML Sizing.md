@@ -2,7 +2,7 @@
 zettel:
   - Fleeting Note
 topic:
-  - "[[Web]]"
+  - "[[Webdesign]]"
 references:
   - "[[CSS layout & positioning]]"
 created: 2024-09-01

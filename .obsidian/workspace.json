@@ -14,20 +14,26 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Display Settings",
+                  "title": "Graphic design",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Notes/CSS layout & positioning/Display Settings.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":14}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Graphic design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
+                  "title": "Graphic design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Graphic design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
                   "title": "Religion",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Religion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":12}"
                 },
                 {
                   "title": "Productivity",
@@ -160,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Web.md",
+                "file": "Cards/Serif.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -287,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Web.md"
+                "file": "Cards/Serif.md"
               }
             }
           },
@@ -372,7 +378,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Web.md",
+                "file": "Cards/Serif.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -398,7 +404,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Web.md",
+                "file": "Cards/Serif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -436,15 +442,21 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
-    "Spaces/On/Web Design 101.md",
+    "Atlas/Graphic design.md",
+    "Cards/Serif.md",
+    "Cards/Sans-Serif.md",
+    "Atlas/Religion.md",
     "Atlas/Web.md",
+    "Cards/Webflow Animations & Interactions.md",
+    "Spaces/Notes/CSS layout & positioning/Web HTML Sizing.md",
+    "Spaces/Simmering/Web Design For Beginners 2024.md",
+    "+/Web design business from templates?.md",
+    "Spaces/On/Web Design 101.md",
     "Spaces/Notes/Web Design 101/Episode 5 - Imagery.md",
     "Spaces/Notes/Web Design 101/Episode 4 - Typography.md",
     "Spaces/Notes/Web Design 101/Episode 3 - History of Web (and Graphic) Design.md",
     "Spaces/Notes/CSS layout & positioning/Display Settings.md",
     "Spaces/On/CSS layout & positioning.md",
-    "Spaces/Notes/CSS layout & positioning/Web HTML Sizing.md",
-    "Atlas/Religion.md",
     "Atlas/Productivity.md",
     "Atlas/Philosophy.md",
     "Atlas/Math.md",
@@ -456,12 +468,6 @@
     "Atlas/Types/Card.md",
     "Atlas/Types/Book.md",
     "Atlas/Types/Article.md",
-    "Atlas/Graphic design.md",
-    "Atlas/Webdesign.md",
-    "+/Number PI.md",
-    "+/Figma containers.md",
-    "Spaces/On/Motion Design In Figma.md",
-    "Spaces/Notes/Politics/Svoboda slova.md",
     "Spaces/Notes/Motion Design In Figma",
     "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Sources/Videos",

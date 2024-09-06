@@ -2,7 +2,7 @@
 zettel:
   - Fleeting Note
 topic:
-  - "[[Web]]"
+  - "[[Webdesign]]"
 references: 
 created: 2024-09-02
 status:
