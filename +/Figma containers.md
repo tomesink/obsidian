@@ -19,7 +19,7 @@ Multiple objects grouped together gives a single object I can interact with on t
 
 Group is a collection of layers and not distinct elements so they (the grouped elements) dont have dimensions or properties of their own once grouped.  Meaning, if I choose a fill (background color) property it is applied on objects inside, not on group "object" itself. So groups can not have backgrounds etc by themselves.
 
-Group do not have autolayout. If ayt
+Group do not have autolayout (way how to create responsive design in figma). If autolayout is applied on group it automatically converts into a frame.
 
 ### Frame
 
