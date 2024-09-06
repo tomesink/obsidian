@@ -20,8 +20,11 @@ Group is a collection of layers and not distinct elements so they (the grouped e
 
 ### Frame
 
-Frames are main thing we use to build UI. It can be nested inside group, group can be nested inside frame.
-Frame can act as a scaffolding for different device (web page, iPhone screen...)
+Frames are main thing we use to build UI. It can be nested inside group, group can be nested inside frame. We can put frames inside other frames.
+Frame can act as a scaffolding for different device (web page, iPhone screen...). 
+Frame can be a container of other UI elements.
+
+Unlike
 
 
 ### Section
