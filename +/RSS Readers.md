@@ -2,7 +2,7 @@
 zettel:
   - Fleeting Note
 topic:
-  - "[[Lifestyle]]"
+  - "[[Life]]"
 references:
   - "[[Become intentional about content consumption]]"
 created: 2024-09-01

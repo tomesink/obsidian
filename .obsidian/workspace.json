@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "RSS Readers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/RSS Readers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":14}"
+                },
+                {
                   "title": "Bavorsky zajatecky tabor",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Bavorsky zajatecky tabor.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -196,7 +202,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/RSS Readers.md",
+                "file": "+/Life.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -323,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/RSS Readers.md"
+                "file": "+/Life.md"
               }
             }
           },
@@ -408,7 +414,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/RSS Readers.md",
+                "file": "+/Life.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -434,7 +440,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/RSS Readers.md",
+                "file": "+/Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -472,6 +478,8 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
+    "+/RSS Readers.md",
+    "+/Life.md",
     "+/Bavorsky zajatecky tabor.md",
     "+/Austrian school of economy.md",
     "+/Austrian Cycle.md",
@@ -496,8 +504,6 @@
     "Atlas/Philosophy.md",
     "Atlas/Math.md",
     "Atlas/Economy.md",
-    "Atlas/Bitcoin.md",
-    "Atlas/Types/MoC.md",
     "Spaces/Notes/Motion Design In Figma",
     "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Sources/Videos",
