@@ -216,9 +216,49 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d232afebd2b3bd44",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Web",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Web.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Math.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Number PI",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Number PI.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Webdesign.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -338,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/Figma containers.md"
+                "file": "Atlas/Webdesign.md"
               }
             }
           },
@@ -423,7 +463,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/Figma containers.md",
+                "file": "Atlas/Webdesign.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -449,7 +489,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Figma containers.md",
+                "file": "Atlas/Webdesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -485,9 +525,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f091349ad1f7bc7",
+  "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
     "Atlas/Web.md",
+    "Atlas/Math.md",
+    "+/Number PI.md",
     "+/Figma containers.md",
     "Atlas/Webdesign.md",
     "Spaces/On/Motion Design In Figma.md",
@@ -513,8 +555,6 @@
     "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Permanent note.md",
     "+/Časová preference.md",
-    "+/Capital.md",
-    "+/Become intentional about content consumption.md",
     "Cards/Sources/Videos",
     "Calendar/2023",
     "Spaces/Notes/CSS layout & positioning",
