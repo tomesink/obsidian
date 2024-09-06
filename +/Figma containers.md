@@ -24,7 +24,7 @@ Frames are main thing we use to build UI. It can be nested inside group, group c
 Frame can act as a scaffolding for different device (web page, iPhone screen...). 
 Frame can be a container of other UI elements.
 
-Unlike group, frames have they own  properties like fills, rounded corners
+Unlike group, frames have they own  properties like fills, rounded corners etc. Meaning, if I choose a fill (background color) property
 
 
 ### Section
