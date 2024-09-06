@@ -18,6 +18,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Math.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Life",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bitcoin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Bitcoin.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
                   "title": "Economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -268,7 +292,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Bitcoin.md",
+                "file": "Atlas/Philosophy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -395,7 +419,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Bitcoin.md"
+                "file": "Atlas/Philosophy.md"
               }
             }
           },
@@ -480,7 +504,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Bitcoin.md",
+                "file": "Atlas/Philosophy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -506,7 +530,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Bitcoin.md",
+                "file": "Atlas/Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -544,9 +568,10 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
+    "Atlas/Math.md",
+    "Atlas/Life.md",
     "Atlas/Economy.md",
     "Atlas/Bitcoin.md",
-    "Atlas/Life.md",
     "+/RSS Readers.md",
     "+/Bavorsky zajatecky tabor.md",
     "+/Austrian school of economy.md",
@@ -569,7 +594,6 @@
     "Spaces/Notes/CSS layout & positioning/Display Settings.md",
     "Spaces/On/CSS layout & positioning.md",
     "Atlas/Productivity.md",
-    "Atlas/Philosophy.md",
     "Spaces/Notes/Motion Design In Figma",
     "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Sources/Videos",
