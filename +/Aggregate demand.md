@@ -1,7 +1,8 @@
 ---
 zettel:
   - Fleeting Note
-topic: 
+topic:
+  - "[[Economy]]"
 references: 
 status:
   - To Do

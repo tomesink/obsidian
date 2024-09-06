@@ -11,17 +11,47 @@
             "id": "d232afebd2b3bd44",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Graphic design",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Graphic design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Bavorsky zajatecky tabor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Bavorsky zajatecky tabor.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Austrian school of economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Austrian school of economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Austrian Cycle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Austrian Cycle.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Aggregate supply",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Aggregate supply.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "Aggregate demand",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "Serif",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
                 },
                 {
                   "title": "Graphic design",
@@ -166,7 +196,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Serif.md",
+                "file": "+/RSS Readers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -293,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Serif.md"
+                "file": "+/RSS Readers.md"
               }
             }
           },
@@ -378,7 +408,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Serif.md",
+                "file": "+/RSS Readers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -404,7 +434,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Serif.md",
+                "file": "+/RSS Readers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -442,8 +472,13 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
-    "Atlas/Graphic design.md",
+    "+/Bavorsky zajatecky tabor.md",
+    "+/Austrian school of economy.md",
+    "+/Austrian Cycle.md",
+    "+/Aggregate supply.md",
+    "+/Aggregate demand.md",
     "Cards/Serif.md",
+    "Atlas/Graphic design.md",
     "Cards/Sans-Serif.md",
     "Atlas/Religion.md",
     "Atlas/Web.md",
@@ -463,11 +498,6 @@
     "Atlas/Economy.md",
     "Atlas/Bitcoin.md",
     "Atlas/Types/MoC.md",
-    "Atlas/Types/Game.md",
-    "Atlas/Types/Course.md",
-    "Atlas/Types/Card.md",
-    "Atlas/Types/Book.md",
-    "Atlas/Types/Article.md",
     "Spaces/Notes/Motion Design In Figma",
     "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Sources/Videos",
