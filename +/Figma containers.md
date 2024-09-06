@@ -38,3 +38,5 @@ Section tool allows me to designate and label a specific region of the canvas.
 I can use sections to group related concepts and ideas or organize my designs and sections (eg. prototype flows).
 
 Section can draw focus, give context and guide collaborators through process.
+
+They're perfect for activities like reviews or for sharing designs for handoff  (mark as dev ready).
