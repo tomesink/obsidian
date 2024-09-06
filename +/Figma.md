@@ -14,7 +14,8 @@ tags:
 ---
 
 ### Group
-Multiple objects group
+
+Multiple objects grouped together gives a single object I can interact with on the canvas.
 
 
 ### Frame
