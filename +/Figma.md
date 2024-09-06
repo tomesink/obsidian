@@ -15,7 +15,8 @@ tags:
 
 ### Group
 
-Multiple objects grouped together gives a single object I can interact with on the canvas.
+Multiple objects grouped together gives a single object I can interact with on the canvas in terms of size, color etc.
+Group is a collection of layers and not distinct
 
 
 ### Frame
