@@ -18,10 +18,9 @@ tags:
 Multiple objects grouped together gives a single object I can interact with on the canvas in terms of size, color etc.
 Group is a collection of layers and not distinct elements so they (the grouped elements) dont have dimensions or properties of their own once grouped.
 
-
-
 ### Frame
 
+Frames are main thing we use to build UI. It can be nested inside group, group can be nested inside frame.
 
 
 ### Section
