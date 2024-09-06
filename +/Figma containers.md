@@ -19,6 +19,8 @@ Multiple objects grouped together gives a single object I can interact with on t
 
 Group is a collection of layers and not distinct elements so they (the grouped elements) dont have dimensions or properties of their own once grouped.  Meaning, if I choose a fill (background color) property it is applied on objects inside, not on group "object" itself. So groups can not have backgrounds etc by themselves.
 
+Group do not have autolayout. If ayt
+
 ### Frame
 
 Frames are main thing we use to build UI. It can be nested inside group, group can be nested inside frame. We can put frames inside other frames.
