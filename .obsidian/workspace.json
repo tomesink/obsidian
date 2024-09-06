@@ -210,7 +210,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Figma.md",
+                "file": "+/Figma containers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -338,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/Figma.md"
+                "file": "+/Figma containers.md"
               }
             }
           },
@@ -423,7 +423,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/Figma.md",
+                "file": "+/Figma containers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -449,7 +449,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Figma.md",
+                "file": "+/Figma containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -488,7 +488,7 @@
   "active": "2f091349ad1f7bc7",
   "lastOpenFiles": [
     "Atlas/Web.md",
-    "+/Figma.md",
+    "+/Figma containers.md",
     "Atlas/Webdesign.md",
     "Spaces/On/Motion Design In Figma.md",
     "Spaces/Notes/Politics/Svoboda slova.md",
