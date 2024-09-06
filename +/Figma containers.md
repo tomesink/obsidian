@@ -33,4 +33,6 @@ Unlike group, frames have they own  properties like fills, rounded corners etc. 
 Unlike group, frames can use autolayout and layout grids.
 ### Section
 
-Section tool allows
+Section tool allows me to designate and label a specific region of the canvas.
+
+I can use sections to group related concepts and ideas or organize my designs and sections.
