@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Webdesign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Webdesign.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
                   "title": "Religion",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Religion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -328,7 +334,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Webdesign.md",
+                "file": "+/Number PI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -455,7 +461,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Webdesign.md"
+                "file": "+/Number PI.md"
               }
             }
           },
@@ -540,7 +546,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Webdesign.md",
+                "file": "+/Number PI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -566,7 +572,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Webdesign.md",
+                "file": "+/Number PI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -604,6 +610,7 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
+    "Atlas/Webdesign.md",
     "Atlas/Religion.md",
     "Atlas/Productivity.md",
     "Atlas/Philosophy.md",
@@ -629,7 +636,6 @@
     "Spaces/Notes/Web Design 101/Episode 5 - Imagery.md",
     "Spaces/Notes/Web Design 101/Episode 4 - Typography.md",
     "Spaces/Notes/Web Design 101/Episode 3 - History of Web (and Graphic) Design.md",
-    "Spaces/Notes/CSS layout & positioning/Display Settings.md",
     "Spaces/Notes/Motion Design In Figma",
     "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Sources/Videos",
