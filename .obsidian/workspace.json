@@ -11,8 +11,14 @@
             "id": "d232afebd2b3bd44",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Display Settings",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Notes/CSS layout & positioning/Display Settings.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":14}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -160,31 +166,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "208fc1dae4f6bc89",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/On/CSS layout & positioning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -304,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/On/CSS layout & positioning.md"
+                "file": "Atlas/Web.md"
               }
             }
           },
@@ -389,7 +372,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/On/CSS layout & positioning.md",
+                "file": "Atlas/Web.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +398,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/On/CSS layout & positioning.md",
+                "file": "Atlas/Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -451,9 +434,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "208fc1dae4f6bc89",
+  "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
+    "Spaces/On/Web Design 101.md",
     "Atlas/Web.md",
+    "Spaces/Notes/Web Design 101/Episode 5 - Imagery.md",
+    "Spaces/Notes/Web Design 101/Episode 4 - Typography.md",
+    "Spaces/Notes/Web Design 101/Episode 3 - History of Web (and Graphic) Design.md",
+    "Spaces/Notes/CSS layout & positioning/Display Settings.md",
+    "Spaces/On/CSS layout & positioning.md",
     "Spaces/Notes/CSS layout & positioning/Web HTML Sizing.md",
     "Atlas/Religion.md",
     "Atlas/Productivity.md",
@@ -474,12 +463,6 @@
     "Spaces/On/Motion Design In Figma.md",
     "Spaces/Notes/Politics/Svoboda slova.md",
     "Spaces/Notes/Motion Design In Figma",
-    "Spaces/Ongoing/Learning.md",
-    "Zettelkasten.md",
-    "+/Filmy.md",
-    "+/Financial Bubbles.md",
-    "+/Yuri Bezmenov - The Four Stages of Ideological Subversion.md",
-    "Spaces/Ongoing/Prayers.md",
     "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Sources/Videos",
     "Calendar/2023",

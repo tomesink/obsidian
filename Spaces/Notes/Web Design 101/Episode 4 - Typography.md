@@ -2,11 +2,10 @@
 zettel:
   - Fleeting Note
 topic:
-  - "[[Graphic design]]"
-  - "[[Web]]"
+  - "[[Webdesign]]"
 references: 
 created: 2024-09-01
-tags: 
+tags:
 ---
 Words are powerful that's why text is important.
 

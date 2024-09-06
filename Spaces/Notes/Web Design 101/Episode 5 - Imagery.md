@@ -2,13 +2,12 @@
 zettel:
   - Fleeting Note
 topic:
-  - "[[Graphic design]]"
-  - "[[Web]]"
+  - "[[Webdesign]]"
 references: 
 created: 2024-09-01
-tags: 
+tags:
 ---
-How to pick up an image:
+wHow to pick up an image:
 
 1. Choose the right style/genre (photography or illustration…)
 2. Pick the right image inside the style
