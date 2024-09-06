@@ -7,7 +7,7 @@ created: 2024-09-01
 status:
   - To Do
 URL: 
-type: "[[Card]]"
+type: "[[MoC]]"
 tags:
 ---
 

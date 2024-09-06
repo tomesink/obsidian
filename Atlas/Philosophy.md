@@ -4,10 +4,9 @@ zettel:
 topic: 
 references: 
 created: 2024-09-01
-status:
-  - To Do
+status: []
 URL: 
-type: "[[Card]]"
+type: "[[MoC]]"
 tags:
 ---
 
