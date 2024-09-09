@@ -18,6 +18,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "feynman-triangulation-2",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/feynman-triangulation-2.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "feynman-triangulation-1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/feynman-triangulation-1.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "CLimate",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/CLimate.jpeg\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "CleanShot 2023-07-30 at 21.37.43",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/CleanShot 2023-07-30 at 21.37.43.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "wolverine-tethered",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/wolverine-tethered.jpg\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "flow-four-factors",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/flow-four-factors.png\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "CleanShot 2023-07-30 at 21.37.43",
                   "icon": "lucide-image",
                   "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/CleanShot 2023-07-30 at 21.37.43.png\"}}",
@@ -358,7 +394,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Extras/Attachments/flow-four-factors.png"
+                "file": "Extras/Attachments/ptolemy-model.png"
               }
             }
           },
@@ -504,7 +540,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Attachments/ranni.jpeg"
+                "file": "Extras/Attachments/ptolemy-model.png"
               }
             }
           },
@@ -589,7 +625,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Attachments/ranni.jpeg",
+                "file": "Extras/Attachments/ptolemy-model.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -615,7 +651,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Attachments/ranni.jpeg",
+                "file": "Extras/Attachments/ptolemy-model.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -651,22 +687,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "469256086a3136df",
+  "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
-    "Extras/Attachments/flow-four-factors.png",
+    "Extras/Attachments/feynman-triangulation-2.png",
+    "Extras/Attachments/feynman-triangulation-1.png",
+    "Extras/Attachments/CLimate.jpeg",
     "Extras/Attachments/CleanShot 2023-07-30 at 21.37.43.png",
+    "Extras/Attachments/wolverine-tethered.jpg",
+    "Extras/Attachments/flow-four-factors.png",
+    "Extras/Attachments/ranni.jpeg",
     "+/Design System.md",
     "Design system.png",
     "Extras/Attachments/lyt-crafting-mocs-3.jpg",
     "Extras/Attachments/lyt-crafting-mocs-2.jpg",
     "Extras/Attachments/lyt-crafting-mocs-1.jpg",
-    "Extras/Attachments/lyt-crafting-mocs-0.jpg",
-    "Extras/Attachments/lyt-note-links-to-other-notes.png",
     "+/Digitalni revoluce.md",
     "+/Number PI.md",
     "+/Subtracting a negative = adding a positive.md",
     "Extras/Attachments/Triangulation-1a (Drawing).md",
-    "Extras/Attachments/Screenshot 2024-09-09 at 11.47.08.png",
     "Atlas/Webdesign.md",
     "Atlas/Religion.md",
     "Atlas/Productivity.md",
@@ -688,7 +726,6 @@
     "Cards/Webflow Animations & Interactions.md",
     "Spaces/Notes/CSS layout & positioning/Web HTML Sizing.md",
     "Spaces/Notes/Motion Design In Figma",
-    "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Sources/Videos",
     "Calendar/2023",
     "Spaces/Notes/CSS layout & positioning",
@@ -698,7 +735,6 @@
     "Spaces/Notes/Personal",
     "Cards/Productivity",
     "Cards/Sources",
-    "Extras/Attachments/CLimate.jpeg",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
