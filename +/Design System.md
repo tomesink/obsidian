@@ -14,5 +14,5 @@ tags:
 ---
 ![[Design system.png]]
 
-Design system communicates the "why", "how"
+Design system communicates the "what", "how" and "why".
 
