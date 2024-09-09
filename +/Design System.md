@@ -12,4 +12,5 @@ type: "[[Card]]"
 created: 2024-09-09
 tags:
 ---
+![[Design system.png]]
 
