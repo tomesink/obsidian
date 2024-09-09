@@ -11,10 +11,34 @@
             "id": "d232afebd2b3bd44",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
+                  "title": "Design system",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Design system.png\"}}",
+                  "eState": "{}"
+                },
+                {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Aggregate demand",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "ranni",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/ranni.jpeg\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "ptolemy-model",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/ptolemy-model.png\"}}",
                   "eState": "{}"
                 },
                 {
@@ -392,9 +416,12 @@
               ]
             },
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Extras/Attachments/ptolemy-model.png"
+                "file": "+/Design System.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -540,7 +567,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Attachments/ptolemy-model.png"
+                "file": "+/Design System.md"
               }
             }
           },
@@ -625,7 +652,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Attachments/ptolemy-model.png",
+                "file": "+/Design System.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -651,7 +678,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Attachments/ptolemy-model.png",
+                "file": "+/Design System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -689,18 +716,19 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
+    "Extras/Attachments/Design system.png",
+    "Design system.png",
+    "+/Design System.md",
+    "+/Aggregate demand.md",
+    "Extras/Attachments/ranni.jpeg",
+    "Extras/Attachments/ptolemy-model.png",
     "Extras/Attachments/feynman-triangulation-2.png",
     "Extras/Attachments/feynman-triangulation-1.png",
     "Extras/Attachments/CLimate.jpeg",
     "Extras/Attachments/CleanShot 2023-07-30 at 21.37.43.png",
     "Extras/Attachments/wolverine-tethered.jpg",
     "Extras/Attachments/flow-four-factors.png",
-    "Extras/Attachments/ranni.jpeg",
-    "+/Design System.md",
-    "Design system.png",
     "Extras/Attachments/lyt-crafting-mocs-3.jpg",
-    "Extras/Attachments/lyt-crafting-mocs-2.jpg",
-    "Extras/Attachments/lyt-crafting-mocs-1.jpg",
     "+/Digitalni revoluce.md",
     "+/Number PI.md",
     "+/Subtracting a negative = adding a positive.md",
@@ -718,7 +746,6 @@
     "+/Austrian school of economy.md",
     "+/Austrian Cycle.md",
     "+/Aggregate supply.md",
-    "+/Aggregate demand.md",
     "Cards/Serif.md",
     "Atlas/Graphic design.md",
     "Cards/Sans-Serif.md",
