@@ -11,35 +11,23 @@
             "id": "d232afebd2b3bd44",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 4,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "lyt-crafting-mocs-0",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/lyt-crafting-mocs-0.jpg\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "lyt-crafting-mocs-1",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/lyt-crafting-mocs-1.jpg\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "lyt-crafting-mocs-2",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/lyt-crafting-mocs-2.jpg\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "lyt-crafting-mocs-3",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/lyt-crafting-mocs-3.jpg\"}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "CleanShot 2023-07-30 at 21.37.43",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Extras/Attachments/CleanShot 2023-07-30 at 21.37.43.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Design System",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Design System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":0.22857142857142856}"
                 },
                 {
                   "title": "Digitalni revoluce",
@@ -368,12 +356,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "+/Design System.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "Extras/Attachments/flow-four-factors.png"
               }
             }
           },
@@ -463,7 +448,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "desi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -519,7 +504,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/Design System.md"
+                "file": "Extras/Attachments/ranni.jpeg"
               }
             }
           },
@@ -604,7 +589,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/Design System.md",
+                "file": "Extras/Attachments/ranni.jpeg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -630,7 +615,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Design System.md",
+                "file": "Extras/Attachments/ranni.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -666,15 +651,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d232afebd2b3bd44",
+  "active": "469256086a3136df",
   "lastOpenFiles": [
+    "Extras/Attachments/flow-four-factors.png",
+    "Extras/Attachments/CleanShot 2023-07-30 at 21.37.43.png",
+    "+/Design System.md",
+    "Design system.png",
     "Extras/Attachments/lyt-crafting-mocs-3.jpg",
     "Extras/Attachments/lyt-crafting-mocs-2.jpg",
     "Extras/Attachments/lyt-crafting-mocs-1.jpg",
     "Extras/Attachments/lyt-crafting-mocs-0.jpg",
     "Extras/Attachments/lyt-note-links-to-other-notes.png",
-    "+/Design System.md",
-    "Design system.png",
     "+/Digitalni revoluce.md",
     "+/Number PI.md",
     "+/Subtracting a negative = adding a positive.md",
@@ -712,8 +699,6 @@
     "Cards/Productivity",
     "Cards/Sources",
     "Extras/Attachments/CLimate.jpeg",
-    "CLimate.jpeg",
-    "backup/icons/ril_building.svg",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
