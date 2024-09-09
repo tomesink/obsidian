@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Digitalni revoluce",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Digitalni revoluce.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
+                },
+                {
+                  "title": "Number PI",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Number PI.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":20},\"to\":{\"line\":20,\"ch\":20}}}"
+                },
+                {
                   "title": "Webdesign",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Webdesign.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -334,7 +346,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Number PI.md",
+                "file": "+/Design System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -362,31 +374,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c77adf8139100e54",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/Design System.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -653,11 +642,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c77adf8139100e54",
+  "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
-    "+/Subtracting a negative = adding a positive.md",
-    "+/Design System.md",
+    "+/Digitalni revoluce.md",
     "+/Number PI.md",
+    "+/Subtracting a negative = adding a positive.md",
+    "Extras/Attachments/Triangulation-1a (Drawing).md",
+    "Extras/Attachments/Screenshot 2024-09-09 at 11.47.08.png",
+    "+/Design System.md",
     "Atlas/Webdesign.md",
     "Atlas/Religion.md",
     "Atlas/Productivity.md",
@@ -679,8 +671,6 @@
     "Cards/Webflow Animations & Interactions.md",
     "Spaces/Notes/CSS layout & positioning/Web HTML Sizing.md",
     "Spaces/Simmering/Web Design For Beginners 2024.md",
-    "+/Web design business from templates?.md",
-    "Spaces/On/Web Design 101.md",
     "Spaces/Notes/Motion Design In Figma",
     "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Sources/Videos",
@@ -700,7 +690,6 @@
     "backup/icons/ril_admin.svg",
     "backup/icons/ril_a_b.svg",
     "backup/icons/ril_4k.svg",
-    "+/Apple Notes/Filmy/images/Filmy-5.png",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
