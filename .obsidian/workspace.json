@@ -362,9 +362,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c77adf8139100e54",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/Design System.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -484,7 +506,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/Subtracting a negative = adding a positive.md"
+                "file": "+/Design System.md"
               }
             }
           },
@@ -569,7 +591,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/Subtracting a negative = adding a positive.md",
+                "file": "+/Design System.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -595,7 +617,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Subtracting a negative = adding a positive.md",
+                "file": "+/Design System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -631,10 +653,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd6c8465e21de3fd",
+  "active": "c77adf8139100e54",
   "lastOpenFiles": [
-    "+/Number PI.md",
     "+/Subtracting a negative = adding a positive.md",
+    "+/Design System.md",
+    "+/Number PI.md",
     "Atlas/Webdesign.md",
     "Atlas/Religion.md",
     "Atlas/Productivity.md",
@@ -658,7 +681,6 @@
     "Spaces/Simmering/Web Design For Beginners 2024.md",
     "+/Web design business from templates?.md",
     "Spaces/On/Web Design 101.md",
-    "Spaces/Notes/Web Design 101/Episode 5 - Imagery.md",
     "Spaces/Notes/Motion Design In Figma",
     "Extras/Attachments/feynman-triangulation-2.png",
     "Cards/Sources/Videos",
