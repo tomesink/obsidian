@@ -20,8 +20,13 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "+/Aggregate demand.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -143,7 +148,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "+/Aggregate demand.md"
+              }
             }
           },
           {
@@ -227,6 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "+/Aggregate demand.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,6 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "+/Aggregate demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
