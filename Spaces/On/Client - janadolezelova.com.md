@@ -17,7 +17,7 @@ kanban-plugin: board
 ## Content Design
 
 - [ ] [[Content strategy]]
-- [ ] Copywriting
+- [ ] [[Copywriting]]
 
 
 
