@@ -14,6 +14,6 @@ tags:
 ---
 (Agregátní poptávka)
 
-It is the sum of total expenditure of all economical subjects (households (consumption), investments, government spendings and net export) in a state.
+It is the sum of total expenditure of all economical subjects (households (consumption), investments, businesses (companies), government spendings and net export) in a state.
 
 The aggregate demand function has a declining path 
