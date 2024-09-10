@@ -11,16 +11,16 @@
             "id": "d232afebd2b3bd44",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Home Page Hi-Fi Concepts",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":32},\"to\":{\"line\":15,\"ch\":32}},\"scroll\":7}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "Client - janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Spaces/On/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -452,43 +452,9 @@
               ]
             },
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Spaces/On/Client - janadolezelova.com.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5c15e8fa8e64f277",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3642adec6fc6a31f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md",
+                "file": "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -615,7 +581,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/On/Client - janadolezelova.com.md"
+                "file": "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md"
               }
             }
           },
@@ -700,7 +666,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/On/Client - janadolezelova.com.md",
+                "file": "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -726,7 +692,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/On/Client - janadolezelova.com.md",
+                "file": "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -764,17 +730,17 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
-    "Spaces/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md",
     "Spaces/On/Client - janadolezelova.com.md",
-    "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
-    "Spaces/Notes/Clients/janadolezelova.com/Copywriting.md",
-    "Spaces/Notes/Clients/janadolezelova.com/Content strategy.md",
-    "Spaces/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md",
-    "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
     "Spaces/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md",
     "Spaces/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md",
     "Spaces/Notes/Clients/janadolezelova.com/Create + send proposal.md",
     "Spaces/Notes/Clients/janadolezelova.com/Sales call.md",
+    "Spaces/Notes/Clients/janadolezelova.com/Copywriting.md",
+    "Spaces/Notes/Clients/janadolezelova.com/Content strategy.md",
+    "Spaces/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md",
+    "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
+    "Spaces/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md",
+    "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
     "Extras/Templates/Project Management Note.md",
     "+/Subtracting a negative = adding a positive.md",
     "Spaces/On/CSS layout & positioning.md",

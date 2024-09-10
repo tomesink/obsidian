@@ -3,6 +3,7 @@ assigned:
 complete: false
 deadline: 
 stage:
+  - Content Design
 ---
 ## Subtasks
 
