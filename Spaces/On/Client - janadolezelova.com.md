@@ -23,6 +23,7 @@ kanban-plugin: board
 ## Design + Branding
 
 - [ ] [[Home Page Hi-Fi Concepts]]
+- [ ] [[Full Site HI-FI Mockups]]
 
 
 ## Webflow Development

@@ -14,10 +14,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Setup shared Slack workspace",
+                  "title": "Home Page Hi-Fi Concepts",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":57},\"to\":{\"line\":24,\"ch\":57}},\"scroll\":6}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":32},\"to\":{\"line\":15,\"ch\":32}},\"scroll\":7}"
                 },
                 {
                   "state": "{}",
@@ -470,11 +470,11 @@
         ]
       },
       {
-        "id": "564233692a18a0a8",
+        "id": "5c15e8fa8e64f277",
         "type": "tabs",
         "children": [
           {
-            "id": "15acdd2f4e781d31",
+            "id": "3642adec6fc6a31f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -488,7 +488,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
+                "file": "Spaces/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -615,7 +615,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md"
+                "file": "Spaces/On/Client - janadolezelova.com.md"
               }
             }
           },
@@ -700,7 +700,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
+                "file": "Spaces/On/Client - janadolezelova.com.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -726,7 +726,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
+                "file": "Spaces/On/Client - janadolezelova.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -762,8 +762,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15acdd2f4e781d31",
+  "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
+    "Spaces/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md",
     "Spaces/On/Client - janadolezelova.com.md",
     "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
     "Spaces/Notes/Clients/janadolezelova.com/Copywriting.md",
@@ -801,7 +802,6 @@
     "Atlas/Philosophy.md",
     "Atlas/Math.md",
     "Atlas/Life.md",
-    "Atlas/Economy.md",
     "Spaces/Notes/Motion Design In Figma",
     "Cards/Sources/Videos",
     "Calendar/2023",
