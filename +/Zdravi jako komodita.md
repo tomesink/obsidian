@@ -1,14 +1,18 @@
 ---
 zettel:
   - Permanent Note
-author: 
-topic: 
+author:
+  - "[[Tomáš Šebek]]"
+topic:
+  - "[[Life]]"
+  - "[[Philosophy]]"
 year: 
 references: 
 type: "[[Article]]"
 URL: 
 created: 2024-09-10
 tags:
+  - health
 ---
 
 
