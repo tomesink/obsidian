@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Project - janadolezelova.com",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/On/Project - janadolezelova.com.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
+                },
+                {
                   "title": "Design System",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Design System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -416,12 +422,16 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Spaces/On/Project - janadolezelova.com.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "+/Client - janadolezelova.com.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               }
             }
           },
@@ -567,7 +577,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/On/Project - janadolezelova.com.md"
+                "file": "+/Client - janadolezelova.com.md"
               }
             }
           },
@@ -652,7 +662,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/On/Project - janadolezelova.com.md",
+                "file": "+/Client - janadolezelova.com.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -678,7 +688,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/On/Project - janadolezelova.com.md",
+                "file": "+/Client - janadolezelova.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -714,8 +724,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
+    "Spaces/On/Project - janadolezelova.com.md",
+    "+/Client - janadolezelova.com.md",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
     "+/Design System.md",
@@ -752,7 +764,6 @@
     "Cards/Sans-Serif.md",
     "Atlas/Web.md",
     "Cards/Webflow Animations & Interactions.md",
-    "Spaces/Notes/CSS layout & positioning/Web HTML Sizing.md",
     "Spaces/Notes/Motion Design In Figma",
     "Cards/Sources/Videos",
     "Calendar/2023",
@@ -761,7 +772,6 @@
     "Cards/Sources/Courses",
     "Cards/Sources/Articles",
     "Spaces/Notes/Personal",
-    "Cards/Productivity",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
