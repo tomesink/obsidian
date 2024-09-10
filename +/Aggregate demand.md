@@ -14,5 +14,5 @@ tags:
 ---
 (Agregátní poptávka)
 
-It is th
+It is the sum of total expenditure of
 
