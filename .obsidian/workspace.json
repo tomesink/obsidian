@@ -11,16 +11,16 @@
             "id": "d232afebd2b3bd44",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Setup shared Slack workspace",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "Client - janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Spaces/On/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -452,18 +452,12 @@
               ]
             },
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Spaces/On/Client - janadolezelova.com.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Spaces/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -587,7 +581,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/On/Client - janadolezelova.com.md"
+                "file": "Spaces/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md"
               }
             }
           },
@@ -672,7 +666,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/On/Client - janadolezelova.com.md",
+                "file": "Spaces/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -698,7 +692,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/On/Client - janadolezelova.com.md",
+                "file": "Spaces/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -736,9 +730,9 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
-    "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
     "Spaces/On/Client - janadolezelova.com.md",
     "Spaces/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md",
+    "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
     "Spaces/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md",
     "Spaces/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md",
     "Spaces/Notes/Clients/janadolezelova.com/Create + send proposal.md",
