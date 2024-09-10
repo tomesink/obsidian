@@ -448,28 +448,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bd6c8465e21de3fd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+/Subtracting a negative = adding a positive.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -740,8 +718,9 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
-    "+/Client - janadolezelova.com.md",
+    "+/Subtracting a negative = adding a positive.md",
     "Extras/Templates/Project Management Note.md",
+    "+/Client - janadolezelova.com.md",
     "Spaces/On/CSS layout & positioning.md",
     "Spaces/On/Project - janadolezelova.com.md",
     "Spaces/Notes/Clients/janadolezelova.com",
@@ -760,7 +739,6 @@
     "Extras/Attachments/flow-four-factors.png",
     "+/Digitalni revoluce.md",
     "+/Number PI.md",
-    "+/Subtracting a negative = adding a positive.md",
     "Extras/Attachments/Triangulation-1a (Drawing).md",
     "Atlas/Webdesign.md",
     "Atlas/Religion.md",
