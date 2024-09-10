@@ -19,6 +19,9 @@
     "zettel": "multitext",
     "topic": "multitext",
     "references": "multitext",
-    "status": "multitext"
+    "status": "multitext",
+    "complete": "checkbox",
+    "deadline": "date",
+    "stage": "multitext"
   }
 }

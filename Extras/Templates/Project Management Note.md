@@ -1,3 +1,6 @@
 ---
-assigned:
+assigned: 
+complete: false
+deadline: 
+stage:
 ---
