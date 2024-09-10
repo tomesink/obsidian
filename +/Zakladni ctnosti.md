@@ -12,12 +12,12 @@ URL:
 type: "[[Card]]"
 tags:
 ---
+Tak jak je sestavil [[Thomas Aquinas]]:
 
+#### moudrost
 
-moudrost
+#### spravedlnost
 
-spravedlnost
+#### umirnenost
 
-umirnenost
-
-statecnost
+#### statecnost
