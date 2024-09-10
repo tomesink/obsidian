@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Mortgage Securitization",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Mortgage Securitization.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
                   "title": "Permanent note",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Permanent note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -224,12 +230,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Cards/Mortgage Securitization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Extras/Utilities/Excalidraw/excalibrain.md"
               }
             }
           }
@@ -353,7 +356,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Mortgage Securitization.md"
+                "file": "Extras/Utilities/Excalidraw/excalibrain.md"
               }
             }
           },
@@ -438,7 +441,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Mortgage Securitization.md",
+                "file": "Extras/Utilities/Excalidraw/excalibrain.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -464,7 +467,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Mortgage Securitization.md",
+                "file": "Extras/Utilities/Excalidraw/excalibrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -501,6 +504,7 @@
   },
   "active": "e09f042ded72c22f",
   "lastOpenFiles": [
+    "Cards/Mortgage Securitization.md",
     "Cards/Permanent note.md",
     "Cards/Sans-Serif.md",
     "Cards/Serif.md",
@@ -519,7 +523,6 @@
     "Cards/Aggregate supply.md",
     "Cards/Fleeting note.md",
     "Cards/Literature note.md",
-    "Cards/Mortgage Securitization.md",
     "Spaces/On/Client - janadolezelova.com.md",
     "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
     "Spaces/Notes/Clients/janadolezelova.com/Create + send proposal.md",
