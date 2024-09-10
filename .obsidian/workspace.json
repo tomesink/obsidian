@@ -18,6 +18,108 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Zle peniaze. Sprievodca krizou.",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Zle peniaze. Sprievodca krizou..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Aggregate demand",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "Aggregate supply",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Aggregate supply.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "Fleeting note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Aggregate supply",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Aggregate supply.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "Fleeting note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Literature note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Literature note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mortgage Securitization",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Mortgage Securitization.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Permanent note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Permanent note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sans-Serif",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Serif",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Webflow Animations & Interactions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Webflow Animations & Interactions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "Serif",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sans-Serif",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Fleeting note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Aggregate demand",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "Aggregate supply",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Aggregate supply.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":138},\"to\":{\"line\":19,\"ch\":138}}}"
+                },
+                {
                   "title": "Aggregate demand",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -28,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Aggregate supply.md",
+                "file": "+/Zdravi jako komodita.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -155,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/Aggregate supply.md"
+                "file": "+/Zdravi jako komodita.md"
               }
             }
           },
@@ -240,7 +342,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/Aggregate supply.md",
+                "file": "+/Zdravi jako komodita.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +368,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Aggregate supply.md",
+                "file": "+/Zdravi jako komodita.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +405,16 @@
   },
   "active": "e09f042ded72c22f",
   "lastOpenFiles": [
+    "+/Zle peniaze. Sprievodca krizou..md",
     "Cards/Aggregate demand.md",
+    "Cards/Aggregate supply.md",
+    "Cards/Fleeting note.md",
+    "Cards/Literature note.md",
+    "Cards/Mortgage Securitization.md",
+    "Cards/Permanent note.md",
+    "Cards/Sans-Serif.md",
+    "Cards/Serif.md",
+    "Cards/Webflow Animations & Interactions.md",
     "Spaces/On/Client - janadolezelova.com.md",
     "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
     "Spaces/Notes/Clients/janadolezelova.com/Create + send proposal.md",
@@ -322,7 +433,6 @@
     "Spaces/On/Project - janadolezelova.com.md",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
-    "+/Design System.md",
     "Extras/Attachments/Design system.png",
     "Design system.png",
     "Extras/Attachments/ranni.jpeg",
@@ -333,14 +443,6 @@
     "Extras/Attachments/CleanShot 2023-07-30 at 21.37.43.png",
     "Extras/Attachments/wolverine-tethered.jpg",
     "Extras/Attachments/flow-four-factors.png",
-    "+/Digitalni revoluce.md",
-    "+/Number PI.md",
-    "Extras/Attachments/Triangulation-1a (Drawing).md",
-    "Atlas/Webdesign.md",
-    "Atlas/Religion.md",
-    "Atlas/Productivity.md",
-    "Atlas/Philosophy.md",
-    "Atlas/Math.md",
     "Spaces/Notes/Motion Design In Figma",
     "Cards/Sources/Videos",
     "Calendar/2023",

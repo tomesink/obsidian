@@ -4,7 +4,8 @@ zettel:
 topic:
   - "[[Economy]]"
 references: 
-status: 
+status:
+  - Done
 related:
   - "[[Aggregate supply]]"
 URL: https://cs.wikipedia.org/wiki/Agreg%C3%A1tn%C3%AD_nab%C3%ADdka
