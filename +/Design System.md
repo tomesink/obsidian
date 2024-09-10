@@ -20,6 +20,8 @@ Key parts of a successful design system:
 
 1. Principles
 2. Foundations
+3. Documentation
+4. Process
 
 #### Why
 This is the principles
