@@ -11,17 +11,23 @@
             "id": "e09f042ded72c22f",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Thomas Aquinas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Thomas Aquinas.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Univerzalni moralka",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Univerzalni moralka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":196},\"to\":{\"line\":13,\"ch\":196}}}"
+                },
+                {
+                  "title": "Zakladni ctnosti",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Zakladni ctnosti.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":79},\"to\":{\"line\":28,\"ch\":79}},\"scroll\":14}"
                 },
                 {
                   "title": "Musíme se snažit umřít ve zdraví.",
@@ -465,8 +471,10 @@
   },
   "active": "e09f042ded72c22f",
   "lastOpenFiles": [
-    "+/Thomas Aquinas.md",
+    "+/Univerzalni moralka.md",
     "+/Zakladni ctnosti.md",
+    "+/Cicero.md",
+    "+/Thomas Aquinas.md",
     "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
     "Cards/Sources/Movies/8 MM.md",
     "Extras/Templates/Source,  Article.md",
@@ -489,8 +497,6 @@
     "Spaces/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md",
     "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
     "Spaces/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md",
-    "Spaces/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md",
-    "Spaces/Notes/Clients/janadolezelova.com/Sales call.md",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
     "Extras/Attachments/Design system.png",

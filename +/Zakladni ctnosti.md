@@ -1,6 +1,6 @@
 ---
 zettel:
-  - Fleeting Note
+  - Permanent Note
 topic:
   - "[[Philosophy]]"
   - "[[Religion]]"
@@ -8,7 +8,8 @@ references:
 created: 2024-09-01
 status:
   - To Do
-URL: 
+related: 
+URL: https://cs.wikipedia.org/wiki/Kardin%C3%A1ln%C3%AD_ctnosti
 type: "[[Card]]"
 tags:
 ---
@@ -18,7 +19,6 @@ V poradi podle toho, jak je sestavil [[Thomas Aquinas]]:
 
 #### moudrost
 _prudentia_
-
 #### spravedlnost
 _iustitia_
 #### umirnenost
