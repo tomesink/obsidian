@@ -50,7 +50,7 @@
                 {
                   "title": "Zdravi jako komodita",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Musíme se snažit umřít ve zdraví..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":169},\"to\":{\"line\":22,\"ch\":169}}}"
                 },
                 {
@@ -166,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Musíme se snažit umřít ve zdraví..md",
+                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -293,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/Musíme se snažit umřít ve zdraví..md"
+                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md"
               }
             }
           },
@@ -378,7 +378,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/Musíme se snažit umřít ve zdraví..md",
+                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -404,7 +404,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Musíme se snažit umřít ve zdraví..md",
+                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -439,12 +439,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e09f042ded72c22f",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
     "Extras/Templates/Source,  Article.md",
     "Extras/Templates/Source,  Book.md",
     "Extras/Templates/Source, Course.md",
-    "+/Musíme se snažit umřít ve zdraví..md",
+    "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
     "+/Zle peniaze. Sprievodca krizou..md",
     "Cards/Aggregate demand.md",
     "Cards/Aggregate supply.md",
