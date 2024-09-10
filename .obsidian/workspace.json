@@ -18,9 +18,15 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Project Management Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Project Management Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
                   "title": "Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"+/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Spaces/On/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -32,7 +38,7 @@
                 {
                   "title": "Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"+/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Spaces/On/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -440,12 +446,16 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Extras/Templates/Project Management Note.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Spaces/On/Client - janadolezelova.com.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -569,7 +579,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/Project Management Note.md"
+                "file": "Spaces/On/Client - janadolezelova.com.md"
               }
             }
           },
@@ -654,7 +664,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/Project Management Note.md",
+                "file": "Spaces/On/Client - janadolezelova.com.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -680,7 +690,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/Project Management Note.md",
+                "file": "Spaces/On/Client - janadolezelova.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -718,9 +728,9 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
-    "+/Subtracting a negative = adding a positive.md",
     "Extras/Templates/Project Management Note.md",
-    "+/Client - janadolezelova.com.md",
+    "+/Subtracting a negative = adding a positive.md",
+    "Spaces/On/Client - janadolezelova.com.md",
     "Spaces/On/CSS layout & positioning.md",
     "Spaces/On/Project - janadolezelova.com.md",
     "Spaces/Notes/Clients/janadolezelova.com",
