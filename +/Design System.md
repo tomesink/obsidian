@@ -24,5 +24,5 @@ Key parts of a successful design system:
 4. Process
 
 #### Why
-This is the principles
+This is the principles. eg. "accesible and inclusive app"
 
