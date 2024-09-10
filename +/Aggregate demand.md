@@ -4,8 +4,7 @@ zettel:
 topic:
   - "[[Economy]]"
 references: 
-status:
-  - To Do
+status: []
 related: 
 URL: https://cs.wikipedia.org/wiki/Agreg%C3%A1tn%C3%AD_nab%C3%ADdka
 type: "[[Card]]"
@@ -16,4 +15,4 @@ tags:
 
 It is the sum of total expenditure of all economical subjects (households (consumption), investments, businesses (companies), government spendings and net export) in a state.
 
-The aggregate demand function has a declining path 
+The aggregate demand function has a declining path - inflation lowers the overall wealth.
