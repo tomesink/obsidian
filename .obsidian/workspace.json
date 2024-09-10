@@ -11,17 +11,17 @@
             "id": "d232afebd2b3bd44",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Design system",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Design system.png\"}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Design System",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Design System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":14}"
                 },
                 {
                   "title": "Aggregate demand",
@@ -418,7 +418,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Design System.md",
+                "file": "Spaces/On/Project - janadolezelova.com.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -567,7 +567,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/Design System.md"
+                "file": "Spaces/On/Project - janadolezelova.com.md"
               }
             }
           },
@@ -652,7 +652,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/Design System.md",
+                "file": "Spaces/On/Project - janadolezelova.com.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -678,7 +678,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Design System.md",
+                "file": "Spaces/On/Project - janadolezelova.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -716,9 +716,9 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
+    "+/Design System.md",
     "Extras/Attachments/Design system.png",
     "Design system.png",
-    "+/Design System.md",
     "+/Aggregate demand.md",
     "Extras/Attachments/ranni.jpeg",
     "Extras/Attachments/ptolemy-model.png",
@@ -728,7 +728,6 @@
     "Extras/Attachments/CleanShot 2023-07-30 at 21.37.43.png",
     "Extras/Attachments/wolverine-tethered.jpg",
     "Extras/Attachments/flow-four-factors.png",
-    "Extras/Attachments/lyt-crafting-mocs-3.jpg",
     "+/Digitalni revoluce.md",
     "+/Number PI.md",
     "+/Subtracting a negative = adding a positive.md",
