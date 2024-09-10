@@ -6,19 +6,17 @@ author:
 topic:
   - "[[Life]]"
   - "[[Philosophy]]"
+related: 
 year: 
 references: 
 type: "[[Article]]"
-URL: 
+URL: https://www.seznamzpravy.cz/clanek/audio-podcast-galerie-osobnosti-musime-se-snazit-umrit-ve-zdravi-tomas-sebek-prichazi-s-otocenim-systemu-254789
 created: 2024-09-10
 tags:
   - health
 ---
 
-
-
-
-„Musíme se snažit umřít ve zdraví.“
+Zdravi jako komodita.
 
 „Musíme začít vnímat zdraví jako komoditu, jako peníze, kariéra, auto, rodina, manželka, děti… Když se budeme pořád ke zdraví stavět způsobem: Já si zajdu někam do nemocnice, tam bude pan doktor v bílém plášti, udělá nějaký zázrak, podá mi nějakou pilulku, někam mě řízne, vyřeší můj problém a já budu znovu zdráv, tak to je prostě nesmysl. S tím je potřeba začít pracovat,“
 

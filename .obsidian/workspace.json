@@ -50,7 +50,7 @@
                 {
                   "title": "Zdravi jako komodita",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Zdravi jako komodita.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Musíme se snažit umřít ve zdraví..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":169},\"to\":{\"line\":22,\"ch\":169}}}"
                 },
                 {
@@ -166,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Zdravi jako komodita.md",
+                "file": "+/Musíme se snažit umřít ve zdraví..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -293,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/Zdravi jako komodita.md"
+                "file": "+/Musíme se snažit umřít ve zdraví..md"
               }
             }
           },
@@ -378,7 +378,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/Zdravi jako komodita.md",
+                "file": "+/Musíme se snažit umřít ve zdraví..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -404,7 +404,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Zdravi jako komodita.md",
+                "file": "+/Musíme se snažit umřít ve zdraví..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -444,7 +444,7 @@
     "Extras/Templates/Source,  Article.md",
     "Extras/Templates/Source,  Book.md",
     "Extras/Templates/Source, Course.md",
-    "+/Zdravi jako komodita.md",
+    "+/Musíme se snažit umřít ve zdraví..md",
     "+/Zle peniaze. Sprievodca krizou..md",
     "Cards/Aggregate demand.md",
     "Cards/Aggregate supply.md",
