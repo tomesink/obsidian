@@ -6,9 +6,8 @@ topic:
   - "[[Religion]]"
 references: 
 created: 2024-09-01
-status:
-  - To Do
-related: 
+related:
+  - "[[Univerzalni moralka]]"
 URL: https://cs.wikipedia.org/wiki/Kardin%C3%A1ln%C3%AD_ctnosti
 type: "[[Card]]"
 tags:

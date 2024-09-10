@@ -5,8 +5,6 @@ topic:
   - "[[Webdesign]]"
 references: 
 created: 2024-09-01
-status:
-  - Done
 URL: https://university.webflow.com/courses/interactions-and-animations-course
 tags:
   - webflow

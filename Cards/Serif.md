@@ -6,8 +6,6 @@ topic:
 references:
   - "[[Web Design 101]]"
 created: 2024-09-01
-status:
-  - Done
 tags:
   - typography
 ---

@@ -18,6 +18,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Sans-Serif",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Serif",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Webflow Animations & Interactions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Webflow Animations & Interactions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":14}"
+                },
+                {
+                  "title": "Zakladni ctnosti",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Zakladni ctnosti.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":16}"
+                },
+                {
                   "title": "Univerzalni moralka",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Univerzalni moralka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -26,7 +50,7 @@
                 {
                   "title": "Zakladni ctnosti",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Zakladni ctnosti.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Zakladni ctnosti.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":79},\"to\":{\"line\":28,\"ch\":79}},\"scroll\":14}"
                 },
                 {
@@ -196,7 +220,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Zakladni ctnosti.md",
+                "file": "Cards/Permanent note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -323,7 +347,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/Zakladni ctnosti.md"
+                "file": "Cards/Permanent note.md"
               }
             }
           },
@@ -408,7 +432,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/Zakladni ctnosti.md",
+                "file": "Cards/Permanent note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -434,7 +458,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Zakladni ctnosti.md",
+                "file": "Cards/Permanent note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -471,8 +495,11 @@
   },
   "active": "e09f042ded72c22f",
   "lastOpenFiles": [
+    "Cards/Sans-Serif.md",
+    "Cards/Serif.md",
+    "Cards/Webflow Animations & Interactions.md",
+    "Cards/Zakladni ctnosti.md",
     "+/Univerzalni moralka.md",
-    "+/Zakladni ctnosti.md",
     "+/Cicero.md",
     "+/Thomas Aquinas.md",
     "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
@@ -487,9 +514,6 @@
     "Cards/Literature note.md",
     "Cards/Mortgage Securitization.md",
     "Cards/Permanent note.md",
-    "Cards/Sans-Serif.md",
-    "Cards/Serif.md",
-    "Cards/Webflow Animations & Interactions.md",
     "Spaces/On/Client - janadolezelova.com.md",
     "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
     "Spaces/Notes/Clients/janadolezelova.com/Create + send proposal.md",
