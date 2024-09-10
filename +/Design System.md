@@ -16,3 +16,11 @@ tags:
 
 Design system communicates the "what", "how" and "why".
 
+Key parts of a successful design system:
+
+1. Principles
+2. Foundations
+
+#### Why
+This is the principles
+
