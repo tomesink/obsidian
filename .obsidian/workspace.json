@@ -466,6 +466,34 @@
             }
           }
         ]
+      },
+      {
+        "id": "ed3ee115eb1372c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "235d5703cde9c962",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Notes/Clients/janadolezelova.com/Content strategy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -585,7 +613,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/On/Client - janadolezelova.com.md"
+                "file": "Spaces/Notes/Clients/janadolezelova.com/Content strategy.md"
               }
             }
           },
@@ -670,7 +698,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/On/Client - janadolezelova.com.md",
+                "file": "Spaces/Notes/Clients/janadolezelova.com/Content strategy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -696,7 +724,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/On/Client - janadolezelova.com.md",
+                "file": "Spaces/Notes/Clients/janadolezelova.com/Content strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -732,10 +760,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d232afebd2b3bd44",
+  "active": "235d5703cde9c962",
   "lastOpenFiles": [
-    "Spaces/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md",
     "Spaces/On/Client - janadolezelova.com.md",
+    "Spaces/Notes/Clients/janadolezelova.com/Content strategy.md",
+    "Spaces/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md",
     "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
     "Spaces/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md",
     "Spaces/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md",
@@ -771,7 +800,6 @@
     "Atlas/Economy.md",
     "Atlas/Bitcoin.md",
     "+/RSS Readers.md",
-    "+/Bavorsky zajatecky tabor.md",
     "Spaces/Notes/Motion Design In Figma",
     "Cards/Sources/Videos",
     "Calendar/2023",

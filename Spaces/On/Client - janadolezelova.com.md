@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Client Onboarding
@@ -12,14 +14,16 @@ kanban-plugin: board
 - [ ] [[Invite client to shared Notion workspace]]
 
 
-## 
+## Content Design
 
+- [ ] [[Content strategy]]
+- [ ] Copywriting
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false],"new-note-folder":"Spaces/Notes/Clients/janadolezelova.com","new-note-template":"Extras/Templates/Project Management Note.md","show-checkboxes":true,"full-list-lane-width":true}
+{"kanban-plugin":"board","list-collapse":[false,false],"new-note-folder":"Spaces/Notes/Clients/janadolezelova.com","new-note-template":"Extras/Templates/Project Management Note.md","show-checkboxes":true,"full-list-lane-width":true}
 ```
 %%
