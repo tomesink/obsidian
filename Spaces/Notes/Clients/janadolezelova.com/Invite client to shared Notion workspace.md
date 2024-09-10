@@ -3,6 +3,7 @@ assigned:
 complete: false
 deadline: 
 stage:
+  - Client Onboarding
 ---
 ## Subtasks
 

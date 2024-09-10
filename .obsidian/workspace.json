@@ -11,16 +11,16 @@
             "id": "d232afebd2b3bd44",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Setup shared Slack workspace",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
                 },
                 {
-                  "title": "Client - janadolezelova.com",
-                  "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Spaces/On/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{}",
                   "eState": "{}"
                 },
                 {
@@ -452,12 +452,18 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Spaces/On/Client - janadolezelova.com.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -581,7 +587,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md"
+                "file": "Spaces/On/Client - janadolezelova.com.md"
               }
             }
           },
@@ -666,7 +672,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
+                "file": "Spaces/On/Client - janadolezelova.com.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -692,7 +698,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
+                "file": "Spaces/On/Client - janadolezelova.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -730,7 +736,9 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
+    "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
     "Spaces/On/Client - janadolezelova.com.md",
+    "Spaces/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md",
     "Spaces/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md",
     "Spaces/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md",
     "Spaces/Notes/Clients/janadolezelova.com/Create + send proposal.md",
@@ -739,8 +747,6 @@
     "Spaces/Notes/Clients/janadolezelova.com/Content strategy.md",
     "Spaces/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md",
     "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
-    "Spaces/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md",
-    "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
     "Extras/Templates/Project Management Note.md",
     "+/Subtracting a negative = adding a positive.md",
     "Spaces/On/CSS layout & positioning.md",
