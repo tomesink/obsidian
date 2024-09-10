@@ -11,8 +11,14 @@
             "id": "d232afebd2b3bd44",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Create + send proposal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Notes/Clients/janadolezelova.com/Create + send proposal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -728,8 +734,9 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
-    "Spaces/Notes/Clients/janadolezelova.com/Sales call.md",
+    "Spaces/Notes/Clients/janadolezelova.com/Create + send proposal.md",
     "Spaces/On/Client - janadolezelova.com.md",
+    "Spaces/Notes/Clients/janadolezelova.com/Sales call.md",
     "Extras/Templates/Project Management Note.md",
     "+/Subtracting a negative = adding a positive.md",
     "Spaces/On/CSS layout & positioning.md",
@@ -765,7 +772,6 @@
     "+/Austrian Cycle.md",
     "+/Aggregate supply.md",
     "Cards/Serif.md",
-    "Atlas/Graphic design.md",
     "Spaces/Notes/Motion Design In Figma",
     "Cards/Sources/Videos",
     "Calendar/2023",
