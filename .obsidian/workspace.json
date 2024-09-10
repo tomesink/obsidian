@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Musíme se snažit umřít ve zdraví.",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":18},\"to\":{\"line\":20,\"ch\":18}}}"
+                },
+                {
+                  "title": "8 MM",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Movies/8 MM.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":11}"
+                },
+                {
+                  "title": "Musíme se snažit umřít ve zdraví.",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":17}"
+                },
+                {
                   "title": "Source,  Article",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Source,  Article.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -48,7 +66,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
-                  "title": "Zdravi jako komodita",
+                  "title": "Musíme se snažit umřít ve zdraví.",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":169},\"to\":{\"line\":22,\"ch\":169}}}"
@@ -166,7 +184,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
+                "file": "+/Zakladni ctnosti.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -293,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md"
+                "file": "+/Zakladni ctnosti.md"
               }
             }
           },
@@ -378,7 +396,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
+                "file": "+/Zakladni ctnosti.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -404,7 +422,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
+                "file": "+/Zakladni ctnosti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -439,12 +457,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "e09f042ded72c22f",
   "lastOpenFiles": [
+    "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
+    "Cards/Sources/Movies/8 MM.md",
     "Extras/Templates/Source,  Article.md",
     "Extras/Templates/Source,  Book.md",
     "Extras/Templates/Source, Course.md",
-    "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
     "+/Zle peniaze. Sprievodca krizou..md",
     "Cards/Aggregate demand.md",
     "Cards/Aggregate supply.md",
@@ -466,7 +485,6 @@
     "Spaces/Notes/Clients/janadolezelova.com/Sales call.md",
     "Spaces/Notes/Clients/janadolezelova.com/Copywriting.md",
     "Spaces/Notes/Clients/janadolezelova.com/Content strategy.md",
-    "Spaces/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
     "Extras/Attachments/Design system.png",

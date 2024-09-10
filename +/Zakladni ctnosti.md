@@ -12,6 +12,8 @@ URL:
 type: "[[Card]]"
 tags:
 ---
+
+
 moudrost
 
 spravedlnost

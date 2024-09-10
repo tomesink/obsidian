@@ -1,13 +1,13 @@
 ---
 zettel:
-  - Permanent Note
+  - Source
 author:
   - "[[Tomáš Šebek]]"
 topic:
   - "[[Life]]"
   - "[[Philosophy]]"
 related: 
-year: 
+year: 2024
 references: 
 type: "[[Article]]"
 URL: https://www.seznamzpravy.cz/clanek/audio-podcast-galerie-osobnosti-musime-se-snazit-umrit-ve-zdravi-tomas-sebek-prichazi-s-otocenim-systemu-254789
