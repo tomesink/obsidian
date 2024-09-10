@@ -13,3 +13,5 @@ created: 2024-09-03
 tags:
 ---
 (Agregátní nabídka)
+
+It is a sum o
