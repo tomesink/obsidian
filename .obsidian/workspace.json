@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Aggregate demand",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":38},\"to\":{\"line\":16,\"ch\":38}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Aggregate demand.md",
+                "file": "+/Aggregate supply.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/Aggregate demand.md"
+                "file": "+/Aggregate supply.md"
               }
             }
           },
@@ -234,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/Aggregate demand.md",
+                "file": "+/Aggregate supply.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Aggregate demand.md",
+                "file": "+/Aggregate supply.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,6 +303,7 @@
   },
   "active": "e09f042ded72c22f",
   "lastOpenFiles": [
+    "Cards/Aggregate demand.md",
     "Spaces/On/Client - janadolezelova.com.md",
     "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
     "Spaces/Notes/Clients/janadolezelova.com/Create + send proposal.md",
@@ -318,7 +325,6 @@
     "+/Design System.md",
     "Extras/Attachments/Design system.png",
     "Design system.png",
-    "+/Aggregate demand.md",
     "Extras/Attachments/ranni.jpeg",
     "Extras/Attachments/ptolemy-model.png",
     "Extras/Attachments/feynman-triangulation-2.png",
