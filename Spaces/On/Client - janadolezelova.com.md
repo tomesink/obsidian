@@ -6,10 +6,11 @@ kanban-plugin: board
 
 ## Client Onboarding
 
-- [x] [[Sales call]]
-- [x] [[Create + send proposal]]
+- [ ] [[Sales call]]
+- [ ] [[Create + send proposal]]
 - [ ] [[Create + send invoice for downpayment (50%)]]
 - [ ] [[Prepare + send contract to client]]
+- [ ] [[Setup shared Slack workspace]]
 
 
 ## 
