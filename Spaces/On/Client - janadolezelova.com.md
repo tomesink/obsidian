@@ -11,6 +11,7 @@ kanban-plugin: board
 - [ ] [[Create + send invoice for downpayment (50%)]]
 - [ ] [[Prepare + send contract to client]]
 - [ ] [[Setup shared Slack workspace]]
+- [ ] Invite client to shared Notion workspace
 
 
 ## 

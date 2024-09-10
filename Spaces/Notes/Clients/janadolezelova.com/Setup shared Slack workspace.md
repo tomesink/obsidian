@@ -19,3 +19,7 @@ Please add anyone I’ve missed to this slack connect channel!
 
 
 ##  Notes
+
+
+## Resources
+Links to Figma files, google docs, files and SOPs go here

@@ -14,10 +14,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Project Management Note",
+                  "title": "Setup shared Slack workspace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Project Management Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":57},\"to\":{\"line\":6,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":57},\"to\":{\"line\":24,\"ch\":57}},\"scroll\":6}"
                 },
                 {
                   "state": "{}",
@@ -734,13 +734,13 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
-    "Extras/Templates/Project Management Note.md",
-    "Spaces/On/Client - janadolezelova.com.md",
     "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
+    "Spaces/On/Client - janadolezelova.com.md",
     "Spaces/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md",
     "Spaces/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md",
     "Spaces/Notes/Clients/janadolezelova.com/Create + send proposal.md",
     "Spaces/Notes/Clients/janadolezelova.com/Sales call.md",
+    "Extras/Templates/Project Management Note.md",
     "+/Subtracting a negative = adding a positive.md",
     "Spaces/On/CSS layout & positioning.md",
     "Spaces/On/Project - janadolezelova.com.md",

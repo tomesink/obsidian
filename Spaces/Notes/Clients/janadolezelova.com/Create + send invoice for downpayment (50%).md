@@ -6,9 +6,15 @@ stage:
 ---
 ## Subtasks
 
-- [ ] Task 1
+- [ ] To-do
 
 
 
 
 ##  Notes
+- List
+- List
+
+
+## Resources
+Links to Figma files, google docs, files and SOPs go here
