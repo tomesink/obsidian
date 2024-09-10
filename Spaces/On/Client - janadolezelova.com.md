@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## Client Onboarding
 
+- [ ] [[Sales call]]
+- [ ] Create + send proposal
 
 
 ## 
