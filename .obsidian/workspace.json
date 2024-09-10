@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "CSS layout & positioning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/On/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Client - janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"+/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false]}}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Project - janadolezelova.com",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/On/Project - janadolezelova.com.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -726,8 +738,9 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
-    "Spaces/On/Project - janadolezelova.com.md",
+    "Spaces/On/CSS layout & positioning.md",
     "+/Client - janadolezelova.com.md",
+    "Spaces/On/Project - janadolezelova.com.md",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
     "+/Design System.md",
@@ -763,7 +776,6 @@
     "Atlas/Graphic design.md",
     "Cards/Sans-Serif.md",
     "Atlas/Web.md",
-    "Cards/Webflow Animations & Interactions.md",
     "Spaces/Notes/Motion Design In Figma",
     "Cards/Sources/Videos",
     "Calendar/2023",
