@@ -12,7 +12,9 @@ URL:
 type: "[[Card]]"
 tags:
 ---
-Tak jak je sestavil [[Thomas Aquinas]]:
+Tez "kardinalni ctnosti".
+
+V poradi podle toho, jak je sestavil [[Thomas Aquinas]]:
 
 #### moudrost
 
@@ -21,3 +23,5 @@ Tak jak je sestavil [[Thomas Aquinas]]:
 #### umirnenost
 
 #### statecnost
+
+Zname ale uz od stoiku a antiky.
