@@ -6,8 +6,6 @@ topic:
 references:
   - "[[Zle peniaze. Sprievodca krizou.]]"
 created: 2024-09-01
-status:
-  - Done
 URL: 
 tags:
 ---

@@ -3,10 +3,8 @@ zettel:
   - Permanent Note
 topic:
   - "[[Productivity]]"
-references: []
+references: 
 created: 2024-08-31
-status:
-  - Done
 tags:
   - pkm
 ---

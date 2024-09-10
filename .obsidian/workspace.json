@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Permanent note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Permanent note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
                   "title": "Sans-Serif",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -220,7 +226,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Permanent note.md",
+                "file": "Cards/Mortgage Securitization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -347,7 +353,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Permanent note.md"
+                "file": "Cards/Mortgage Securitization.md"
               }
             }
           },
@@ -432,7 +438,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Permanent note.md",
+                "file": "Cards/Mortgage Securitization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -458,7 +464,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Permanent note.md",
+                "file": "Cards/Mortgage Securitization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -495,6 +501,7 @@
   },
   "active": "e09f042ded72c22f",
   "lastOpenFiles": [
+    "Cards/Permanent note.md",
     "Cards/Sans-Serif.md",
     "Cards/Serif.md",
     "Cards/Webflow Animations & Interactions.md",
@@ -513,7 +520,6 @@
     "Cards/Fleeting note.md",
     "Cards/Literature note.md",
     "Cards/Mortgage Securitization.md",
-    "Cards/Permanent note.md",
     "Spaces/On/Client - janadolezelova.com.md",
     "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
     "Spaces/Notes/Clients/janadolezelova.com/Create + send proposal.md",
