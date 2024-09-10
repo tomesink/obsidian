@@ -1,16 +1,19 @@
 ---
 zettel:
-  - Fleeting Note
-topic:
-  - "[[Health]]"
+  - Permanent Note
+author: 
+topic: 
+year: 
 references: 
-created: 2024-09-01
-status:
-  - To Do
+type: "[[Article]]"
 URL: 
-type: "[[Card]]"
+created: 2024-09-10
 tags:
 ---
+
+
+
+
 „Musíme se snažit umřít ve zdraví.“
 
 „Musíme začít vnímat zdraví jako komoditu, jako peníze, kariéra, auto, rodina, manželka, děti… Když se budeme pořád ke zdraví stavět způsobem: Já si zajdu někam do nemocnice, tam bude pan doktor v bílém plášti, udělá nějaký zázrak, podá mi nějakou pilulku, někam mě řízne, vyřeší můj problém a já budu znovu zdráv, tak to je prostě nesmysl. S tím je potřeba začít pracovat,“

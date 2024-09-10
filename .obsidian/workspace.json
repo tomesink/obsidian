@@ -18,6 +18,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Source,  Article",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Source,  Article.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Source,  Book",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Source,  Book.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Source, Course",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Source, Course.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Source,  Book",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Source,  Book.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Source,  Article",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Source,  Article.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Zdravi jako komodita",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Zdravi jako komodita.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":169},\"to\":{\"line\":22,\"ch\":169}}}"
+                },
+                {
                   "title": "Zle peniaze. Sprievodca krizou.",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Zle peniaze. Sprievodca krizou..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -405,6 +441,10 @@
   },
   "active": "e09f042ded72c22f",
   "lastOpenFiles": [
+    "Extras/Templates/Source,  Article.md",
+    "Extras/Templates/Source,  Book.md",
+    "Extras/Templates/Source, Course.md",
+    "+/Zdravi jako komodita.md",
     "+/Zle peniaze. Sprievodca krizou..md",
     "Cards/Aggregate demand.md",
     "Cards/Aggregate supply.md",
@@ -427,10 +467,6 @@
     "Spaces/Notes/Clients/janadolezelova.com/Copywriting.md",
     "Spaces/Notes/Clients/janadolezelova.com/Content strategy.md",
     "Spaces/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md",
-    "Extras/Templates/Project Management Note.md",
-    "+/Subtracting a negative = adding a positive.md",
-    "Spaces/On/CSS layout & positioning.md",
-    "Spaces/On/Project - janadolezelova.com.md",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
     "Extras/Attachments/Design system.png",
