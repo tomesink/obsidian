@@ -25,5 +25,6 @@ Key parts of a successful design system:
 
 #### Why
 
-This is the principles. eg. "accesible and inclusive app". The message the company communicates.
+This is the principles. eg. "Be accessible and inclusive". 
+The message the company communicates.
 
