@@ -8,6 +8,8 @@ kanban-plugin: board
 
 - [x] [[Sales call]]
 - [x] [[Create + send proposal]]
+- [ ] [[Create + send invoice for downpayment (50%)]]
+- [ ] [[Prepare + send contract to client]]
 
 
 ## 
