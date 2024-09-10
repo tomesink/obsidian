@@ -14,4 +14,4 @@ tags:
 ---
 (Agregátní nabídka)
 
-It is a sum o
+It is a sum of all final goods (zbozi) and services in a national economy at a given time.
