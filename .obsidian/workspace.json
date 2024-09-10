@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Client - janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Spaces/On/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Zettelkasten",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -464,19 +470,8 @@
               ]
             },
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Spaces/On/Client - janadolezelova.com.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -598,9 +593,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/On/Client - janadolezelova.com.md"
-              }
+              "state": {}
             }
           },
           {
@@ -684,7 +677,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/On/Client - janadolezelova.com.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -710,7 +702,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/On/Client - janadolezelova.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -720,8 +711,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -748,8 +738,8 @@
   },
   "active": "d232afebd2b3bd44",
   "lastOpenFiles": [
-    "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
     "Spaces/On/Client - janadolezelova.com.md",
+    "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
     "Spaces/Notes/Clients/janadolezelova.com/Create + send proposal.md",
     "Zettelkasten.md",
     "Spaces/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md",
