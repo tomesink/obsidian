@@ -14,5 +14,5 @@ tags:
 ---
 (Agregátní poptávka)
 
-It is the sum of total expenditure of
+It is the sum of total expenditure of all economical subjects (households) in a state.
 
