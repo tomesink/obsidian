@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Bitcoin bezkontaktni karta",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Bitcoin bezkontaktni karta.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
                   "title": "Austrian school of economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Austrian school of economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -100,7 +106,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Bitcoin bezkontaktni karta.md",
+                "file": "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -193,7 +199,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stoici",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,7 +225,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -249,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/Bitcoin bezkontaktni karta.md"
+                "file": "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md"
               }
             }
           },
@@ -334,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/Bitcoin bezkontaktni karta.md",
+                "file": "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -360,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/Bitcoin bezkontaktni karta.md",
+                "file": "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -398,6 +405,7 @@
   },
   "active": "d2d85b834743ba60",
   "lastOpenFiles": [
+    "+/Bitcoin bezkontaktni karta.md",
     "+/Austrian school of economy.md",
     "+/Evropsky prostor pro zdravotni data.md",
     "+/i-shut-down-twitter.md",
@@ -424,7 +432,6 @@
     "+/Inflation.md",
     "+/Austrian Cycle.md",
     "Atlas/Economy.md",
-    "+/Kognitivni disonance.md",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
