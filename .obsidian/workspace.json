@@ -11,11 +11,29 @@
             "id": "d2d85b834743ba60",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Integra",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Integra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Financial Markets",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Financial Markets.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Uvod do stockpickingu",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Notes/Stockpicking/Uvod do stockpickingu.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
                 },
                 {
                   "title": "Stockpickingu",
@@ -70,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Notes/Stockpicking/Uvod do stockpickingu.md",
+                "file": "+/i-shut-down-twitter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -219,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Notes/Stockpicking/Uvod do stockpickingu.md"
+                "file": "+/i-shut-down-twitter.md"
               }
             }
           },
@@ -304,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Notes/Stockpicking/Uvod do stockpickingu.md",
+                "file": "+/i-shut-down-twitter.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,7 +348,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Notes/Stockpicking/Uvod do stockpickingu.md",
+                "file": "+/i-shut-down-twitter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -368,8 +386,11 @@
   },
   "active": "d2d85b834743ba60",
   "lastOpenFiles": [
-    "Spaces/On/Stockpickingu.md",
+    "+/Integra.md",
+    "+/i-shut-down-twitter.md",
+    "Cards/Financial Markets.md",
     "Spaces/Notes/Stockpicking/Uvod do stockpickingu.md",
+    "Spaces/On/Stockpickingu.md",
     "Spaces/Notes/Stockpicking",
     "Spaces/On/Motion Design In Figma.md",
     "Spaces/Ongoing/💰 Finance.md",
@@ -392,9 +413,6 @@
     "Atlas/Economy.md",
     "+/Kognitivni disonance.md",
     "Cards/Informaci je prilis moc.md",
-    "+/Lightning Node.md",
-    "+/Trading Fundamental Analysis Terms.md",
-    "Cards/Sources/Videos/Subtracting a negative = adding a positive.md",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
