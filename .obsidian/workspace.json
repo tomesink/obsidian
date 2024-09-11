@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Motion Design In Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/On/Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":30},\"to\":{\"line\":12,\"ch\":30}},\"scroll\":12}"
+                },
+                {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Ongoing/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -58,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/On/Motion Design In Figma.md",
+                "file": "Spaces/On/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -207,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/On/Motion Design In Figma.md"
+                "file": "Spaces/On/Untitled.md"
               }
             }
           },
@@ -292,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/On/Motion Design In Figma.md",
+                "file": "Spaces/On/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,7 +324,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/On/Motion Design In Figma.md",
+                "file": "Spaces/On/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,8 +360,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "d2d85b834743ba60",
   "lastOpenFiles": [
+    "Spaces/On/Motion Design In Figma.md",
+    "Spaces/On/Untitled.md",
     "Spaces/Ongoing/💰 Finance.md",
     "Spaces/Ongoing/🏡 House.md",
     "Spaces/Ongoing/Learning.md",
@@ -380,8 +388,6 @@
     "+/Trading Fundamental Analysis Terms.md",
     "Cards/Sources/Videos/Subtracting a negative = adding a positive.md",
     "+/Yuri Bezmenov - The Four Stages of Ideological Subversion.md",
-    "Atlas/Types/Card.md",
-    "Cards/Koncesionarske poplatky.md",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
