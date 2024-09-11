@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Ongoing/Prayers.md",
+                "file": "+/J. K. Rowling.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Rowlin",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -74,7 +74,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "d70399a4a496ceea",
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Spaces/Ongoing/Prayers.md",
+            "file": "+/J. K. Rowling.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Spaces/Ongoing/Prayers.md",
+            "file": "+/J. K. Rowling.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Spaces/Ongoing/Prayers.md"
+            "file": "+/J. K. Rowling.md"
           }
         }
       },
@@ -154,8 +154,8 @@
   },
   "active": "456c326e00f5c393",
   "lastOpenFiles": [
-    "Spaces/On/Motion Design In Figma.md",
     "Spaces/Ongoing/Prayers.md",
+    "Spaces/On/Motion Design In Figma.md",
     "Spaces/Ongoing/Learning.md",
     "+/Capital.md",
     "Atlas/Types/Game.md",
