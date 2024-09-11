@@ -1,6 +1,6 @@
 ---
 zettel:
-  - Fleeting Note
+  - Source
 author: 
 topic: 
 year: 

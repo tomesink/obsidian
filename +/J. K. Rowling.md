@@ -30,7 +30,7 @@ She even posted an "apologise" tweet "I respect any trans person… I would marc
 
 Co je na tom transfobniho?
 
-She is basically saying: you can live haw you want and I want to live ho I want.
+She is basically saying: you can live hocalcw you want and I want to live how I want.
 
 Only because people say she is transphobic it does not mean she really is.
 

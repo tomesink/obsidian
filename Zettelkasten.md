@@ -14,7 +14,6 @@ tags:
 > TABLE WITHOUT ID
 > file.link as "Notes to process"
 > FROM -"Extras"
-> WHERE contains(status, "To Do")
 > WHERE contains(zettel, "Fleeting Note")
 > WHERE type = [[Card]]
 > 

@@ -8,6 +8,14 @@ type: "[[Book]]"
 tags:
 ---
 45: Fannie Mae a Freddie Mac
+52: Bavorsky zajatecky tabor. Obchod/spekulace optimalne alokuje zdroje. Subjektivni teorie hodnoty
+67-72: regulation bullshit. Selhani regulatora
+92:93: Financial bubbles
+99: Rothbarland vs. Krugmanistan
+100-101: Austrian Cycle
+109: Inflace
+110: Malinvestments. Pomylene investice
+117: Credit Default Swap
 119: Collateralized Debt Obligation - CDOs
 122: Fannie Mae a Freddie Mac
 122: Community Reinvestment Act - CRA

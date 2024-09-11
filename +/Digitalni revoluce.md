@@ -71,6 +71,10 @@ Centralized social networks in at the and must obey the government because they 
 
 Social networks became political players.
 
+Do not let algorithm decide.
+
+Become intentional about content consumption
+
 Facebook and Twitter blocked post exposee of Hunter Biden notebook
 
 Velke socialni site musi v dusledku vyhovet pozadavkum US governemntu? (otazka moje)

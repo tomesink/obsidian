@@ -1,10 +1,8 @@
 ---
 zettel:
   - Fleeting Note
-topic: []
+topic: 
 references: 
-status:
-  - To Do
 related: 
 URL: 
 type: "[[Card]]"

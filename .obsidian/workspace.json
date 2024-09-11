@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "963d83a932cd879e",
+        "id": "b5ecfc52f0868c34",
         "type": "tabs",
         "children": [
           {
-            "id": "e09f042ded72c22f",
+            "id": "d2d85b834743ba60",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,221 +18,48 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Mortgage Securitization",
+                  "title": "Zettelkasten",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Mortgage Securitization.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
                 },
                 {
-                  "title": "Permanent note",
+                  "title": "🏡 House",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Permanent note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "Sans-Serif",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "Serif",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "Webflow Animations & Interactions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Webflow Animations & Interactions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":14}"
-                },
-                {
-                  "title": "Zakladni ctnosti",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Zakladni ctnosti.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":16}"
-                },
-                {
-                  "title": "Univerzalni moralka",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Univerzalni moralka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":196},\"to\":{\"line\":13,\"ch\":196}}}"
-                },
-                {
-                  "title": "Zakladni ctnosti",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Zakladni ctnosti.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":79},\"to\":{\"line\":28,\"ch\":79}},\"scroll\":14}"
-                },
-                {
-                  "title": "Musíme se snažit umřít ve zdraví.",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":18},\"to\":{\"line\":20,\"ch\":18}}}"
-                },
-                {
-                  "title": "8 MM",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Movies/8 MM.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":11}"
-                },
-                {
-                  "title": "Musíme se snažit umřít ve zdraví.",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":17}"
-                },
-                {
-                  "title": "Source,  Article",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Source,  Article.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "title": "Source,  Book",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Source,  Book.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "title": "Source, Course",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Source, Course.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "Source,  Book",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Source,  Book.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "title": "Source,  Article",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Source,  Article.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "title": "Musíme se snažit umřít ve zdraví.",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":169},\"to\":{\"line\":22,\"ch\":169}}}"
-                },
-                {
-                  "title": "Zle peniaze. Sprievodca krizou.",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Zle peniaze. Sprievodca krizou..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
-                },
-                {
-                  "title": "Aggregate demand",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "title": "Aggregate supply",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Aggregate supply.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "title": "Fleeting note",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "title": "Aggregate supply",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Aggregate supply.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "title": "Fleeting note",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "title": "Literature note",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Literature note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "title": "Mortgage Securitization",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Mortgage Securitization.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Permanent note",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Permanent note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "title": "Sans-Serif",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Serif",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Webflow Animations & Interactions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Webflow Animations & Interactions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
-                },
-                {
-                  "title": "Serif",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Sans-Serif",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Fleeting note",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "title": "Aggregate demand",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "title": "Aggregate supply",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Aggregate supply.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":138},\"to\":{\"line\":19,\"ch\":138}}}"
-                },
-                {
-                  "title": "Aggregate demand",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":38},\"to\":{\"line\":16,\"ch\":38}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Ongoing/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Extras/Utilities/Excalidraw/excalibrain.md"
+                "file": "Spaces/Ongoing/Learning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "196e28e22b447e4b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Collaterilazed Debt Obligation (CDO).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -356,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Utilities/Excalidraw/excalibrain.md"
+                "file": "Spaces/Ongoing/Learning.md"
               }
             }
           },
@@ -441,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Utilities/Excalidraw/excalibrain.md",
+                "file": "Spaces/Ongoing/Learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -467,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Utilities/Excalidraw/excalibrain.md",
+                "file": "Spaces/Ongoing/Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -477,7 +304,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -490,46 +318,38 @@
       "periodic-notes:Open today's daily note": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "cmdr:Toggle stacked tabs": false,
-      "callout-manager:Insert Callout": false,
-      "obsidian42-brat:BRAT": false,
-      "sheet-plus:Create excel file": false,
-      "dbfolder:Create a new database table": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "cmdr:Toggle stacked tabs": false
     }
   },
-  "active": "e09f042ded72c22f",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
-    "Cards/Mortgage Securitization.md",
-    "Cards/Permanent note.md",
-    "Cards/Sans-Serif.md",
-    "Cards/Serif.md",
-    "Cards/Webflow Animations & Interactions.md",
-    "Cards/Zakladni ctnosti.md",
-    "+/Univerzalni moralka.md",
-    "+/Cicero.md",
-    "+/Thomas Aquinas.md",
-    "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
-    "Cards/Sources/Movies/8 MM.md",
-    "Extras/Templates/Source,  Article.md",
-    "Extras/Templates/Source,  Book.md",
-    "Extras/Templates/Source, Course.md",
-    "+/Zle peniaze. Sprievodca krizou..md",
-    "Cards/Aggregate demand.md",
-    "Cards/Aggregate supply.md",
-    "Cards/Fleeting note.md",
-    "Cards/Literature note.md",
-    "Spaces/On/Client - janadolezelova.com.md",
-    "Spaces/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
-    "Spaces/Notes/Clients/janadolezelova.com/Create + send proposal.md",
     "Zettelkasten.md",
-    "Spaces/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md",
-    "Spaces/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
-    "Spaces/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md",
+    "Spaces/Ongoing/🏡 House.md",
+    "Spaces/Notes/House/TOPENI.md",
+    "Spaces/Notes/House/Senkyrik.md",
+    "Spaces/Notes/House/Kuchyn.md",
+    "Spaces/Notes/House/Drevokaz.md",
+    "+/Exp.md",
+    "Spaces/Ongoing/💰 Finance.md",
+    "+/J. K. Rowling.md",
+    "Spaces/On/Design System.md",
+    "Cards/LGBTQ.md",
+    "+/Inflace je sekundarni zdaneni.md",
+    "+/Zle peniaze. Sprievodca krizou..md",
+    "+/Inflation.md",
+    "+/Austrian Cycle.md",
+    "+/Austrian school of economy.md",
+    "Atlas/Economy.md",
+    "+/Kognitivni disonance.md",
+    "Cards/Informaci je prilis moc.md",
+    "+/Lightning Node.md",
+    "+/Trading Fundamental Analysis Terms.md",
+    "Cards/Sources/Videos/Subtracting a negative = adding a positive.md",
+    "+/Yuri Bezmenov - The Four Stages of Ideological Subversion.md",
+    "Atlas/Types/Card.md",
+    "Cards/Koncesionarske poplatky.md",
+    "+/Ludwig von Mises.md",
+    "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
     "Extras/Attachments/Design system.png",
@@ -549,7 +369,6 @@
     "Extras/Attachments/Misal-0-Mešní-řád-latinsky-českyA5.pdf",
     "Cards/Sources/Courses",
     "Cards/Sources/Articles",
-    "Spaces/Notes/Personal",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
