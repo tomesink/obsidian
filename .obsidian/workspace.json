@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "🏡 House",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Ongoing/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
+                },
+                {
+                  "title": "💰 Finance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Ongoing/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "Learning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Ongoing/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Zettelkasten",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -34,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Ongoing/Learning.md",
+                "file": "Spaces/Ongoing/💰 Finance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -183,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Ongoing/Learning.md"
+                "file": "Spaces/Ongoing/💰 Finance.md"
               }
             }
           },
@@ -268,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Ongoing/Learning.md",
+                "file": "Spaces/Ongoing/💰 Finance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Ongoing/Learning.md",
+                "file": "Spaces/Ongoing/💰 Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,19 +336,29 @@
       "periodic-notes:Open today's daily note": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "cmdr:Toggle stacked tabs": false
+      "cmdr:Toggle stacked tabs": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian42-brat:BRAT": false,
+      "sheet-plus:Create excel file": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "d2d85b834743ba60",
   "lastOpenFiles": [
-    "Zettelkasten.md",
     "Spaces/Ongoing/🏡 House.md",
+    "Spaces/Ongoing/💰 Finance.md",
+    "Spaces/Ongoing/Learning.md",
+    "Zettelkasten.md",
     "Spaces/Notes/House/TOPENI.md",
     "Spaces/Notes/House/Senkyrik.md",
     "Spaces/Notes/House/Kuchyn.md",
     "Spaces/Notes/House/Drevokaz.md",
     "+/Exp.md",
-    "Spaces/Ongoing/💰 Finance.md",
     "+/J. K. Rowling.md",
     "Spaces/On/Design System.md",
     "Cards/LGBTQ.md",
@@ -348,7 +376,6 @@
     "+/Yuri Bezmenov - The Four Stages of Ideological Subversion.md",
     "Atlas/Types/Card.md",
     "Cards/Koncesionarske poplatky.md",
-    "+/Ludwig von Mises.md",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
