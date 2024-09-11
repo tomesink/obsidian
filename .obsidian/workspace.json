@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Stockpickingu",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/On/Stockpickingu.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}}}"
+                },
+                {
                   "title": "Motion Design In Figma",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/On/Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -64,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/On/Stockpickingu.md",
+                "file": "Spaces/Notes/Stockpicking/Uvod do stockpickingu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -213,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/On/Stockpickingu.md"
+                "file": "Spaces/Notes/Stockpicking/Uvod do stockpickingu.md"
               }
             }
           },
@@ -298,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/On/Stockpickingu.md",
+                "file": "Spaces/Notes/Stockpicking/Uvod do stockpickingu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +330,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/On/Stockpickingu.md",
+                "file": "Spaces/Notes/Stockpicking/Uvod do stockpickingu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -360,11 +366,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "d2d85b834743ba60",
   "lastOpenFiles": [
+    "Spaces/On/Stockpickingu.md",
+    "Spaces/Notes/Stockpicking/Uvod do stockpickingu.md",
     "Spaces/Notes/Stockpicking",
     "Spaces/On/Motion Design In Figma.md",
-    "Spaces/On/Stockpickingu.md",
     "Spaces/Ongoing/💰 Finance.md",
     "Spaces/Ongoing/🏡 House.md",
     "Spaces/Ongoing/Learning.md",
@@ -407,7 +414,6 @@
     "Spaces/Notes/CSS layout & positioning",
     "Extras/Attachments/Misal-0-Mešní-řád-latinsky-českyA5.pdf",
     "Cards/Sources/Courses",
-    "Cards/Sources/Articles",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
