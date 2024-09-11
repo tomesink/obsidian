@@ -151,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "desi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -354,7 +354,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2d85b834743ba60",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
     "Spaces/Ongoing/💰 Finance.md",
     "Spaces/Ongoing/🏡 House.md",

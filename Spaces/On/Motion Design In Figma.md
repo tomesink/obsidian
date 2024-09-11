@@ -5,7 +5,7 @@ topic:
 references: 
 status:
   - In Progress
-URL: 
+URL: https://www.udemy.com/course/motion-design-with-figma-animations-motion-graphics-uxui/?couponCode=JUST4U02223
 type: "[[Course]]"
 created: 2024-09-05
 tags:
