@@ -2,7 +2,7 @@
 zettel:
   - Fleeting Note
 topic:
-  - "[[Financial]]"
+  - "[[Financial Markets]]"
 references: 
 related: 
 URL: 
