@@ -4,7 +4,7 @@ topic:
   - "[[Webdesign]]"
 references: 
 status:
-  - To Do
+  - In Progress
 URL: 
 type: "[[Course]]"
 created: 2024-09-05

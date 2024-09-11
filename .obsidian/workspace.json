@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "💰 Finance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Ongoing/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
                   "title": "🏡 House",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Ongoing/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -52,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Ongoing/💰 Finance.md",
+                "file": "Spaces/On/Motion Design In Figma.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -201,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Ongoing/💰 Finance.md"
+                "file": "Spaces/On/Motion Design In Figma.md"
               }
             }
           },
@@ -286,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Ongoing/💰 Finance.md",
+                "file": "Spaces/On/Motion Design In Figma.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +318,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Ongoing/💰 Finance.md",
+                "file": "Spaces/On/Motion Design In Figma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -350,8 +356,8 @@
   },
   "active": "d2d85b834743ba60",
   "lastOpenFiles": [
-    "Spaces/Ongoing/🏡 House.md",
     "Spaces/Ongoing/💰 Finance.md",
+    "Spaces/Ongoing/🏡 House.md",
     "Spaces/Ongoing/Learning.md",
     "Zettelkasten.md",
     "Spaces/Notes/House/TOPENI.md",
