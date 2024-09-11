@@ -11,17 +11,29 @@
             "id": "d2d85b834743ba60",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Integra",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Integra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Austrian school of economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Austrian school of economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Evropsky prostor pro zdravotni data",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Evropsky prostor pro zdravotni data.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "i-shut-down-twitter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/i-shut-down-twitter.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
                   "title": "Financial Markets",
@@ -88,7 +100,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/i-shut-down-twitter.md",
+                "file": "+/Bitcoin bezkontaktni karta.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -237,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/i-shut-down-twitter.md"
+                "file": "+/Bitcoin bezkontaktni karta.md"
               }
             }
           },
@@ -322,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/i-shut-down-twitter.md",
+                "file": "+/Bitcoin bezkontaktni karta.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -348,7 +360,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/i-shut-down-twitter.md",
+                "file": "+/Bitcoin bezkontaktni karta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -386,8 +398,10 @@
   },
   "active": "d2d85b834743ba60",
   "lastOpenFiles": [
-    "+/Integra.md",
+    "+/Austrian school of economy.md",
+    "+/Evropsky prostor pro zdravotni data.md",
     "+/i-shut-down-twitter.md",
+    "+/Integra.md",
     "Cards/Financial Markets.md",
     "Spaces/Notes/Stockpicking/Uvod do stockpickingu.md",
     "Spaces/On/Stockpickingu.md",
@@ -409,10 +423,8 @@
     "+/Zle peniaze. Sprievodca krizou..md",
     "+/Inflation.md",
     "+/Austrian Cycle.md",
-    "+/Austrian school of economy.md",
     "Atlas/Economy.md",
     "+/Kognitivni disonance.md",
-    "Cards/Informaci je prilis moc.md",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
