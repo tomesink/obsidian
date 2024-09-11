@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/On/Uvod do stockpickingu.md",
+                "file": "Spaces/On/Stockpickingu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/On/Uvod do stockpickingu.md"
+                "file": "Spaces/On/Stockpickingu.md"
               }
             }
           },
@@ -298,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/On/Uvod do stockpickingu.md",
+                "file": "Spaces/On/Stockpickingu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +324,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/On/Uvod do stockpickingu.md",
+                "file": "Spaces/On/Stockpickingu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -360,10 +360,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2d85b834743ba60",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "Spaces/Notes/Stockpicking",
     "Spaces/On/Motion Design In Figma.md",
-    "Spaces/On/Uvod do stockpickingu.md",
+    "Spaces/On/Stockpickingu.md",
     "Spaces/Ongoing/💰 Finance.md",
     "Spaces/Ongoing/🏡 House.md",
     "Spaces/Ongoing/Learning.md",
@@ -387,7 +388,6 @@
     "+/Lightning Node.md",
     "+/Trading Fundamental Analysis Terms.md",
     "Cards/Sources/Videos/Subtracting a negative = adding a positive.md",
-    "+/Yuri Bezmenov - The Four Stages of Ideological Subversion.md",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
