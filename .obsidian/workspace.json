@@ -16,13 +16,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Zettelkasten",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "MiCA, Dora, Travel Rule",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/MiCA, Dora, Travel Rule.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/MiCA, Dora, Travel Rule.md",
+                "file": "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/MiCA, Dora, Travel Rule.md"
+                "file": "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md"
               }
             }
           },
@@ -234,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/MiCA, Dora, Travel Rule.md",
+                "file": "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/MiCA, Dora, Travel Rule.md",
+                "file": "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,8 +310,9 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "Cards/Collaterilazed Debt Obligation (CDO).md",
+    "Zettelkasten.md",
     "+/MiCA, Dora, Travel Rule.md",
+    "Cards/Collaterilazed Debt Obligation (CDO).md",
     "Spaces/On/Project - janadolezelova.com.md",
     "+/Efforts.md",
     "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
@@ -316,7 +329,6 @@
     "Spaces/Ongoing/💰 Finance.md",
     "Spaces/Ongoing/🏡 House.md",
     "Spaces/Ongoing/Learning.md",
-    "Zettelkasten.md",
     "Spaces/Notes/House/TOPENI.md",
     "Spaces/Notes/House/Senkyrik.md",
     "Spaces/Notes/House/Kuchyn.md",
