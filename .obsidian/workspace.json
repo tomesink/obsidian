@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Efforts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Efforts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Jak žít dobrý život. Starověké umění stoické radosti",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
+                },
+                {
                   "title": "Bitcoin bezkontaktni karta",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Bitcoin bezkontaktni karta.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -106,7 +118,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
+                "file": "Spaces/On/Project - janadolezelova.com.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -199,7 +211,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stoici",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md"
+                "file": "Spaces/On/Project - janadolezelova.com.md"
               }
             }
           },
@@ -341,7 +353,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
+                "file": "Spaces/On/Project - janadolezelova.com.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
+                "file": "Spaces/On/Project - janadolezelova.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -405,6 +417,8 @@
   },
   "active": "d2d85b834743ba60",
   "lastOpenFiles": [
+    "+/Efforts.md",
+    "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
     "+/Bitcoin bezkontaktni karta.md",
     "+/Austrian school of economy.md",
     "+/Evropsky prostor pro zdravotni data.md",
@@ -430,8 +444,6 @@
     "+/Inflace je sekundarni zdaneni.md",
     "+/Zle peniaze. Sprievodca krizou..md",
     "+/Inflation.md",
-    "+/Austrian Cycle.md",
-    "Atlas/Economy.md",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
