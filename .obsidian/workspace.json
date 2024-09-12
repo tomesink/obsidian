@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
                   "title": "Zettelkasten",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -34,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
+                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -161,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md"
+                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md"
               }
             }
           },
@@ -246,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
+                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
+                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,6 +316,7 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
     "Zettelkasten.md",
     "+/MiCA, Dora, Travel Rule.md",
     "Cards/Collaterilazed Debt Obligation (CDO).md",
@@ -336,7 +343,6 @@
     "+/Exp.md",
     "+/J. K. Rowling.md",
     "Spaces/On/Design System.md",
-    "Cards/LGBTQ.md",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
