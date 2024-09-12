@@ -22,15 +22,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/MiCA, Do.md",
+                "file": "+/MiCA, Dora, Travel Rule.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+/MiCA, Do.md"
+                "file": "+/MiCA, Dora, Travel Rule.md"
               }
             }
           },
@@ -236,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/MiCA, Do.md",
+                "file": "+/MiCA, Dora, Travel Rule.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+/MiCA, Do.md",
+                "file": "+/MiCA, Dora, Travel Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +299,7 @@
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
     "Cards/Collaterilazed Debt Obligation (CDO).md",
-    "+/MiCA, Do.md",
+    "+/MiCA, Dora, Travel Rule.md",
     "Spaces/On/Project - janadolezelova.com.md",
     "+/Efforts.md",
     "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
