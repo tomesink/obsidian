@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiRecycle",
+      "LiEye",
       "✝",
       "♻",
       "😴",
@@ -18,9 +20,7 @@
       "LiLaptop",
       "LiMonitorSmartphone",
       "LiStickyNote",
-      "LiCalendar",
-      "LiMap",
-      "〰"
+      "LiCalendar"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -46,10 +46,11 @@
   "Extras": "LiLayoutTemplate",
   "00 Captures/Atlas": "LiMap",
   "10 Projects": "🔥",
-  "20 Areas": "♻",
+  "20 Areas": "LiRecycle",
   "20 Areas/Learning.md": "LiGraduationCap",
   "20 Areas/Prayers.md": "✝",
   "20 Areas/Notes/Business": "LiLaptop",
   "30 Calendar": "LiCalendar",
-  "40 Zettelkasten": "LiStickyNote"
+  "40 Zettelkasten": "LiStickyNote",
+  "50 Views": "LiEye"
 }
