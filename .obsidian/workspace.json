@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Goldman Sachs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Goldman Sachs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "200.1.1_Univerzalni moralka",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/200.1.1_Univerzalni moralka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
                   "title": "Aggregate supply",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Aggregate supply.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -250,7 +262,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/200.1Univerzalni moralka.md",
+                "file": "40 Zettelkasten/42 Main Notes/Literature note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -377,7 +389,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/200.1Univerzalni moralka.md"
+                "file": "40 Zettelkasten/42 Main Notes/Literature note.md"
               }
             }
           },
@@ -462,7 +474,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/200.1Univerzalni moralka.md",
+                "file": "40 Zettelkasten/42 Main Notes/Literature note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -488,7 +500,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/200.1Univerzalni moralka.md",
+                "file": "40 Zettelkasten/42 Main Notes/Literature note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -526,6 +538,8 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "40 Zettelkasten/42 Main Notes/Goldman Sachs.md",
+    "40 Zettelkasten/42 Main Notes/200.1.1_Univerzalni moralka.md",
     "40 Zettelkasten/42 Main Notes/42.00",
     "40 Zettelkasten/42 Main Notes/42.100",
     "40 Zettelkasten/42 Main Notes/Aggregate supply.md",
@@ -556,7 +570,6 @@
     "40 Zettelkasten/42 Main Notes/Figma containers.md",
     "40 Zettelkasten/42 Main Notes/Collaterilazed Debt Obligation (CDO).md",
     "40 Zettelkasten/42 Main Notes/Neni li Buh vse je dovoleno.md",
-    "Atlas/Types/Card.md",
     "10 Projects/Notes/Stockpicking",
     "40 Zettelkasten/Persons",
     "20 Areas/Notes/Clients/janadolezelova.com",
@@ -571,7 +584,6 @@
     "_system/Attachments/CleanShot 2023-07-30 at 21.37.43.png",
     "_system/Attachments/wolverine-tethered.jpg",
     "_system/Attachments/flow-four-factors.png",
-    "10 Projects/Notes/Motion Design In Figma",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
