@@ -35,8 +35,13 @@ it is interesting that the small thing works almowst everywhere. It does not mat
 
 ![[Pasted image 20240913174633.png]]
 
+Here the title is the biggest, and white (good contrast).
+The red rectangle is the medium.
 
 
+
+
+![[Pasted image 20240913174729.png]]
 
 
 
