@@ -20,7 +20,7 @@
                 {
                   "title": "Serif",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/700.1.1a Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/711 Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
@@ -328,21 +328,33 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "711 Sans-Serif",
+                  "title": "710 Typography",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/711 Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
-                },
-                {
-                  "title": "700.1.1 Typography",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/700.1.1 Typography.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/710 Typography.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                 },
                 {
-                  "title": "700.1.1a Serif",
+                  "title": "711 Serif",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/700.1.1a Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/711 Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "711 Sans-Serif",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/712 Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "710 Typography",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/710 Typography.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "711 Serif",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/711 Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
@@ -352,15 +364,15 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
-                  "title": "700.1.1a Serif",
+                  "title": "711 Serif",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/700.1.1a Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/711 Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":16},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
-                  "title": "700.1.1 Typography",
+                  "title": "710 Typography",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/700.1.1 Typography.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/710 Typography.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":29},\"to\":{\"line\":16,\"ch\":29}}}"
                 }
               ]
@@ -368,7 +380,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Captures/Processing main notes/700.1.1a Serif.md",
+                "file": "00 Captures/Processing main notes/712 Sans-Serif.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -496,7 +508,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/Processing main notes/700.1.1a Serif.md"
+                "file": "00 Captures/Processing main notes/712 Sans-Serif.md"
               }
             }
           },
@@ -581,7 +593,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/Processing main notes/700.1.1a Serif.md",
+                "file": "00 Captures/Processing main notes/712 Sans-Serif.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -607,7 +619,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/Processing main notes/700.1.1a Serif.md",
+                "file": "00 Captures/Processing main notes/712 Sans-Serif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -644,10 +656,10 @@
   },
   "active": "ae60b9210a08fd82",
   "lastOpenFiles": [
-    "00 Captures/Processing main notes/711 Sans-Serif.md",
-    "00 Captures/700.1.1 Typography.md",
+    "00 Captures/710 Typography.md",
+    "00 Captures/Processing main notes/711 Serif.md",
+    "00 Captures/Processing main notes/712 Sans-Serif.md",
     "00 Captures/700.1.1b Sans-Serif.md",
-    "00 Captures/Processing main notes/700.1.1a Serif.md",
     "_system/Templates/+ 0 Main Note.md",
     "00 Captures/700.1.a Serif.md",
     "10 Projects/Web Design 101.md",

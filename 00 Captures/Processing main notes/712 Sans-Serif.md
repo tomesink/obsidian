@@ -7,5 +7,5 @@ created: 2024-09-01
 tags:
   - typography
 ---
-Fonts without [[700.1.1a Serif]]. 
+Fonts without [[711 Serif]]. 
 More modern and clean.
