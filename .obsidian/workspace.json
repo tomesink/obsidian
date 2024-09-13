@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "300.1.1_Austrian school of economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/300.1.1_Austrian school of economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
                   "title": "200.1.1_Univerzalni moralka",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/200.1.1_Univerzalni moralka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -292,7 +298,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
+                "file": "_system/Templates/+ 0 Main Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -419,7 +425,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md"
+                "file": "_system/Templates/+ 0 Main Note.md"
               }
             }
           },
@@ -504,7 +510,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
+                "file": "_system/Templates/+ 0 Main Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -530,7 +536,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
+                "file": "_system/Templates/+ 0 Main Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -567,9 +573,10 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
+    "_system/Templates/+ 0 Main Note.md",
     "00 Captures/Processing main notes/200.1.1_Univerzalni moralka.md",
     "00 Captures/Processing main notes",
-    "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
     "00 Captures/Processing main notes/Aggregate demand.md",
     "00 Captures/Processing main notes/Subjektivni teorie hodnot.md",
     "00 Captures/Processing main notes/Koncesionarske poplatky.md",
