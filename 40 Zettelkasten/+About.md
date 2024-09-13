@@ -1,20 +1,20 @@
 This is my Zettelkasten folder. Only main and source notes belong here. Plus Indexes.
 
-Main notes follow the LYT Classification.
+Main notes follow the modified LYT Classification.
 
 
 > [!Blocks]- The LYT Classification System
 > The **LYT Classification System** is lightly modified from the Cutter, Dewey, and Universal Decimal classification systems used in libraries around the world. It will provide you a time-tested foundation as you structure the interests of your digital library.
 > - 000 - *Knowledge Management*
-> - 100  - *Personal Management*
-> - 200 - *Philosophy & Psychology; Spirituality & Religion*
-> - 300 - *Social Sciences*
-> - 400 - *Communications & Rhetoric; Language & Linguistics*
-> - 500 - *Natural Sciences*
-> - 600 - *Applied Sciences*
-> - 700 - *Art & Recreation*
-> - 800 - *Literature*
-> - 900 - *History & Biography & Geography*
+> - 1000  - *Personal Management*
+> - 2000 - *Philosophy & Psychology; Spirituality & Religion*
+> - 3000 - *Social Sciences*
+> - 4000 - *Communications & Rhetoric; Language & Linguistics*
+> - 5000 - *Natural Sciences*
+> - 6000 - *Applied Sciences*
+> - 7000 - *Art & Recreation*
+> - 8000 - *Literature*
+> - 9000 - *History & Biography & Geography*
 > 
 > ![[whelan-space-station-1978-mod.jpg]]
 > 
@@ -71,7 +71,8 @@ Main notes follow the LYT Classification.
 
 Subtopics:
 
-710
+7100 - Design
+7110 - Typography
 
 
 
