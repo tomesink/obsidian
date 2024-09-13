@@ -65,7 +65,9 @@ Here:
 
 
 
-
+##### 2. Grids
+Invisible line structure helping us top rearrange content.
+Provides sense of logic.
 
 
 
