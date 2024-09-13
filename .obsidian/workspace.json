@@ -44,25 +44,25 @@
                 {
                   "title": "+ About Calendar",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/+ About Calendar.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30 Calendar/+ About Calendar.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
                   "title": "Informaci je prilis moc",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Informaci je prilis moc.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/Informaci je prilis moc.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
                 },
                 {
                   "title": "Figma containers",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Figma containers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/Figma containers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":24.943359375}"
                 },
                 {
                   "title": "Collaterilazed Debt Obligation (CDO)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Collaterilazed Debt Obligation (CDO).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/Collaterilazed Debt Obligation (CDO).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":11}"
                 },
                 {
@@ -74,7 +74,7 @@
                 {
                   "title": "Neni li Buh vse je dovoleno",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Neni li Buh vse je dovoleno.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/Neni li Buh vse je dovoleno.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
                 },
                 {
@@ -86,7 +86,7 @@
                 {
                   "title": "Kapitalismus",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Kapitalismus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/Kapitalismus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
@@ -116,13 +116,13 @@
                 {
                   "title": "Musíme se snažit umřít ve zdraví.",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/Sources/Articles/Musíme se snažit umřít ve zdraví..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
                 },
                 {
                   "title": "Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
@@ -416,7 +416,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2617f4b3b90e39f8",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
     "Zettelkasten.md",
     "00 Captures/Atlas/Webdesign.md",
@@ -424,29 +424,29 @@
     "00 Captures/Atlas/Productivity.md",
     "00 Captures/Atlas/Religion.md",
     "00 Captures/Atlas/Economy.md",
-    "Calendar/+ About Calendar.md",
-    "Cards/Informaci je prilis moc.md",
-    "Cards/Figma containers.md",
-    "Cards/Collaterilazed Debt Obligation (CDO).md",
-    "Cards/Neni li Buh vse je dovoleno.md",
+    "30 Calendar/+ About Calendar.md",
+    "40 Zettelkasten/Informaci je prilis moc.md",
+    "40 Zettelkasten/Figma containers.md",
+    "40 Zettelkasten/Collaterilazed Debt Obligation (CDO).md",
+    "40 Zettelkasten/Neni li Buh vse je dovoleno.md",
     "Atlas/Types/Card.md",
-    "Cards/Kapitalismus.md",
+    "40 Zettelkasten/Kapitalismus.md",
     "00 Captures/Atlas/Bitcoin.md",
     "00 Captures/Atlas/+ About Atlas.md",
     "10 Projects/Web Design For Beginners 2024.md",
-    "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
-    "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
+    "40 Zettelkasten/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
+    "40 Zettelkasten/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
     "00 Captures/MiCA, Dora, Travel Rule.md",
     "10 Projects/Project - janadolezelova.com.md",
     "00 Captures/Efforts.md",
-    "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
+    "40 Zettelkasten/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
     "00 Captures/Bitcoin bezkontaktni karta.md",
     "00 Captures/Austrian school of economy.md",
     "00 Captures/Evropsky prostor pro zdravotni data.md",
     "00 Captures/i-shut-down-twitter.md",
     "+/Integra.md",
     "10 Projects/Notes/Stockpicking",
-    "Cards/Persons",
+    "40 Zettelkasten/Persons",
     "20 Areas/Notes/Clients/janadolezelova.com",
     "20 Areas/Notes/Clients",
     "Extras/Attachments/Design system.png",
@@ -460,8 +460,8 @@
     "Extras/Attachments/wolverine-tethered.jpg",
     "Extras/Attachments/flow-four-factors.png",
     "10 Projects/Notes/Motion Design In Figma",
-    "Cards/Sources/Videos",
-    "Calendar/2023",
+    "40 Zettelkasten/Sources/Videos",
+    "30 Calendar/2023",
     "10 Projects/Notes/CSS layout & positioning",
     "Extras/Attachments/Misal-0-Mešní-řád-latinsky-českyA5.pdf",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",

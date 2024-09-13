@@ -43,13 +43,13 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Calendar": "LiCalendar",
-  "Cards": "LiStickyNote",
   "Extras": "LiLayoutTemplate",
   "00 Captures/Atlas": "LiMap",
   "10 Projects": "🔥",
   "20 Areas": "♻",
   "20 Areas/Learning.md": "LiGraduationCap",
   "20 Areas/Prayers.md": "✝",
-  "20 Areas/Notes/Business": "LiLaptop"
+  "20 Areas/Notes/Business": "LiLaptop",
+  "30 Calendar": "LiCalendar",
+  "40 Zettelkasten": "LiStickyNote"
 }
