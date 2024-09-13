@@ -18,6 +18,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Productivity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Productivity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Religion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Religion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "+ About Calendar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/+ About Calendar.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
                   "title": "Informaci je prilis moc",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Informaci je prilis moc.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -112,7 +136,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/+ About Calendar.md",
+                "file": "Atlas/Webdesign.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -239,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/+ About Calendar.md"
+                "file": "Atlas/Webdesign.md"
               }
             }
           },
@@ -324,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/+ About Calendar.md",
+                "file": "Atlas/Webdesign.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +374,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/+ About Calendar.md",
+                "file": "Atlas/Webdesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -388,13 +412,16 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "Atlas/Productivity.md",
+    "Atlas/Religion.md",
+    "Atlas/Economy.md",
+    "Calendar/+ About Calendar.md",
     "Cards/Informaci je prilis moc.md",
     "Cards/Figma containers.md",
     "Cards/Collaterilazed Debt Obligation (CDO).md",
     "Cards/Neni li Buh vse je dovoleno.md",
     "Atlas/Types/Card.md",
     "Cards/Kapitalismus.md",
-    "Atlas/Economy.md",
     "Atlas/Bitcoin.md",
     "Atlas/+ About Atlas.md",
     "Spaces/Simmering/Web Design For Beginners 2024.md",
@@ -411,10 +438,7 @@
     "+/i-shut-down-twitter.md",
     "+/Integra.md",
     "Cards/Financial Markets.md",
-    "Spaces/Notes/Stockpicking/Uvod do stockpickingu.md",
-    "Spaces/Projects/Stockpickingu.md",
     "Spaces/Notes/Stockpicking",
-    "Spaces/Projects/Motion Design In Figma.md",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
