@@ -18,7 +18,25 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Serif",
+                  "title": "7110.1.1 Purpose of typography in design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":28},\"to\":{\"line\":22,\"ch\":28}}}"
+                },
+                {
+                  "title": "7110.1.1b Sans-Serif",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1b Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":28},\"to\":{\"line\":18,\"ch\":28}}}"
+                },
+                {
+                  "title": "Episode 4 - Typography",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 4 - Typography.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":9}"
+                },
+                {
+                  "title": "7110.1.1a Serif",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1a Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
@@ -310,7 +328,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
+                "file": "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1a Serif.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -616,7 +634,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md"
+                "file": "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1a Serif.md"
               }
             }
           },
@@ -701,7 +719,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
+                "file": "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1a Serif.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -727,7 +745,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
+                "file": "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1a Serif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -764,9 +782,10 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1a Serif.md",
-    "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1b Sans-Serif.md",
     "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md",
+    "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1b Sans-Serif.md",
+    "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
+    "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1a Serif.md",
     "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography",
     "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design",
     "40 Zettelkasten/+About.md",
@@ -774,7 +793,6 @@
     "_system/Templates/+ 0 Main Note.md",
     "00 Captures/700.1.a Serif.md",
     "10 Projects/Web Design 101.md",
-    "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
     "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
     "00 Captures/Processing main notes/200.1.1_Univerzalni moralka.md",
     "00 Captures/Processing main notes",
