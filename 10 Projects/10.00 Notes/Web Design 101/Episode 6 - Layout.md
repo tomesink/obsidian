@@ -76,7 +76,7 @@ It was popularized in a book Grid systems by Josef Muller-Brockmann
 
 #### How to practice?
 
-Grab some text and images and try to create compositions - hero sections (headline and few bullets), instagram posts. Create 3 different layouts for each content.
+Static layout with an image. Grab some text and images and try to create compositions - hero sections (headline and few bullets), instagram posts. Create 3 different layouts for each content.
 
 
 
