@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🍺",
       "💻",
       "💰",
       "🏡",
@@ -19,8 +20,7 @@
       "✝",
       "♻",
       "😴",
-      "🌀",
-      "🔥"
+      "🌀"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -55,6 +55,7 @@
   "+ Zettelkasten": "LiSheetsInBox",
   "20 Areas/21 Me & other living things": "🙎‍♂️",
   "20 Areas/22 Where I live & how I get around": "🏡",
-  "20 Areas/Money earned, saved, owned & spent": "💰",
-  "20 Areas/My online life": "💻"
+  "20 Areas/My online life": "💻",
+  "20 Areas/25 Entertainment": "🍺",
+  "20 Areas/23 Money earned, saved, owned & spent": "💰"
 }
