@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Neni li Buh vse je dovoleno",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Neni li Buh vse je dovoleno.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
                   "title": "Card",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Types/Card.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -80,13 +86,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/Neni li Buh vse je dovoleno.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -208,9 +209,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cards/Neni li Buh vse je dovoleno.md"
-              }
+              "state": {}
             }
           },
           {
@@ -294,7 +293,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Neni li Buh vse je dovoleno.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +318,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Neni li Buh vse je dovoleno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,6 +355,7 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "Cards/Neni li Buh vse je dovoleno.md",
     "Atlas/Types/Card.md",
     "Cards/Kapitalismus.md",
     "Atlas/Economy.md",
@@ -384,7 +382,6 @@
     "Spaces/Projects/Motion Design In Figma.md",
     "Spaces/Areas/💰 Finance.md",
     "Spaces/Areas/🏡 House.md",
-    "Spaces/Areas/Learning.md",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
