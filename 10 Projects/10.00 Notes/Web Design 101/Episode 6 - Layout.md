@@ -73,6 +73,9 @@ It was popularized in a book Grid systems by Josef Muller-Brockmann
 12 columns grid is recommended because it can be divided by many numbers.
 
 
+#### How topractice?
+
+
 
 
 
