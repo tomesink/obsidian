@@ -33,7 +33,7 @@ it is interesting that the small thing works almowst everywhere. It does not mat
 
 ![[Pasted image 20240913174552.png]]
 
-
+![[Pasted image 20240913174633.png]]
 
 
 
