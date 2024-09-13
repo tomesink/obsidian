@@ -45,14 +45,11 @@
   },
   "Calendar": "LiCalendar",
   "Cards": "LiStickyNote",
-  "Spaces": "LiMonitorSmartphone",
-  "Spaces/Notes/Business": "LiLaptop",
   "Extras": "LiLayoutTemplate",
-  "Spaces/Simmering": "LiWaves",
-  "Spaces/Sleeping": "😴",
-  "Spaces/Areas": "♻",
-  "Spaces/Areas/Learning.md": "LiGraduationCap",
-  "Spaces/Areas/Prayers.md": "✝",
   "00 Captures/Atlas": "LiMap",
-  "10 Projects": "🔥"
+  "10 Projects": "🔥",
+  "20 Areas": "♻",
+  "20 Areas/Learning.md": "LiGraduationCap",
+  "20 Areas/Prayers.md": "✝",
+  "20 Areas/Notes/Business": "LiLaptop"
 }

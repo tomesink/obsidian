@@ -11,8 +11,14 @@
             "id": "2617f4b3b90e39f8",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Zettelkasten",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":11}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -410,8 +416,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "Zettelkasten.md",
+    "00 Captures/Atlas/Webdesign.md",
     "10 Projects/Notes",
     "00 Captures/Atlas/Productivity.md",
     "00 Captures/Atlas/Religion.md",
@@ -428,7 +436,6 @@
     "10 Projects/Web Design For Beginners 2024.md",
     "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
     "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
-    "Zettelkasten.md",
     "00 Captures/MiCA, Dora, Travel Rule.md",
     "10 Projects/Project - janadolezelova.com.md",
     "00 Captures/Efforts.md",
@@ -440,8 +447,8 @@
     "+/Integra.md",
     "10 Projects/Notes/Stockpicking",
     "Cards/Persons",
-    "Spaces/Notes/Clients/janadolezelova.com",
-    "Spaces/Notes/Clients",
+    "20 Areas/Notes/Clients/janadolezelova.com",
+    "20 Areas/Notes/Clients",
     "Extras/Attachments/Design system.png",
     "Design system.png",
     "Extras/Attachments/ranni.jpeg",
@@ -457,7 +464,6 @@
     "Calendar/2023",
     "10 Projects/Notes/CSS layout & positioning",
     "Extras/Attachments/Misal-0-Mešní-řád-latinsky-českyA5.pdf",
-    "Cards/Sources/Courses",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",

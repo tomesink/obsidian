@@ -14,4 +14,4 @@ All grid children must be auto positioned to not auto generate columns for ipad 
 
 If you want to stick the columns together when stretching to larger sizes, you need to **justify** the grid child.
 
-![[Spaces/Notes/Web/Webflow/attachments/grid_child_justify.png]]
+![[20 Areas/Notes/Web/Webflow/attachments/grid_child_justify.png]]
