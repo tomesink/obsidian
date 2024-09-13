@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
+                },
+                {
+                  "title": "Bitcoin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Bitcoin.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
                   "title": "+ About Atlas",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/+ About Atlas.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -58,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Bitcoin.md",
+                "file": "Cards/Kapitalismus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -185,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Bitcoin.md"
+                "file": "Cards/Kapitalismus.md"
               }
             }
           },
@@ -270,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Bitcoin.md",
+                "file": "Cards/Kapitalismus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Bitcoin.md",
+                "file": "Cards/Kapitalismus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -334,6 +346,8 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "Atlas/Economy.md",
+    "Atlas/Bitcoin.md",
     "Atlas/+ About Atlas.md",
     "Spaces/Simmering/Web Design For Beginners 2024.md",
     "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
@@ -359,8 +373,6 @@
     "Spaces/Areas/Learning.md",
     "Spaces/Notes/House/TOPENI.md",
     "Spaces/Notes/House/Senkyrik.md",
-    "Spaces/Notes/House/Kuchyn.md",
-    "Spaces/Notes/House/Drevokaz.md",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
