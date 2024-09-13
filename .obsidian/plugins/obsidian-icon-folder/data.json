@@ -43,7 +43,6 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Atlas": "LiMap",
   "Calendar": "LiCalendar",
   "Cards": "LiStickyNote",
   "Spaces": "LiMonitorSmartphone",
@@ -54,5 +53,6 @@
   "Spaces/Areas": "♻",
   "Spaces/Areas/Learning.md": "LiGraduationCap",
   "Spaces/Areas/Prayers.md": "✝",
-  "Spaces/Projects": "🔥"
+  "00 Captures/Atlas": "LiMap",
+  "10 Projects": "🔥"
 }

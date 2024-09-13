@@ -20,19 +20,19 @@
                 {
                   "title": "Productivity",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Productivity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Atlas/Productivity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
                   "title": "Religion",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Religion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Atlas/Religion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
                   "title": "Economy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Atlas/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
@@ -86,19 +86,19 @@
                 {
                   "title": "Economy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Atlas/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
                 },
                 {
                   "title": "Bitcoin",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Bitcoin.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Atlas/Bitcoin.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
                   "title": "+ About Atlas",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/+ About Atlas.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Atlas/+ About Atlas.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 },
                 {
@@ -136,7 +136,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Webdesign.md",
+                "file": "00 Captures/Atlas/Webdesign.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -263,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Webdesign.md"
+                "file": "00 Captures/Atlas/Webdesign.md"
               }
             }
           },
@@ -348,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Webdesign.md",
+                "file": "00 Captures/Atlas/Webdesign.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -374,7 +374,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Webdesign.md",
+                "file": "00 Captures/Atlas/Webdesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -412,9 +412,10 @@
   },
   "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
-    "Atlas/Productivity.md",
-    "Atlas/Religion.md",
-    "Atlas/Economy.md",
+    "10 Projects/Notes",
+    "00 Captures/Atlas/Productivity.md",
+    "00 Captures/Atlas/Religion.md",
+    "00 Captures/Atlas/Economy.md",
     "Calendar/+ About Calendar.md",
     "Cards/Informaci je prilis moc.md",
     "Cards/Figma containers.md",
@@ -422,14 +423,14 @@
     "Cards/Neni li Buh vse je dovoleno.md",
     "Atlas/Types/Card.md",
     "Cards/Kapitalismus.md",
-    "Atlas/Bitcoin.md",
-    "Atlas/+ About Atlas.md",
+    "00 Captures/Atlas/Bitcoin.md",
+    "00 Captures/Atlas/+ About Atlas.md",
     "Spaces/Simmering/Web Design For Beginners 2024.md",
     "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
     "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
     "Zettelkasten.md",
     "00 Captures/MiCA, Dora, Travel Rule.md",
-    "Spaces/Projects/Project - janadolezelova.com.md",
+    "10 Projects/Project - janadolezelova.com.md",
     "00 Captures/Efforts.md",
     "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
     "00 Captures/Bitcoin bezkontaktni karta.md",
@@ -437,7 +438,6 @@
     "00 Captures/Evropsky prostor pro zdravotni data.md",
     "00 Captures/i-shut-down-twitter.md",
     "+/Integra.md",
-    "Cards/Financial Markets.md",
     "Spaces/Notes/Stockpicking",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
