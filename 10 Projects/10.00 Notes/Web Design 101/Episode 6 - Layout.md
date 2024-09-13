@@ -37,11 +37,15 @@ it is interesting that the small thing works almowst everywhere. It does not mat
 
 Here the title is the biggest, and white (good contrast).
 The red rectangle is the medium.
+The top text is the small thing.
 
-
+The big photo is just a background. Not part of hierachy?
 
 
 ![[Pasted image 20240913174729.png]]
+
+Similarly here, the backgroud p
+
 
 
 
