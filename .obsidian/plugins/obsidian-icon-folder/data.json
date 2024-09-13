@@ -49,8 +49,8 @@
   "20 Areas/Prayers.md": "✝",
   "20 Areas/Notes/Business": "LiLaptop",
   "30 Calendar": "LiCalendar",
-  "40 Zettelkasten": "LiSheetsInBox",
   "50 Views": "LiEye",
   "00 Captures": "LiInbox",
-  "_system": "LiTerminal"
+  "_system": "LiTerminal",
+  "+ Zettelkasten": "LiSheetsInBox"
 }
