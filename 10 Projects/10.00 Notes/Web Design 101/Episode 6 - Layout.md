@@ -70,6 +70,8 @@ Invisible line structure helping us top rearrange content.
 Provides sense of logic.
 It was popularized in a book Grid systems by Josef Muller-Brockmann
 
+12 columns grid is recommended because it can be divided by many numbers.
+
 
 
 
