@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Aggregate demand",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":15}"
+                },
+                {
+                  "title": "+About",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/+About.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":0},\"to\":{\"line\":78,\"ch\":0}},\"scroll\":22.210177568305536}"
+                },
+                {
                   "title": "Webdesign",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Atlas/Webdesign.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -50,19 +62,19 @@
                 {
                   "title": "Informaci je prilis moc",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/Informaci je prilis moc.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Informaci je prilis moc.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
                 },
                 {
                   "title": "Figma containers",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/Figma containers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Figma containers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":24.943359375}"
                 },
                 {
                   "title": "Collaterilazed Debt Obligation (CDO)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/Collaterilazed Debt Obligation (CDO).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Collaterilazed Debt Obligation (CDO).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":11}"
                 },
                 {
@@ -74,7 +86,7 @@
                 {
                   "title": "Neni li Buh vse je dovoleno",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/Neni li Buh vse je dovoleno.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Neni li Buh vse je dovoleno.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
                 },
                 {
@@ -86,7 +98,7 @@
                 {
                   "title": "Kapitalismus",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/Kapitalismus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Kapitalismus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
@@ -116,13 +128,13 @@
                 {
                   "title": "Musíme se snažit umřít ve zdraví.",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/Sources/Articles/Musíme se snažit umřít ve zdraví..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/41 Source Notes/Articles/Musíme se snažit umřít ve zdraví..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
                 },
                 {
                   "title": "Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/41 Source Notes/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
@@ -418,6 +430,9 @@
   },
   "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "40 Zettelkasten/Untitled",
+    "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
+    "40 Zettelkasten/+About.md",
     "40 Zettelkasten/42 Main Notes",
     "00 Captures/Atlas/Webdesign.md",
     "50 Views",
@@ -427,25 +442,23 @@
     "00 Captures/Atlas/Religion.md",
     "00 Captures/Atlas/Economy.md",
     "30 Calendar/+ About Calendar.md",
-    "40 Zettelkasten/Informaci je prilis moc.md",
-    "40 Zettelkasten/Figma containers.md",
-    "40 Zettelkasten/Collaterilazed Debt Obligation (CDO).md",
-    "40 Zettelkasten/Neni li Buh vse je dovoleno.md",
+    "40 Zettelkasten/42 Main Notes/Informaci je prilis moc.md",
+    "40 Zettelkasten/42 Main Notes/Figma containers.md",
+    "40 Zettelkasten/42 Main Notes/Collaterilazed Debt Obligation (CDO).md",
+    "40 Zettelkasten/42 Main Notes/Neni li Buh vse je dovoleno.md",
     "Atlas/Types/Card.md",
-    "40 Zettelkasten/Kapitalismus.md",
+    "40 Zettelkasten/42 Main Notes/Kapitalismus.md",
     "00 Captures/Atlas/Bitcoin.md",
     "00 Captures/Atlas/+ About Atlas.md",
     "10 Projects/Web Design For Beginners 2024.md",
-    "40 Zettelkasten/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
-    "40 Zettelkasten/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
+    "40 Zettelkasten/41 Source Notes/Articles/Musíme se snažit umřít ve zdraví..md",
+    "40 Zettelkasten/41 Source Notes/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
     "00 Captures/MiCA, Dora, Travel Rule.md",
     "10 Projects/Project - janadolezelova.com.md",
     "00 Captures/Efforts.md",
-    "40 Zettelkasten/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
+    "40 Zettelkasten/41 Source Notes/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
     "00 Captures/Bitcoin bezkontaktni karta.md",
     "00 Captures/Austrian school of economy.md",
-    "00 Captures/Evropsky prostor pro zdravotni data.md",
-    "00 Captures/i-shut-down-twitter.md",
     "10 Projects/Notes/Stockpicking",
     "40 Zettelkasten/Persons",
     "20 Areas/Notes/Clients/janadolezelova.com",
@@ -461,9 +474,8 @@
     "_system/Attachments/wolverine-tethered.jpg",
     "_system/Attachments/flow-four-factors.png",
     "10 Projects/Notes/Motion Design In Figma",
-    "40 Zettelkasten/Sources/Videos",
+    "40 Zettelkasten/41 Source Notes/Videos",
     "30 Calendar/2023",
-    "10 Projects/Notes/CSS layout & positioning",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
