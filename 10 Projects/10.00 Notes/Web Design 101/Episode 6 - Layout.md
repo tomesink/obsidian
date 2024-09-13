@@ -44,9 +44,13 @@ The big photo is just a background. Not part of hierachy?
 
 ![[Pasted image 20240913174729.png]]
 
-Similarly here, the backgroud p
+Similarly here, the backgroud picture probably not part of the hierarchy.
+
+1. A digital agency...
+2. 
 
 
+![[Pasted image 20240913175014.png]]
 
 
 
