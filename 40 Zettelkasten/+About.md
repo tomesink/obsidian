@@ -62,15 +62,19 @@ Main notes follow the LYT Classification.
 
 > [!Play]+ ### 700 - Art & Recreation
 > Ah the leisures of life. Remember leisure? Few really do. This section could easily balloon. 
-
-710 - Design
-711
 > 
 > - Art MOC | [[Design MOC]] | Architecture | Painting | 
 > - Film & TV | [[Movies MOC]] 
 > - Sports | [[Football MOC]] 
 > - Music | [[Jazz MOC]] | [[Vocals MOC]] 
 > - [[Cooking MOC]] | Leisure 
+
+Subtopics:
+
+710
+
+
+
 
 > [!Venetian]+ ### 800 - Literature
 > If folks barely remember leisure, they likely completely forgot about classical literature. A great shame, neomania...we blind ourselves to some of humanity's greatest hits. Use [[Literature MOC]] as a launchpad.
