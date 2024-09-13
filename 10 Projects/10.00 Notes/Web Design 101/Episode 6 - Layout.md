@@ -29,7 +29,11 @@ Into this:
 
 ![[Pasted image 20240913174446.png]]
 
-it is interesting that the small thing works almows everywhere. It does not matter w
+it is interesting that the small thing works almowst everywhere. It does not matter where you put it:
+
+![[Pasted image 20240913174552.png]]
+
+
 
 
 
