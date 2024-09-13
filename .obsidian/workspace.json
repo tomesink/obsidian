@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "+ About Atlas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/+ About Atlas.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Web Design For Beginners 2024",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Simmering/Web Design For Beginners 2024.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
                   "title": "Musíme se snažit umřít ve zdraví.",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -46,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Simmering/Web Design For Beginners 2024.md",
+                "file": "Atlas/Bitcoin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Simmering/Web Design For Beginners 2024.md"
+                "file": "Atlas/Bitcoin.md"
               }
             }
           },
@@ -258,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Simmering/Web Design For Beginners 2024.md",
+                "file": "Atlas/Bitcoin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Simmering/Web Design For Beginners 2024.md",
+                "file": "Atlas/Bitcoin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,6 +334,8 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "Atlas/+ About Atlas.md",
+    "Spaces/Simmering/Web Design For Beginners 2024.md",
     "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
     "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
     "Zettelkasten.md",
@@ -347,8 +361,6 @@
     "Spaces/Notes/House/Senkyrik.md",
     "Spaces/Notes/House/Kuchyn.md",
     "Spaces/Notes/House/Drevokaz.md",
-    "+/Exp.md",
-    "+/J. K. Rowling.md",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
