@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🏡",
       "🙎‍♂️",
       "LiTerminal",
       "LiSheetsInBox",
@@ -19,8 +20,7 @@
       "🌀",
       "🔥",
       "LiLayoutTemplate",
-      "LiAlignVerticalJustifyCenter",
-      "LiGraduationCap"
+      "LiAlignVerticalJustifyCenter"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -53,5 +53,6 @@
   "00 Captures": "LiInbox",
   "_system": "LiTerminal",
   "+ Zettelkasten": "LiSheetsInBox",
-  "20 Areas/21 Me & other living things": "🙎‍♂️"
+  "20 Areas/21 Me & other living things": "🙎‍♂️",
+  "20 Areas/22 Where I live & how I get around": "🏡"
 }
