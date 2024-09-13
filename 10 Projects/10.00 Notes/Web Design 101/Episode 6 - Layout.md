@@ -6,6 +6,7 @@ created: 2024-09-13
 # Episode 6 - Layout
 
 The hardest possibly skill to master.
+It is a skill needs to be practiced.
 
 #### What makes a good layout?
 - clear, not confusing (hierarchy)
