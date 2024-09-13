@@ -412,37 +412,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "50eb0765a1b8e99a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Testovaci",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Testovaci.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Captures/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -562,7 +533,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/Untitled.md"
+                "file": "_system/Templates/Note.md"
               }
             }
           },
@@ -647,7 +618,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/Untitled.md",
+                "file": "_system/Templates/Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -673,7 +644,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/Untitled.md",
+                "file": "_system/Templates/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -708,13 +679,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50eb0765a1b8e99a",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
     "00 Captures/Testovaci.md",
-    "00 Captures/Untitled.md",
+    "00 Captures/Testova.md",
+    "00 Captures/test.md",
     "_system/Templates/Note.md",
     "_system/Templates/+ 0 Main Note.md",
-    "00 Captures/test.md",
     "00 Captures/Processing main notes/Aggregate demand.md",
     "_system/Templates/Template, Nick Milo's Custom Callouts.md",
     "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1b Sans-Serif.md",
