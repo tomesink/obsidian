@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Aggregate demand",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
                   "title": "300.1.1_Austrian school of economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/300.1.1_Austrian school of economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -274,7 +280,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
+                "file": "40 Zettelkasten/42 Main Notes/300.1.1_Austrian school of economy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -401,7 +407,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Aggregate demand.md"
+                "file": "40 Zettelkasten/42 Main Notes/300.1.1_Austrian school of economy.md"
               }
             }
           },
@@ -486,7 +492,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
+                "file": "40 Zettelkasten/42 Main Notes/300.1.1_Austrian school of economy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -512,7 +518,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
+                "file": "40 Zettelkasten/42 Main Notes/300.1.1_Austrian school of economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -522,8 +528,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -550,6 +555,7 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
     "40 Zettelkasten/42 Main Notes/300.1.1_Austrian school of economy.md",
     "40 Zettelkasten/42 Main Notes/Subjektivni teorie hodnot.md",
     "40 Zettelkasten/42 Main Notes/Koncesionarske poplatky.md",
@@ -559,7 +565,6 @@
     "40 Zettelkasten/42 Main Notes/42.00",
     "40 Zettelkasten/42 Main Notes/42.100",
     "40 Zettelkasten/42 Main Notes/Aggregate supply.md",
-    "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
     "40 Zettelkasten/42 Main Notes/Kapitalismus.md",
     "20 Areas/Learning.md",
     "20 Areas/💰 Finance.md",
