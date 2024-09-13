@@ -13,8 +13,11 @@ The hardest possibly skill to master.
 - easy to consume the content
 
 
-#### 2 key secrets:
-1. in every design there must be a thing which is really big, something which is medium and something that's small. It creates contrast
+#### Basic principles of successful design
+
+##### 1. Big, medium, small rule
+
+In every design there must be a thing which is really big, something which is medium and something that's small. It creates contrast
 
 Example:
 
