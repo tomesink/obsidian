@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Bitcoin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/43 Maps/Bitcoin.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "+About",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/+About.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":32},\"to\":{\"line\":0,\"ch\":32}},\"scroll\":0}"
+                },
+                {
                   "title": "Aggregate demand",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -32,25 +44,25 @@
                 {
                   "title": "Webdesign",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Atlas/Webdesign.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/43 Maps/Webdesign.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
                 },
                 {
                   "title": "Productivity",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Atlas/Productivity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/43 Maps/Productivity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
                   "title": "Religion",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Atlas/Religion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/43 Maps/Religion.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
                   "title": "Economy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Atlas/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/43 Maps/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
@@ -104,13 +116,13 @@
                 {
                   "title": "Economy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Atlas/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/43 Maps/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
                 },
                 {
                   "title": "Bitcoin",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Atlas/Bitcoin.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/43 Maps/Bitcoin.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
@@ -154,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Zettelkasten/+About.md",
+                "file": "00 Captures/+ About +.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -281,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 Zettelkasten/+About.md"
+                "file": "00 Captures/+ About +.md"
               }
             }
           },
@@ -366,7 +378,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Zettelkasten/+About.md",
+                "file": "00 Captures/+ About +.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -392,7 +404,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Zettelkasten/+About.md",
+                "file": "00 Captures/+ About +.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -430,17 +442,18 @@
   },
   "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
-    "40 Zettelkasten/Untitled",
-    "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
+    "40 Zettelkasten/43 Maps/Bitcoin.md",
     "40 Zettelkasten/+About.md",
+    "40 Zettelkasten/43 Maps",
+    "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
     "40 Zettelkasten/42 Main Notes",
-    "00 Captures/Atlas/Webdesign.md",
+    "40 Zettelkasten/43 Maps/Webdesign.md",
     "50 Views",
     "Zettelkasten.md",
     "10 Projects/Notes",
-    "00 Captures/Atlas/Productivity.md",
-    "00 Captures/Atlas/Religion.md",
-    "00 Captures/Atlas/Economy.md",
+    "40 Zettelkasten/43 Maps/Productivity.md",
+    "40 Zettelkasten/43 Maps/Religion.md",
+    "40 Zettelkasten/43 Maps/Economy.md",
     "30 Calendar/+ About Calendar.md",
     "40 Zettelkasten/42 Main Notes/Informaci je prilis moc.md",
     "40 Zettelkasten/42 Main Notes/Figma containers.md",
@@ -448,7 +461,6 @@
     "40 Zettelkasten/42 Main Notes/Neni li Buh vse je dovoleno.md",
     "Atlas/Types/Card.md",
     "40 Zettelkasten/42 Main Notes/Kapitalismus.md",
-    "00 Captures/Atlas/Bitcoin.md",
     "00 Captures/Atlas/+ About Atlas.md",
     "10 Projects/Web Design For Beginners 2024.md",
     "40 Zettelkasten/41 Source Notes/Articles/Musíme se snažit umřít ve zdraví..md",
@@ -475,7 +487,6 @@
     "_system/Attachments/flow-four-factors.png",
     "10 Projects/Notes/Motion Design In Figma",
     "40 Zettelkasten/41 Source Notes/Videos",
-    "30 Calendar/2023",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
