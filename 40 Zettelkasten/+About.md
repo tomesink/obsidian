@@ -5,8 +5,8 @@ Main notes follow the modified LYT Classification.
 
 > [!Blocks]- The LYT Classification System
 > The **LYT Classification System** is lightly modified from the Cutter, Dewey, and Universal Decimal classification systems used in libraries around the world. It will provide you a time-tested foundation as you structure the interests of your digital library.
-> - 000 - *Knowledge Management*
-> - 1000  - *Personal Management*
+> - 000 - *Personal Management*
+> - 1000  - *Knowledge Management*
 > - 2000 - *Philosophy & Psychology; Spirituality & Religion*
 > - 3000 - *Social Sciences*
 > - 4000 - *Communications & Rhetoric; Language & Linguistics*
