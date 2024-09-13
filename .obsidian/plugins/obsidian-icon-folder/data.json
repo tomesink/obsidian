@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSheetsInBox",
       "LiInbox",
       "LiFlame",
       "LiRecycle",
@@ -19,8 +20,7 @@
       "LiAlignVerticalJustifyCenter",
       "LiGraduationCap",
       "LiSmile",
-      "LiLaptop",
-      "LiMonitorSmartphone"
+      "LiLaptop"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -43,7 +43,6 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Extras": "LiLayoutTemplate",
   "00 Captures/Atlas": "LiMap",
   "10 Projects": "LiFlame",
   "20 Areas": "LiRecycle",
@@ -51,7 +50,8 @@
   "20 Areas/Prayers.md": "✝",
   "20 Areas/Notes/Business": "LiLaptop",
   "30 Calendar": "LiCalendar",
-  "40 Zettelkasten": "LiStickyNote",
+  "40 Zettelkasten": "LiSheetsInBox",
   "50 Views": "LiEye",
-  "00 Captures": "LiInbox"
+  "00 Captures": "LiInbox",
+  "_system": "LiLayoutTemplate"
 }
