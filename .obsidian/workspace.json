@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "+ Weekly Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ Weekly Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
                   "title": "Source,  Article",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/Source,  Article.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -538,7 +550,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_system/Templates/Template, Properties, Source (Kit).md",
+                "file": "_system/Templates/Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -665,7 +677,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_system/Templates/Template, Properties, Source (Kit).md"
+                "file": "_system/Templates/Note.md"
               }
             }
           },
@@ -750,7 +762,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_system/Templates/Template, Properties, Source (Kit).md",
+                "file": "_system/Templates/Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -776,7 +788,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_system/Templates/Template, Properties, Source (Kit).md",
+                "file": "_system/Templates/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -813,7 +825,10 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "_system/Templates/+ Weekly Note.md",
+    "_system/Templates/Note.md",
     "_system/Templates/Source,  Article.md",
+    "_system/Templates/Template, Properties, Source (Kit).md",
     "_system/Templates/Template,  Movie.md",
     "_system/Templates/Project Management Note.md",
     "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
@@ -843,11 +858,8 @@
     "20 Areas/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Sales call.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
-    "_system/Templates/Note.md",
     "00 Captures/Yuri Bezmenov - The Four Stages of Ideological Subversion.md",
     "00 Captures/Testovaci.md",
-    "00 Captures/Testova.md",
-    "00 Captures/test.md",
     "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography",
     "+ Zettelkasten/7000 Art & Recreation/7100 Design",
     "00 Captures/Processing main notes",
