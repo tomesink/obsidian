@@ -68,6 +68,9 @@ Here:
 ##### 2. Grids
 Invisible line structure helping us top rearrange content.
 Provides sense of logic.
+It was popularized in a book Grid systems by Josef Muller-Brockmann
+
+
 
 
 
