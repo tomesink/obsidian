@@ -8,8 +8,14 @@ created: 2024-09-13
 The hardest possibly skill to master.
 
 #### What makes a good layout?
-- clear, not confusing
-- 
+- clear, not confusing (hierarchy)
+- interesting, not boring
+- easy to consume the content
+
+
+
+
+
 
 
 
