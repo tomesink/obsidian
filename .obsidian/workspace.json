@@ -18,6 +18,60 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Create + send invoice for downpayment (50%)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Create + send proposal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Create + send proposal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Full Site HI-FI Mockups",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Home Page Hi-Fi Concepts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Invite client to shared Notion workspace",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Prepare + send contract to client",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sales call",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Sales call.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Setup shared Slack workspace",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
                   "title": "+ 0 Main Note",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ 0 Main Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
@@ -406,7 +460,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_system/Templates/Note.md",
+                "file": "20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -533,7 +587,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_system/Templates/Note.md"
+                "file": "20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md"
               }
             }
           },
@@ -618,7 +672,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_system/Templates/Note.md",
+                "file": "20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -644,7 +698,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_system/Templates/Note.md",
+                "file": "20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -681,8 +735,16 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "00 Captures/Yuri Bezmenov - The Four Stages of Ideological Subversion.md",
+    "20 Areas/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md",
+    "20 Areas/Notes/Clients/janadolezelova.com/Create + send proposal.md",
+    "20 Areas/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md",
+    "20 Areas/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
+    "20 Areas/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md",
+    "20 Areas/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md",
+    "20 Areas/Notes/Clients/janadolezelova.com/Sales call.md",
+    "20 Areas/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
     "_system/Templates/Note.md",
+    "00 Captures/Yuri Bezmenov - The Four Stages of Ideological Subversion.md",
     "00 Captures/Testovaci.md",
     "00 Captures/Testova.md",
     "00 Captures/test.md",
@@ -702,16 +764,8 @@
     "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
     "00 Captures/Processing main notes/200.1.1_Univerzalni moralka.md",
     "00 Captures/Processing main notes",
-    "00 Captures/Processing main notes/Subjektivni teorie hodnot.md",
-    "00 Captures/Processing main notes/Koncesionarske poplatky.md",
-    "00 Captures/Processing main notes/Goldman Sachs.md",
-    "40 Zettelkasten/42 Main Notes/Literature note.md",
     "40 Zettelkasten/42 Main Notes/42.00",
     "40 Zettelkasten/42 Main Notes/7000 Art & Recreation",
-    "00 Captures/Processing main notes/Aggregate supply.md",
-    "00 Captures/Processing main notes/Kapitalismus.md",
-    "20 Areas/Learning.md",
-    "20 Areas/💰 Finance.md",
     "40 Zettelkasten/43 Maps",
     "40 Zettelkasten/42 Main Notes",
     "50 Views",
