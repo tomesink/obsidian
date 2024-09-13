@@ -13,7 +13,8 @@ The hardest possibly skill to master.
 - easy to consume the content
 
 
-
+2 key secrets:
+- 
 
 
 
