@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Episode 6 - Layout",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":80,\"ch\":0},\"to\":{\"line\":80,\"ch\":0}},\"scroll\":64.93019519304282}"
+                },
+                {
                   "title": "10.06 Web Design 101",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.06 Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -514,7 +520,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md",
+                "file": "30 Calendar/32 Weekly Notes/2024-37.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -641,7 +647,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md"
+                "file": "30 Calendar/32 Weekly Notes/2024-37.md"
               }
             }
           },
@@ -726,7 +732,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md",
+                "file": "30 Calendar/32 Weekly Notes/2024-37.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -752,7 +758,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md",
+                "file": "30 Calendar/32 Weekly Notes/2024-37.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -787,8 +793,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md",
+    "30 Calendar/32 Weekly Notes/2024-37.md",
     "30 Calendar/32 Weekly Notes",
     "_system/Attachments/Pasted image 20240913175648.png",
     "_system/Attachments/Pasted image 20240913175014.png",
@@ -796,7 +804,6 @@
     "_system/Attachments/Pasted image 20240913174633.png",
     "_system/Attachments/Pasted image 20240913174552.png",
     "_system/Attachments/Pasted image 20240913174446.png",
-    "10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md",
     "_system/Attachments/Pasted image 20240913174108.png",
     "10 Projects/10.06 Web Design 101.md",
     "10 Projects/10.05 Stockpickingu.md",
@@ -831,7 +838,6 @@
     "+ Zettelkasten/Main",
     "50 Views",
     "10 Projects/10.00 Notes",
-    "10 Projects/10.00 Notes/Stockpicking",
     "_system/Attachments/Design system.png",
     "Design system.png",
     "_system/Attachments/ranni.jpeg",
