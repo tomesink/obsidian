@@ -11,17 +11,17 @@
             "id": "2617f4b3b90e39f8",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Austrian school of economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Austrian school of economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Subjektivni teorie hodnot",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Subjektivni teorie hodnot.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 },
                 {
                   "title": "Goldman Sachs",
@@ -268,7 +268,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Subjektivni teorie hodnot.md",
+                "file": "00 Captures/Austrian school of economy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -395,7 +395,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Subjektivni teorie hodnot.md"
+                "file": "00 Captures/Austrian school of economy.md"
               }
             }
           },
@@ -480,7 +480,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Subjektivni teorie hodnot.md",
+                "file": "00 Captures/Austrian school of economy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -506,7 +506,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Subjektivni teorie hodnot.md",
+                "file": "00 Captures/Austrian school of economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -544,8 +544,9 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "00 Captures/Austrian school of economy.md",
     "40 Zettelkasten/42 Main Notes/Subjektivni teorie hodnot.md",
+    "40 Zettelkasten/42 Main Notes/Koncesionarske poplatky.md",
+    "00 Captures/Austrian school of economy.md",
     "40 Zettelkasten/42 Main Notes/Goldman Sachs.md",
     "40 Zettelkasten/42 Main Notes/Literature note.md",
     "40 Zettelkasten/42 Main Notes/200.1.1_Univerzalni moralka.md",
@@ -575,7 +576,6 @@
     "40 Zettelkasten/43 Maps/Religion.md",
     "40 Zettelkasten/43 Maps/Economy.md",
     "30 Calendar/+ About Calendar.md",
-    "40 Zettelkasten/42 Main Notes/Informaci je prilis moc.md",
     "10 Projects/Notes/Stockpicking",
     "40 Zettelkasten/Persons",
     "20 Areas/Notes/Clients/janadolezelova.com",
