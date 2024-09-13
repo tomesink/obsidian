@@ -7,11 +7,11 @@ references:
   - "[[Carl Menger]]"
 created: 2024-09-02
 related:
-  - "[[Austrian school of economy]]"
+  - "[[300.1.1_Austrian school of economy]]"
   - "[[Zákon klesajícího mezního užitku]]"
 URL: https://cs.wikipedia.org/wiki/Subjektivn%C3%AD_teorie_hodnoty
 type: "[[Card]]"
-tags:
+tags: 
 ---
 
 V protikladu s pracovni teorii hodnoty, ktera rika, ze hodnota statku vznika praci na nem, subjektivni teorie rika, ze hodnota statku je ciste subjektivni, zalezi na konkretnim jedinci a situaci, ve ktere se nachazi.
