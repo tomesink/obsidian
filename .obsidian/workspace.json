@@ -328,6 +328,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "700.1.1a Serif",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/700.1.1a Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":16},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
                   "title": "700.1.1 Typography",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/700.1.1 Typography.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -338,7 +344,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Captures/Processing main notes/700.1.1a Serif.md",
+                "file": "_system/Templates/+ 0 Main Note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b398af8fdd9935e3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Captures/700.1.1b Sans-Serif.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -346,7 +374,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -436,8 +464,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -467,7 +494,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/Processing main notes/700.1.1a Serif.md"
+                "file": "00 Captures/700.1.1b Sans-Serif.md"
               }
             }
           },
@@ -552,7 +579,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/Processing main notes/700.1.1a Serif.md",
+                "file": "00 Captures/700.1.1b Sans-Serif.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -578,7 +605,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/Processing main notes/700.1.1a Serif.md",
+                "file": "00 Captures/700.1.1b Sans-Serif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -613,14 +640,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae60b9210a08fd82",
+  "active": "b398af8fdd9935e3",
   "lastOpenFiles": [
+    "_system/Templates/+ 0 Main Note.md",
+    "00 Captures/700.1.1b Sans-Serif.md",
+    "00 Captures/Processing main notes/700.1.1a Serif.md",
     "00 Captures/700.1.1 Typography.md",
     "00 Captures/700.1.a Serif.md",
     "10 Projects/Web Design 101.md",
     "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
-    "00 Captures/Processing main notes/700.1.1a Serif.md",
-    "_system/Templates/+ 0 Main Note.md",
     "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
     "00 Captures/Processing main notes/200.1.1_Univerzalni moralka.md",
     "00 Captures/Processing main notes",
@@ -643,7 +671,6 @@
     "00 Captures/01 Types/Song.md",
     "00 Captures/01 Types/Course.md",
     "40 Zettelkasten/43 Maps/Bitcoin.md",
-    "40 Zettelkasten/+About.md",
     "40 Zettelkasten/43 Maps",
     "40 Zettelkasten/42 Main Notes",
     "50 Views",
