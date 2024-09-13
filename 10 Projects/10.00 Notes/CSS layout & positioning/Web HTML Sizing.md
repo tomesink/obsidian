@@ -4,12 +4,12 @@ zettel:
 topic:
   - "[[Webdesign]]"
 references:
-  - "[[CSS layout & positioning]]"
+  - "[[10.02 CSS layout & positioning]]"
 created: 2024-09-01
 status:
   - To Do
 type: "[[Card]]"
-tags:
+tags: 
 ---
 
 Do not size (in any unit) on an element itself (eg. an image) but rather on a class.
