@@ -49,7 +49,8 @@ The big photo is just a background. Not part of hierachy?
 
 
 1. A digital agency...
-2. In Ran's opinion the medium could be the text in background. It is bigger but less readable, gray.
+2. In Ran's opinion the medium could be the text in background. It is bigger but less readable, gray. Or it could be the text "We are creative ...."
+3. Button, logo, we are Baunfire
 
 
 ![[Pasted image 20240913175014.png]]
