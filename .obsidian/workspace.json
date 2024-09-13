@@ -18,6 +18,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Aggregate demand",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kapitalismus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Kapitalismus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "Aggregate supply",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Aggregate supply.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "Aggregate demand",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
                   "title": "Learning",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -220,7 +244,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
+                "file": "40 Zettelkasten/42 Main Notes/Aggregate supply.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -347,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Aggregate demand.md"
+                "file": "40 Zettelkasten/42 Main Notes/Aggregate supply.md"
               }
             }
           },
@@ -432,7 +456,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
+                "file": "40 Zettelkasten/42 Main Notes/Aggregate supply.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -458,7 +482,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
+                "file": "40 Zettelkasten/42 Main Notes/Aggregate supply.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -496,6 +520,9 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
+    "40 Zettelkasten/42 Main Notes/Kapitalismus.md",
+    "40 Zettelkasten/42 Main Notes/Aggregate supply.md",
     "20 Areas/Learning.md",
     "20 Areas/💰 Finance.md",
     "20 Areas/🏥 Health.md",
@@ -508,7 +535,6 @@
     "40 Zettelkasten/43 Maps/Bitcoin.md",
     "40 Zettelkasten/+About.md",
     "40 Zettelkasten/43 Maps",
-    "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
     "40 Zettelkasten/42 Main Notes",
     "40 Zettelkasten/43 Maps/Webdesign.md",
     "50 Views",
@@ -523,9 +549,7 @@
     "40 Zettelkasten/42 Main Notes/Collaterilazed Debt Obligation (CDO).md",
     "40 Zettelkasten/42 Main Notes/Neni li Buh vse je dovoleno.md",
     "Atlas/Types/Card.md",
-    "40 Zettelkasten/42 Main Notes/Kapitalismus.md",
     "00 Captures/Atlas/+ About Atlas.md",
-    "10 Projects/Web Design For Beginners 2024.md",
     "10 Projects/Notes/Stockpicking",
     "40 Zettelkasten/Persons",
     "20 Areas/Notes/Clients/janadolezelova.com",
