@@ -21,6 +21,30 @@
                   "title": "+ 0 Main Note",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ 0 Main Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/test.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":13},\"to\":{\"line\":5,\"ch\":2}}}"
+                },
+                {
+                  "title": "Aggregate demand",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "+ 0 Main Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ 0 Main Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":2},\"to\":{\"line\":3,\"ch\":0}}}"
                 },
                 {
@@ -657,9 +681,11 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "_system/Templates/Template, Nick Milo's Custom Callouts.md",
-    "_system/Templates/Note.md",
     "_system/Templates/+ 0 Main Note.md",
+    "00 Captures/test.md",
+    "00 Captures/Processing main notes/Aggregate demand.md",
+    "_system/Templates/Note.md",
+    "_system/Templates/Template, Nick Milo's Custom Callouts.md",
     "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1b Sans-Serif.md",
     "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md",
     "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1a Serif.md",
@@ -673,7 +699,6 @@
     "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
     "00 Captures/Processing main notes/200.1.1_Univerzalni moralka.md",
     "00 Captures/Processing main notes",
-    "00 Captures/Processing main notes/Aggregate demand.md",
     "00 Captures/Processing main notes/Subjektivni teorie hodnot.md",
     "00 Captures/Processing main notes/Koncesionarske poplatky.md",
     "00 Captures/Processing main notes/Goldman Sachs.md",
@@ -687,7 +712,6 @@
     "20 Areas/🏥 Health.md",
     "20 Areas/🏤 Admin.md",
     "20 Areas/🏡 House.md",
-    "00 Captures/01 Types/Movie.md",
     "40 Zettelkasten/43 Maps",
     "40 Zettelkasten/42 Main Notes",
     "50 Views",
