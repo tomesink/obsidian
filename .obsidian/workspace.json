@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Week 37 2024-05",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30 Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Episode 6 - Layout",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -520,7 +526,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
+                "file": "Calendar/2024-05-02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -647,7 +653,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md"
+                "file": "Calendar/2024-05-02.md"
               }
             }
           },
@@ -732,7 +738,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
+                "file": "Calendar/2024-05-02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -758,7 +764,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
+                "file": "Calendar/2024-05-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -795,8 +801,10 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md",
     "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
+    "Calendar/2024-05-02.md",
+    "Calendar",
+    "10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md",
     "30 Calendar/32 Weekly Notes",
     "_system/Attachments/Pasted image 20240913175648.png",
     "_system/Attachments/Pasted image 20240913175014.png",
@@ -828,7 +836,6 @@
     "_system/Templates/+ 0 Main Note.md",
     "00 Captures/Processing main notes/Aggregate demand.md",
     "_system/Templates/Template, Nick Milo's Custom Callouts.md",
-    "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1b Sans-Serif.md",
     "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography",
     "+ Zettelkasten/7000 Art & Recreation/7100 Design",
     "00 Captures/Processing main notes",
@@ -837,7 +844,6 @@
     "+ Zettelkasten/Indexes",
     "+ Zettelkasten/Main",
     "50 Views",
-    "10 Projects/10.00 Notes",
     "_system/Attachments/Design system.png",
     "Design system.png",
     "_system/Attachments/ranni.jpeg",
