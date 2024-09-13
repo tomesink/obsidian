@@ -48,11 +48,11 @@
   "Cards": "LiStickyNote",
   "Spaces": "LiMonitorSmartphone",
   "Spaces/Notes/Business": "LiLaptop",
-  "Spaces/Ongoing/Learning.md": "LiGraduationCap",
   "Extras": "LiLayoutTemplate",
-  "Spaces/On": "🔥",
-  "Spaces/Ongoing": "♻",
   "Spaces/Simmering": "LiWaves",
   "Spaces/Sleeping": "😴",
-  "Spaces/Ongoing/Prayers.md": "✝"
+  "Spaces/Areas": "♻",
+  "Spaces/Areas/Learning.md": "LiGraduationCap",
+  "Spaces/Areas/Prayers.md": "✝",
+  "Spaces/Projects": "🔥"
 }

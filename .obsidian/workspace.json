@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Musíme se snažit umřít ve zdraví.",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+                },
+                {
                   "title": "Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -40,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
+                "file": "Spaces/Simmering/Web Design For Beginners 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -167,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md"
+                "file": "Spaces/Simmering/Web Design For Beginners 2024.md"
               }
             }
           },
@@ -252,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
+                "file": "Spaces/Simmering/Web Design For Beginners 2024.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
+                "file": "Spaces/Simmering/Web Design For Beginners 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,13 +320,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
     "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
     "Zettelkasten.md",
     "+/MiCA, Dora, Travel Rule.md",
     "Cards/Collaterilazed Debt Obligation (CDO).md",
-    "Spaces/On/Project - janadolezelova.com.md",
+    "Spaces/Projects/Project - janadolezelova.com.md",
     "+/Efforts.md",
     "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
     "+/Bitcoin bezkontaktni karta.md",
@@ -330,19 +337,18 @@
     "+/Integra.md",
     "Cards/Financial Markets.md",
     "Spaces/Notes/Stockpicking/Uvod do stockpickingu.md",
-    "Spaces/On/Stockpickingu.md",
+    "Spaces/Projects/Stockpickingu.md",
     "Spaces/Notes/Stockpicking",
-    "Spaces/On/Motion Design In Figma.md",
-    "Spaces/Ongoing/💰 Finance.md",
-    "Spaces/Ongoing/🏡 House.md",
-    "Spaces/Ongoing/Learning.md",
+    "Spaces/Projects/Motion Design In Figma.md",
+    "Spaces/Areas/💰 Finance.md",
+    "Spaces/Areas/🏡 House.md",
+    "Spaces/Areas/Learning.md",
     "Spaces/Notes/House/TOPENI.md",
     "Spaces/Notes/House/Senkyrik.md",
     "Spaces/Notes/House/Kuchyn.md",
     "Spaces/Notes/House/Drevokaz.md",
     "+/Exp.md",
     "+/J. K. Rowling.md",
-    "Spaces/On/Design System.md",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",

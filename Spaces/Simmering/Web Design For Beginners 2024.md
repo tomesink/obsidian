@@ -4,7 +4,7 @@ topic:
 references: 
 created: 2024-09-01
 status:
-  - In Progress
+  - To Do
 type: "[[Course]]"
 URL: https://www.youtube.com/watch?v=j6Ule7GXaRs
 tags:
