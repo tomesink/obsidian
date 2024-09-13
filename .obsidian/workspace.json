@@ -344,9 +344,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4f4f964326acd94",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Captures/700.1.1.a.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -467,7 +489,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/700.1.1 Typography.md"
+                "file": "00 Captures/700.1.1.a.md"
               }
             }
           },
@@ -552,7 +574,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/700.1.1 Typography.md",
+                "file": "00 Captures/700.1.1.a.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -578,7 +600,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/700.1.1 Typography.md",
+                "file": "00 Captures/700.1.1.a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -613,10 +635,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae60b9210a08fd82",
+  "active": "f4f4f964326acd94",
   "lastOpenFiles": [
-    "10 Projects/Web Design 101.md",
     "00 Captures/700.1.1 Typography.md",
+    "00 Captures/700.1.1.a.md",
+    "10 Projects/Web Design 101.md",
     "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
     "00 Captures/Processing main notes/Serif.md",
     "_system/Templates/+ 0 Main Note.md",
@@ -645,7 +668,6 @@
     "40 Zettelkasten/+About.md",
     "40 Zettelkasten/43 Maps",
     "40 Zettelkasten/42 Main Notes",
-    "40 Zettelkasten/43 Maps/Webdesign.md",
     "50 Views",
     "10 Projects/Notes",
     "10 Projects/Notes/Stockpicking",

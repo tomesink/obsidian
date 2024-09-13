@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "00 Captures",
-      "template": "_system/Templates/+ 0 Main Note.md"
+      "folder": "",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,
