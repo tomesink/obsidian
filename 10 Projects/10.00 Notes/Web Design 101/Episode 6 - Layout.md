@@ -27,9 +27,9 @@ From this:
 
 Into this:
 
+![[Pasted image 20240913174446.png]]
 
-
-
+it is interesting that the small thing works almows everywhere. It does not matter w
 
 
 
