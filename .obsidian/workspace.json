@@ -412,8 +412,37 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "50eb0765a1b8e99a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Testovaci",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Testovaci.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Captures/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -533,7 +562,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_system/Templates/Note.md"
+                "file": "00 Captures/Untitled.md"
               }
             }
           },
@@ -618,7 +647,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_system/Templates/Note.md",
+                "file": "00 Captures/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -644,7 +673,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_system/Templates/Note.md",
+                "file": "00 Captures/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -679,12 +708,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2617f4b3b90e39f8",
+  "active": "50eb0765a1b8e99a",
   "lastOpenFiles": [
+    "00 Captures/Testovaci.md",
+    "00 Captures/Untitled.md",
+    "_system/Templates/Note.md",
     "_system/Templates/+ 0 Main Note.md",
     "00 Captures/test.md",
     "00 Captures/Processing main notes/Aggregate demand.md",
-    "_system/Templates/Note.md",
     "_system/Templates/Template, Nick Milo's Custom Callouts.md",
     "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1b Sans-Serif.md",
     "40 Zettelkasten/42 Main Notes/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md",
@@ -710,8 +741,6 @@
     "20 Areas/Learning.md",
     "20 Areas/💰 Finance.md",
     "20 Areas/🏥 Health.md",
-    "20 Areas/🏤 Admin.md",
-    "20 Areas/🏡 House.md",
     "40 Zettelkasten/43 Maps",
     "40 Zettelkasten/42 Main Notes",
     "50 Views",
