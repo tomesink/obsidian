@@ -62,6 +62,9 @@ Main notes follow the LYT Classification.
 
 > [!Play]+ ### 700 - Art & Recreation
 > Ah the leisures of life. Remember leisure? Few really do. This section could easily balloon. 
+
+710 - Design
+711
 > 
 > - Art MOC | [[Design MOC]] | Architecture | Painting | 
 > - Film & TV | [[Movies MOC]] 
