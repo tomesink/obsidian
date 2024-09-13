@@ -45,9 +45,11 @@ The big photo is just a background. Not part of hierachy?
 ![[Pasted image 20240913174729.png]]
 
 Similarly here, the backgroud picture probably not part of the hierarchy.
+[Baunfire | Web Design & Digital Agency in Silicon Valley | San Jose Bay Area](https://www.baunfire.com/)
+
 
 1. A digital agency...
-2. 
+2. We are creative
 
 
 ![[Pasted image 20240913175014.png]]
