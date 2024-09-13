@@ -11,11 +11,41 @@
             "id": "2617f4b3b90e39f8",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Project - janadolezelova.com",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Project - janadolezelova.com.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Project - janadolezelova.com",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Project - janadolezelova.com.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "10.01 Client - janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/10.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "10.04 Motion Design In Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.04 Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "10.03 Design System",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.03 Design System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
                 },
                 {
                   "title": "Content strategy",
@@ -464,12 +494,18 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "10 Projects/10.03 Design System.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "10 Projects/10.01 Client - janadolezelova.com.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -593,7 +629,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/10.03 Design System.md"
+                "file": "10 Projects/10.01 Client - janadolezelova.com.md"
               }
             }
           },
@@ -678,7 +714,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/10.03 Design System.md",
+                "file": "10 Projects/10.01 Client - janadolezelova.com.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -704,7 +740,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/10.03 Design System.md",
+                "file": "10 Projects/10.01 Client - janadolezelova.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -741,8 +777,11 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md",
+    "10 Projects/Project - janadolezelova.com.md",
+    "10 Projects/10.01 Client - janadolezelova.com.md",
+    "10 Projects/10.04 Motion Design In Figma.md",
     "10 Projects/10.03 Design System.md",
+    "20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md",
     "20 Areas/Notes/Clients/janadolezelova.com/Create + send proposal.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md",
@@ -766,9 +805,6 @@
     "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography",
     "+ Zettelkasten/7000 Art & Recreation/7100 Design",
     "+ Zettelkasten/+About.md",
-    "00 Captures/700.1.1b Sans-Serif.md",
-    "00 Captures/700.1.a Serif.md",
-    "10 Projects/Web Design 101.md",
     "00 Captures/Processing main notes",
     "40 Zettelkasten/42 Main Notes/42.00",
     "+ Zettelkasten/7000 Art & Recreation",
