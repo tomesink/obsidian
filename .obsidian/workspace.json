@@ -328,15 +328,27 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "7110.1.1a Sans-Serif",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/7110.1.1a Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "7110.1 Purpose of typography in design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/7110.1.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":3}"
+                },
+                {
                   "title": "+About",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/+About.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":61.774739583333336}"
                 },
                 {
-                  "title": "7110 Purpose of typography in design",
+                  "title": "7110.1 Purpose of typography in design",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/7110.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/7110.1.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
@@ -346,15 +358,15 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "712 Sans-Serif",
+                  "title": "7110.1.1a Sans-Serif",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/712 Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/7110.1.1a Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
                 },
                 {
-                  "title": "7110 Purpose of typography in design",
+                  "title": "7110.1 Purpose of typography in design",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/7110.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/7110.1.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                 },
                 {
@@ -364,15 +376,15 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
-                  "title": "712 Sans-Serif",
+                  "title": "7110.1.1a Sans-Serif",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/712 Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/7110.1.1a Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
                 },
                 {
-                  "title": "7110 Purpose of typography in design",
+                  "title": "7110.1 Purpose of typography in design",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/7110.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/7110.1.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                 },
                 {
@@ -394,9 +406,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":16},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
-                  "title": "7110 Purpose of typography in design",
+                  "title": "7110.1 Purpose of typography in design",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/7110.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/7110.1.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":29},\"to\":{\"line\":16,\"ch\":29}}}"
                 }
               ]
@@ -404,7 +416,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Captures/Processing main notes/7110.1 Purpose of typography in design.md",
+                "file": "00 Captures/Processing main notes/7110.1.1 Purpose of typography in design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -532,7 +544,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/Processing main notes/7110.1 Purpose of typography in design.md"
+                "file": "00 Captures/Processing main notes/7110.1.1 Purpose of typography in design.md"
               }
             }
           },
@@ -617,7 +629,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/Processing main notes/7110.1 Purpose of typography in design.md",
+                "file": "00 Captures/Processing main notes/7110.1.1 Purpose of typography in design.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -643,7 +655,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/Processing main notes/7110.1 Purpose of typography in design.md",
+                "file": "00 Captures/Processing main notes/7110.1.1 Purpose of typography in design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -680,9 +692,9 @@
   },
   "active": "ae60b9210a08fd82",
   "lastOpenFiles": [
+    "00 Captures/Processing main notes/7110.1.1a Sans-Serif.md",
+    "00 Captures/Processing main notes/7110.1.1 Purpose of typography in design.md",
     "40 Zettelkasten/+About.md",
-    "00 Captures/Processing main notes/7110.1 Purpose of typography in design.md",
-    "00 Captures/Processing main notes/712 Sans-Serif.md",
     "00 Captures/Processing main notes/711 Serif.md",
     "00 Captures/700.1.1b Sans-Serif.md",
     "_system/Templates/+ 0 Main Note.md",
