@@ -16,6 +16,15 @@ The hardest possibly skill to master.
 #### 2 key secrets:
 1. in every design there must be a thing which is really big, something which is medium and something that's small. It creates contrast
 
+Example:
+
+From this:
+
+![[Pasted image 20240913174108.png]]
+
+
+
+
 
 
 
