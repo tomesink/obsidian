@@ -1,6 +1,4 @@
 ---
-zettel:
-  - Permanent Note
 topic:
   - "[[Webdesign]]"
 references:
