@@ -25,6 +25,7 @@ From this:
 
 ![[Pasted image 20240913174108.png]]
 
+Into this:
 
 
 
@@ -32,7 +33,7 @@ From this:
 
 
 
-- 
+
 
 
 
