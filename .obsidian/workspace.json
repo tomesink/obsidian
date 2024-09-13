@@ -250,7 +250,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Univerzalni moralka.md",
+                "file": "40 Zettelkasten/42 Main Notes/200.1Univerzalni moralka.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -377,7 +377,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Univerzalni moralka.md"
+                "file": "40 Zettelkasten/42 Main Notes/200.1Univerzalni moralka.md"
               }
             }
           },
@@ -462,7 +462,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Univerzalni moralka.md",
+                "file": "40 Zettelkasten/42 Main Notes/200.1Univerzalni moralka.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -488,7 +488,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Univerzalni moralka.md",
+                "file": "40 Zettelkasten/42 Main Notes/200.1Univerzalni moralka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -524,7 +524,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
     "40 Zettelkasten/42 Main Notes/42.00",
     "40 Zettelkasten/42 Main Notes/42.100",

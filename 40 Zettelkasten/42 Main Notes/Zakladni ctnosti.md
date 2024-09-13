@@ -7,10 +7,10 @@ topic:
 references: 
 created: 2024-09-01
 related:
-  - "[[Univerzalni moralka]]"
+  - "[[200.1Univerzalni moralka]]"
 URL: https://cs.wikipedia.org/wiki/Kardin%C3%A1ln%C3%AD_ctnosti
 type: "[[Card]]"
-tags:
+tags: 
 ---
 Tez "kardinalni (hlavni) ctnosti".
 
