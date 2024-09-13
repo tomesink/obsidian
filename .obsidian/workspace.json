@@ -18,63 +18,75 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "200.1.1_Univerzalni moralka",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/200.1.1_Univerzalni moralka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "300.1.1_Austrian school of economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/300.1.1_Austrian school of economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
                   "title": "Aggregate demand",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 },
                 {
                   "title": "300.1.1_Austrian school of economy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/300.1.1_Austrian school of economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/300.1.1_Austrian school of economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":69},\"to\":{\"line\":9,\"ch\":69}}}"
                 },
                 {
                   "title": "Subjektivni teorie hodnot",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Subjektivni teorie hodnot.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Subjektivni teorie hodnot.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 },
                 {
                   "title": "Goldman Sachs",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Goldman Sachs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Goldman Sachs.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
                 },
                 {
                   "title": "200.1.1_Univerzalni moralka",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/200.1.1_Univerzalni moralka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/200.1.1_Univerzalni moralka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
                   "title": "Aggregate supply",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Aggregate supply.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Aggregate supply.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 },
                 {
                   "title": "Aggregate demand",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 },
                 {
                   "title": "Kapitalismus",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Kapitalismus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Kapitalismus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
                   "title": "Aggregate supply",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Aggregate supply.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Aggregate supply.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 },
                 {
                   "title": "Aggregate demand",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 },
                 {
@@ -146,7 +158,7 @@
                 {
                   "title": "Aggregate demand",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":15}"
                 },
                 {
@@ -188,19 +200,19 @@
                 {
                   "title": "Informaci je prilis moc",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Informaci je prilis moc.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Informaci je prilis moc.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
                 },
                 {
                   "title": "Figma containers",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Figma containers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Figma containers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":24.943359375}"
                 },
                 {
                   "title": "Collaterilazed Debt Obligation (CDO)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Collaterilazed Debt Obligation (CDO).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Collaterilazed Debt Obligation (CDO).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":11}"
                 },
                 {
@@ -212,7 +224,7 @@
                 {
                   "title": "Neni li Buh vse je dovoleno",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Neni li Buh vse je dovoleno.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Neni li Buh vse je dovoleno.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
                 },
                 {
@@ -224,7 +236,7 @@
                 {
                   "title": "Kapitalismus",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Kapitalismus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Kapitalismus.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
@@ -280,7 +292,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/300.1.1_Austrian school of economy.md",
+                "file": "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -407,7 +419,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/300.1.1_Austrian school of economy.md"
+                "file": "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md"
               }
             }
           },
@@ -492,7 +504,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/300.1.1_Austrian school of economy.md",
+                "file": "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -518,7 +530,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/300.1.1_Austrian school of economy.md",
+                "file": "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -555,17 +567,18 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
-    "40 Zettelkasten/42 Main Notes/300.1.1_Austrian school of economy.md",
-    "40 Zettelkasten/42 Main Notes/Subjektivni teorie hodnot.md",
-    "40 Zettelkasten/42 Main Notes/Koncesionarske poplatky.md",
-    "40 Zettelkasten/42 Main Notes/Goldman Sachs.md",
+    "00 Captures/Processing main notes/200.1.1_Univerzalni moralka.md",
+    "00 Captures/Processing main notes",
+    "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
+    "00 Captures/Processing main notes/Aggregate demand.md",
+    "00 Captures/Processing main notes/Subjektivni teorie hodnot.md",
+    "00 Captures/Processing main notes/Koncesionarske poplatky.md",
+    "00 Captures/Processing main notes/Goldman Sachs.md",
     "40 Zettelkasten/42 Main Notes/Literature note.md",
-    "40 Zettelkasten/42 Main Notes/200.1.1_Univerzalni moralka.md",
     "40 Zettelkasten/42 Main Notes/42.00",
     "40 Zettelkasten/42 Main Notes/42.100",
-    "40 Zettelkasten/42 Main Notes/Aggregate supply.md",
-    "40 Zettelkasten/42 Main Notes/Kapitalismus.md",
+    "00 Captures/Processing main notes/Aggregate supply.md",
+    "00 Captures/Processing main notes/Kapitalismus.md",
     "20 Areas/Learning.md",
     "20 Areas/💰 Finance.md",
     "20 Areas/🏥 Health.md",
@@ -586,11 +599,9 @@
     "40 Zettelkasten/43 Maps/Productivity.md",
     "40 Zettelkasten/43 Maps/Religion.md",
     "40 Zettelkasten/43 Maps/Economy.md",
-    "30 Calendar/+ About Calendar.md",
     "10 Projects/Notes/Stockpicking",
     "40 Zettelkasten/Persons",
     "20 Areas/Notes/Clients/janadolezelova.com",
-    "20 Areas/Notes/Clients",
     "_system/Attachments/Design system.png",
     "Design system.png",
     "_system/Attachments/ranni.jpeg",
