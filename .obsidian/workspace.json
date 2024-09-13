@@ -20,7 +20,7 @@
                 {
                   "title": "Serif",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/700.1.1a Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
@@ -321,54 +321,32 @@
             "id": "ae60b9210a08fd82",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Web Design 101",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":11}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Captures/700.1.1 Typography.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4f4f964326acd94",
-            "type": "leaf",
-            "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "700.1.1 Typography",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/700.1.1 Typography.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":29},\"to\":{\"line\":16,\"ch\":29}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Captures/700.1.a Serif.md",
+                "file": "00 Captures/Processing main notes/700.1.1a Serif.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -489,7 +467,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/700.1.a Serif.md"
+                "file": "00 Captures/Processing main notes/700.1.1a Serif.md"
               }
             }
           },
@@ -574,7 +552,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/700.1.a Serif.md",
+                "file": "00 Captures/Processing main notes/700.1.1a Serif.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -600,7 +578,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/700.1.a Serif.md",
+                "file": "00 Captures/Processing main notes/700.1.1a Serif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -635,13 +613,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4f4f964326acd94",
+  "active": "ae60b9210a08fd82",
   "lastOpenFiles": [
     "00 Captures/700.1.1 Typography.md",
     "00 Captures/700.1.a Serif.md",
     "10 Projects/Web Design 101.md",
     "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
-    "00 Captures/Processing main notes/Serif.md",
+    "00 Captures/Processing main notes/700.1.1a Serif.md",
     "_system/Templates/+ 0 Main Note.md",
     "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
     "00 Captures/Processing main notes/200.1.1_Univerzalni moralka.md",

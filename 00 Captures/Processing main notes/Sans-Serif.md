@@ -9,5 +9,5 @@ created: 2024-09-01
 tags:
   - typography
 ---
-Fonts without [[Serif]]. 
+Fonts without [[700.1.1a Serif]]. 
 More modern and clean.
