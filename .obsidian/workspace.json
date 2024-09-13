@@ -11,17 +11,17 @@
             "id": "2617f4b3b90e39f8",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Zettelkasten",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zettelkasten.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":11}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Webdesign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Atlas/Webdesign.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
                 },
                 {
                   "title": "Productivity",
@@ -142,7 +142,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Captures/Atlas/Webdesign.md",
+                "file": "40 Zettelkasten/+About.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/Atlas/Webdesign.md"
+                "file": "40 Zettelkasten/+About.md"
               }
             }
           },
@@ -354,7 +354,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/Atlas/Webdesign.md",
+                "file": "40 Zettelkasten/+About.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +380,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/Atlas/Webdesign.md",
+                "file": "40 Zettelkasten/+About.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -416,11 +416,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "00 Captures/Atlas/Webdesign.md",
     "50 Views",
     "Zettelkasten.md",
-    "00 Captures/Atlas/Webdesign.md",
     "10 Projects/Notes",
     "00 Captures/Atlas/Productivity.md",
     "00 Captures/Atlas/Religion.md",
@@ -463,7 +463,6 @@
     "40 Zettelkasten/Sources/Videos",
     "30 Calendar/2023",
     "10 Projects/Notes/CSS layout & positioning",
-    "_system/Attachments/Misal-0-Mešní-řád-latinsky-českyA5.pdf",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
