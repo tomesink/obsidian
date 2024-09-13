@@ -73,7 +73,9 @@ It was popularized in a book Grid systems by Josef Muller-Brockmann
 12 columns grid is recommended because it can be divided by many numbers.
 
 
-#### How topractice?
+#### How to practice?
+
+Grab some text and images and try to create compositions - hero images, instagram posts
 
 
 
