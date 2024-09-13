@@ -404,7 +404,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "typogr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
