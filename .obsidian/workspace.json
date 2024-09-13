@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "10.06 Web Design 101",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.06 Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+                },
+                {
                   "title": "10.05 Stockpickingu",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.05 Stockpickingu.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -508,7 +514,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/10.06 Web Design 101.md",
+                "file": "10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -635,7 +641,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/10.06 Web Design 101.md"
+                "file": "10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md"
               }
             }
           },
@@ -720,7 +726,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/10.06 Web Design 101.md",
+                "file": "10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -746,7 +752,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/10.06 Web Design 101.md",
+                "file": "10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -783,8 +789,9 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "10 Projects/10.05 Stockpickingu.md",
     "10 Projects/10.06 Web Design 101.md",
+    "10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md",
+    "10 Projects/10.05 Stockpickingu.md",
     "10 Projects/10.01 Client - janadolezelova.com.md",
     "10 Projects/Project - janadolezelova.com.md",
     "10 Projects/10.04 Motion Design In Figma.md",
@@ -808,7 +815,6 @@
     "_system/Templates/Template, Nick Milo's Custom Callouts.md",
     "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1b Sans-Serif.md",
     "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md",
-    "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1a Serif.md",
     "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography",
     "+ Zettelkasten/7000 Art & Recreation/7100 Design",
     "00 Captures/Processing main notes",
