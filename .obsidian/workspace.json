@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Figma containers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Figma containers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":24.943359375}"
+                },
+                {
+                  "title": "Collaterilazed Debt Obligation (CDO)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Collaterilazed Debt Obligation (CDO).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":11}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Neni li Buh vse je dovoleno",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Neni li Buh vse je dovoleno.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -86,8 +104,13 @@
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Informaci je prilis moc.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -209,7 +232,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cards/Informaci je prilis moc.md"
+              }
             }
           },
           {
@@ -293,6 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cards/Informaci je prilis moc.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,6 +344,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cards/Informaci je prilis moc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,6 +382,8 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "Cards/Figma containers.md",
+    "Cards/Collaterilazed Debt Obligation (CDO).md",
     "Cards/Neni li Buh vse je dovoleno.md",
     "Atlas/Types/Card.md",
     "Cards/Kapitalismus.md",
@@ -366,7 +395,6 @@
     "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
     "Zettelkasten.md",
     "+/MiCA, Dora, Travel Rule.md",
-    "Cards/Collaterilazed Debt Obligation (CDO).md",
     "Spaces/Projects/Project - janadolezelova.com.md",
     "+/Efforts.md",
     "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
@@ -381,7 +409,6 @@
     "Spaces/Notes/Stockpicking",
     "Spaces/Projects/Motion Design In Figma.md",
     "Spaces/Areas/💰 Finance.md",
-    "Spaces/Areas/🏡 House.md",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
