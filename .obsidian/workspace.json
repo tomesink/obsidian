@@ -18,6 +18,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Movie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/01 Types/Movie.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Song",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/01 Types/Song.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Course",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/01 Types/Course.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "+ About +",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/+ About +.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
                   "title": "Bitcoin",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/43 Maps/Bitcoin.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -166,7 +190,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Captures/+ About +.md",
+                "file": "20 Areas/🏡 House.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -293,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/+ About +.md"
+                "file": "20 Areas/🏡 House.md"
               }
             }
           },
@@ -378,7 +402,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/+ About +.md",
+                "file": "20 Areas/🏡 House.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -404,7 +428,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/+ About +.md",
+                "file": "20 Areas/🏡 House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -440,8 +464,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "00 Captures/01 Types/Movie.md",
+    "00 Captures/+ About +.md",
+    "00 Captures/01 Types/Song.md",
+    "00 Captures/01 Types/Course.md",
     "40 Zettelkasten/43 Maps/Bitcoin.md",
     "40 Zettelkasten/+About.md",
     "40 Zettelkasten/43 Maps",
@@ -468,9 +496,6 @@
     "00 Captures/MiCA, Dora, Travel Rule.md",
     "10 Projects/Project - janadolezelova.com.md",
     "00 Captures/Efforts.md",
-    "40 Zettelkasten/41 Source Notes/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
-    "00 Captures/Bitcoin bezkontaktni karta.md",
-    "00 Captures/Austrian school of economy.md",
     "10 Projects/Notes/Stockpicking",
     "40 Zettelkasten/Persons",
     "20 Areas/Notes/Clients/janadolezelova.com",
