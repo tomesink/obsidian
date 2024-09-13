@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Serif",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "+ 0 Main Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ 0 Main Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":2},\"to\":{\"line\":10,\"ch\":2}}}"
+                },
+                {
                   "title": "300.1.1_Austrian school of economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Processing main notes/300.1.1_Austrian school of economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -298,7 +310,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_system/Templates/+ 0 Main Note.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -369,7 +381,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "typogr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -395,7 +407,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -425,7 +438,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_system/Templates/+ 0 Main Note.md"
+                "file": "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md"
               }
             }
           },
@@ -510,7 +523,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_system/Templates/+ 0 Main Note.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -536,7 +549,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_system/Templates/+ 0 Main Note.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -573,8 +586,9 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
+    "00 Captures/Processing main notes/Serif.md",
     "_system/Templates/+ 0 Main Note.md",
+    "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
     "00 Captures/Processing main notes/200.1.1_Univerzalni moralka.md",
     "00 Captures/Processing main notes",
     "00 Captures/Processing main notes/Aggregate demand.md",
@@ -605,7 +619,6 @@
     "10 Projects/Notes",
     "40 Zettelkasten/43 Maps/Productivity.md",
     "40 Zettelkasten/43 Maps/Religion.md",
-    "40 Zettelkasten/43 Maps/Economy.md",
     "10 Projects/Notes/Stockpicking",
     "40 Zettelkasten/Persons",
     "20 Areas/Notes/Clients/janadolezelova.com",
