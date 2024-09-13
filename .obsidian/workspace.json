@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Aggregate supply",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Aggregate supply.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
                   "title": "Aggregate demand",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Zettelkasten/42 Main Notes/Aggregate demand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -244,7 +250,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Aggregate supply.md",
+                "file": "40 Zettelkasten/42 Main Notes/Univerzalni moralka.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -371,7 +377,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Aggregate supply.md"
+                "file": "40 Zettelkasten/42 Main Notes/Univerzalni moralka.md"
               }
             }
           },
@@ -456,7 +462,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Aggregate supply.md",
+                "file": "40 Zettelkasten/42 Main Notes/Univerzalni moralka.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -482,7 +488,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Zettelkasten/42 Main Notes/Aggregate supply.md",
+                "file": "40 Zettelkasten/42 Main Notes/Univerzalni moralka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -520,9 +526,9 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "40 Zettelkasten/42 Main Notes/Aggregate supply.md",
     "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
     "40 Zettelkasten/42 Main Notes/Kapitalismus.md",
-    "40 Zettelkasten/42 Main Notes/Aggregate supply.md",
     "20 Areas/Learning.md",
     "20 Areas/💰 Finance.md",
     "20 Areas/🏥 Health.md",
