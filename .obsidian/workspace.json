@@ -316,8 +316,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae60b9210a08fd82",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Captures/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -438,7 +461,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md"
+                "file": "00 Captures/Untitled.md"
               }
             }
           },
@@ -523,7 +546,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
+                "file": "00 Captures/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -549,7 +572,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
+                "file": "00 Captures/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -584,8 +607,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2617f4b3b90e39f8",
+  "active": "ae60b9210a08fd82",
   "lastOpenFiles": [
+    "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
+    "00 Captures/Untitled.md",
     "00 Captures/Processing main notes/Serif.md",
     "_system/Templates/+ 0 Main Note.md",
     "00 Captures/Processing main notes/300.1.1_Austrian school of economy.md",
@@ -617,8 +642,6 @@
     "50 Views",
     "Zettelkasten.md",
     "10 Projects/Notes",
-    "40 Zettelkasten/43 Maps/Productivity.md",
-    "40 Zettelkasten/43 Maps/Religion.md",
     "10 Projects/Notes/Stockpicking",
     "40 Zettelkasten/Persons",
     "20 Areas/Notes/Clients/janadolezelova.com",
