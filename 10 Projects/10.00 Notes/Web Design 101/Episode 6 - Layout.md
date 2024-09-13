@@ -55,6 +55,16 @@ The big photo is just a background. Not part of hierachy?
 
 ![[Pasted image 20240913175014.png]]
 
+Here:
+1. Hemet + Title
+2. Buy now button
+3. Button on the top
+
+
+![[Pasted image 20240913175648.png]]
+
+
+
 
 
 
