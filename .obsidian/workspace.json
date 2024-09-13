@@ -360,10 +360,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Captures/700.1.1.a.md",
+                "file": "00 Captures/700.1.a Serif.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -489,7 +489,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/700.1.1.a.md"
+                "file": "00 Captures/700.1.a Serif.md"
               }
             }
           },
@@ -574,7 +574,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/700.1.1.a.md",
+                "file": "00 Captures/700.1.a Serif.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -600,7 +600,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/700.1.1.a.md",
+                "file": "00 Captures/700.1.a Serif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -638,7 +638,7 @@
   "active": "f4f4f964326acd94",
   "lastOpenFiles": [
     "00 Captures/700.1.1 Typography.md",
-    "00 Captures/700.1.1.a.md",
+    "00 Captures/700.1.a Serif.md",
     "10 Projects/Web Design 101.md",
     "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
     "00 Captures/Processing main notes/Serif.md",
