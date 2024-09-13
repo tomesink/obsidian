@@ -128,7 +128,7 @@
                 {
                   "title": "MiCA, Dora, Travel Rule",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/MiCA, Dora, Travel Rule.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/MiCA, Dora, Travel Rule.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 }
               ]
@@ -410,7 +410,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2617f4b3b90e39f8",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
     "Atlas/Productivity.md",
     "Atlas/Religion.md",
@@ -428,14 +428,14 @@
     "Cards/Sources/Articles/Musíme se snažit umřít ve zdraví..md",
     "Cards/Sources/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
     "Zettelkasten.md",
-    "+/MiCA, Dora, Travel Rule.md",
+    "00 Captures/MiCA, Dora, Travel Rule.md",
     "Spaces/Projects/Project - janadolezelova.com.md",
-    "+/Efforts.md",
+    "00 Captures/Efforts.md",
     "Cards/Sources/Books/Jak žít dobrý život. Starověké umění stoické radosti.md",
-    "+/Bitcoin bezkontaktni karta.md",
-    "+/Austrian school of economy.md",
-    "+/Evropsky prostor pro zdravotni data.md",
-    "+/i-shut-down-twitter.md",
+    "00 Captures/Bitcoin bezkontaktni karta.md",
+    "00 Captures/Austrian school of economy.md",
+    "00 Captures/Evropsky prostor pro zdravotni data.md",
+    "00 Captures/i-shut-down-twitter.md",
     "+/Integra.md",
     "Cards/Financial Markets.md",
     "Spaces/Notes/Stockpicking",
