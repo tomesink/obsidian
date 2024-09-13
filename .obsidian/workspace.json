@@ -18,6 +18,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Learning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "💰 Finance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":18.355239786856128}"
+                },
+                {
+                  "title": "🏥 Health",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏥 Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "🏤 Admin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏤 Admin.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "🏡 House",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
                   "title": "Movie",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/01 Types/Movie.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -190,7 +220,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Areas/🏡 House.md",
+                "file": "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -317,7 +347,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Areas/🏡 House.md"
+                "file": "40 Zettelkasten/42 Main Notes/Aggregate demand.md"
               }
             }
           },
@@ -402,7 +432,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Areas/🏡 House.md",
+                "file": "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -428,7 +458,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Areas/🏡 House.md",
+                "file": "40 Zettelkasten/42 Main Notes/Aggregate demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -466,6 +496,11 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "20 Areas/Learning.md",
+    "20 Areas/💰 Finance.md",
+    "20 Areas/🏥 Health.md",
+    "20 Areas/🏤 Admin.md",
+    "20 Areas/🏡 House.md",
     "00 Captures/01 Types/Movie.md",
     "00 Captures/+ About +.md",
     "00 Captures/01 Types/Song.md",
@@ -491,11 +526,6 @@
     "40 Zettelkasten/42 Main Notes/Kapitalismus.md",
     "00 Captures/Atlas/+ About Atlas.md",
     "10 Projects/Web Design For Beginners 2024.md",
-    "40 Zettelkasten/41 Source Notes/Articles/Musíme se snažit umřít ve zdraví..md",
-    "40 Zettelkasten/41 Source Notes/Articles/Freemason Christians Are Deeply Incoherent, Says Former ‘Worshipful Master’.md",
-    "00 Captures/MiCA, Dora, Travel Rule.md",
-    "10 Projects/Project - janadolezelova.com.md",
-    "00 Captures/Efforts.md",
     "10 Projects/Notes/Stockpicking",
     "40 Zettelkasten/Persons",
     "20 Areas/Notes/Clients/janadolezelova.com",

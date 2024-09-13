@@ -19,7 +19,7 @@ rank:
 >  file.link as "",
 >  rank as "Rank"
 > 
-> FROM "Spaces/Notes/House"
+> FROM "20 Areas/Notes/House"
 > 
 > WHERE rank > 3
 > 
