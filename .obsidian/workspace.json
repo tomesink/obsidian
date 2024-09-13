@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Informaci je prilis moc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Informaci je prilis moc.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
+                },
+                {
                   "title": "Figma containers",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Figma containers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -106,7 +112,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Informaci je prilis moc.md",
+                "file": "Calendar/+ About Calendar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -233,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Informaci je prilis moc.md"
+                "file": "Calendar/+ About Calendar.md"
               }
             }
           },
@@ -318,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Informaci je prilis moc.md",
+                "file": "Calendar/+ About Calendar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Informaci je prilis moc.md",
+                "file": "Calendar/+ About Calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -382,6 +388,7 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "Cards/Informaci je prilis moc.md",
     "Cards/Figma containers.md",
     "Cards/Collaterilazed Debt Obligation (CDO).md",
     "Cards/Neni li Buh vse je dovoleno.md",
@@ -408,7 +415,6 @@
     "Spaces/Projects/Stockpickingu.md",
     "Spaces/Notes/Stockpicking",
     "Spaces/Projects/Motion Design In Figma.md",
-    "Spaces/Areas/💰 Finance.md",
     "Cards/Persons",
     "Spaces/Notes/Clients/janadolezelova.com",
     "Spaces/Notes/Clients",
