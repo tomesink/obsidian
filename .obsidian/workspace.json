@@ -11,16 +11,22 @@
             "id": "2617f4b3b90e39f8",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Project - janadolezelova.com",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Project - janadolezelova.com.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "10.06 Web Design 101",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.06 Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "10.01 Client - janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/10.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -464,7 +470,7 @@
                 {
                   "title": "Web Design For Beginners 2024",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Web Design For Beginners 2024.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.07 Web Design For Beginners 2024.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
@@ -494,18 +500,12 @@
               ]
             },
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "10 Projects/10.01 Client - janadolezelova.com.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "10 Projects/10.05 Stockpickingu.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -629,7 +629,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/10.01 Client - janadolezelova.com.md"
+                "file": "10 Projects/10.05 Stockpickingu.md"
               }
             }
           },
@@ -714,7 +714,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/10.01 Client - janadolezelova.com.md",
+                "file": "10 Projects/10.05 Stockpickingu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -740,7 +740,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/10.01 Client - janadolezelova.com.md",
+                "file": "10 Projects/10.05 Stockpickingu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -775,10 +775,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2617f4b3b90e39f8",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
-    "10 Projects/Project - janadolezelova.com.md",
+    "10 Projects/10.06 Web Design 101.md",
     "10 Projects/10.01 Client - janadolezelova.com.md",
+    "10 Projects/Project - janadolezelova.com.md",
     "10 Projects/10.04 Motion Design In Figma.md",
     "10 Projects/10.03 Design System.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md",
@@ -804,7 +805,6 @@
     "10 Projects/10.00 Notes/Web Design 101/Episode 4 - Typography.md",
     "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography",
     "+ Zettelkasten/7000 Art & Recreation/7100 Design",
-    "+ Zettelkasten/+About.md",
     "00 Captures/Processing main notes",
     "40 Zettelkasten/42 Main Notes/42.00",
     "+ Zettelkasten/7000 Art & Recreation",
