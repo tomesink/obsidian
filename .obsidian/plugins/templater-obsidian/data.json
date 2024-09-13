@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Extras/Templates",
+  "templates_folder": "_system/Templates",
   "templates_pairs": [
     [
       "",
@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "00 Captures",
-      "template": ""
+      "template": "_system/Templates/+ 0 Main Note.md"
     }
   ],
   "syntax_highlighting": true,
