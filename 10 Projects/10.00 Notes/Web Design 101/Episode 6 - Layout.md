@@ -5,6 +5,11 @@ created: 2024-09-13
 
 # Episode 6 - Layout
 
+The hardest possibly skill to master.
+
+
+
+
 
 
 
