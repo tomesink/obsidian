@@ -18,10 +18,22 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Source,  Article",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/Source,  Article.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Project Management Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/Project Management Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
                   "title": "Week 37 2024-05",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30 Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":45,\"ch\":14}},\"scroll\":0}"
                 },
                 {
                   "title": "Episode 6 - Layout",
@@ -526,7 +538,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/2024-05-02.md",
+                "file": "_system/Templates/Template, Properties, Source (Kit).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -653,7 +665,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/2024-05-02.md"
+                "file": "_system/Templates/Template, Properties, Source (Kit).md"
               }
             }
           },
@@ -738,7 +750,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/2024-05-02.md",
+                "file": "_system/Templates/Template, Properties, Source (Kit).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -764,7 +776,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/2024-05-02.md",
+                "file": "_system/Templates/Template, Properties, Source (Kit).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -801,6 +813,9 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "_system/Templates/Source,  Article.md",
+    "_system/Templates/Template,  Movie.md",
+    "_system/Templates/Project Management Note.md",
     "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
     "Calendar/2024-05-02.md",
     "Calendar",
@@ -833,9 +848,6 @@
     "00 Captures/Testovaci.md",
     "00 Captures/Testova.md",
     "00 Captures/test.md",
-    "_system/Templates/+ 0 Main Note.md",
-    "00 Captures/Processing main notes/Aggregate demand.md",
-    "_system/Templates/Template, Nick Milo's Custom Callouts.md",
     "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography",
     "+ Zettelkasten/7000 Art & Recreation/7100 Design",
     "00 Captures/Processing main notes",
