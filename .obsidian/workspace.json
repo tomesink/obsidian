@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "10.03 Design System",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.03 Design System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":13},\"to\":{\"line\":20,\"ch\":13}},\"scroll\":14}"
+                },
+                {
                   "title": "10.04 Motion Design In Figma",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.04 Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -592,7 +598,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/10.03 Design System.md",
+                "file": "10 Projects/10.05 Stockpickingu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -719,7 +725,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/10.03 Design System.md"
+                "file": "10 Projects/10.05 Stockpickingu.md"
               }
             }
           },
@@ -804,7 +810,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/10.03 Design System.md",
+                "file": "10 Projects/10.05 Stockpickingu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -830,7 +836,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/10.03 Design System.md",
+                "file": "10 Projects/10.05 Stockpickingu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -865,8 +871,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2617f4b3b90e39f8",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "00 Captures/Untitled",
+    "10 Projects/10.03 Design System.md",
     "10 Projects/10.04 Motion Design In Figma.md",
     "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
     "20 Areas/Notes/Finance/My Investments.md",
@@ -904,12 +912,10 @@
     "10 Projects/10.05 Stockpickingu.md",
     "10 Projects/10.01 Client - janadolezelova.com.md",
     "10 Projects/Project - janadolezelova.com.md",
-    "10 Projects/10.03 Design System.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md",
     "20 Areas/Notes/Clients/janadolezelova.com/Create + send proposal.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md",
-    "20 Areas/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
     "_system/Attachments/Design system.png",
     "Design system.png",
     "_system/Attachments/ranni.jpeg",
