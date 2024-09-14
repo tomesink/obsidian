@@ -20,7 +20,7 @@
                 {
                   "title": "🏥 Health",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏥 Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/🏥 Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
@@ -236,19 +236,19 @@
                 {
                   "title": "My Investments",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Finance/My Investments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/Notes/Finance/My Investments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":12},\"to\":{\"line\":10,\"ch\":12}},\"scroll\":8}"
                 },
                 {
                   "title": "🏡 House",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
                 },
                 {
@@ -350,55 +350,55 @@
                 {
                   "title": "Content strategy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/Notes/Clients/janadolezelova.com/Content strategy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Create + send invoice for downpayment (50%)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Create + send proposal",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Create + send proposal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/Notes/Clients/janadolezelova.com/Create + send proposal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Full Site HI-FI Mockups",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Home Page Hi-Fi Concepts",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Invite client to shared Notion workspace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Prepare + send contract to client",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Sales call",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Sales call.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/Notes/Clients/janadolezelova.com/Sales call.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Setup shared Slack workspace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -596,19 +596,19 @@
                 {
                   "title": "Learning",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":18.355239786856128}"
                 },
                 {
                   "title": "🏥 Health",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏥 Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/🏥 Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
@@ -620,7 +620,7 @@
                 {
                   "title": "🏡 House",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
                 },
                 {
@@ -796,7 +796,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Areas/🏡 House.md",
+                "file": "20 Life Admin/🏡 House.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -923,7 +923,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Areas/🏡 House.md"
+                "file": "20 Life Admin/🏡 House.md"
               }
             }
           },
@@ -1008,7 +1008,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Areas/🏡 House.md",
+                "file": "20 Life Admin/🏡 House.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1034,7 +1034,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Areas/🏡 House.md",
+                "file": "20 Life Admin/🏡 House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1069,9 +1069,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2617f4b3b90e39f8",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
-    "20 Areas/🏥 Health.md",
+    "20 Life Admin/🏥 Health.md",
     "10 Projects/11 Active/11.02 Design System.md",
     "10 Projects/11 Active/11.04 Web Design 101.md",
     "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
@@ -1087,16 +1087,16 @@
     "10 Projects/12 Simmering",
     "10 Projects/11 Active",
     "00 Captures/Untitled",
-    "20 Areas/Notes/Finance/My Investments.md",
+    "20 Life Admin/Notes/Finance/My Investments.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "_system/Attachments/Portfolio Management.xlsx",
-    "20 Areas/26 Entertainment",
-    "20 Areas/💰 Finance.md",
-    "20 Areas/🏡 House.md",
-    "20 Areas/Notes/House/Senkyrik.md",
+    "20 Life Admin/26 Entertainment",
+    "20 Life Admin/💰 Finance.md",
+    "20 Life Admin/🏡 House.md",
+    "20 Life Admin/Notes/House/Senkyrik.md",
     "20 Areas/🏤 Admin.md",
-    "20 Areas/Notes/Personal/🎬 Movies To Watch.md",
-    "20 Areas/25 Travel & events",
+    "20 Life Admin/Notes/Personal/🎬 Movies To Watch.md",
+    "20 Life Admin/25 Travel & events",
     "_system/Templates/+ 0 Note.md",
     "_system/Templates/+ Weekly Note.md",
     "_system/Templates/Source,  Article.md",
@@ -1113,7 +1113,7 @@
     "_system/Attachments/Pasted image 20240913174446.png",
     "_system/Attachments/Pasted image 20240913174108.png",
     "10 Projects/Project - janadolezelova.com.md",
-    "20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md",
+    "20 Life Admin/Notes/Clients/janadolezelova.com/Content strategy.md",
     "_system/Attachments/Design system.png",
     "Design system.png",
     "_system/Attachments/ranni.jpeg",
