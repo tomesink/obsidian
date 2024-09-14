@@ -1,6 +1,6 @@
 ---
 zettel:
-  - Permanent Note
+  - Fleeting Note
 topic:
   - "[[Webdesign]]"
 references: 
