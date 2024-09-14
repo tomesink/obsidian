@@ -53,12 +53,12 @@
   "00 Captures": "LiInbox",
   "_system": "LiTerminal",
   "+ Zettelkasten": "LiSheetsInBox",
-  "20 Areas/21 Me & other living things": "🙎‍♂️",
-  "20 Areas/22 Where I live & how I get around": "🏡",
-  "20 Areas/23 Money earned, saved, owned & spent": "💰",
   "20 Areas/24 My online life": "💻",
   "20 Areas/25 Travel & events": "🛫",
   "20 Areas/26 Entertainment": "🎲",
   "10 Projects/12 Simmering": "〰",
-  "10 Projects/11 Active": "🔥"
+  "10 Projects/11 Active": "🔥",
+  "20 Areas/22 House": "🏡",
+  "20 Areas/23 Money": "💰",
+  "20 Areas/21 Me & family": "🙎‍♂️"
 }
