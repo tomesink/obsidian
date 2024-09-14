@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "11.04 Web Design 101",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.04 Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
                   "title": "11.03 Motion Design In Figma",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.03 Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -54,7 +60,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
-                  "title": "Web Design 101",
+                  "title": "11.04 Web Design 101",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.04 Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
@@ -72,7 +78,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":12}"
                 },
                 {
-                  "title": "Web Design 101",
+                  "title": "11.04 Web Design 101",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.04 Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
@@ -114,7 +120,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
-                  "title": "Web Design 101",
+                  "title": "11.04 Web Design 101",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.04 Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
@@ -126,7 +132,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
-                  "title": "Web Design 101",
+                  "title": "11.04 Web Design 101",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.04 Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
@@ -264,7 +270,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":80,\"ch\":0},\"to\":{\"line\":80,\"ch\":0}},\"scroll\":64.93019519304282}"
                 },
                 {
-                  "title": "Web Design 101",
+                  "title": "11.04 Web Design 101",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.04 Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
@@ -276,7 +282,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
-                  "title": "Web Design 101",
+                  "title": "11.04 Web Design 101",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.04 Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
@@ -760,7 +766,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/11 Active/11.04 Web Design 101.md",
+                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -887,7 +893,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/11 Active/11.04 Web Design 101.md"
+                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md"
               }
             }
           },
@@ -972,7 +978,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/11 Active/11.04 Web Design 101.md",
+                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -998,7 +1004,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/11 Active/11.04 Web Design 101.md",
+                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1035,13 +1041,13 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "10 Projects/11 Active/11.04 Web Design 101.md",
     "10 Projects/11 Active/11.03 Motion Design In Figma.md",
     "10 Projects/11 Active/11.02 Design System.md",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
     "10 Projects/11 Active/11.02 Design System",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com",
     "10 Projects/12 Simmering/CSS layout & positioning.md",
-    "10 Projects/11 Active/11.04 Web Design 101.md",
     "10 Projects/11 Active/11.03 Motion Design In Figma/Figma containers.md",
     "10 Projects/12 Simmering/12.00 Notes",
     "10 Projects/12 Simmering/Stockpicking.md",
