@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "11.01 Client - janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/11 Active/11.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "10.05 Stockpickingu",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.05 Stockpickingu.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
                   "title": "10.03 Design System",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.03 Design System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -98,7 +110,7 @@
                 {
                   "title": "Episode 6 - Layout",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.00 Notes/Web Design 101/Episode 6 - Layout.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":80,\"ch\":0},\"to\":{\"line\":80,\"ch\":0}},\"scroll\":64.93019519304282}"
                 },
                 {
@@ -120,9 +132,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
-                  "title": "10.01 Client - janadolezelova.com",
+                  "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/10.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/11 Active/11.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -132,9 +144,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
-                  "title": "10.01 Client - janadolezelova.com",
+                  "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/10.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/11 Active/11.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -302,7 +314,7 @@
                 {
                   "title": "Episode 4 - Typography",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.00 Notes/Web Design 101/Episode 4 - Typography.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.00 Notes/Web Design 101/Episode 4 - Typography.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":9}"
                 },
                 {
@@ -598,7 +610,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/10.05 Stockpickingu.md",
+                "file": "10 Projects/11 Active/11.02 CSS layout & positioning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -725,7 +737,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/10.05 Stockpickingu.md"
+                "file": "10 Projects/11 Active/11.02 CSS layout & positioning.md"
               }
             }
           },
@@ -810,7 +822,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/10.05 Stockpickingu.md",
+                "file": "10 Projects/11 Active/11.02 CSS layout & positioning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -836,7 +848,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/10.05 Stockpickingu.md",
+                "file": "10 Projects/11 Active/11.02 CSS layout & positioning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -873,6 +885,8 @@
   },
   "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
+    "10 Projects/10.05 Stockpickingu.md",
     "10 Projects/11 Active",
     "00 Captures/Untitled",
     "10 Projects/10.03 Design System.md",
@@ -899,8 +913,7 @@
     "_system/Templates/Template,  Movie.md",
     "_system/Templates/Project Management Note.md",
     "Calendar/2024-05-02.md",
-    "Calendar",
-    "10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md",
+    "10 Projects/11 Active/11.00 Notes/Web Design 101/Episode 6 - Layout.md",
     "_system/Attachments/Pasted image 20240913175648.png",
     "_system/Attachments/Pasted image 20240913175014.png",
     "_system/Attachments/Pasted image 20240913174729.png",
@@ -909,8 +922,6 @@
     "_system/Attachments/Pasted image 20240913174446.png",
     "_system/Attachments/Pasted image 20240913174108.png",
     "10 Projects/10.06 Web Design 101.md",
-    "10 Projects/10.05 Stockpickingu.md",
-    "10 Projects/10.01 Client - janadolezelova.com.md",
     "10 Projects/Project - janadolezelova.com.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md",
