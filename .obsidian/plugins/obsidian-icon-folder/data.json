@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🔥",
+      "〰",
       "🎲",
       "🛫",
       "🍺",
@@ -18,9 +20,7 @@
       "LiInbox",
       "LiFlame",
       "LiRecycle",
-      "LiEye",
-      "✝",
-      "♻"
+      "LiEye"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -58,5 +58,7 @@
   "20 Areas/23 Money earned, saved, owned & spent": "💰",
   "20 Areas/24 My online life": "💻",
   "20 Areas/25 Travel & events": "🛫",
-  "20 Areas/26 Entertainment": "🎲"
+  "20 Areas/26 Entertainment": "🎲",
+  "10 Projects/12 Simmering": "〰",
+  "10 Projects/11 Active": "🔥"
 }

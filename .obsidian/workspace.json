@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Web Design 101",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Figma containers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.00 Notes/Motion Design In Figma/Figma containers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
+                },
+                {
                   "title": "Motion Design In Figma",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -712,7 +724,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/11 Active/11.00 Notes/Motion Design In Figma/Figma containers.md",
+                "file": "10 Projects/12 Simmering/CSS layout & positioning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -839,7 +851,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/11 Active/11.00 Notes/Motion Design In Figma/Figma containers.md"
+                "file": "10 Projects/12 Simmering/CSS layout & positioning.md"
               }
             }
           },
@@ -924,7 +936,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/11 Active/11.00 Notes/Motion Design In Figma/Figma containers.md",
+                "file": "10 Projects/12 Simmering/CSS layout & positioning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -950,7 +962,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/11 Active/11.00 Notes/Motion Design In Figma/Figma containers.md",
+                "file": "10 Projects/12 Simmering/CSS layout & positioning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -985,10 +997,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "10 Projects/11 Active/Motion Design In Figma.md",
     "10 Projects/11 Active/Web Design 101.md",
+    "10 Projects/11 Active/11.00 Notes/Motion Design In Figma/Figma containers.md",
+    "10 Projects/11 Active/Motion Design In Figma.md",
     "10 Projects/11 Active/Design System.md",
     "10 Projects/12 Simmering/12.00 Notes",
     "10 Projects/11 Active/Client - janadolezelova.com.md",
