@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "My Investments",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Finance/My Investments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -574,7 +580,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Areas/Notes/Finance/My Investments.md",
+                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -701,7 +707,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Areas/Notes/Finance/My Investments.md"
+                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md"
               }
             }
           },
@@ -786,7 +792,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Areas/Notes/Finance/My Investments.md",
+                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -812,7 +818,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Areas/Notes/Finance/My Investments.md",
+                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -849,6 +855,7 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "20 Areas/Notes/Finance/My Investments.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "_system/Attachments/Portfolio Management.xlsx",
     "20 Areas/26 Entertainment",
@@ -891,7 +898,6 @@
     "20 Areas/Notes/Clients/janadolezelova.com/Create + send proposal.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
-    "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography",
     "_system/Attachments/Design system.png",
     "Design system.png",
     "_system/Attachments/ranni.jpeg",
