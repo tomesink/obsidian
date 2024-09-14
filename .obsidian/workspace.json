@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Client - janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/11 Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "CSS layout & positioning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/12 Simmering/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
                   "title": "Web Design 101",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -724,7 +736,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/12 Simmering/CSS layout & positioning.md",
+                "file": "10 Projects/11 Active/Design System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -851,7 +863,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/12 Simmering/CSS layout & positioning.md"
+                "file": "10 Projects/11 Active/Design System.md"
               }
             }
           },
@@ -936,7 +948,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/12 Simmering/CSS layout & positioning.md",
+                "file": "10 Projects/11 Active/Design System.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -962,7 +974,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/12 Simmering/CSS layout & positioning.md",
+                "file": "10 Projects/11 Active/Design System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -997,17 +1009,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2617f4b3b90e39f8",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "10 Projects/11 Active/11.02 Design System",
+    "10 Projects/11 Active/Client - janadolezelova.com.md",
+    "10 Projects/11 Active/11.01 Client - janadolezelova.com",
+    "10 Projects/12 Simmering/CSS layout & positioning.md",
     "10 Projects/11 Active/Web Design 101.md",
     "10 Projects/11 Active/11.00 Notes/Motion Design In Figma/Figma containers.md",
     "10 Projects/11 Active/Motion Design In Figma.md",
     "10 Projects/11 Active/Design System.md",
     "10 Projects/12 Simmering/12.00 Notes",
-    "10 Projects/11 Active/Client - janadolezelova.com.md",
     "10 Projects/12 Simmering/Stockpicking.md",
     "10 Projects/12 Simmering/Web Design For Beginners 2024.md",
-    "10 Projects/12 Simmering/CSS layout & positioning.md",
     "10 Projects/12 Simmering",
     "10 Projects/11 Active",
     "00 Captures/Untitled",
@@ -1023,7 +1037,6 @@
     "20 Areas/Notes/Personal/🎬 Movies To Watch.md",
     "20 Areas/25 Travel & events",
     "20 Areas/24 My online life",
-    "20 Areas/23 Money earned, saved, owned & spent",
     "_system/Templates/+ 0 Note.md",
     "_system/Templates/+ Weekly Note.md",
     "_system/Templates/Source,  Article.md",
@@ -1041,7 +1054,6 @@
     "_system/Attachments/Pasted image 20240913174108.png",
     "10 Projects/Project - janadolezelova.com.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md",
-    "20 Areas/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md",
     "_system/Attachments/Design system.png",
     "Design system.png",
     "_system/Attachments/ranni.jpeg",
