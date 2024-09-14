@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🙋‍♂️",
       "🔥",
       "〰",
       "🎲",
@@ -19,8 +20,7 @@
       "LiSheetsInBox",
       "LiInbox",
       "LiFlame",
-      "LiRecycle",
-      "LiEye"
+      "LiRecycle"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -60,5 +60,5 @@
   "20 Life Admin/25 Travel & events": "🛫",
   "20 Life Admin/22 House": "🏡",
   "20 Life Admin/23 Money": "💰",
-  "20 Life Admin/21 Me & family": "🙎‍♂️"
+  "20 Life Admin/21 Me & family": "🙋‍♂️"
 }
