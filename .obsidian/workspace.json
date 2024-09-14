@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "🏥 Health",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏥 Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "11.02 Design System",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.02 Design System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
                   "title": "11.04 Web Design 101",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.04 Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -784,7 +796,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/11 Active/11.02 Design System.md",
+                "file": "20 Areas/🏡 House.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -911,7 +923,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/11 Active/11.02 Design System.md"
+                "file": "20 Areas/🏡 House.md"
               }
             }
           },
@@ -996,7 +1008,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/11 Active/11.02 Design System.md",
+                "file": "20 Areas/🏡 House.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1022,7 +1034,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/11 Active/11.02 Design System.md",
+                "file": "20 Areas/🏡 House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1057,10 +1069,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "10 Projects/11 Active/11.04 Web Design 101.md",
+    "20 Areas/🏥 Health.md",
     "10 Projects/11 Active/11.02 Design System.md",
+    "10 Projects/11 Active/11.04 Web Design 101.md",
     "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
     "10 Projects/11 Active/11.03 Motion Design In Figma.md",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
