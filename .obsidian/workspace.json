@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "10.04 Motion Design In Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.04 Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Week 37 2024-05",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30 Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "My Investments",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Finance/My Investments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -580,7 +592,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
+                "file": "10 Projects/10.03 Design System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -707,7 +719,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md"
+                "file": "10 Projects/10.03 Design System.md"
               }
             }
           },
@@ -792,7 +804,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
+                "file": "10 Projects/10.03 Design System.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -818,7 +830,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
+                "file": "10 Projects/10.03 Design System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -855,6 +867,8 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "10 Projects/10.04 Motion Design In Figma.md",
+    "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
     "20 Areas/Notes/Finance/My Investments.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "_system/Attachments/Portfolio Management.xlsx",
@@ -862,7 +876,6 @@
     "20 Areas/💰 Finance.md",
     "20 Areas/🏡 House.md",
     "20 Areas/Notes/House/Senkyrik.md",
-    "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
     "20 Areas/🏤 Admin.md",
     "20 Areas/Notes/Personal/🎬 Movies To Watch.md",
     "20 Areas/25 Travel & events",
@@ -891,7 +904,6 @@
     "10 Projects/10.05 Stockpickingu.md",
     "10 Projects/10.01 Client - janadolezelova.com.md",
     "10 Projects/Project - janadolezelova.com.md",
-    "10 Projects/10.04 Motion Design In Figma.md",
     "10 Projects/10.03 Design System.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md",
