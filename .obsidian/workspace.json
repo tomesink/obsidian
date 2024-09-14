@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "11.04 Motion Design In Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.04 Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "11.03 Design System",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.03 Design System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "11.02 CSS layout & positioning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/12 Simmering/12.01 CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
                   "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
                   "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/11 Active/11.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
@@ -30,15 +48,15 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
-                  "title": "10.03 Design System",
+                  "title": "11.03 Design System",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.03 Design System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.03 Design System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":13},\"to\":{\"line\":20,\"ch\":13}},\"scroll\":14}"
                 },
                 {
-                  "title": "10.04 Motion Design In Figma",
+                  "title": "11.04 Motion Design In Figma",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.04 Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.04 Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
@@ -150,15 +168,15 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "10.04 Motion Design In Figma",
+                  "title": "11.04 Motion Design In Figma",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.04 Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.04 Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "10.03 Design System",
+                  "title": "11.03 Design System",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/10.03 Design System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.03 Design System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
                 },
                 {
@@ -610,7 +628,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/11 Active/11.02 CSS layout & positioning.md",
+                "file": "10 Projects/12 Simmering/12.01 CSS layout & positioning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -737,7 +755,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/11 Active/11.02 CSS layout & positioning.md"
+                "file": "10 Projects/12 Simmering/12.01 CSS layout & positioning.md"
               }
             }
           },
@@ -822,7 +840,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/11 Active/11.02 CSS layout & positioning.md",
+                "file": "10 Projects/12 Simmering/12.01 CSS layout & positioning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -848,7 +866,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/11 Active/11.02 CSS layout & positioning.md",
+                "file": "10 Projects/12 Simmering/12.01 CSS layout & positioning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -883,14 +901,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "10 Projects/11 Active/11.04 Motion Design In Figma.md",
+    "10 Projects/12 Simmering",
+    "10 Projects/11 Active/11.03 Design System.md",
+    "10 Projects/12 Simmering/12.01 CSS layout & positioning.md",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
     "10 Projects/10.05 Stockpickingu.md",
     "10 Projects/11 Active",
     "00 Captures/Untitled",
-    "10 Projects/10.03 Design System.md",
-    "10 Projects/10.04 Motion Design In Figma.md",
     "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
     "20 Areas/Notes/Finance/My Investments.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
@@ -905,7 +925,6 @@
     "20 Areas/24 My online life",
     "20 Areas/23 Money earned, saved, owned & spent",
     "20 Areas/22 Where I live & how I get around",
-    "20 Areas/21 Me & other living things",
     "_system/Templates/+ 0 Note.md",
     "_system/Templates/+ Weekly Note.md",
     "_system/Templates/Source,  Article.md",
@@ -926,7 +945,6 @@
     "20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md",
     "20 Areas/Notes/Clients/janadolezelova.com/Create + send proposal.md",
-    "20 Areas/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md",
     "_system/Attachments/Design system.png",
     "Design system.png",
     "_system/Attachments/ranni.jpeg",
