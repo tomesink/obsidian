@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "💰 Finance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":12},\"to\":{\"line\":10,\"ch\":12}},\"scroll\":8}"
+                },
+                {
+                  "title": "🏡 House",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
+                },
+                {
+                  "title": "Week 37 2024-05",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30 Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":12},\"to\":{\"line\":24,\"ch\":12}},\"scroll\":12.052408854166666}"
+                },
+                {
                   "title": "+ 0 Note",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ 0 Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -556,7 +574,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
+                "file": "20 Areas/Notes/Finance/My Investments.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -683,7 +701,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md"
+                "file": "20 Areas/Notes/Finance/My Investments.md"
               }
             }
           },
@@ -768,7 +786,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
+                "file": "20 Areas/Notes/Finance/My Investments.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -794,7 +812,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
+                "file": "20 Areas/Notes/Finance/My Investments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -829,9 +847,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "20 Areas/25 Travel, events & entertainment",
+    "_system/Attachments/~$Portfolio Management.xlsx",
+    "_system/Attachments/Portfolio Management.xlsx",
+    "20 Areas/26 Entertainment",
+    "20 Areas/💰 Finance.md",
+    "20 Areas/🏡 House.md",
+    "20 Areas/Notes/House/Senkyrik.md",
+    "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
+    "20 Areas/🏤 Admin.md",
+    "20 Areas/Notes/Personal/🎬 Movies To Watch.md",
+    "20 Areas/25 Travel & events",
     "20 Areas/24 My online life",
     "20 Areas/23 Money earned, saved, owned & spent",
     "20 Areas/22 Where I live & how I get around",
@@ -842,7 +869,6 @@
     "_system/Templates/Template, Properties, Source (Kit).md",
     "_system/Templates/Template,  Movie.md",
     "_system/Templates/Project Management Note.md",
-    "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
     "Calendar/2024-05-02.md",
     "Calendar",
     "10 Projects/10.00 Notes/Web Design 101/Episode 6 - Layout.md",
@@ -865,15 +891,7 @@
     "20 Areas/Notes/Clients/janadolezelova.com/Create + send proposal.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md",
     "20 Areas/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
-    "20 Areas/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md",
-    "20 Areas/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md",
-    "20 Areas/Notes/Clients/janadolezelova.com/Sales call.md",
-    "20 Areas/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
-    "00 Captures/Yuri Bezmenov - The Four Stages of Ideological Subversion.md",
     "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography",
-    "+ Zettelkasten/7000 Art & Recreation/7100 Design",
-    "00 Captures/Processing main notes",
-    "40 Zettelkasten/42 Main Notes/42.00",
     "_system/Attachments/Design system.png",
     "Design system.png",
     "_system/Attachments/ranni.jpeg",
