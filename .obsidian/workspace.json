@@ -11,11 +11,23 @@
             "id": "2617f4b3b90e39f8",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Content strategy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/Notes/Clients/janadolezelova.com/Content strategy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "7110.1.1 Purpose of typography in design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 },
                 {
                   "title": "💰 Finance",
@@ -806,12 +818,18 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -935,7 +953,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md"
+                "file": "10 Projects/11 Active/11.01 Client - janadolezelova.com.md"
               }
             }
           },
@@ -1020,7 +1038,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md",
+                "file": "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1046,7 +1064,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md",
+                "file": "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1083,6 +1101,11 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "20 Life Admin/Notes/Clients/janadolezelova.com/Content strategy.md",
+    "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
+    "20 Life Admin/Notes/Clients/janadolezelova.com/Create + send proposal.md",
+    "20 Life Admin/Notes/Clients/janadolezelova.com/Sales call.md",
+    "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md",
     "20 Life Admin/💰 Finance.md",
     "20 Life Admin/🏡 House.md",
     "10 Projects/12 Simmering/Web Design For Beginners 2024.md",
@@ -1091,7 +1114,6 @@
     "10 Projects/11 Active/11.04 Web Design 101.md",
     "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
     "10 Projects/11 Active/11.03 Motion Design In Figma.md",
-    "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
     "10 Projects/11 Active/11.02 Design System",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com",
     "10 Projects/12 Simmering/CSS layout & positioning.md",
@@ -1115,8 +1137,6 @@
     "_system/Templates/Template, Properties, Source (Kit).md",
     "_system/Templates/Template,  Movie.md",
     "_system/Templates/Project Management Note.md",
-    "Calendar/2024-05-02.md",
-    "10 Projects/11 Active/11.04 Web Design 101/Episode 6 - Layout.md",
     "_system/Attachments/Pasted image 20240913175648.png",
     "_system/Attachments/Pasted image 20240913175014.png",
     "_system/Attachments/Pasted image 20240913174729.png",
@@ -1124,8 +1144,6 @@
     "_system/Attachments/Pasted image 20240913174552.png",
     "_system/Attachments/Pasted image 20240913174446.png",
     "_system/Attachments/Pasted image 20240913174108.png",
-    "10 Projects/Project - janadolezelova.com.md",
-    "20 Life Admin/Notes/Clients/janadolezelova.com/Content strategy.md",
     "_system/Attachments/Design system.png",
     "Design system.png",
     "_system/Attachments/ranni.jpeg",
