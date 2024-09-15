@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "💰 Finance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "🏡 House",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
                   "title": "🏥 Health",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/🏥 Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -796,7 +808,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Life Admin/🏡 House.md",
+                "file": "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -923,7 +935,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Life Admin/🏡 House.md"
+                "file": "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md"
               }
             }
           },
@@ -1008,7 +1020,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Life Admin/🏡 House.md",
+                "file": "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1034,7 +1046,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Life Admin/🏡 House.md",
+                "file": "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1071,8 +1083,9 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "10 Projects/12 Simmering/Web Design For Beginners 2024.md",
+    "20 Life Admin/💰 Finance.md",
     "20 Life Admin/🏡 House.md",
+    "10 Projects/12 Simmering/Web Design For Beginners 2024.md",
     "20 Life Admin/🏥 Health.md",
     "10 Projects/11 Active/11.02 Design System.md",
     "10 Projects/11 Active/11.04 Web Design 101.md",
@@ -1092,7 +1105,6 @@
     "_system/Attachments/~$Portfolio Management.xlsx",
     "_system/Attachments/Portfolio Management.xlsx",
     "20 Life Admin/26 Entertainment",
-    "20 Life Admin/💰 Finance.md",
     "20 Life Admin/Notes/House/Senkyrik.md",
     "20 Areas/🏤 Admin.md",
     "20 Life Admin/Notes/Personal/🎬 Movies To Watch.md",
