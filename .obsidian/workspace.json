@@ -14,9 +14,9 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Create + send proposal",
+                  "title": "Copywriting",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/Notes/Clients/janadolezelova.com/Create + send proposal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/Notes/Clients/janadolezelova.com/Copywriting.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
@@ -1101,8 +1101,11 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "20 Life Admin/Notes/Clients/janadolezelova.com/Create + send proposal.md",
+    "20 Life Admin/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
+    "20 Life Admin/Notes/Clients/janadolezelova.com/Copywriting.md",
+    "20 Life Admin/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
+    "20 Life Admin/Notes/Clients/janadolezelova.com/Create + send proposal.md",
     "20 Life Admin/Notes/Clients/janadolezelova.com/Content strategy.md",
     "20 Life Admin/Notes/Clients/janadolezelova.com/Sales call.md",
     "+ Zettelkasten/7000 Art & Recreation/7100 Design/7110 Typography/7110.1.1 Purpose of typography in design.md",
@@ -1134,9 +1137,6 @@
     "_system/Templates/+ 0 Note.md",
     "_system/Templates/+ Weekly Note.md",
     "_system/Templates/Source,  Article.md",
-    "_system/Templates/Template, Properties, Source (Kit).md",
-    "_system/Templates/Template,  Movie.md",
-    "_system/Templates/Project Management Note.md",
     "_system/Attachments/Pasted image 20240913175648.png",
     "_system/Attachments/Pasted image 20240913175014.png",
     "_system/Attachments/Pasted image 20240913174729.png",
