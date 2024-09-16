@@ -862,6 +862,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "11.02 Design System",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.02 Design System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":169,\"ch\":106},\"to\":{\"line\":169,\"ch\":106}},\"scroll\":162.830988228853}"
+                },
+                {
                   "title": "Lesson 1 - Principles",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.02 Design System/Lesson 1 - Principles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -884,7 +890,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/11 Active/11.02 Design System.md",
+                "file": "10 Projects/11 Active/11.04 Web Design 101/Episode 4 - Typography.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1012,7 +1018,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/11 Active/11.02 Design System.md"
+                "file": "10 Projects/11 Active/11.04 Web Design 101/Episode 4 - Typography.md"
               }
             }
           },
@@ -1097,7 +1103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/11 Active/11.02 Design System.md",
+                "file": "10 Projects/11 Active/11.04 Web Design 101/Episode 4 - Typography.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1123,7 +1129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/11 Active/11.02 Design System.md",
+                "file": "10 Projects/11 Active/11.04 Web Design 101/Episode 4 - Typography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1160,6 +1166,7 @@
   },
   "active": "6925998ca2b3cc53",
   "lastOpenFiles": [
+    "10 Projects/11 Active/11.02 Design System.md",
     "_system/Attachments/Screenshot 2024-09-16 at 18.18.00.png",
     "_system/Attachments/Pasted image 20240916181829.png",
     "_system/Attachments/Pasted image 20240916181640.png",
@@ -1170,9 +1177,7 @@
     "_system/Attachments/Pasted image 20240916181045.png",
     "_system/Attachments/Screenshot 2024-09-16 at 18.03.27.png",
     "_system/Attachments/Pasted image 20240916174812.png",
-    "_system/Attachments/Pasted image 20240916174640.png",
     "10 Projects/11 Active/11.02 Design System/Lesson 1 - Principles.md",
-    "10 Projects/11 Active/11.02 Design System.md",
     "00 Captures/Psychologie kurzy.md",
     "00 Captures/Zklamani je velmi spatne nastavene ocekavani.md",
     "00 Captures/Web Design Books.md",
