@@ -11,16 +11,16 @@
             "id": "2617f4b3b90e39f8",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Copywriting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Life Admin/Notes/Clients/janadolezelova.com/Copywriting.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "11.01 Client - janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/11 Active/11.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -818,18 +818,12 @@
               ]
             },
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "00 Captures/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -953,7 +947,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/11 Active/11.01 Client - janadolezelova.com.md"
+                "file": "00 Captures/Untitled.md"
               }
             }
           },
@@ -1038,7 +1032,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
+                "file": "00 Captures/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1064,7 +1058,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
+                "file": "00 Captures/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1101,8 +1095,9 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "20 Life Admin/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
+    "00 Captures/Untitled.md",
+    "20 Life Admin/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
     "20 Life Admin/Notes/Clients/janadolezelova.com/Copywriting.md",
     "20 Life Admin/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
     "20 Life Admin/Notes/Clients/janadolezelova.com/Create + send proposal.md",
@@ -1136,7 +1131,6 @@
     "20 Life Admin/25 Travel & events",
     "_system/Templates/+ 0 Note.md",
     "_system/Templates/+ Weekly Note.md",
-    "_system/Templates/Source,  Article.md",
     "_system/Attachments/Pasted image 20240913175648.png",
     "_system/Attachments/Pasted image 20240913175014.png",
     "_system/Attachments/Pasted image 20240913174729.png",
