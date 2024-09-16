@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Track Your Design Business",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Track Your Design Business.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":26},\"to\":{\"line\":21,\"ch\":26}},\"scroll\":9.722222222222221}"
+                },
+                {
                   "title": "The Ultimate Blueprint for an Insanely Successful Business",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/The Ultimate Blueprint for an Insanely Successful Business.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -826,7 +832,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Captures/Track Your Design Business.md",
+                "file": "00 Captures/Web Design Books.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -953,7 +959,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/Track Your Design Business.md"
+                "file": "00 Captures/Web Design Books.md"
               }
             }
           },
@@ -1038,7 +1044,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/Track Your Design Business.md",
+                "file": "00 Captures/Web Design Books.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1064,7 +1070,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/Track Your Design Business.md",
+                "file": "00 Captures/Web Design Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1101,8 +1107,9 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "00 Captures/The Ultimate Blueprint for an Insanely Successful Business.md",
     "00 Captures/Track Your Design Business.md",
+    "00 Captures/Web Design Books.md",
+    "00 Captures/The Ultimate Blueprint for an Insanely Successful Business.md",
     "00 Captures/Digitalni revoluce.md",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
     "20 Life Admin/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
@@ -1135,7 +1142,6 @@
     "20 Life Admin/26 Entertainment",
     "20 Life Admin/Notes/House/Senkyrik.md",
     "20 Areas/🏤 Admin.md",
-    "20 Life Admin/Notes/Personal/🎬 Movies To Watch.md",
     "20 Life Admin/25 Travel & events",
     "_system/Attachments/Pasted image 20240913175648.png",
     "_system/Attachments/Pasted image 20240913175014.png",
