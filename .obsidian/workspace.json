@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Web Design Books",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Web Design Books.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Track Your Design Business",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Track Your Design Business.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -832,7 +838,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Captures/Web Design Books.md",
+                "file": "00 Captures/Zklamani je velmi spatne nastavene ocekavani.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -959,7 +965,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/Web Design Books.md"
+                "file": "00 Captures/Zklamani je velmi spatne nastavene ocekavani.md"
               }
             }
           },
@@ -1044,7 +1050,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/Web Design Books.md",
+                "file": "00 Captures/Zklamani je velmi spatne nastavene ocekavani.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1070,7 +1076,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/Web Design Books.md",
+                "file": "00 Captures/Zklamani je velmi spatne nastavene ocekavani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1107,8 +1113,9 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
     "00 Captures/Web Design Books.md",
+    "00 Captures/Zklamani je velmi spatne nastavene ocekavani.md",
+    "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
     "10 Projects/11 Active/11.03 Motion Design In Figma.md",
     "00 Captures/Track Your Design Business.md",
     "00 Captures/The Ultimate Blueprint for an Insanely Successful Business.md",
@@ -1141,7 +1148,6 @@
     "_system/Attachments/Portfolio Management.xlsx",
     "20 Life Admin/26 Entertainment",
     "20 Life Admin/Notes/House/Senkyrik.md",
-    "20 Areas/🏤 Admin.md",
     "20 Life Admin/25 Travel & events",
     "_system/Attachments/Pasted image 20240913175648.png",
     "_system/Attachments/Pasted image 20240913175014.png",
