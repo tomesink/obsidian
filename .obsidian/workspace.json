@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Zklamani je velmi spatne nastavene ocekavani",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Zklamani je velmi spatne nastavene ocekavani.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Web Design Books",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Web Design Books.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -838,7 +844,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Captures/Zklamani je velmi spatne nastavene ocekavani.md",
+                "file": "10 Projects/11 Active/11.02 Design System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -965,7 +971,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/Zklamani je velmi spatne nastavene ocekavani.md"
+                "file": "10 Projects/11 Active/11.02 Design System.md"
               }
             }
           },
@@ -1050,7 +1056,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/Zklamani je velmi spatne nastavene ocekavani.md",
+                "file": "10 Projects/11 Active/11.02 Design System.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1076,7 +1082,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/Zklamani je velmi spatne nastavene ocekavani.md",
+                "file": "10 Projects/11 Active/11.02 Design System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1113,8 +1119,8 @@
   },
   "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
-    "00 Captures/Web Design Books.md",
     "00 Captures/Zklamani je velmi spatne nastavene ocekavani.md",
+    "00 Captures/Web Design Books.md",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
     "10 Projects/11 Active/11.03 Motion Design In Figma.md",
     "00 Captures/Track Your Design Business.md",
