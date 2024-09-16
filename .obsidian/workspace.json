@@ -862,6 +862,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Lesson 1 - Principles",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.02 Design System/Lesson 1 - Principles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "11.02 Design System",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.02 Design System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":0},\"to\":{\"line\":78,\"ch\":0}},\"scroll\":14.41388867503272}"
+                },
+                {
                   "title": "Psychologie kurzy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Psychologie kurzy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1148,8 +1160,9 @@
   },
   "active": "6925998ca2b3cc53",
   "lastOpenFiles": [
-    "00 Captures/Psychologie kurzy.md",
+    "10 Projects/11 Active/11.02 Design System/Lesson 1 - Principles.md",
     "10 Projects/11 Active/11.02 Design System.md",
+    "00 Captures/Psychologie kurzy.md",
     "00 Captures/Zklamani je velmi spatne nastavene ocekavani.md",
     "00 Captures/Web Design Books.md",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
@@ -1179,7 +1192,6 @@
     "10 Projects/12 Simmering",
     "10 Projects/11 Active",
     "00 Captures/Untitled",
-    "20 Life Admin/Notes/Finance/My Investments.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "_system/Attachments/Portfolio Management.xlsx",
     "20 Life Admin/26 Entertainment",
