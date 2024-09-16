@@ -4,4 +4,5 @@ Nejdriv vseobecny prehled:
 
 a pak CBT: 
 
-[Fetching Title#v17k](https://www.udemy.com/course/cognitive-behavioural-therapy-online-course-cbt-practitioner-course/?couponCode=ST11MT91624A)
+[Earn A Cognitive Behavioral Therapy (CBT) Certificate | Udemy](https://www.udemy.com/course/cognitive-behavioural-therapy-online-course-cbt-practitioner-course/?couponCode=ST11MT91624A)
+
