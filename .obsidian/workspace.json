@@ -906,13 +906,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Deniky Doporuceni od Kuby",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Deniky Doporuceni od Kuby.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Captures/Deniky Doporuceni od Kuby.md",
+                "file": "00 Captures/Processing main notes/Zakladni ctnosti.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1040,7 +1046,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/Deniky Doporuceni od Kuby.md"
+                "file": "00 Captures/Processing main notes/Zakladni ctnosti.md"
               }
             }
           },
@@ -1125,7 +1131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/Deniky Doporuceni od Kuby.md",
+                "file": "00 Captures/Processing main notes/Zakladni ctnosti.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1151,7 +1157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/Deniky Doporuceni od Kuby.md",
+                "file": "00 Captures/Processing main notes/Zakladni ctnosti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1188,8 +1194,8 @@
   },
   "active": "e3b18819efcad99e",
   "lastOpenFiles": [
-    "10 Projects/11 Active/11.04 Web Design 101/Episode 4 - Typography.md",
     "00 Captures/Deniky Doporuceni od Kuby.md",
+    "10 Projects/11 Active/11.04 Web Design 101/Episode 4 - Typography.md",
     "10 Projects/11 Active/11.02 Design System.md",
     "_system/Attachments/Screenshot 2024-09-16 at 18.18.00.png",
     "_system/Attachments/Pasted image 20240916181829.png",

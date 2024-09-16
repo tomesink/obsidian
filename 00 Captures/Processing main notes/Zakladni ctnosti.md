@@ -20,9 +20,9 @@ V poradi podle toho, jak je sestavil [[Thomas Aquinas]]:
 _prudentia_
 #### spravedlnost
 _iustitia_
-#### umirnenost
+#### umirnenost (stridmost)
 _temperantia_
-#### statecnost
+#### statecnost (odvaha)
 _fortitudo_
 
 
