@@ -959,7 +959,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/Web Design Books.md"
+                "file": "10 Projects/11 Active/11.01 Client - janadolezelova.com.md"
               }
             }
           },
@@ -1044,7 +1044,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/Web Design Books.md",
+                "file": "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1070,7 +1070,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/Web Design Books.md",
+                "file": "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1105,10 +1105,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2617f4b3b90e39f8",
+  "active": "5811234801794cdf",
   "lastOpenFiles": [
-    "00 Captures/Track Your Design Business.md",
     "00 Captures/Web Design Books.md",
+    "10 Projects/11 Active/11.03 Motion Design In Figma.md",
+    "00 Captures/Track Your Design Business.md",
     "00 Captures/The Ultimate Blueprint for an Insanely Successful Business.md",
     "00 Captures/Digitalni revoluce.md",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
@@ -1126,7 +1127,6 @@
     "10 Projects/11 Active/11.02 Design System.md",
     "10 Projects/11 Active/11.04 Web Design 101.md",
     "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
-    "10 Projects/11 Active/11.03 Motion Design In Figma.md",
     "10 Projects/11 Active/11.02 Design System",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com",
     "10 Projects/12 Simmering/CSS layout & positioning.md",
