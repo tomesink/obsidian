@@ -850,8 +850,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6925998ca2b3cc53",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Captures/Psychologie kurzy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -971,7 +994,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/11 Active/11.02 Design System.md"
+                "file": "00 Captures/Psychologie kurzy.md"
               }
             }
           },
@@ -1056,7 +1079,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/11 Active/11.02 Design System.md",
+                "file": "00 Captures/Psychologie kurzy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1082,7 +1105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/11 Active/11.02 Design System.md",
+                "file": "00 Captures/Psychologie kurzy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1117,8 +1140,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2617f4b3b90e39f8",
+  "active": "6925998ca2b3cc53",
   "lastOpenFiles": [
+    "10 Projects/11 Active/11.02 Design System.md",
+    "00 Captures/Psychologie kurzy.md",
     "00 Captures/Zklamani je velmi spatne nastavene ocekavani.md",
     "00 Captures/Web Design Books.md",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
@@ -1137,7 +1162,6 @@
     "20 Life Admin/🏡 House.md",
     "10 Projects/12 Simmering/Web Design For Beginners 2024.md",
     "20 Life Admin/🏥 Health.md",
-    "10 Projects/11 Active/11.02 Design System.md",
     "10 Projects/11 Active/11.04 Web Design 101.md",
     "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
     "10 Projects/11 Active/11.02 Design System",
@@ -1153,7 +1177,6 @@
     "_system/Attachments/~$Portfolio Management.xlsx",
     "_system/Attachments/Portfolio Management.xlsx",
     "20 Life Admin/26 Entertainment",
-    "20 Life Admin/Notes/House/Senkyrik.md",
     "20 Life Admin/25 Travel & events",
     "_system/Attachments/Pasted image 20240913175648.png",
     "_system/Attachments/Pasted image 20240913175014.png",
