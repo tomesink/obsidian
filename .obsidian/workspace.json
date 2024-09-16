@@ -947,7 +947,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/Digitalni revoluce.md"
+                "file": "00 Captures/The Ultimate Blueprint for an Insanely Successful Business.md"
               }
             }
           },
@@ -1032,7 +1032,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/Digitalni revoluce.md",
+                "file": "00 Captures/The Ultimate Blueprint for an Insanely Successful Business.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1058,7 +1058,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/Digitalni revoluce.md",
+                "file": "00 Captures/The Ultimate Blueprint for an Insanely Successful Business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1093,8 +1093,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da641789f9e1bfa3",
+  "active": "2617f4b3b90e39f8",
   "lastOpenFiles": [
+    "00 Captures/Digitalni revoluce.md",
     "00 Captures/The Ultimate Blueprint for an Insanely Successful Business.md",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com.md",
     "20 Life Admin/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
@@ -1130,7 +1131,6 @@
     "20 Life Admin/Notes/Personal/🎬 Movies To Watch.md",
     "20 Life Admin/25 Travel & events",
     "_system/Templates/+ 0 Note.md",
-    "_system/Templates/+ Weekly Note.md",
     "_system/Attachments/Pasted image 20240913175648.png",
     "_system/Attachments/Pasted image 20240913175014.png",
     "_system/Attachments/Pasted image 20240913174729.png",
