@@ -26,4 +26,8 @@ _temperantia_
 _fortitudo_
 
 
-Zname ale uz od stoiku a antiky. Vyse zminene ctnosti vyjmenoval uz [[Cicero]].
+Zname ale uz od stoiku a antiky. Vyse zminene ctnosti vyjmenoval uz [[Cicero]]. Zname take v buddhismu, hinduismu a mnoho dalsich filosofii.
+
+C. S. Lewis zdůraznil, že se jim říká „kardinální“ nikoli proto, že pocházejí od církevních autorit, ale proto, že mají původ v latinském slově cardo, tedy pant.
+
+Je to klíčová věc. Jsou to věci, na kterých visí dveře do dobrého života.
