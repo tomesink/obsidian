@@ -31,6 +31,9 @@ Key parts of a successful design system:
 This is the principles. eg. "Be accessible and inclusive". 
 The message the company communicates.
 
+Source:
+[Welcome to design systems - Lesson 1 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=YLo6g58vUm0&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=3)
+
 ## 2. Foundations (What )
 
 Visual styles, colors, typography, components.
@@ -185,4 +188,6 @@ Also grows and evolves over time.
 
 Try to put yourself in a position of someone who never seen the documentation. The user needs to be able to get oriented.
 
-Any 
+Any (new) terminology in the documentation needs to be defined.
+
+Use bright colors, not pastel colors.
