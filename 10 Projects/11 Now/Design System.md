@@ -182,3 +182,5 @@ Reusable solutions for common user goals.
 ## 3. Documentation (How)
 
 Also grows and evolves over time.
+
+Try to put yourself in a position of someone who never seen the documentation. The user needs to be able to get oriented.
