@@ -936,6 +936,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "7110.1.1b Sans-Serif",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1b Sans-Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "7110.1.1 Purpose of typography in design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "7110.1.1a Serif",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1a Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":5},\"to\":{\"line\":7,\"ch\":5}}}"
+                },
+                {
+                  "title": "7110.1.1 Purpose of typography in design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":5},\"to\":{\"line\":5,\"ch\":5}}}"
+                },
+                {
+                  "title": "+About",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/+About.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Regulations",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Captures/Regulations.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -946,7 +976,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Zettelkasten/+About.md",
+                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1a Serif.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1074,7 +1104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Zettelkasten/+About.md"
+                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1a Serif.md"
               }
             }
           },
@@ -1159,7 +1189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Zettelkasten/+About.md",
+                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1a Serif.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1185,7 +1215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Zettelkasten/+About.md",
+                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1a Serif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1222,6 +1252,10 @@
   },
   "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1b Sans-Serif.md",
+    "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1 Purpose of typography in design.md",
+    "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1a Serif.md",
+    "+ Zettelkasten/+About.md",
     "00 Captures/Regulations.md",
     "00 Captures/Doporuceni OECD a NERV.md",
     "00 Captures/Processing main notes/Zakladni ctnosti.md",
@@ -1254,10 +1288,6 @@
     "20 Life Admin/Notes/Clients/janadolezelova.com/Create + send proposal.md",
     "20 Life Admin/Notes/Clients/janadolezelova.com/Content strategy.md",
     "20 Life Admin/Notes/Clients/janadolezelova.com/Sales call.md",
-    "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1 Purpose of typography in design.md",
-    "20 Life Admin/💰 Finance.md",
-    "20 Life Admin/🏡 House.md",
-    "10 Projects/12 Simmering/Web Design For Beginners 2024.md",
     "10 Projects/11 Active/11.02 Design System",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com",
     "10 Projects/12 Simmering/12.00 Notes",
