@@ -226,10 +226,6 @@ Well defined processes should help to grow yours ever evolving design system.
 
 Processes will prevent to break down the system.
 
-
-
-
-
 Sources:
 
 [Define your design system's processes - Lesson 2 part 4 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=NGGMGybuOwg&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=6)
