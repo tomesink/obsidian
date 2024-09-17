@@ -231,3 +231,9 @@ Sources:
 [Define your design system's processes - Lesson 2 part 4 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=NGGMGybuOwg&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=6)
 
 
+## 5. Building own design system
+
+
+
+
+[Build your design system - Lesson 3 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=0XSLMGh8yhM&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=7)
