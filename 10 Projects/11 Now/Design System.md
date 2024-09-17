@@ -14,7 +14,7 @@ tags:
 ---
 # Design system
 
-Written course here: [Fetching Title#bwk9](https://help.figma.com/hc/en-us/sections/14548397990423-Introduction-to-design-systems-5-parts)
+Written course here: [Introduction to design systems (5 parts) – Figma Learn - Help Center](https://help.figma.com/hc/en-us/sections/14548397990423-Introduction-to-design-systems-5-parts)
 
 
 
@@ -207,7 +207,7 @@ Use bright colors, not pastel colors.
 
 Use primary button style for the most important or main CTA. If there are multiple actions on the screen, use secondary button style.
 
-
+Always use semantic naming.
 
 
 Sources:
