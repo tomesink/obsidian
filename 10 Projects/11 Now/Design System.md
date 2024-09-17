@@ -205,7 +205,7 @@ Any (new) terminology in the documentation needs to be defined.
 
 Use bright colors, not pastel colors.
 
-Use primary button style for the most important or main CTA. If there are multiple actions on the screen, use secondary button style.
+Use primary button style for the most important or main CTA. Primary button is the main action. If there are multiple actions on the screen, use secondary button style. Secondary buttons are non-critical actions.
 
 Always use tokens, semantic naming, component naming.
 
