@@ -26,13 +26,17 @@ Key parts of a successful design system:
 3. Documentation
 4. Process
 
+
+Sources:
+[Welcome to design systems - Lesson 1 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=YLo6g58vUm0&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=3)
+
+
 ## 1. Principles (Why)
 
 This is the principles. eg. "Be accessible and inclusive". 
 The message the company communicates.
 
-Source:
-[Welcome to design systems - Lesson 1 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=YLo6g58vUm0&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=3)
+
 
 ## 2. Foundations (What )
 
