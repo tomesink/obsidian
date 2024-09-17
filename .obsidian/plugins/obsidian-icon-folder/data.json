@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiWorkflow",
       "🙋‍♂️",
       "🔥",
       "〰",
@@ -19,8 +20,7 @@
       "LiTerminal",
       "LiSheetsInBox",
       "LiInbox",
-      "LiFlame",
-      "LiRecycle"
+      "LiFlame"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -46,13 +46,14 @@
   "_system": "LiTerminal",
   "+ Zettelkasten": "LiSheetsInBox",
   "00 Inputs": "LiInbox",
-  "Actions/Active": "🔥",
-  "Actions/Simmering": "〰",
   "Areas": "LiRecycle",
   "Areas/Learning.md": "LiGraduationCap",
   "Areas/Prayers.md": "✝",
   "Areas/Notes/Business": "LiLaptop",
   "Calendar": "LiCalendar",
   "Views": "LiEye",
-  "Areas/Me & family.md": "🙋‍♂️"
+  "Areas/Me & family.md": "🙋‍♂️",
+  "10 Projects": "LiWorkflow",
+  "10 Projects/Simmering": "〰",
+  "10 Projects/Now": "🔥"
 }
