@@ -929,11 +929,23 @@
             "id": "0db6b5a3f390255b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Lesson 1 - Principles",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Design System/Lesson 1 - Principles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "19.00 Archive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/19 Archive/19.00 Archive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":17},\"to\":{\"line\":2,\"ch\":17}},\"scroll\":0}"
                 },
                 {
                   "title": "CSS layout & positioning",
@@ -1096,7 +1108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/19 Archive/19.00 Archive.md",
+                "file": "10 Projects/11 Now/Design System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1224,7 +1236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/19 Archive/19.00 Archive.md"
+                "file": "10 Projects/11 Now/Design System.md"
               }
             }
           },
@@ -1309,7 +1321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/19 Archive/19.00 Archive.md",
+                "file": "10 Projects/11 Now/Design System.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1335,7 +1347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/19 Archive/19.00 Archive.md",
+                "file": "10 Projects/11 Now/Design System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1370,14 +1382,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "10 Projects/Notes/Design System/Lesson 1 - Principles.md",
+    "10 Projects/11 Now/Design System.md",
+    "10 Projects/19 Archive/19.00 Archive.md",
     "30 Resources",
     "10 Projects/12 Simmering/CSS layout & positioning.md",
-    "10 Projects/19 Archive/19.00 Archive.md",
     "10 Projects/12 Simmering/Web Design For Beginners 2024.md",
     "10 Projects/12 Simmering/Stockpicking.md",
-    "10 Projects/11 Now/Design System.md",
     "10 Projects/19 Archive",
     "20 Areas/Me & family.md",
     "Users/martin/Library/CloudStorage/ProtonDrive-jsem@martintomes.net/20.md",
@@ -1416,8 +1429,6 @@
     "_system/Attachments/Pasted image 20240916181045.png",
     "_system/Attachments/Screenshot 2024-09-16 at 18.03.27.png",
     "_system/Attachments/Pasted image 20240916174812.png",
-    "10 Projects/Notes/Design System/Lesson 1 - Principles.md",
-    "10 Projects/Notes/Design System",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
