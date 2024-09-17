@@ -936,6 +936,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "💰 Money & financials",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
                   "title": "Learning",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -944,7 +950,7 @@
                 {
                   "title": "Me & Family",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Me & Family.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Me & family.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -1054,7 +1060,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/💰 Money & financials.md",
+                "file": "Areas/Me & family.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1182,7 +1188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/💰 Money & financials.md"
+                "file": "Areas/Me & family.md"
               }
             }
           },
@@ -1267,7 +1273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/💰 Money & financials.md",
+                "file": "Areas/Me & family.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1293,7 +1299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/💰 Money & financials.md",
+                "file": "Areas/Me & family.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1330,8 +1336,9 @@
   },
   "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "Areas/💰 Money & financials.md",
     "Areas/Learning.md",
-    "Areas/Me & Family.md",
+    "Areas/Me & family.md",
     "Actions/Active/Motion Design In Figma.md",
     "Areas/21 Me & family",
     "Actions/Active/Web Design 101.md",
@@ -1368,7 +1375,6 @@
     "00 Inputs/Track Your Design Business.md",
     "00 Inputs/The Ultimate Blueprint for an Insanely Successful Business.md",
     "00 Inputs/Digitalni revoluce.md",
-    "Areas/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
     "Actions/Notes/Design System",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com",
     "Actions/Simmering/12.00 Notes",
