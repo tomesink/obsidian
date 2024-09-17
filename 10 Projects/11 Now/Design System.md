@@ -180,10 +180,16 @@ Do not forget to document exceptions like 4px.
 [Spacing, grids, and layouts](https://www.designsystems.com/space-grids-and-layouts/)
 
 
+
 ### Patterns
 
 Reusable solutions for common user goals.
 
+
+
+Sources:
+
+[Define your design system's foundations - Lesson 2 part 2 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=o9CloFonY0E&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=4)
 
 ## 3. Documentation (How)
 
@@ -194,3 +200,11 @@ Try to put yourself in a position of someone who never seen the documentation. T
 Any (new) terminology in the documentation needs to be defined.
 
 Use bright colors, not pastel colors.
+
+
+
+
+Sources:
+
+[Define your design system's documentation - Lesson 2 part 3 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=sHF6JSPWbzM&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=5)
+
