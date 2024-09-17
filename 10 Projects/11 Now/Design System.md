@@ -220,7 +220,7 @@ Sources:
 
 ## 4. Processes
 
-Specification of how to manage the design system. 
+Specification of how to manage the design system. Eg. how to make updates to the system and share them with others, how to get feedback/comments, how to approve the changes, how t oprovide training etc.
 
 
 
