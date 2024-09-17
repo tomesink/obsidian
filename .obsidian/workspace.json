@@ -936,6 +936,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Motion Design In Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Actions/Active/Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+                },
+                {
                   "title": "Web Design 101",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Actions/Active/Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1036,7 +1042,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actions/Active/Motion Design In Figma.md",
+                "file": "Areas/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1164,7 +1170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actions/Active/Motion Design In Figma.md"
+                "file": "Areas/Untitled.md"
               }
             }
           },
@@ -1249,7 +1255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actions/Active/Motion Design In Figma.md",
+                "file": "Areas/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1275,7 +1281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actions/Active/Motion Design In Figma.md",
+                "file": "Areas/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1310,8 +1316,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "Actions/Active/Motion Design In Figma.md",
+    "Areas/Untitled.md",
+    "Areas/Learning.md",
+    "Areas/21 Me & family",
     "Actions/Active/Web Design 101.md",
     "Actions/Active/Client - janadolezelova.com.md",
     "Actions/Notes/Motion Design In Figma/Figma containers.md",
@@ -1343,13 +1353,10 @@
     "00 Inputs/Psychologie kurzy.md",
     "00 Inputs/Zklamani je velmi spatne nastavene ocekavani.md",
     "00 Inputs/Web Design Books.md",
-    "Actions/Active/Motion Design In Figma.md",
     "00 Inputs/Track Your Design Business.md",
     "00 Inputs/The Ultimate Blueprint for an Insanely Successful Business.md",
     "00 Inputs/Digitalni revoluce.md",
     "Areas/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md",
-    "Areas/Notes/Clients/janadolezelova.com/Copywriting.md",
-    "Areas/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
     "Actions/Notes/Design System",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com",
     "Actions/Simmering/12.00 Notes",
@@ -1357,7 +1364,6 @@
     "Actions/Active",
     "00 Captures/Untitled",
     "_system/Attachments/~$Portfolio Management.xlsx",
-    "_system/Attachments/Portfolio Management.xlsx",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
