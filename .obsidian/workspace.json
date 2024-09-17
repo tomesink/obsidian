@@ -56,7 +56,7 @@
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
@@ -290,7 +290,7 @@
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":12},\"to\":{\"line\":10,\"ch\":12}},\"scroll\":8}"
                 },
                 {
@@ -650,7 +650,7 @@
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/💰 Finance.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":18.355239786856128}"
                 },
                 {
@@ -936,6 +936,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Learning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Me & Family",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Me & Family.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Motion Design In Figma",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Actions/Active/Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1042,7 +1054,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Untitled.md",
+                "file": "Areas/💰 Money & financials.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1170,7 +1182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Untitled.md"
+                "file": "Areas/💰 Money & financials.md"
               }
             }
           },
@@ -1255,7 +1267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Untitled.md",
+                "file": "Areas/💰 Money & financials.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1281,7 +1293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Untitled.md",
+                "file": "Areas/💰 Money & financials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1316,11 +1328,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0db6b5a3f390255b",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
-    "Actions/Active/Motion Design In Figma.md",
-    "Areas/Untitled.md",
     "Areas/Learning.md",
+    "Areas/Me & Family.md",
+    "Actions/Active/Motion Design In Figma.md",
     "Areas/21 Me & family",
     "Actions/Active/Web Design 101.md",
     "Actions/Active/Client - janadolezelova.com.md",
