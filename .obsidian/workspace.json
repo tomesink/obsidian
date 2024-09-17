@@ -929,8 +929,14 @@
             "id": "0db6b5a3f390255b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "20",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Users/martin/Library/CloudStorage/ProtonDrive-jsem@martintomes.net/20.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -948,7 +954,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Me & Family",
+                  "title": "Me & family",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Me & family.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
@@ -1334,11 +1340,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "Users/martin/Library/CloudStorage/ProtonDrive-jsem@martintomes.net/20.md",
+    "Areas/Me & family.md",
+    "Users/martin/Library/CloudStorage/ProtonDrive-jsem@martintomes.net",
+    "Users/martin/Library/CloudStorage",
+    "Users/martin/Library",
+    "Users/martin",
+    "Users",
     "Areas/💰 Money & financials.md",
     "Areas/Learning.md",
-    "Areas/Me & family.md",
     "Actions/Active/Motion Design In Figma.md",
     "Areas/21 Me & family",
     "Actions/Active/Web Design 101.md",
@@ -1374,14 +1386,8 @@
     "00 Inputs/Web Design Books.md",
     "00 Inputs/Track Your Design Business.md",
     "00 Inputs/The Ultimate Blueprint for an Insanely Successful Business.md",
-    "00 Inputs/Digitalni revoluce.md",
     "Actions/Notes/Design System",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com",
-    "Actions/Simmering/12.00 Notes",
-    "Actions/Simmering",
-    "Actions/Active",
-    "00 Captures/Untitled",
-    "_system/Attachments/~$Portfolio Management.xlsx",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
