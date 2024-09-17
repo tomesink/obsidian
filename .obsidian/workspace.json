@@ -344,7 +344,7 @@
                 {
                   "title": "Episode 6 - Layout",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Active/11.04 Web Design 101/Episode 6 - Layout.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Active/Web Design 101/Episode 6 - Layout.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":80,\"ch\":0},\"to\":{\"line\":80,\"ch\":0}},\"scroll\":64.93019519304282}"
                 },
                 {
@@ -548,7 +548,7 @@
                 {
                   "title": "Episode 4 - Typography",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Active/11.04 Web Design 101/Episode 4 - Typography.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Active/Web Design 101/Episode 4 - Typography.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":9}"
                 },
                 {
@@ -870,7 +870,7 @@
                 {
                   "title": "Lesson 1 - Principles",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Active/11.02 Design System/Lesson 1 - Principles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Active/Design System/Lesson 1 - Principles.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -890,7 +890,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Active/11.04 Web Design 101/Episode 4 - Typography.md",
+                "file": "10 Projects/Active/Web Design 101/Episode 4 - Typography.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -934,6 +934,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Week 37 2024-05",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30 Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "711.1.2 Serif and Sans-Serif are two main type of fonts",
@@ -1016,12 +1022,18 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "10 Projects/Active/11.01 Client - janadolezelova.com.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -1146,7 +1158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md"
+                "file": "10 Projects/Active/11.01 Client - janadolezelova.com.md"
               }
             }
           },
@@ -1231,7 +1243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
+                "file": "10 Projects/Active/11.01 Client - janadolezelova.com.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1257,7 +1269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
+                "file": "10 Projects/Active/11.01 Client - janadolezelova.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1292,8 +1304,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
     "10 Projects/Notes",
     "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711.1.2 Serif and Sans-Serif are two main type of fonts.md",
     "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711.1.1 Typography creates feeling.md",
@@ -1304,7 +1317,7 @@
     "00 Inputs/Processing main notes/Zakladni ctnosti.md",
     "00 Inputs/Efforts.md",
     "00 Inputs/Deniky Doporuceni od Kuby.md",
-    "10 Projects/Active/11.04 Web Design 101/Episode 4 - Typography.md",
+    "10 Projects/Active/Web Design 101/Episode 4 - Typography.md",
     "10 Projects/Active/11.02 Design System.md",
     "_system/Attachments/Screenshot 2024-09-16 at 18.18.00.png",
     "_system/Attachments/Pasted image 20240916181829.png",
@@ -1316,7 +1329,7 @@
     "_system/Attachments/Pasted image 20240916181045.png",
     "_system/Attachments/Screenshot 2024-09-16 at 18.03.27.png",
     "_system/Attachments/Pasted image 20240916174812.png",
-    "10 Projects/Active/11.02 Design System/Lesson 1 - Principles.md",
+    "10 Projects/Active/Design System/Lesson 1 - Principles.md",
     "00 Inputs/Psychologie kurzy.md",
     "00 Inputs/Zklamani je velmi spatne nastavene ocekavani.md",
     "00 Inputs/Web Design Books.md",
@@ -1330,7 +1343,7 @@
     "20 Life Admin/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md",
     "20 Life Admin/Notes/Clients/janadolezelova.com/Create + send proposal.md",
     "20 Life Admin/Notes/Clients/janadolezelova.com/Content strategy.md",
-    "10 Projects/Active/11.02 Design System",
+    "10 Projects/Active/Design System",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com",
     "10 Projects/Simmering/12.00 Notes",
     "10 Projects/Simmering",
@@ -1339,7 +1352,6 @@
     "_system/Attachments/~$Portfolio Management.xlsx",
     "_system/Attachments/Portfolio Management.xlsx",
     "20 Life Admin/26 Entertainment",
-    "20 Life Admin/25 Travel & events",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
