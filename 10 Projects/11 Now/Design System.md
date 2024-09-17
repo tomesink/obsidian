@@ -209,7 +209,9 @@ Use primary button style for the most important or main CTA. Primary button is t
 
 Always use tokens, semantic naming, component naming.
 
-Document design of different states/variations of buttons/components.
+Document design of different states/variations of buttons/components:
+
+![[Pasted image 20240917155006.png]]
 
 
 
