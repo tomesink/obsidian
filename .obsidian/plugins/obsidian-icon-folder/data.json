@@ -43,8 +43,6 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "30 Calendar": "LiCalendar",
-  "50 Views": "LiEye",
   "_system": "LiTerminal",
   "+ Zettelkasten": "LiSheetsInBox",
   "00 Inputs": "LiInbox",
@@ -60,5 +58,6 @@
   "Areas/25 Travel & events": "🛫",
   "Areas/22 House": "🏡",
   "Areas/23 Money": "💰",
-  "Areas/21 Me & family": "🙋‍♂️"
+  "Calendar": "LiCalendar",
+  "Views": "LiEye"
 }
