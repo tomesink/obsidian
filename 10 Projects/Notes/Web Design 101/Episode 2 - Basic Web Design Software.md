@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[11.04 Web Design 101]]"
+  - "[[Web Design 101]]"
 related:
   - "[[🎨 Learning Web Design]]"
 created: 2024-08-21

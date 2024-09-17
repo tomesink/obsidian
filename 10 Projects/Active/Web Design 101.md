@@ -10,7 +10,9 @@ URL: https://www.youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI
 tags:
 ---
 
-# Web Design 
+# Web Design 101
+
+
 
 
 > [!NOTES]- Course notes
