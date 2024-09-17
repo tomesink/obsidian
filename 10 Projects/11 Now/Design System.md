@@ -201,6 +201,8 @@ Any (new) terminology in the documentation needs to be defined.
 
 Use bright colors, not pastel colors.
 
+Use primary button style for the most important or main CTA. If there are multiple actions on the screen, use secondary button style.
+
 
 
 
