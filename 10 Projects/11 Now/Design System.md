@@ -27,7 +27,7 @@ Key parts of a successful design system:
 1. Principles
 2. Foundations
 3. Documentation
-4. Process
+4. Processes
 
 
 Sources:
@@ -213,6 +213,10 @@ Document design of different states/variations of buttons/components:
 
 ![[Pasted image 20240917155006.png]]
 
+Sources:
+
+[Define your design system's documentation - Lesson 2 part 3 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=sHF6JSPWbzM&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=5)
+## 4. Processes
 
 
 
@@ -220,5 +224,6 @@ Document design of different states/variations of buttons/components:
 
 Sources:
 
-[Define your design system's documentation - Lesson 2 part 3 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=sHF6JSPWbzM&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=5)
+[Define your design system's processes - Lesson 2 part 4 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=NGGMGybuOwg&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=6)
+
 
