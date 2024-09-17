@@ -46,7 +46,6 @@
   "10 Projects": "LiFlame",
   "30 Calendar": "LiCalendar",
   "50 Views": "LiEye",
-  "00 Captures": "LiInbox",
   "_system": "LiTerminal",
   "+ Zettelkasten": "LiSheetsInBox",
   "10 Projects/12 Simmering": "〰",
@@ -60,5 +59,6 @@
   "20 Life Admin/25 Travel & events": "🛫",
   "20 Life Admin/22 House": "🏡",
   "20 Life Admin/23 Money": "💰",
-  "20 Life Admin/21 Me & family": "🙋‍♂️"
+  "20 Life Admin/21 Me & family": "🙋‍♂️",
+  "00 Inputs": "LiInbox"
 }
