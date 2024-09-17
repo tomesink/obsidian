@@ -3,5 +3,6 @@
   "newFileFolderPath": "00 Captures",
   "attachmentFolderPath": "_system/Attachments",
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }
