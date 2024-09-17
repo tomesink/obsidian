@@ -50,7 +50,7 @@
                 {
                   "title": "7110.1.1 Purpose of typography in design",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711.1. Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 },
                 {
@@ -512,7 +512,7 @@
                 {
                   "title": "7110.1.1 Purpose of typography in design",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711.1. Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 },
                 {
@@ -536,7 +536,7 @@
                 {
                   "title": "7110.1.1 Purpose of typography in design",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711.1. Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":28},\"to\":{\"line\":22,\"ch\":28}}}"
                 },
                 {
@@ -936,6 +936,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "711.1. Typography creates feeling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711.1. Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+                },
+                {
                   "title": "7110.1.1a Serif",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1a Serif.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -948,9 +954,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
-                  "title": "7110.1.1 Purpose of typography in design",
+                  "title": "711.1. Typography creates feeling",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711.1. Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 },
                 {
@@ -960,9 +966,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":5},\"to\":{\"line\":7,\"ch\":5}}}"
                 },
                 {
-                  "title": "7110.1.1 Purpose of typography in design",
+                  "title": "711.1. Typography creates feeling",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1 Purpose of typography in design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711.1. Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":5},\"to\":{\"line\":5,\"ch\":5}}}"
                 },
                 {
@@ -982,7 +988,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1 Purpose of typography in design.md",
+                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1a Serif.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1110,7 +1116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1 Purpose of typography in design.md"
+                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1a Serif.md"
               }
             }
           },
@@ -1195,7 +1201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1 Purpose of typography in design.md",
+                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1a Serif.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1221,7 +1227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1 Purpose of typography in design.md",
+                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1a Serif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1258,9 +1264,9 @@
   },
   "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711.1. Typography creates feeling.md",
     "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1a Serif.md",
     "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1b Sans-Serif.md",
-    "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1 Purpose of typography in design.md",
     "+ Zettelkasten/+About.md",
     "00 Captures/Regulations.md",
     "00 Captures/Doporuceni OECD a NERV.md",
