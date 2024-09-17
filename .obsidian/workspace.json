@@ -936,6 +936,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "CSS layout & positioning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/12 Simmering/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":2},\"to\":{\"line\":19,\"ch\":2}}}"
+                },
+                {
                   "title": "Web Design For Beginners 2024",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/12 Simmering/Web Design For Beginners 2024.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1090,7 +1096,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/12 Simmering/CSS layout & positioning.md",
+                "file": "10 Projects/19 Archive/19.00 Archive.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1218,7 +1224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/12 Simmering/CSS layout & positioning.md"
+                "file": "10 Projects/19 Archive/19.00 Archive.md"
               }
             }
           },
@@ -1303,7 +1309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/12 Simmering/CSS layout & positioning.md",
+                "file": "10 Projects/19 Archive/19.00 Archive.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1329,7 +1335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/12 Simmering/CSS layout & positioning.md",
+                "file": "10 Projects/19 Archive/19.00 Archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1366,9 +1372,10 @@
   },
   "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "10 Projects/12 Simmering/CSS layout & positioning.md",
+    "10 Projects/19 Archive/19.00 Archive.md",
     "10 Projects/12 Simmering/Web Design For Beginners 2024.md",
     "10 Projects/12 Simmering/Stockpicking.md",
-    "10 Projects/12 Simmering/CSS layout & positioning.md",
     "10 Projects/11 Now/Design System.md",
     "10 Projects/19 Archive",
     "Areas/Me & family.md",
@@ -1410,7 +1417,6 @@
     "_system/Attachments/Pasted image 20240916174812.png",
     "10 Projects/Notes/Design System/Lesson 1 - Principles.md",
     "00 Inputs/Psychologie kurzy.md",
-    "00 Inputs/Zklamani je velmi spatne nastavene ocekavani.md",
     "10 Projects/Notes/Design System",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
