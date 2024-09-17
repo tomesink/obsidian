@@ -207,7 +207,7 @@ Use bright colors, not pastel colors.
 
 Use primary button style for the most important or main CTA. If there are multiple actions on the screen, use secondary button style.
 
-Always use semantic naming.
+Always use tokens, semantic naming, component naming.
 
 
 Sources:
