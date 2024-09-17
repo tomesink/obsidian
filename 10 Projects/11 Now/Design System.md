@@ -216,9 +216,11 @@ Document design of different states/variations of buttons/components:
 Sources:
 
 [Define your design system's documentation - Lesson 2 part 3 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=sHF6JSPWbzM&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=5)
+
+
 ## 4. Processes
 
-
+Specification of how to manage the design system. 
 
 
 
