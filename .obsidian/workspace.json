@@ -56,19 +56,19 @@
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
                   "title": "🏡 House",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
                   "title": "🏥 Health",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/🏥 Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏥 Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
@@ -92,7 +92,7 @@
                 {
                   "title": "Week 37 2024-05",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -278,31 +278,31 @@
                 {
                   "title": "Week 37 2024-05",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "My Investments",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Finance/My Investments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Finance/My Investments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":12},\"to\":{\"line\":10,\"ch\":12}},\"scroll\":8}"
                 },
                 {
                   "title": "🏡 House",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
                 },
                 {
                   "title": "Week 37 2024-05",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":12},\"to\":{\"line\":24,\"ch\":12}},\"scroll\":12.052408854166666}"
                 },
                 {
@@ -338,7 +338,7 @@
                 {
                   "title": "Week 37 2024-05",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":45,\"ch\":14}},\"scroll\":0}"
                 },
                 {
@@ -398,55 +398,55 @@
                 {
                   "title": "Content strategy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Content strategy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Create + send invoice for downpayment (50%)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Create + send proposal",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Create + send proposal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Create + send proposal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Full Site HI-FI Mockups",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Home Page Hi-Fi Concepts",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Invite client to shared Notion workspace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Prepare + send contract to client",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Sales call",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Sales call.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Sales call.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Setup shared Slack workspace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -644,19 +644,19 @@
                 {
                   "title": "Learning",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":18.355239786856128}"
                 },
                 {
                   "title": "🏥 Health",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/🏥 Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏥 Health.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
@@ -668,7 +668,7 @@
                 {
                   "title": "🏡 House",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
                 },
                 {
@@ -968,25 +968,25 @@
                 {
                   "title": "Me & family",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Me & family.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Me & family.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":16},\"to\":{\"line\":6,\"ch\":16}}}"
                 },
                 {
                   "title": "💰 Money & financials",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
                   "title": "Learning",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Me & family",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Me & family.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Me & family.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -1010,7 +1010,7 @@
                 {
                   "title": "Week 37 2024-05",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -1370,30 +1370,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0db6b5a3f390255b",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "30 Resources",
     "10 Projects/12 Simmering/CSS layout & positioning.md",
     "10 Projects/19 Archive/19.00 Archive.md",
     "10 Projects/12 Simmering/Web Design For Beginners 2024.md",
     "10 Projects/12 Simmering/Stockpicking.md",
     "10 Projects/11 Now/Design System.md",
     "10 Projects/19 Archive",
-    "Areas/Me & family.md",
+    "20 Areas/Me & family.md",
     "Users/martin/Library/CloudStorage/ProtonDrive-jsem@martintomes.net/20.md",
     "Users/martin/Library/CloudStorage/ProtonDrive-jsem@martintomes.net",
     "Users/martin/Library/CloudStorage",
     "Users/martin/Library",
     "Users/martin",
     "Users",
-    "Areas/💰 Money & financials.md",
-    "Areas/Learning.md",
+    "20 Areas/💰 Money & financials.md",
+    "20 Areas/Learning.md",
     "10 Projects/11 Now/Motion Design In Figma.md",
     "Areas/21 Me & family",
     "10 Projects/11 Now/Web Design 101.md",
     "10 Projects/11 Now/Client - janadolezelova.com.md",
     "10 Projects/Notes/Motion Design In Figma/Figma containers.md",
     "10 Projects/Notes/Motion Design In Figma",
-    "Calendar/32 Weekly Notes/Week 37 2024-05.md",
+    "40 Calendar/32 Weekly Notes/Week 37 2024-05.md",
     "10 Projects/Notes",
     "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711.1.2 Serif and Sans-Serif are two main type of fonts.md",
     "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711.1.1 Typography creates feeling.md",
@@ -1416,7 +1417,6 @@
     "_system/Attachments/Screenshot 2024-09-16 at 18.03.27.png",
     "_system/Attachments/Pasted image 20240916174812.png",
     "10 Projects/Notes/Design System/Lesson 1 - Principles.md",
-    "00 Inputs/Psychologie kurzy.md",
     "10 Projects/Notes/Design System",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
