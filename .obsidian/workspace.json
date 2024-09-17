@@ -924,9 +924,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0db6b5a3f390255b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Captures/Regulations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -1046,7 +1068,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Captures/Processing main notes/Zakladni ctnosti.md"
+                "file": "00 Captures/Regulations.md"
               }
             }
           },
@@ -1131,7 +1153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Captures/Processing main notes/Zakladni ctnosti.md",
+                "file": "00 Captures/Regulations.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1157,7 +1179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Captures/Processing main notes/Zakladni ctnosti.md",
+                "file": "00 Captures/Regulations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1192,10 +1214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3b18819efcad99e",
+  "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
-    "00 Captures/Efforts.md",
     "00 Captures/Processing main notes/Zakladni ctnosti.md",
+    "00 Captures/Regulations.md",
+    "00 Captures/Efforts.md",
     "00 Captures/Deniky Doporuceni od Kuby.md",
     "10 Projects/11 Active/11.04 Web Design 101/Episode 4 - Typography.md",
     "10 Projects/11 Active/11.02 Design System.md",
@@ -1229,7 +1252,6 @@
     "20 Life Admin/🏡 House.md",
     "10 Projects/12 Simmering/Web Design For Beginners 2024.md",
     "20 Life Admin/🏥 Health.md",
-    "10 Projects/11 Active/11.04 Web Design 101.md",
     "10 Projects/11 Active/11.02 Design System",
     "10 Projects/11 Active/11.01 Client - janadolezelova.com",
     "10 Projects/12 Simmering/12.00 Notes",
