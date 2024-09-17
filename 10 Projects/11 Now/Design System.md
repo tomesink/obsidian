@@ -29,13 +29,12 @@ Key parts of a successful design system:
 
 Sources:
 [Welcome to design systems - Lesson 1 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=YLo6g58vUm0&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=3)
-
+[Define your design system's principles - Lesson 2 part 1 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=pwzYVIgga2c&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=4)
 
 ## 1. Principles (Why)
 
-This is the principles. eg. "Be accessible and inclusive". 
+This is the principles (why?). eg. "Be accessible and inclusive". 
 The message the company communicates.
-
 
 
 ## 2. Foundations (What )
