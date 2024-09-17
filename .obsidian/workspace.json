@@ -936,6 +936,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Web Design For Beginners 2024",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/12 Simmering/Web Design For Beginners 2024.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+                },
+                {
+                  "title": "Stockpicking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/12 Simmering/Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "CSS layout & positioning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/12 Simmering/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+                },
+                {
                   "title": "Design System",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Design System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1348,6 +1366,9 @@
   },
   "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "10 Projects/12 Simmering/Web Design For Beginners 2024.md",
+    "10 Projects/12 Simmering/Stockpicking.md",
+    "10 Projects/12 Simmering/CSS layout & positioning.md",
     "10 Projects/11 Now/Design System.md",
     "10 Projects/19 Archive",
     "Areas/Me & family.md",
@@ -1390,8 +1411,6 @@
     "10 Projects/Notes/Design System/Lesson 1 - Principles.md",
     "00 Inputs/Psychologie kurzy.md",
     "00 Inputs/Zklamani je velmi spatne nastavene ocekavani.md",
-    "00 Inputs/Web Design Books.md",
-    "00 Inputs/Track Your Design Business.md",
     "10 Projects/Notes/Design System",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
