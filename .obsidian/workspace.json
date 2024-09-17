@@ -44,7 +44,7 @@
                 {
                   "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/Active/11.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -116,7 +116,7 @@
                 {
                   "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/Active/11.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -128,7 +128,7 @@
                 {
                   "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/Active/11.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -176,7 +176,7 @@
                 {
                   "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/Active/11.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -254,7 +254,7 @@
                 {
                   "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/Active/11.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -368,7 +368,7 @@
                 {
                   "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/Active/11.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -380,7 +380,7 @@
                 {
                   "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/Active/11.01 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -936,6 +936,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Client - janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Week 37 2024-05",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30 Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1022,18 +1028,12 @@
               ]
             },
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "10 Projects/Active/11.01 Client - janadolezelova.com.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "10 Projects/Active/11.04 Web Design 101.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -1158,7 +1158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Active/11.01 Client - janadolezelova.com.md"
+                "file": "10 Projects/Active/11.04 Web Design 101.md"
               }
             }
           },
@@ -1243,7 +1243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Active/11.01 Client - janadolezelova.com.md",
+                "file": "10 Projects/Active/11.04 Web Design 101.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1269,7 +1269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Active/11.01 Client - janadolezelova.com.md",
+                "file": "10 Projects/Active/11.04 Web Design 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1304,8 +1304,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "10 Projects/Active/Client - janadolezelova.com.md",
     "10 Projects/Notes/Motion Design In Figma/Figma containers.md",
     "10 Projects/Notes/Motion Design In Figma",
     "30 Calendar/32 Weekly Notes/Week 37 2024-05.md",
@@ -1335,7 +1336,6 @@
     "00 Inputs/Psychologie kurzy.md",
     "00 Inputs/Zklamani je velmi spatne nastavene ocekavani.md",
     "00 Inputs/Web Design Books.md",
-    "10 Projects/Active/11.01 Client - janadolezelova.com.md",
     "10 Projects/Active/11.03 Motion Design In Figma.md",
     "00 Inputs/Track Your Design Business.md",
     "00 Inputs/The Ultimate Blueprint for an Insanely Successful Business.md",
