@@ -14,6 +14,9 @@ tags:
 ---
 # Design system
 
+Written course here: [Fetching Title#bwk9](https://help.figma.com/hc/en-us/sections/14548397990423-Introduction-to-design-systems-5-parts)
+
+
 
 ![[Design system.png]]
 
@@ -30,6 +33,7 @@ Key parts of a successful design system:
 Sources:
 [Welcome to design systems - Lesson 1 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=YLo6g58vUm0&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=3)
 [Define your design system's principles - Lesson 2 part 1 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=pwzYVIgga2c&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=4)
+
 
 ## 1. Principles (Why)
 
