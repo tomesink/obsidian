@@ -11,6 +11,9 @@ Use some color picker/palette tool to find suitable fits for your colors.
 
 Choose a color based on the psychology and than choose other colors to fit the main color to create harmony palette.
 
+60-30-10 rule:
+60%
+
 
 
 
