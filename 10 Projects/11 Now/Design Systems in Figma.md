@@ -306,7 +306,9 @@ Eg. navigation menu
  Always align with devs on naming conventions (so that component names and variable names are the same). For web camelCase is a standard (because of javascript).
 
 
+### Colors
 
+You can use functional approach to name your color styles. Use semantic naming.
 
 
 
