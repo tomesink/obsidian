@@ -37,7 +37,9 @@ The purpose is to create contrast (similar to Big, smaller, small in [[Episode 6
 
 ![[Pasted image 20240918162118.png]]
 
-This is the same page scrolled down. T
+This is the same page scrolled down. The section is using different color but still keeps the 60-30-10 rule:
+
+![[Pasted image 20240918162233.png]]
 
 ___
 #### Sources:
