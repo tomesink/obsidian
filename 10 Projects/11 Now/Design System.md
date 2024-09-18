@@ -240,6 +240,9 @@ Sources:
 
 Sources:
 [Material Design](https://m3.material.io/)
+[Space Grotesk - Google Fonts](https://fonts.google.com/specimen/Space+Grotesk)
+[Components, styles, and shared library best practices](https://www.figma.com/best-practices/components-styles-and-shared-libraries/)
+[Component architecture in Figma](https://www.figma.com/best-practices/component-architecture/)
 
 
 
