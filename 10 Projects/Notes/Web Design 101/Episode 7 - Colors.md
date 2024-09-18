@@ -22,6 +22,7 @@ not fixed. It does not haveto be really 60, realy exact 30, really 10.
 The purpose is to create contrast (similar to Big, smaller, small in [[Episode 6 - Layout]]).
 
 ##### Example1:
+
 60 - purple
 30 - red (picture)
 10 - white
@@ -31,6 +32,7 @@ The purpose is to create contrast (similar to Big, smaller, small in [[Episode 6
 
 
 ##### Example2:
+
 60 - "orange"
 30 - red (text)
 10 - black
@@ -40,6 +42,17 @@ The purpose is to create contrast (similar to Big, smaller, small in [[Episode 6
 This is the same page scrolled down. The section is using different color but still keeps the 60-30-10 rule:
 
 ![[Pasted image 20240918162233.png]]
+
+
+
+##### Example1:
+
+60 - green-ish
+30 - red (picture)
+10 - white
+
+
+
 
 ___
 #### Sources:
