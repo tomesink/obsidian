@@ -203,6 +203,7 @@ Do not forget to document exceptions like 4px.
 
 Reusable solutions for common user goals.
 
+Eg. mobile tab bar menu
 
 
 Sources:
