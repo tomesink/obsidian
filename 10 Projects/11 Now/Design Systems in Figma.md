@@ -350,7 +350,11 @@ Use slash naming conventions and put them into assets.
 ![[Pasted image 20240918112054.png]]
 
 
+### Illustrations
 
+Should have consistent frame sizes (like icons)
+
+![[Pasted image 20240918112335.png]]
 
 
 
