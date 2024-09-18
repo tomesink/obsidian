@@ -296,6 +296,10 @@ Eg. search bar:
 
 Complex structures made up of molecules and atoms.
 
+Eg. navigation menu
+
+![[Pasted image 20240918104434.png]]
+
 
 
 
