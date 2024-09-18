@@ -300,7 +300,7 @@ Eg. navigation menu
 
 ![[Pasted image 20240918104434.png]]
 
-
+ Always align with devs on naming conventions
 
 
 
