@@ -237,6 +237,11 @@ Sources:
 
 Collection of properties or settings (color, typography, shadow, blur, reusable scaffolding for grids) to be reused.
 
+### Components
+
+Reusable elements or collections of elements.
+When component is copied, an instance is created.
+All changes
 
 
 
