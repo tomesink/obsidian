@@ -114,7 +114,7 @@ Prevent having too many type sizes. You will usually use them in a wrong way.
 Shadows on button hover, overlays, etc...
 Can communicate interactions.
 
-Not often uses on mobiles (here typically just buttons, car)
+Not often uses on mobiles (here typically just buttons, car or menus).
 
 Do not use true black as a shadow color. Use a socolr from your color palette instead. Use blur.
 
