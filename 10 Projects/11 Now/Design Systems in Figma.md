@@ -269,16 +269,27 @@ Modular approach to build a design system from scratch based on atoms-molecules-
 
 Elements that can not be broken down any further (element would loose its function otherwise).
 
-Icons, input label, or buttons.
+Icons
 
-![[Pasted image 20240918103918.png]]
+![[Pasted image 20240918104131.png]]
+
+input labels
+
+
+
+or buttons.
+
+
 
 
 #### Molecules
 
 A collection of individual elements (atoms) forming a single unit.
 
-Eg. sear
+Eg. search bar:
+![[Pasted image 20240918104057.png]]
+
+
 
 
 
