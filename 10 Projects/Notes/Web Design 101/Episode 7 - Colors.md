@@ -17,8 +17,9 @@ Choose a color based on the psychology and than choose other colors to fit the m
 30% - secondary color
 10% - accent color
 
-not fixed. It does not haveto be really 60, realy exacto 30, really 10.
-The pu
+not fixed. It does not haveto be really 60, realy exact 30, really 10.
+
+The purpose is to create contrast (similar to Big, smaller, small in [[Episode 6 - Layout]]).
 
 ##### Example1:
 60 - purple
