@@ -112,7 +112,9 @@ Prevent having too many type sizes. You will usually use them in a wrong way.
 ### Elevation
 
 Shadows on button hover, overlays, etc...
-Do not use them on mobiles. 
+Can communicate interactions.
+
+Not often uses on mobiles (here typically just buttons, car)
 
 Do not use true black as a shadow color. Use a socolr from your color palette instead. Use blur.
 
