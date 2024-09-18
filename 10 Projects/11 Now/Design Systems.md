@@ -233,7 +233,9 @@ Sources:
 
 ## 5. Building own design system
 
+### Styles
 
+Collection of properties
 
 
 
