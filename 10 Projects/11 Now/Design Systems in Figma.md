@@ -235,7 +235,7 @@ Sources:
 
 ### Styles
 
-Collection of properties or settings to be reused
+Collection of properties or settings (color, typogra) to be reused
 
 
 
