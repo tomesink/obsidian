@@ -17,7 +17,12 @@ Choose a color based on the psychology and than choose other colors to fit the m
 30% - secondary color
 10% - accent color
 
+Example1:
+60 - purple
+30 - red (picture)
 
+
+![[Pasted image 20240918161910.png]]
 
 
 
