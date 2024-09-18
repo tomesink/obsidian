@@ -259,9 +259,9 @@ You can keep everything in one file or break it into multiple files.
 
 ![[Pasted image 20240918103229.png]]
 
+### Atomic design
 
-
-
+Modular approach to build a design system
 
 
 
