@@ -269,10 +269,14 @@ Modular approach to build a design system from scratch based on atoms-molecules-
 
 Elements that can not be broken down any further (element would loose its function otherwise).
 
-Icons,
+Icons, input label, or buttons.
+
+![[Pasted image 20240918103918.png]]
 
 
+#### Molecules
 
+A collection of individua
 
 
 
