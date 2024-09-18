@@ -124,7 +124,7 @@ Good icons can enhance company's visual identity. Provides consistent user exper
 
 Icons should be functional and recognizable.
 
-Typical icon
+Typical icon sizes are: 16x16, 24x24, 32x32
 
 [A complete guide to iconography](https://www.designsystems.com/iconography-guide/)
 
@@ -309,7 +309,7 @@ Eg. navigation menu
 
  Always align with devs on naming conventions (so that component names and variable names are the same). For web camelCase is a standard (because of javascript).
 
-
+Source:  [Atomic Design Methodology | Atomic Design by Brad Frost](https://atomicdesign.bradfrost.com/chapter-2/)
 ### Colors
 
 You can use functional approach to name your color styles. 
@@ -337,7 +337,6 @@ We can use slash naming to create types for titles and body for example.
 
 
 Sources:
-[Atomic Design Methodology | Atomic Design by Brad Frost](https://atomicdesign.bradfrost.com/chapter-2/)
 [Material Design](https://m3.material.io/)
 [Space Grotesk - Google Fonts](https://fonts.google.com/specimen/Space+Grotesk)
 [Components, styles, and shared library best practices](https://www.figma.com/best-practices/components-styles-and-shared-libraries/)
