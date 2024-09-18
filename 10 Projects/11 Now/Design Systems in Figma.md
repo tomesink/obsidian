@@ -164,7 +164,7 @@ The baseline plays role in the type system as well:
 
 ![[Pasted image 20240916181323.png]]
 
-NOTE: Set your nudge val
+NOTE: Set your nudge values to 8.
 
 
 There can be many more grid types:
