@@ -356,7 +356,9 @@ Should have consistent frame sizes (like icons)
 
 ![[Pasted image 20240918112335.png]]
 
-One illustration (with modification) can be used in multiple context. Always use semantic naming:
+One illustration can be used in multiple context. Always use semantic naming:
+(NOTE: The )
+
 
 
 
