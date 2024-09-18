@@ -164,7 +164,7 @@ The baseline plays role in the type system as well:
 
 ![[Pasted image 20240916181323.png]]
 
-NOTE: Set your nudge values to 8.
+NOTE: Set your nudge values to 8. Nudge value is number of pixels (like "precision") an element is moved with arrow keys.
 
 
 There can be many more grid types:
