@@ -248,6 +248,9 @@ All changes in main component is immediately visible in all its instances
 ![[Pasted image 20240918102751.png]]
 
 
+### Libraries
+
+A collection of styles and components shared within a team or organization.
 
 
 
