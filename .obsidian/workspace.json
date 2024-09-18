@@ -936,6 +936,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Web Design 101",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":11}"
+                },
+                {
+                  "title": "2024-09 Praskla trubka u mamky",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":227},\"to\":{\"line\":7,\"ch\":227}}}"
+                },
+                {
                   "title": "+ 0 Basic Note",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ 0 Basic Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1138,7 +1150,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1266,7 +1278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md"
+                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md"
               }
             }
           },
@@ -1351,7 +1363,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1377,7 +1389,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1414,10 +1426,12 @@
   },
   "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "10 Projects/11 Now/Web Design 101.md",
+    "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
+    "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "_system/Templates/+ 0 Basic Note.md",
     "_system/Templates/+ Weekly Note.md",
-    "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
     "10 Projects/11 Now/Design Systems in Figma.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs",
     "20 Areas/22 House & Maintenance",
@@ -1446,11 +1460,9 @@
     "Users/martin/Library/CloudStorage",
     "Users/martin/Library",
     "Users/martin",
-    "Users",
     "20 Areas/💰 Money & financials.md",
     "20 Areas/Learning.md",
     "10 Projects/11 Now/Motion Design In Figma.md",
-    "10 Projects/11 Now/Web Design 101.md",
     "10 Projects/11 Now/Client - janadolezelova.com.md",
     "10 Projects/Notes/Motion Design In Figma/Figma containers.md",
     "40 Calendar/32 Weekly Notes/Week 37 2024-05.md",
