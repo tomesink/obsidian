@@ -929,8 +929,20 @@
             "id": "0db6b5a3f390255b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 2,
               "stack": [
+                {
+                  "title": "Design Systems in Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":153},\"to\":{\"line\":58,\"ch\":153}},\"scroll\":44.058268229166664}"
+                },
+                {
+                  "title": "Episode 6 - Layout",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 6 - Layout.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":4},\"to\":{\"line\":39,\"ch\":7}},\"scroll\":35.036783854166664}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -1222,7 +1234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "west",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1248,7 +1260,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -1426,13 +1439,14 @@
   },
   "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
-    "10 Projects/11 Now/Web Design 101.md",
+    "10 Projects/Notes/Web Design 101/Episode 6 - Layout.md",
+    "10 Projects/11 Now/Design Systems in Figma.md",
     "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
+    "10 Projects/11 Now/Web Design 101.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "_system/Templates/+ 0 Basic Note.md",
     "_system/Templates/+ Weekly Note.md",
-    "10 Projects/11 Now/Design Systems in Figma.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs",
     "20 Areas/22 House & Maintenance",
     "20 Areas/21 Me & Family",
@@ -1471,7 +1485,6 @@
     "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/7110.1.1b Sans-Serif.md",
     "+ Zettelkasten/+About.md",
     "00 Inputs/Regulations.md",
-    "00 Inputs/Doporuceni OECD a NERV.md",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",

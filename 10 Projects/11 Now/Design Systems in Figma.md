@@ -56,7 +56,7 @@ Always have accessibility (A11y) in mind. This could mean also dark mode, large 
 
 ### Colors
 
-Colors can have different meaning in different cultures. Eg. Red is danger in West, but prosperity in the East.
+Colors can have different meaning in different cultures. Eg. Red is danger in West, but prosperity in the East (White is the dangerous color in the East)
 
 Can create hierarchy.
 
