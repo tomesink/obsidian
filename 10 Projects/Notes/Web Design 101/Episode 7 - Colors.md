@@ -5,7 +5,10 @@ created: 2024-09-13
 
 # Episode 7 - colors
 
-Check out this
+Check out the link bellow about meanings of color and try to understand it.
+
+
+
 
 
 
