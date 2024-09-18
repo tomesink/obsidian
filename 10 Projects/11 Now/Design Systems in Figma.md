@@ -124,9 +124,9 @@ Good icons can enhance company's visual identity. Provides consistent user exper
 
 Icons should be functional and recognizable.
 
-Typical icon sizes are: 16x16, 24x24, 32x32
+Typical icon dimensions are: 16x16, 24x24, 32x32
 
-All icons should be consistent and same sizes. If not you can align them with icon grid:
+All icons should be consistent in their dimensions. If not you can align them with icon grid (see lesson 3):
 
 ![[Pasted image 20240918111755.png]]
 
