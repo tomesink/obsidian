@@ -308,7 +308,15 @@ Eg. navigation menu
 
 ### Colors
 
-You can use functional approach to name your color styles. Use semantic naming.
+You can use functional approach to name your color styles. 
+
+![[Pasted image 20240918110531.png]]
+
+
+
+
+Use semantic naming.
+
 
 
 
