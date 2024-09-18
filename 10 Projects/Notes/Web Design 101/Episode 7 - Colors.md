@@ -31,13 +31,13 @@ The purpose is to create contrast (similar to Big, smaller, small in [[Episode 6
 
 
 ##### Example2:
-60 - purple
-30 - red (picture)
-10 - white
+60 - "orange"
+30 - red (text)
+10 - black
 
+![[Pasted image 20240918162118.png]]
 
-
-
+This is the same page scrolled down. T
 
 ___
 #### Sources:
