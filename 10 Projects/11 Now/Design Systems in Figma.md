@@ -261,7 +261,13 @@ You can keep everything in one file or break it into multiple files.
 
 ### Atomic design
 
-Modular approach to build a design system
+Modular approach to build a design system from scratch based on atoms-molecules-organisms analogy:
+
+![[Pasted image 20240918103717.png]]
+
+#### Atoms
+
+Elements that can not be broken down any further.
 
 
 
