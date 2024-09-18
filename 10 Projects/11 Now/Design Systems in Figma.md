@@ -126,6 +126,13 @@ Icons should be functional and recognizable.
 
 Typical icon sizes are: 16x16, 24x24, 32x32
 
+All icons should be consistent and same sizes. If not you can align them with icon grid:
+
+![[Pasted image 20240918111755.png]]
+
+
+
+
 [A complete guide to iconography](https://www.designsystems.com/iconography-guide/)
 
 
