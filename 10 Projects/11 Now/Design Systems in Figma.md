@@ -251,6 +251,7 @@ All changes in main component is immediately visible in all its instances
 ### Libraries
 
 A collection of styles and components shared within a team or organization.
+Library establishes consistency and keeps elements up to date.
 
 
 
