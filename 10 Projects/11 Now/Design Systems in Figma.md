@@ -317,6 +317,10 @@ Use semantic naming. Slash naming convention
 
 ![[Pasted image 20240918110653.png]]
 
+![[Pasted image 20240918110719.png]]
+
+
+
 
 
 
