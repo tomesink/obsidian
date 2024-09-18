@@ -124,6 +124,8 @@ Good icons can enhance company's visual identity. Provides consistent user exper
 
 Icons should be functional and recognizable.
 
+Typical icon
+
 [A complete guide to iconography](https://www.designsystems.com/iconography-guide/)
 
 
