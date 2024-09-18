@@ -239,11 +239,12 @@ Sources:
 
 
 Sources:
+[Atomic Design Methodology | Atomic Design by Brad Frost](https://atomicdesign.bradfrost.com/chapter-2/)
 [Material Design](https://m3.material.io/)
 [Space Grotesk - Google Fonts](https://fonts.google.com/specimen/Space+Grotesk)
 [Components, styles, and shared library best practices](https://www.figma.com/best-practices/components-styles-and-shared-libraries/)
 [Component architecture in Figma](https://www.figma.com/best-practices/component-architecture/)
-
+[Creating and organizing Variants](https://www.figma.com/best-practices/creating-and-organizing-variants/)
 
 
 [Lesson 3: Build your design system – Figma Learn - Help Center](https://help.figma.com/hc/en-us/articles/14548865734679-Lesson-3-Build-your-design-system)
