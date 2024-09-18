@@ -164,6 +164,9 @@ The baseline plays role in the type system as well:
 
 ![[Pasted image 20240916181323.png]]
 
+NOTE: Set your nudge val
+
+
 There can be many more grid types:
 
 ![[Screenshot 2024-09-16 at 18.14.27.png]]
