@@ -17,15 +17,22 @@ Choose a color based on the psychology and than choose other colors to fit the m
 30% - secondary color
 10% - accent color
 
-Example1:
+not fixed. It does not haveto be really 60, realy exacto 30, really 10.
+The pu
+
+##### Example1:
 60 - purple
 30 - red (picture)
+10 - white
 
 
 ![[Pasted image 20240918161910.png]]
 
 
-
+##### Example2:
+60 - purple
+30 - red (picture)
+10 - white
 
 
 
