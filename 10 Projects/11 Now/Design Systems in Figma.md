@@ -203,7 +203,10 @@ Do not forget to document exceptions like 4px.
 
 Reusable solutions for common user goals.
 
-Eg. mobile tab bar menu
+Eg. mobile tab bar menu indicating (with little dot) on which scree we are right now:
+
+![[Pasted image 20240918113613.png]]
+
 
 
 Sources:
