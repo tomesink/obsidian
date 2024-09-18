@@ -254,6 +254,8 @@ Collection of properties or settings (color, typography, shadow, blur, reusable 
 ### Components
 
 Reusable elements or collections of elements.
+
+
 When component is copied, an instance is created.
 All changes in main component is immediately visible in all its instances
 
@@ -342,9 +344,14 @@ We can use slash naming to create types for titles and body for example.
 
 ### Icons
 
+Icons should be components. Use component description to describe them.
 Use slash naming conventions and put them into assets.
 
 ![[Pasted image 20240918112054.png]]
+
+
+
+
 
 
 
