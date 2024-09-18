@@ -276,7 +276,9 @@ Icons, input label, or buttons.
 
 #### Molecules
 
-A collection of individua
+A collection of individual elements (atoms) forming a single unit.
+
+Eg. sear
 
 
 
