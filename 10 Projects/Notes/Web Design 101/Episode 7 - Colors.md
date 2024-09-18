@@ -45,13 +45,13 @@ This is the same page scrolled down. The section is using different color but st
 
 
 
-##### Example1:
+##### Example 3:
 
 60 - green-ish
-30 - red (picture)
+30 - beige + blue + yellow
 10 - white
 
-
+![[Pasted image 20240918162422.png]]
 
 
 ___
