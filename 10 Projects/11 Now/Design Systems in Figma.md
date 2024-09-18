@@ -267,7 +267,9 @@ Modular approach to build a design system from scratch based on atoms-molecules-
 
 #### Atoms
 
-Elements that can not be broken down any further.
+Elements that can not be broken down any further (element would loose its function otherwise).
+
+Icons,
 
 
 
