@@ -292,6 +292,15 @@ Eg. search bar:
 ![[Pasted image 20240918104057.png]]
 
 
+#### Design
+
+Complex structures made up of molecules and atoms.
+
+
+
+
+
+
 
 
 
