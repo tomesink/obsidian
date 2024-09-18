@@ -235,7 +235,9 @@ Sources:
 
 ### Styles
 
-Collection of properties or settings (color, typogra) to be reused
+Collection of properties or settings (color, typography, shadow, blur, reusable scaffolding for grids) to be reused.
+
+
 
 
 
