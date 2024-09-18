@@ -255,7 +255,11 @@ Library establishes consistency and keeps elements up to date.
 
 Each library is linked to a file. 
 Library can use styles and components from another library.
-You can kee
+You can keep everything in one file or break it into multiple files.
+
+![[Pasted image 20240918103229.png]]
+
+
 
 
 
