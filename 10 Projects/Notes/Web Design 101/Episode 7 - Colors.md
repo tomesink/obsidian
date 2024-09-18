@@ -7,7 +7,7 @@ created: 2024-09-13
 
 Check out the link bellow about meanings of color and try to understand it.
 
-
+Use some color picker/palette tool to find suitable fits for your colors. Choose a color
 
 
 
