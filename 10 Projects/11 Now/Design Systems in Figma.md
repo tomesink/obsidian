@@ -320,6 +320,10 @@ Use semantic naming. Slash naming convention
 ![[Pasted image 20240918110719.png]]
 
 
+### Typography
+
+Use semantic type system.
+
 
 
 
