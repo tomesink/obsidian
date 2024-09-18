@@ -7,7 +7,9 @@ created: 2024-09-13
 
 Check out the link bellow about meanings of color and try to understand it.
 
-Use some color picker/palette tool to find suitable fits for your colors. Choose a color
+Use some color picker/palette tool to find suitable fits for your colors. 
+
+Choose a color based on the psychology and than choose other colors to fit the main color to create harmony palette.
 
 
 
