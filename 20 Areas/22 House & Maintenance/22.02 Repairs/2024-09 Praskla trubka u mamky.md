@@ -5,7 +5,7 @@ created: 2024-09-18
 
 # 2024-09 Praskla trubka u mamky na WC
 
-Zacala ve zdu nad umyvadlem na  WC prosakovat voda
+Ve zdi pod umyvadlem na  WC zacala prosakovat voda. Zrejme je nekde praskla nebo netesnici vodovodni trubka ve zdi. Zrejme se to bude muset vysekat (idealne ale nejdriv prozkoumat sondou/kamerou) pokud to bude mozne.
 
 Dmoluveno s Honzou B. ze zaukoluje Marka a nekoho mi posle z Videnske
 
