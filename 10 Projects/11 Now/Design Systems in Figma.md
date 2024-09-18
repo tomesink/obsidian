@@ -254,7 +254,7 @@ Collection of properties or settings (color, typography, shadow, blur, reusable 
 ### Components
 
 Reusable elements or collections of elements.
-
+Always use the description property of the component to describe its function.
 
 When component is copied, an instance is created.
 All changes in main component is immediately visible in all its instances
