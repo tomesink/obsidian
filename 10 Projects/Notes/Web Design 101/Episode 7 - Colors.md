@@ -54,6 +54,12 @@ This is the same page scrolled down. The section is using different color but st
 ![[Pasted image 20240918162422.png]]
 
 
+#### Excerice
+
+Try to create your own color palette. Add it into layout with image shapes. 60-30-10.
+Try to develop hero pages with different vibes.
+
+
 ___
 #### Sources:
 - [HOW TO USE COLORS IN WEB DESIGN: Free Web Design Course | Episode 7 - YouTube](https://www.youtube.com/watch?v=UuPt4RpV4Xc&list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI&index=9)
