@@ -308,19 +308,19 @@
                 {
                   "title": "+ 0 Note",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ 0 Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ Weekly Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "+ Weekly Note",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ Weekly Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
                   "title": "+ 0 Note",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ 0 Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ Weekly Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
@@ -452,7 +452,7 @@
                 {
                   "title": "+ 0 Note",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ 0 Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ Weekly Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
                 },
                 {
@@ -476,7 +476,7 @@
                 {
                   "title": "+ 0 Note",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ 0 Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ Weekly Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
@@ -488,7 +488,7 @@
                 {
                   "title": "+ 0 Note",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ 0 Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ Weekly Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":40},\"to\":{\"line\":2,\"ch\":40}}}"
                 },
                 {
@@ -500,7 +500,7 @@
                 {
                   "title": "+ 0 Note",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ 0 Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ Weekly Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
@@ -936,6 +936,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "+ Weekly Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ Weekly Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "+ Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "+ Weekly Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_system/Templates/+ Weekly Note.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2024-09 Praskla trubka u mamky",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Design Systems in Figma",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1108,7 +1132,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
+                "file": "_system/Templates/+ Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1236,7 +1260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md"
+                "file": "_system/Templates/+ Note.md"
               }
             }
           },
@@ -1321,7 +1345,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
+                "file": "_system/Templates/+ Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1347,7 +1371,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
+                "file": "_system/Templates/+ Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1384,8 +1408,10 @@
   },
   "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
-    "10 Projects/11 Now/Design Systems in Figma.md",
+    "_system/Templates/+ Weekly Note.md",
+    "_system/Templates/+ Note.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
+    "10 Projects/11 Now/Design Systems in Figma.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs",
     "20 Areas/22 House & Maintenance",
     "20 Areas/21 Me & Family",
@@ -1428,8 +1454,6 @@
     "00 Inputs/Regulations.md",
     "00 Inputs/Doporuceni OECD a NERV.md",
     "00 Inputs/Processing main notes/Zakladni ctnosti.md",
-    "00 Inputs/Efforts.md",
-    "00 Inputs/Deniky Doporuceni od Kuby.md",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",

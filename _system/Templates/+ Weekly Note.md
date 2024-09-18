@@ -1,13 +1,48 @@
----
-topic: 
-created: <% tp.date.now("YYYY-MM-DD") %>
----
 
 # <% tp.file.title %>
 
 
 
+## Activity Log
 
-___
-#### Sources:
+### Monday
+- Webdesign
+
+### Tuesday
 - 
+
+### Wednesday
+- 
+
+### Thursday
+- 
+
+### Friday
+- 
+
+### Saturday
+- 
+
+### Sunday
+- 
+
+
+
+---
+
+### This week's wins
+
+
+### How did my strengths help me accomplish my goals?
+
+
+
+### This week's struggles
+
+
+
+### How can I leverage my strengths to overcome these struggles?
+
+
+
+### What Next?
