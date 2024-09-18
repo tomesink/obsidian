@@ -326,7 +326,7 @@ Use semantic type system.
 
 We can use slash naming to create types for titles and body for example.
 
-
+![[Pasted image 20240918111116.png]]
 
 
 
