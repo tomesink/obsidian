@@ -12,7 +12,7 @@ type: "[[Card]]"
 created: 2024-09-09
 tags:
 ---
-# Design system
+# Design systems in Figma
 
 Written course here: [Introduction to design systems (5 parts) – Figma Learn - Help Center](https://help.figma.com/hc/en-us/sections/14548397990423-Introduction-to-design-systems-5-parts)
 
@@ -235,7 +235,8 @@ Sources:
 
 ### Styles
 
-Collection of properties
+Collection of properties or settings to be reused
+
 
 
 
