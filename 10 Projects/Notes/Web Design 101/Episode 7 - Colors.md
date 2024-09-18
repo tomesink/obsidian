@@ -21,7 +21,7 @@ not fixed. It does not haveto be really 60, realy exact 30, really 10.
 
 The purpose is to create contrast (similar to Big, smaller, small in [[Episode 6 - Layout]]).
 
-##### Example1:
+##### Example 1:
 
 60 - purple
 30 - red (picture)
@@ -31,7 +31,7 @@ The purpose is to create contrast (similar to Big, smaller, small in [[Episode 6
 ![[Pasted image 20240918161910.png]]
 
 
-##### Example2:
+##### Example 2:
 
 60 - "orange"
 30 - red (text)
