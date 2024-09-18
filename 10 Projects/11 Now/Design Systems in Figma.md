@@ -324,6 +324,8 @@ Use semantic naming. Slash naming convention
 
 Use semantic type system.
 
+We can use slash naming to create types for titles and body for example.
+
 
 
 
