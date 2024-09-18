@@ -256,6 +256,8 @@ Collection of properties or settings (color, typography, shadow, blur, reusable 
 Reusable elements or collections of elements.
 Always use the description property of the component to describe its function.
 
+You can use *bulk rename* to rename multiple co
+
 When component is copied, an instance is created.
 All changes in main component is immediately visible in all its instances
 
