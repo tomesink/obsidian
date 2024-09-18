@@ -111,7 +111,7 @@ Prevent having too many type sizes. You will usually use them in a wrong way.
 
 ### Elevation
 
-Shadows on button hover, overlays, etc...
+Shadows on button hover/click, overlays, etc...
 Can communicate interactions.
 
 Not often uses on mobiles (here typically just buttons, car or menus).
@@ -342,7 +342,9 @@ We can use slash naming to create types for titles and body for example.
 
 ### Icons
 
+Use slash naming conventions and put them into assets.
 
+![[Pasted image 20240918112054.png]]
 
 
 
