@@ -98,7 +98,9 @@ pimary (buy now) and secondary (learn)
 ### Position difference
 
 
+The leftmost element immediately grabs our attention:
 
+![[Pasted image 20240919145939.png]]
 
 
 
