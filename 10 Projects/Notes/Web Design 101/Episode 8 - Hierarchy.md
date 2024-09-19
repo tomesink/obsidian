@@ -5,7 +5,7 @@ created: 2024-09-13
 
 # Episode 8 - Hierarchy
 
-
+We as designers need to navigate the eyes from the most important thing hierarchically. What to look at first, than look at th
 
 
 
