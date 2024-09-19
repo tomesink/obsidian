@@ -454,7 +454,9 @@ Tokens can be re-used across the design and act as a source of truth for both de
 
 ![[Pasted image 20240919115916.png]]
 
+![[Pasted image 20240919115959.png]]
 
+Use aliases for reusing a to
 
 
 
