@@ -447,7 +447,10 @@ Sources:
 ### Design tokens
 
 Tokens are a *method* for managing *design properties* and *values* across a design system.
-Each token stores a piece of information (value, size,)
+
+Each token stores a piece of information (value, size, name...).
+
+Tokens can be re-used across the design and act a
 
 
 ### Variables

@@ -929,8 +929,14 @@
             "id": "0db6b5a3f390255b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "💰 Money & financials",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":17.557291666666668}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -1432,6 +1438,8 @@
   },
   "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "20 Areas/💰 Money & financials.md",
+    "10 Projects/11 Now/Design Systems in Figma.md",
     "_system/Attachments/Screenshot 2024-09-19 at 11.35.24.png",
     "_system/Attachments/Pasted image 20240919112500.png",
     "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
@@ -1441,7 +1449,6 @@
     "_system/Attachments/Pasted image 20240918162118.png",
     "_system/Attachments/Pasted image 20240918161910.png",
     "10 Projects/Notes/Web Design 101/Episode 6 - Layout.md",
-    "10 Projects/11 Now/Design Systems in Figma.md",
     "10 Projects/11 Now/Web Design 101.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
     "_system/Templates/+ 0 Basic Note.md",
@@ -1453,7 +1460,6 @@
     "_system/Attachments/Pasted image 20240918112604.png",
     "_system/Attachments/Screenshot 2024-09-18 at 11.24.34.png",
     "_system/Attachments/Pasted image 20240918112335.png",
-    "_system/Attachments/Pasted image 20240918112054.png",
     "20 Areas/🏥 Health.md",
     "10 Projects/Notes/Design System/Lesson 1 - Principles.md",
     "10 Projects/19 Archive/19.00 Archive.md",
@@ -1468,7 +1474,6 @@
     "Users/martin/Library/CloudStorage",
     "Users/martin/Library",
     "Users/martin",
-    "20 Areas/💰 Money & financials.md",
     "20 Areas/Learning.md",
     "10 Projects/11 Now/Motion Design In Figma.md",
     "10 Projects/11 Now/Client - janadolezelova.com.md",
