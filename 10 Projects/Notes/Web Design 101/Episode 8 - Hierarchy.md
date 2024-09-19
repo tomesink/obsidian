@@ -95,7 +95,7 @@ pimary (buy now) and secondary (learn)
 ![[Pasted image 20240919145743.png]]
 
 
-### Position/size difference
+### Position difference
 
 
 The leftmost element immediately grabs our attention:
@@ -104,6 +104,9 @@ The leftmost element immediately grabs our attention:
 
 The typical price plan:
 
+![[Pasted image 20240919154912.png]]
+
+or combination of position and/or size
 
 
 
