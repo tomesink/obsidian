@@ -410,6 +410,9 @@ Example:
 
 Always use versioning and change logs. Use semantic versioning:
 
+Major changes: Updates that break existing designs and are not backwards compatible (change in visual style, removing components).
+
+Minor
 
 
 
