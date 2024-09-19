@@ -484,6 +484,11 @@ Organise your token from primitives, to semantic to component-specific tokens:
 
 ![[Pasted image 20240919120956.png]]
 
+You can have only few component-specific tokens and for the rest only semantic ones (and vice-versa):
+
+
+
+
 ### Variables
 
 Used to implement tokens
