@@ -480,7 +480,7 @@ Organise your token from primitives, to semantic to component-specific tokens:
 
 **Semantic** tokens give us context on *how* the token should be used. Semantic names convey *meaning*, *purpose*, and *how* and *where* the asset should be used.
 
-
+**Component specific** tokens provide more specific information on where the token is used.
 
 ### Variables
 
