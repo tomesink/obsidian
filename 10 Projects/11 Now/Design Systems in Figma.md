@@ -419,7 +419,7 @@ Minor changes: Updates without breaking changes that can flow seamlessly into ex
 
 Patches: Bug fixes without breaking changes (fixing incorrect padding values, or component names that do not match code). 
 
-Like in programming, use **branching and merging**.
+Like in programming, use **branching and merging**. Make changes in a separate environment.
 
 
 
