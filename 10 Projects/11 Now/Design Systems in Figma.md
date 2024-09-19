@@ -409,7 +409,6 @@ Example:
 ![[Pasted image 20240919112500.png]]
 
 Always use versioning and change logs. Use semantic versioning:
-
 ##### Major.Minor.Patch-Beta+Build
 
 Major changes: Updates that break existing designs and are not backwards compatible (change in visual style, removing components).
