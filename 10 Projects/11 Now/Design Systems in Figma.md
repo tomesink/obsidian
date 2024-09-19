@@ -397,7 +397,12 @@ Use design linters for auditing.
 
 ### Improving
 
-You can do it via user testing, collecting feedback (questionaries, comments in fig jam files etc.).
+You can do it via user testing.
+You can collect feedback (questionaries, comments in fig jam files etc.) eg. from your whole team/company.
+
+### Updating
+
+Establish 
 
 
 
