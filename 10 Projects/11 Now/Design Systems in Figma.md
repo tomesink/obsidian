@@ -395,6 +395,11 @@ You can host the documentation in a Figma file itself (together with the design 
 
 Use design linters for auditing.
 
+### Improving
+
+You can do it via user testing.
+
+
 
 Sources:
 
