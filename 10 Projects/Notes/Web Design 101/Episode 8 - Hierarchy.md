@@ -27,7 +27,18 @@ No hierarchy at all.
 ![[Pasted image 20240919143928.png]]
 
 
+#### Good example 1
 
+
+
+
+
+#### Good example 2
+
+
+
+
+#### Good example 3
 
 
 
