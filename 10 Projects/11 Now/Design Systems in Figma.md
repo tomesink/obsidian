@@ -22,6 +22,9 @@ Written course here: [Introduction to design systems (5 parts) – Figma Learn -
 
 Design system communicates the "what", "how" and "why".
 
+It is a marathon, not a sprint.
+Everything is
+
 Key parts of a successful design system:
 
 1. Principles
