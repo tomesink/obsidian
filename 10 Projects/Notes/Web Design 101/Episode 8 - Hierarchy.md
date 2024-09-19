@@ -113,7 +113,9 @@ or combination of position and/or size and/or color:
 
 ### Typography hierarchy
 
-![[Pasted image 20240919155154.png]]
+Hopefully this is obvious.
+
+![[Pasted image 20240919155229.png]]
 
 
 
