@@ -393,7 +393,7 @@ Any component in Figma can have a link to its external documentation.
 
 You can host the documentation in a Figma file itself (together with the design system.)
 
-
+Use design linters for auditing.
 
 
 Sources:
