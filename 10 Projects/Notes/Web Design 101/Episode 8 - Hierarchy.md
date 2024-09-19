@@ -7,6 +7,7 @@ created: 2024-09-13
 
 We as designers need to navigate the eyes from the most important thing hierarchically. What to look at first, than look at this secondary thing and than look here on the least important thing.
 
+## Examples
 ##### Bad example 1:
 
 Everything is green and black. everything is trying to "scream" at me. Not sure where to look at first. I am overhelmed.
@@ -50,6 +51,17 @@ From visuals/pictures -> text.
 
 
 The good examples guide your eyes.
+
+
+## How to create hierarchies?
+
+### Size difference
+
+![[Pasted image 20240919145046.png]]
+
+
+
+
 
 
 
