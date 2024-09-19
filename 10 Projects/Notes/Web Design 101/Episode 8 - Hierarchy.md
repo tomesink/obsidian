@@ -70,8 +70,15 @@ We can follow the usual Big - medium - small pattern.
 
 
 ![[Pasted image 20240919145344.png]]
+vs
+
+1 primary the rest secondary
 
 ![[Pasted image 20240919145458.png]]
+
+
+
+
 
 
 
