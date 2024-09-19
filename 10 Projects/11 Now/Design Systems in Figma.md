@@ -444,6 +444,5 @@ Sources:
 
 ## 7. Tokens, variables, and styles
 
-Figma introduced variables. Use them to create semantic naming.
+### Design tokens
 
-#
