@@ -408,7 +408,9 @@ Example:
 
 ![[Pasted image 20240919112500.png]]
 
-Always use versioning and change logs.
+Always use versioning and change logs. Use semantic versioning:
+
+
 
 
 
