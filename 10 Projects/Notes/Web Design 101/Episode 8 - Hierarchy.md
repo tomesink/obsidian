@@ -20,7 +20,11 @@ Logo is the biggest thing here. Everything is blue, the buttons including the CT
 ![[Pasted image 20240919143658.png]]
 
 
+#### Bad example 3:
 
+No hierarchy at all.
+
+![[Pasted image 20240919143928.png]]
 
 
 
