@@ -442,4 +442,6 @@ Sources:
 [Semantic Versioning 2.0.0 | Semantic Versioning](https://semver.org/)
 
 
-## 7. Variables
+## 7. Tokens, variables, and styles
+
+Figma introduced variables. Use them to create semantic naming.
