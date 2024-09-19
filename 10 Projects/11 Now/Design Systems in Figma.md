@@ -478,7 +478,9 @@ Organise your token from primitives, to semantic to component-specific tokens:
 
 **Primitive tokens** tell us *what* properties and values exist within our designs.
 
-**Semantic** tokens give us context on *how* the token should be used. Semantic names convey *meaning*, *purpose*, 
+**Semantic** tokens give us context on *how* the token should be used. Semantic names convey *meaning*, *purpose*, and *how* and *where* the asset should be used.
+
+
 
 ### Variables
 
