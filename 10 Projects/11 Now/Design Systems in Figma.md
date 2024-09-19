@@ -446,6 +446,8 @@ Sources:
 
 ### Design tokens
 
+Tokens are a *method* for managing *design properties* and *values* across a design system.
+Each token stores a piece of information (value, size,)
 
 
 ### Variables
