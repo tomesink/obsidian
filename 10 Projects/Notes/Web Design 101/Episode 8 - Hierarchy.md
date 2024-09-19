@@ -37,7 +37,9 @@ Good size and contrast of the text.
 
 #### Good example 2
 
+Biggest is the picture, but the eyes moves to the text immediately.
 
+![[Pasted image 20240919144718.png]]
 
 
 #### Good example 3
