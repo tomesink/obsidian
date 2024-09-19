@@ -1234,7 +1234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "token",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1260,7 +1260,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -1436,8 +1437,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0db6b5a3f390255b",
+  "active": "77966b04a7f238ed",
   "lastOpenFiles": [
+    "_system/Attachments/Pasted image 20240919120219.png",
+    "_system/Attachments/Pasted image 20240919120158.png",
     "_system/Attachments/Screenshot 2024-09-19 at 12.00.33.png",
     "_system/Attachments/Pasted image 20240919120053.png",
     "_system/Attachments/Pasted image 20240919115959.png",
@@ -1451,7 +1454,6 @@
     "_system/Attachments/Pasted image 20240918162422.png",
     "_system/Attachments/Pasted image 20240918162233.png",
     "_system/Attachments/Pasted image 20240918162118.png",
-    "_system/Attachments/Pasted image 20240918161910.png",
     "10 Projects/Notes/Web Design 101/Episode 6 - Layout.md",
     "10 Projects/11 Now/Web Design 101.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
@@ -1460,7 +1462,6 @@
     "20 Areas/22 House & Maintenance/22.02 Repairs",
     "20 Areas/22 House & Maintenance",
     "20 Areas/21 Me & Family",
-    "_system/Attachments/Pasted image 20240918113613.png",
     "20 Areas/🏥 Health.md",
     "10 Projects/Notes/Design System/Lesson 1 - Principles.md",
     "10 Projects/19 Archive/19.00 Archive.md",

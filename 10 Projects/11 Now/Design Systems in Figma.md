@@ -461,9 +461,12 @@ Use aliases for reusing a token for different purposes:
 From this:
 ![[Screenshot 2024-09-19 at 12.00.33.png]]
 
+![[Pasted image 20240919120158.png]]
+
+
 To this:
 
-
+![[Pasted image 20240919120219.png]]
 
 
 ### Variables
