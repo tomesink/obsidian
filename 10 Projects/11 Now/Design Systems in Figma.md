@@ -404,6 +404,11 @@ You can collect feedback (questionaries, comments in fig jam files etc.) eg. fro
 
 Establish a good **contribution process**. this process can handle onboarding, knowledge sharing and consistency with the design system.
 
+Example:
+
+![[Pasted image 20240919112500.png]]
+
+
 
 
 
