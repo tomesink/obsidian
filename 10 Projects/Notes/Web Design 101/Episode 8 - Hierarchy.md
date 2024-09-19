@@ -9,12 +9,16 @@ We as designers need to navigate the eyes from the most important thing hierarch
 
 ##### Bad example 1:
 
-Everything is green and black. everything is trying to "scream" at me. Not sure where to look at first.
-
-
-
+Everything is green and black. everything is trying to "scream" at me. Not sure where to look at first. I am overhelmed.
 
 ![[Pasted image 20240919141953.png]]
+
+##### Bad example 2:
+
+
+
+![[Pasted image 20240919143658.png]]
+
 
 
 
