@@ -489,6 +489,8 @@ You can have only few component-specific tokens and for the rest only semantic o
 ![[Pasted image 20240919121356.png]]
 
 Implementing design tokens means combining styles AND variables.
+
+![[Pasted image 20240919121609.png]]
 ### Variables
 
 Used to implement tokens
