@@ -423,6 +423,8 @@ Like in programming, use **branching and merging**. Make changes in a separate e
 
 ![[Screenshot 2024-09-19 at 11.35.24.png]]
 
+[Guide to branching – Figma Learn - Help Center](https://help.figma.com/hc/en-us/articles/360063144053-Guide-to-branching)
+
 
 
 
@@ -442,4 +444,4 @@ Sources:
 [figma.com/community/plugin/751892393146479981/roller-design-linter](https://www.figma.com/community/plugin/751892393146479981/roller-design-linter)
 [How to do Design Research? | Figma](https://www.figma.com/resource-library/design-research/)
 [Semantic Versioning 2.0.0 | Semantic Versioning](https://semver.org/)
-[Guide to branching – Figma Learn - Help Center](https://help.figma.com/hc/en-us/articles/360063144053-Guide-to-branching)
+
