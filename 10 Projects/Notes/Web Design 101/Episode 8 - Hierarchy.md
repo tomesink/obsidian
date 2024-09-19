@@ -111,6 +111,9 @@ or combination of position and/or size and/or color:
 ![[Pasted image 20240919155018.png]]
 
 
+### Typography hierarchy
+
+![[Pasted image 20240919155154.png]]
 
 
 
