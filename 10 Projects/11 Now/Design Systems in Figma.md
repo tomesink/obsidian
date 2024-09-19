@@ -476,6 +476,9 @@ Organise your token from primitives, to semantic to component-specific tokens:
 
 ![[Pasted image 20240919120435.png]]
 
+**Primitive tokens** tell us *what* properties and values exist within our designs.
+
+**Semantic** token
 
 ### Variables
 
