@@ -482,6 +482,8 @@ Organise your token from primitives, to semantic to component-specific tokens:
 
 **Component specific** tokens provide more specific information on where the token is used.
 
+![[Pasted image 20240919120956.png]]
+
 ### Variables
 
 Used to implement tokens
@@ -490,4 +492,8 @@ Used to implement tokens
 ### Styles
 
 Use variables to implement typography styles.
+
+
+
+Sources:
 
