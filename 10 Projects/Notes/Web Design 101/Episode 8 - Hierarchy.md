@@ -106,7 +106,9 @@ The typical price plan:
 
 ![[Pasted image 20240919154912.png]]
 
-or combination of position and/or size
+or combination of position and/or size and/or color:
+
+![[Pasted image 20240919155018.png]]
 
 
 
