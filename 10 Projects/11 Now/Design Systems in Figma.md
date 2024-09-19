@@ -397,3 +397,6 @@ Sources:
 
 
 [Overview - Get started - Atlassian Design System](https://atlassian.design/)
+[Storybook: Frontend workshop for UI development](https://storybook.js.org/)
+[figma.com/community/plugin/801195587640428208/design-lint](https://www.figma.com/community/plugin/801195587640428208/design-lint)
+[figma.com/community/plugin/751892393146479981/roller-design-linter](https://www.figma.com/community/plugin/751892393146479981/roller-design-linter)
