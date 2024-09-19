@@ -408,7 +408,9 @@ Example:
 
 ![[Pasted image 20240919112500.png]]
 
-Always use versioning and change logs. Use semantic versioning:
+Always use **versioning** and change logs. Use 
+
+#### semantic versioning:
 ##### Major.Minor.Patch-Beta+Build
 
 Major changes: Updates that break existing designs and are not backwards compatible (change in visual style, removing components).
@@ -417,7 +419,7 @@ Minor changes: Updates without breaking changes that can flow seamlessly into ex
 
 Patches: Bug fixes without breaking changes (fixing incorrect padding values, or component names that do not match code). 
 
-
+Like in programming, use **branching and merging**.
 
 
 
