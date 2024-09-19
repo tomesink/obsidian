@@ -468,6 +468,10 @@ To this:
 
 ![[Pasted image 20240919120219.png]]
 
+This allows to quickly update without breaking anything:
+
+![[Pasted image 20240919120328.png]]
+
 
 ### Variables
 
