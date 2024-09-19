@@ -505,7 +505,9 @@ Used to implement tokens
 
 ### Styles
 
-Use variables to implement typography styles.
+Use variables to implement typography styles:
+[Figma tutorial: Variables for typography - YouTube](https://www.youtube.com/watch?v=APNWWhXIg04)
+
 
 
 
