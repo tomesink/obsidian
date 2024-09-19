@@ -929,17 +929,23 @@
             "id": "0db6b5a3f390255b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "💰 Money & financials",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":17.557291666666668}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Web Design 101",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":11}"
+                },
+                {
+                  "title": "Design Systems in Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":108.1962890625}"
                 },
                 {
                   "title": "Episode 7 - Colors",
@@ -1162,7 +1168,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/11 Now/Design Systems in Figma.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1234,7 +1240,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "token",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1260,8 +1266,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -1291,7 +1296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/11 Now/Design Systems in Figma.md"
+                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors 1.md"
               }
             }
           },
@@ -1376,7 +1381,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/11 Now/Design Systems in Figma.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1402,7 +1407,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/11 Now/Design Systems in Figma.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1416,7 +1421,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
@@ -1439,6 +1443,9 @@
   },
   "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "10 Projects/11 Now/Web Design 101.md",
+    "10 Projects/Notes/Web Design 101/Episode 7 - Colors 1.md",
+    "10 Projects/11 Now/Design Systems in Figma.md",
     "_system/Attachments/Pasted image 20240919121742.png",
     "_system/Attachments/Pasted image 20240919121609.png",
     "_system/Attachments/Pasted image 20240919121436.png",
@@ -1449,13 +1456,10 @@
     "_system/Attachments/Pasted image 20240919120219.png",
     "_system/Attachments/Pasted image 20240919120158.png",
     "_system/Attachments/Screenshot 2024-09-19 at 12.00.33.png",
-    "_system/Attachments/Pasted image 20240919120053.png",
     "20 Areas/💰 Money & financials.md",
-    "10 Projects/11 Now/Design Systems in Figma.md",
     "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "10 Projects/Notes/Web Design 101/Episode 6 - Layout.md",
-    "10 Projects/11 Now/Web Design 101.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
     "_system/Templates/+ 0 Basic Note.md",
     "_system/Templates/+ Weekly Note.md",
