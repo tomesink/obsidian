@@ -29,8 +29,10 @@ No hierarchy at all.
 
 #### Good example 1
 
+Good size and contrast of the text.
 
 
+![[Pasted image 20240919144617.png]]
 
 
 #### Good example 2
