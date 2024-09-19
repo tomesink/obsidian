@@ -57,7 +57,13 @@ The good examples guide your eyes.
 
 ### Size difference
 
+We can follow the usual Big - medium - small pattern.
+
 ![[Pasted image 20240919145046.png]]
+
+
+
+
 
 
 
