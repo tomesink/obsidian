@@ -450,7 +450,13 @@ Tokens are a *method* for managing *design properties* and *values* across a des
 
 Each token stores a piece of information (value, size, name...).
 
-Tokens can be re-used across the design and act as a source of thruth 
+Tokens can be re-used across the design and act as a source of truth for both designers and devs.
+
+![[Pasted image 20240919115916.png]]
+
+
+
+
 
 
 ### Variables
