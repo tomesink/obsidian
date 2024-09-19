@@ -446,3 +446,14 @@ Sources:
 
 ### Design tokens
 
+
+
+### Variables
+
+Used to implement tokens
+
+
+### Styles
+
+Use variables to implement typography styles.
+
