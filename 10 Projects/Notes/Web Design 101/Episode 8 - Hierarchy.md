@@ -76,9 +76,17 @@ vs
 
 ![[Pasted image 20240919145458.png]]
 
+or
+
+1 primary, 1 secondary the rest tertiary
+![[Pasted image 20240919145602.png]]
+
+Color difference is used on button/CTA:
 
 
 
+
+![[Pasted image 20240919145701.png]]
 
 
 
