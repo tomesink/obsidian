@@ -68,7 +68,13 @@ We can follow the usual Big - medium - small pattern.
 
 ### Color difference
 
+
 ![[Pasted image 20240919145344.png]]
+
+![[Pasted image 20240919145458.png]]
+
+
+
 
 
 
