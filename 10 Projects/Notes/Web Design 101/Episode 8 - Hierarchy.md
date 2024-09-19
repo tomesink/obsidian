@@ -7,6 +7,8 @@ created: 2024-09-13
 
 We as designers need to navigate the eyes from the most important thing hierarchically. What to look at first, than look at this secondary thing and than look here on the least important thing.
 
+It relates to [[Episode 6 - Layout]]
+
 ## Examples
 ##### Bad example 1:
 
@@ -61,7 +63,7 @@ We can follow the usual Big - medium - small pattern.
 
 ![[Pasted image 20240919145046.png]]
 
-
+![[Screenshot 2024-09-19 at 14.51.54.png]]
 
 
 
