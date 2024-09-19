@@ -412,7 +412,9 @@ Always use versioning and change logs. Use semantic versioning:
 
 Major changes: Updates that break existing designs and are not backwards compatible (change in visual style, removing components).
 
-Minor changes: Updates without breaking changes that can flow seamlessly into existing designs (new patterns, updated documentations)
+Minor changes: Updates without breaking changes that can flow seamlessly into existing designs (new patterns, updated documentation).
+
+Patches: Bug fixes without breaking changes (fixing incorrect padding values, or component names that do not match code). 
 
 
 
