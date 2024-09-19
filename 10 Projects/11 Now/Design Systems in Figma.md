@@ -23,7 +23,7 @@ Written course here: [Introduction to design systems (5 parts) – Figma Learn -
 Design system communicates the "what", "how" and "why".
 
 It is a marathon, not a sprint.
-Everything is
+Everything is iterative (including the learning process).
 
 Key parts of a successful design system:
 
@@ -428,13 +428,6 @@ Like in programming, use **branching and merging**. Make changes in a separate e
 
 [Guide to branching – Figma Learn - Help Center](https://help.figma.com/hc/en-us/articles/360063144053-Guide-to-branching)
 
-
-
-
-
-
-
-
 Sources:
 
 [Document, improve and update your design system - Lesson 4 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=_sTWtnNU1L0&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=8)
@@ -448,3 +441,5 @@ Sources:
 [How to do Design Research? | Figma](https://www.figma.com/resource-library/design-research/)
 [Semantic Versioning 2.0.0 | Semantic Versioning](https://semver.org/)
 
+
+## 7. Variables
