@@ -929,23 +929,17 @@
             "id": "0db6b5a3f390255b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 2,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Design Systems in Figma",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":153},\"to\":{\"line\":58,\"ch\":153}},\"scroll\":44.058268229166664}"
-                },
-                {
-                  "title": "Episode 6 - Layout",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 6 - Layout.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":4},\"to\":{\"line\":39,\"ch\":7}},\"scroll\":35.036783854166664}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Episode 7 - Colors",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 7 - Colors.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":22},\"to\":{\"line\":65,\"ch\":22}},\"scroll\":46.037760416666664}"
                 },
                 {
                   "title": "Web Design 101",
@@ -1162,7 +1156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
+                "file": "10 Projects/11 Now/Design Systems in Figma.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1234,7 +1228,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "west",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1260,8 +1254,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -1291,7 +1284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md"
+                "file": "10 Projects/11 Now/Design Systems in Figma.md"
               }
             }
           },
@@ -1376,7 +1369,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
+                "file": "10 Projects/11 Now/Design Systems in Figma.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1402,7 +1395,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
+                "file": "10 Projects/11 Now/Design Systems in Figma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1439,6 +1432,7 @@
   },
   "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "_system/Attachments/Pasted image 20240918162422.png",
     "_system/Attachments/Pasted image 20240918162233.png",
@@ -1446,7 +1440,6 @@
     "_system/Attachments/Pasted image 20240918161910.png",
     "10 Projects/Notes/Web Design 101/Episode 6 - Layout.md",
     "10 Projects/11 Now/Design Systems in Figma.md",
-    "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
     "10 Projects/11 Now/Web Design 101.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
     "_system/Templates/+ 0 Basic Note.md",
