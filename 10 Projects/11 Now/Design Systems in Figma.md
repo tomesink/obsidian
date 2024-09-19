@@ -456,7 +456,12 @@ Tokens can be re-used across the design and act as a source of truth for both de
 
 ![[Pasted image 20240919115959.png]]
 
-Use aliases for reusing a to
+Use aliases for reusing a token for different purposes:
+
+From this:
+![[Screenshot 2024-09-19 at 12.00.33.png]]
+
+To this:
 
 
 
