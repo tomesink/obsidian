@@ -472,6 +472,10 @@ This allows to quickly update without breaking anything:
 
 ![[Pasted image 20240919120328.png]]
 
+Organise your token from primitives, to semantic to component-specific tokens:
+
+![[Pasted image 20240919120435.png]]
+
 
 ### Variables
 
