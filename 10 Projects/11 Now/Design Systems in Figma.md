@@ -382,4 +382,7 @@ Sources:
 
 
 
-## 6. Document, improve and u
+## 6. Document, improve and update your design system
+
+### Effective documentation
+
