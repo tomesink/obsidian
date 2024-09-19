@@ -44,6 +44,15 @@ Biggest is the picture, but the eyes moves to the text immediately.
 
 #### Good example 3
 
+From visuals/pictures -> text.
+
+![[Pasted image 20240919144821.png]]
+
+
+The good examples guide your eyes.
+
+
+
 
 
 ___
