@@ -480,7 +480,7 @@ Organise your token from primitives, to semantic to component-specific tokens:
 
 **Semantic** tokens give us context on *how* the token should be used. Semantic names convey *meaning*, *purpose*, and *how* and *where* the asset should be used.
 
-**Component specific** tokens provide more specific information on where the token is used.
+**Component specific** tokens provide more specific information on where the token is used. They are used in big systems on enterprise level. On smaller projects or designs 
 
 ![[Pasted image 20240919120956.png]]
 
@@ -497,3 +497,7 @@ Use variables to implement typography styles.
 
 Sources:
 
+[Components, styles, and shared library best practices](https://www.figma.com/best-practices/components-styles-and-shared-libraries/)
+[The difference between variables and styles – Figma Learn - Help Center](https://help.figma.com/hc/en-us/articles/15871097384471-The-difference-between-variables-and-styles)
+[Guide to variables in Figma – Figma Learn - Help Center](https://help.figma.com/hc/en-us/articles/15339657135383-Guide-to-variables-in-Figma)
+[Styles in Figma – Figma Learn - Help Center](https://help.figma.com/hc/en-us/articles/360039238753-Styles-in-Figma)
