@@ -83,7 +83,9 @@ or
 
 Color difference is used on button/CTA:
 
+We do not know where to click first:
 
+![[Pasted image 20240919145809.png]]
 
 vs
 
@@ -91,6 +93,11 @@ pimary (buy now) and secondary (learn)
 ![[Pasted image 20240919145701.png]]
 
 ![[Pasted image 20240919145743.png]]
+
+
+### Position difference
+
+
 
 
 
