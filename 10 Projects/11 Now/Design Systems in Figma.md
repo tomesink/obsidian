@@ -368,15 +368,6 @@ One illustration can be used in multiple context. Always use semantic naming:
 ![[Pasted image 20240918112604.png]]
 
 
-
-
-
-
-
-
-
-
-
 Sources:
 [Material Design](https://m3.material.io/)
 [Space Grotesk - Google Fonts](https://fonts.google.com/specimen/Space+Grotesk)
@@ -387,3 +378,8 @@ Sources:
 
 [Lesson 3: Build your design system – Figma Learn - Help Center](https://help.figma.com/hc/en-us/articles/14548865734679-Lesson-3-Build-your-design-system)
 [Build your design system - Lesson 3 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=0XSLMGh8yhM&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=7)
+
+
+
+
+## 6. Document, improve and u
