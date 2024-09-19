@@ -391,7 +391,7 @@ For small companies, Notion or Storybook could be better solution.
 
 Any component in Figma can have a link to its external documentation.
 
-You can host the documentation in a figma file itself (together with the design system.)
+You can host the documentation in a Figma file itself (together with the design system.)
 
 
 
