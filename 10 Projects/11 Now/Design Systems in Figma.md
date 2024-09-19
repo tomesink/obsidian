@@ -402,7 +402,9 @@ You can collect feedback (questionaries, comments in fig jam files etc.) eg. fro
 
 ### Updating
 
-Establish a good **contribution process**. this process can handle onboarding, knowledge sharing and consisten
+Establish a good **contribution process**. this process can handle onboarding, knowledge sharing and consistency with the design system.
+
+
 
 
 
