@@ -85,10 +85,12 @@ Color difference is used on button/CTA:
 
 
 
+vs
 
+pimary (buy now) and secondary (learn)
 ![[Pasted image 20240919145701.png]]
 
-
+![[Pasted image 20240919145743.png]]
 
 
 
