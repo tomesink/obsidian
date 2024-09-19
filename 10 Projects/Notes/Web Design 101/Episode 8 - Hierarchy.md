@@ -15,7 +15,7 @@ Everything is green and black. everything is trying to "scream" at me. Not sure 
 
 ##### Bad example 2:
 
-Logo is the biggest thing here. Everything is blue, the buttons including the CTA. Not sure where to l
+Logo is the biggest thing here. Everything is blue, the buttons including the CTA. Not sure where to look at first, what is the important button.
 
 ![[Pasted image 20240919143658.png]]
 
