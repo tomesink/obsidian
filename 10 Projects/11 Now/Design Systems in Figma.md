@@ -389,6 +389,11 @@ Sources:
 Big companies document their design system on dedicated websites.
 For small companies, Notion or Storybook could be better solution.
 
+Any component in Figma can have a link to its external documentation.
+
+You can host the documentation in a figma file itself (together with the design system.)
+
+
 
 
 Sources:
