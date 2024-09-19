@@ -478,7 +478,7 @@ Organise your token from primitives, to semantic to component-specific tokens:
 
 **Primitive tokens** tell us *what* properties and values exist within our designs.
 
-**Semantic** token
+**Semantic** tokens give us context on *how* the token should be used.
 
 ### Variables
 
