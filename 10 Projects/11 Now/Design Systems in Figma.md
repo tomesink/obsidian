@@ -386,7 +386,8 @@ Sources:
 
 ### Effective documentation
 
-Big companies
+Big companies document their design system on dedicated websites.
+For small companies, Notion or Storybook could be better solution.
 
 
 
