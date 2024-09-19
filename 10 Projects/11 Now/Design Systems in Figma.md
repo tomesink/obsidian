@@ -486,7 +486,7 @@ Organise your token from primitives, to semantic to component-specific tokens:
 
 You can have only few component-specific tokens and for the rest only semantic ones (and vice-versa):
 
-
+![[Pasted image 20240919121356.png]]
 
 
 ### Variables
@@ -498,7 +498,7 @@ Used to implement tokens
 
 Use variables to implement typography styles.
 
-
+![[Pasted image 20240919121436.png]]
 
 Sources:
 
