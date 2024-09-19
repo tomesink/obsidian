@@ -421,7 +421,7 @@ Patches: Bug fixes without breaking changes (fixing incorrect padding values, or
 
 Like in programming, use **branching and merging**. Make changes in a separate environment. Figma enables branching and merging:
 
-
+![[Screenshot 2024-09-19 at 11.35.24.png]]
 
 
 
