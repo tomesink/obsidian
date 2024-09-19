@@ -386,3 +386,14 @@ Sources:
 
 ### Effective documentation
 
+
+
+
+
+Sources:
+
+[Document, improve and update your design system - Lesson 4 : Introduction to design systems - YouTube](https://www.youtube.com/watch?v=_sTWtnNU1L0&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=8)
+[Lesson 4: Document and manage your system – Figma Learn - Help Center](https://help.figma.com/hc/en-us/articles/14552804059927-Lesson-4-Document-and-manage-your-system)
+
+
+[Overview - Get started - Atlassian Design System](https://atlassian.design/)
