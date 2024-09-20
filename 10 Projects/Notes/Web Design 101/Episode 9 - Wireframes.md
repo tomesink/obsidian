@@ -7,6 +7,8 @@ created: 2024-09-13
 
 Focusing only on content (copy) and structure, not design, colors etc.
 
+ALWAYS start with pen and paper!
+
 
 
 
