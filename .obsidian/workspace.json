@@ -936,6 +936,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Episode 8 - Hierarchy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 8 - Hierarchy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":121,\"ch\":0},\"to\":{\"line\":121,\"ch\":0}},\"scroll\":110.32711930380627}"
+                },
+                {
                   "title": "Web Design 101",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1168,7 +1174,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 8 - Hierarchy.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 9 - Wireframes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1296,7 +1302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 8 - Hierarchy.md"
+                "file": "10 Projects/Notes/Web Design 101/Episode 9 - Wireframes.md"
               }
             }
           },
@@ -1381,7 +1387,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 8 - Hierarchy.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 9 - Wireframes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1407,7 +1413,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 8 - Hierarchy.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 9 - Wireframes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1443,6 +1449,8 @@
   },
   "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "10 Projects/Notes/Web Design 101/Episode 8 - Hierarchy.md",
+    "10 Projects/Notes/Web Design 101/Episode 9 - Wireframes.md",
     "_system/Attachments/Pasted image 20240919155229.png",
     "_system/Attachments/Pasted image 20240919155154.png",
     "_system/Attachments/Pasted image 20240919155018.png",
@@ -1454,9 +1462,7 @@
     "_system/Attachments/Pasted image 20240919145701.png",
     "_system/Attachments/Pasted image 20240919145602.png",
     "_system/Attachments/Pasted image 20240919145458.png",
-    "_system/Attachments/Pasted image 20240919145344.png",
     "10 Projects/11 Now/Web Design 101.md",
-    "10 Projects/Notes/Web Design 101/Episode 8 - Hierarchy.md",
     "10 Projects/11 Now/Design Systems in Figma.md",
     "20 Areas/💰 Money & financials.md",
     "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
