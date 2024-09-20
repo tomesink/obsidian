@@ -15,7 +15,7 @@ Once approved you can move into visual design.
 
 If it's an internal/personal project (or client is ok with it) you can do the visual design from the paper and skip Figma phase. (but as other youtuber does: it is good to have copy ready and finished during wireframing phase).
 
-
+In Figma, you can use UI kits (relume, platforma)
 
 
 
