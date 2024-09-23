@@ -16,7 +16,7 @@ That's why a Hero section must answer crucial questions to the visitors:
 2. What do you do? Are you selling something? Is this a content website? What am I suppsed to do here. What is purpose of this website?
 3. What's in it for me? Why would I invest my time on this website?
 
-
+We need to communicate the above within 15 seconds.
 
 
 
