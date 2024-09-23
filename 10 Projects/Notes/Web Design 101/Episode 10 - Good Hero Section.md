@@ -10,10 +10,11 @@ created: 2024-09-13
 
 In average, visitors of web leaves it within 15 seconds.
 
-That's why a Hero section must answer crucial questions:
+That's why a Hero section must answer crucial questions to the visitors:
 
 1. What is this? What is the web about? Who are you? Where am I?
-2. What do you do? Are you selling something? Is this acontent website?
+2. What do you do? Are you selling something? Is this a content website? What am I suppsed to do here. What is purpose of this website?
+3. What's in it for me? What
 
 
 
