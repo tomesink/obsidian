@@ -19,6 +19,8 @@ People do not want to read long lines. Make sure your lines or paragraphs are no
 
 Ran Seagall recommends to have lines/paragraphs about 10 words (roughly).
 
+Avoid single words (orphans) on a line.
+
 He also recommends these 2 excercises:
 
 1. Pick up a word from dictionary and its description and try to create a kinda of a "poster" out of it from title and paragraph. Try different fonts, sizes, layout, colors maybe? Everyday challenge on social networks?
