@@ -8,7 +8,10 @@ created: 2024-09-13
 
 ## 15 second rule
 
-In average, visitors of web leaves it wit
+In average, visitors of web leaves it within 15 seconds.
+
+That's why a Hero section must answer crucial questions:
+
 
 
 
