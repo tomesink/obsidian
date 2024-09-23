@@ -936,6 +936,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Episode 9 - Wireframes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 9 - Wireframes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":2},\"to\":{\"line\":27,\"ch\":2}}}"
+                },
+                {
                   "title": "Episode 10 - Good Hero Section",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 10 - Good Hero Section.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1234,7 +1240,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 9 - Wireframes.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 10 - Good Hero Section.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1362,7 +1368,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 9 - Wireframes.md"
+                "file": "10 Projects/Notes/Web Design 101/Episode 10 - Good Hero Section.md"
               }
             }
           },
@@ -1447,7 +1453,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 9 - Wireframes.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 10 - Good Hero Section.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1473,7 +1479,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 9 - Wireframes.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 10 - Good Hero Section.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1509,8 +1515,8 @@
   },
   "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
-    "10 Projects/Notes/Web Design 101/Episode 10 - Good Hero Section.md",
     "10 Projects/Notes/Web Design 101/Episode 9 - Wireframes.md",
+    "10 Projects/Notes/Web Design 101/Episode 10 - Good Hero Section.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "10 Projects/Notes/Web Design 101/Episode 8 - Hierarchy.md",
     "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",

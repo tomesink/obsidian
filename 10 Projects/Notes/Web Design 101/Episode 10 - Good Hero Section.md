@@ -6,7 +6,9 @@ created: 2024-09-13
 # Episode 10 - Good Hero Section
 
 
+## 15 second rule
 
+In average, visitors of web leaves it wit
 
 
 
