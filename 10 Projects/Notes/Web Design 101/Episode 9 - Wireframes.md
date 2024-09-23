@@ -24,4 +24,5 @@ In Figma, you can use UI kits (eg. Relume) for wireframing.
 
 ___
 #### Sources:
+- [USING WIREFRAMES IN WEB DESIGN: Free Web Design Course | Episode 9 - YouTube](https://www.youtube.com/watch?v=x3Yno9VUYBY&list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI&index=10)
 - 
