@@ -16,7 +16,9 @@ By interviewing/brainstorming the client. Why they want a website. Why they want
 
 Brainstorm and identify primary and secondary goals.
 
-## 2.  Brainstorm and list all types of content sup
+## 2.  Brainstorm and list all types of content supporting the goals
+
+Eg. if they want to sell a new product, they need
 
 
 ___
