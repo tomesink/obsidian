@@ -62,7 +62,7 @@ Use dedicated colors for your buttons.
 
 #### Bad Example 3:
 
-Sometimes blue color is a button, cometimes not:
+Sometimes blue color is a button, sometimes not:
 
 
 
