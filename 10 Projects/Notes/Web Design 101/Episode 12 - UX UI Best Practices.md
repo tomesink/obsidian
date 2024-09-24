@@ -92,6 +92,9 @@ White text on white (mountain) picture background? Really?
 
 #### Bad example 7
 
+Purple buttons on blue?
+
+![[Pasted image 20240924123145.png]]
 
 
 
