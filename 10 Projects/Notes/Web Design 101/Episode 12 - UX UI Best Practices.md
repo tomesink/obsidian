@@ -24,7 +24,13 @@ After clicking on macbook pro I can see it on sub menu and this menu stays with 
 
 This is bad design overall.
 
-If i want to go from home page
+If i want to go from home page to funding options:
+![[Pasted image 20240924113543.png]]
+
+I can see the "Fungind options" are not highlighted. I do not know where I am:
+
+
+
 
 
 
