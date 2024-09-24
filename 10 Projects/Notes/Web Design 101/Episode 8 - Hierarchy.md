@@ -1,6 +1,6 @@
 ---
 topic: 
-created: 2024-09-13
+created: 2024-09-19
 ---
 
 # Episode 8 - Hierarchy
