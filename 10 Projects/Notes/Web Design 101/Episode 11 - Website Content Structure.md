@@ -12,7 +12,9 @@ How to find out:
 
 ## 1. Find out the goals of the web pages
 
-By interviewing the client. why they want a website. Why they want to update their web. what I
+By interviewing/brainstorming the client. Why they want a website. Why they want to update their web. What are they business needs (hire new people?, sell something?).
+
+Brainstorm and
 
 
 ___
