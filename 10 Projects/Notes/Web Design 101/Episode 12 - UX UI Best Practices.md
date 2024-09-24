@@ -8,6 +8,7 @@ created: 2024-09-24
 ## Navigations
 
 Making sure the people know where they are on the website.
+Be aware people somet
 
 #### Good example 1:
 
