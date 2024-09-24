@@ -7,7 +7,9 @@ created: 2024-09-24
 
 ## 1.  Finish the design!
 
-Think about different states o
+Think about different states of buttons etc. Prototype hover states, menu navigations etc. These states must be designed.
+
+
 
 
 
