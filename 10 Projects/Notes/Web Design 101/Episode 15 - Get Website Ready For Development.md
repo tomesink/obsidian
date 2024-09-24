@@ -27,7 +27,11 @@ Vector files. Very small, can be scaled and put as code in webflow.
 
 For big pictures, hero sections etc. Smaller than PNG files. Set the export size to 2x. 
 
+#### Layers
 
+Animations, PNGs...
+
+4. Compress filess
 
 
 
