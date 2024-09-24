@@ -31,12 +31,14 @@ We can use bullet points to capture all thetype of content.
  We can take all the bullet points from the point 2. and organise it
  into sections.
 
-Example:
+Example (of site map):
 
 ![[Pasted image 20240924112043.png]]
 
 U can use card sorting method (write the bullet points on cards and sort it together).
-Could this be done in FigJam or other remote method (Trello maybe?)
+Could this be done in FigJam or other remote method (Trello maybe?).
+
+
 
 
 
