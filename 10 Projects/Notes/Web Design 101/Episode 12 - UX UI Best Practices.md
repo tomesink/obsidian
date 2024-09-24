@@ -56,7 +56,7 @@ Pretty straightforward buttons. Learn more, Buy...
 ![[Pasted image 20240924120637.png]]
 
 
-## UI
+## UI - buttons
 
 Use dedicated colors for your buttons.
 
@@ -81,6 +81,12 @@ The e-mail link is the only clickable "button". But there is no hierarchy. How w
 
 ![[Pasted image 20240924121852.png]]
 
+
+## UI - Contrast
+
+#### Bad Example 6
+
+White text on whyt (mointai)
 
 
 ___
