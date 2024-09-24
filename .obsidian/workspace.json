@@ -936,6 +936,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Episode 11 - Website Content Structure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 11 - Website Content Structure.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":86},\"to\":{\"line\":42,\"ch\":86}},\"scroll\":30.984700520833332}"
+                },
+                {
                   "title": "Episode 6 - Layout",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 6 - Layout.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1372,7 +1378,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 11 - Website Content Structure.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 12 - UX UI Best Practices.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1500,7 +1506,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 11 - Website Content Structure.md"
+                "file": "10 Projects/Notes/Web Design 101/Episode 12 - UX UI Best Practices.md"
               }
             }
           },
@@ -1585,7 +1591,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 11 - Website Content Structure.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 12 - UX UI Best Practices.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1611,7 +1617,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 11 - Website Content Structure.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 12 - UX UI Best Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1647,6 +1653,8 @@
   },
   "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "10 Projects/Notes/Web Design 101/Episode 11 - Website Content Structure.md",
+    "10 Projects/Notes/Web Design 101/Episode 12 - UX UI Best Practices.md",
     "_system/Attachments/Pasted image 20240924112043.png",
     "10 Projects/Notes/Web Design 101/Episode 6 - Layout.md",
     "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
@@ -1655,7 +1663,6 @@
     "10 Projects/Notes/Web Design 101/Episode 8 - Hierarchy.md",
     "10 Projects/Notes/Web Design 101/Episode 9 - Wireframes.md",
     "10 Projects/Notes/Web Design 101/Episode 10 - Good Hero Section.md",
-    "10 Projects/Notes/Web Design 101/Episode 11 - Website Content Structure.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "10 Projects/Notes/Web Design 101/Episode 2 - Basic Web Design Software.md",
     "10 Projects/Notes/Web Design 101/Episode 1 - Introduction to Web Design.md",
@@ -1668,7 +1675,6 @@
     "_system/Attachments/Pasted image 20240919145743.png",
     "_system/Attachments/Pasted image 20240919145701.png",
     "_system/Attachments/Pasted image 20240919145602.png",
-    "_system/Attachments/Pasted image 20240919145458.png",
     "10 Projects/11 Now/Web Design 101.md",
     "10 Projects/11 Now/Design Systems in Figma.md",
     "20 Areas/💰 Money & financials.md",
