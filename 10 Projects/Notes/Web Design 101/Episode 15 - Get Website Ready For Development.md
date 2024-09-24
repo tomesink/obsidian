@@ -33,7 +33,7 @@ Animations, PNGs...
 
 ## 4. Compress files
 
-Because 2x JPEG or PNGs are big, we need to compress them to optimise web performance. We can use [tinipngTinyPNG – Compress WebP, PNG and JPEG images intelligently](https://tinypng.com/)] for this.
+Because 2x JPEG or PNGs are big, we need to compress them to optimise web performance. We can use [tinipng](TinyPNG – Compress WebP, PNG and JPEG images intelligently](https://tinypng.com/) for this.
 
 
 ___
