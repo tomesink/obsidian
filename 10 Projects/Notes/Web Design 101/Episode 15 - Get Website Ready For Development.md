@@ -37,6 +37,8 @@ Because 2x JPEG or PNGs are big, we need to compress them to optimise web perfor
 
 We can compress eg. from 1.2 MB to 56.0 KB which is 96% compression.
 
+Be aware with compression there can be (very) small shift of color but not of quality.
+
 
 ___
 
