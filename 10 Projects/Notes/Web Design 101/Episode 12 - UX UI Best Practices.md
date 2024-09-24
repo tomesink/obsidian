@@ -58,7 +58,13 @@ Pretty straightforward buttons. Learn more, Buy...
 
 ## UI
 
-Use dedicated colors
+Use dedicated colors for your buttons.
+
+#### Bad Example 3:
+
+Sometimes blue color is a button, cometimes not:
+
+
 
 
 
