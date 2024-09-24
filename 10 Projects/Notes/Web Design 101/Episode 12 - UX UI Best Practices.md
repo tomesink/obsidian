@@ -11,8 +11,9 @@ Making sure the people know where they are on the website.
 
 #### Good example 1:
 
-Mac navbar menu is greyed out when we are in mac section. We can also see the corrsponding sub menu for 
+Mac navbar menu is greyed out when we are in mac section. We can also see the corresponding sub menu for macs.
 
+![[Screenshot 2024-09-24 at 11.30.17.png]]
 
 
 
