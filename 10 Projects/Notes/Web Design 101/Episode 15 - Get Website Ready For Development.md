@@ -13,6 +13,10 @@ Even if I will be the one who is implementing the design.
 
 ## 2. Have all styles ready
 
+Styles, colors, (variables), typography... everything must be ready and consistent and documented.
+
+## 3. E
+
 
 
 
