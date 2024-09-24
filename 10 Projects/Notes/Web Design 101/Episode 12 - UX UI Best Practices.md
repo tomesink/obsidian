@@ -75,7 +75,7 @@ We have 3 calls to actions but no hierarchy ("Call us Now" is also CTA but it is
 
 #### Bad Example 5
 
-The e-mail link is the only clickable "button". But there is no hierarchy. How would I know it is clickable?
+The e-mail link is the only clickable "button". But there is no hierarchy. How would I know it is clickable? On desktop i can trying to move with my mouse and the cursor indeed changes but this is not posibble opn mobile 
 
 ![[Pasted image 20240924121852.png]]
 
