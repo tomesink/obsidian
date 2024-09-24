@@ -35,7 +35,7 @@ Animations, PNGs...
 
 Because 2x JPEG or PNGs are big, we need to compress them to optimise web performance. We can use tools like [tinipng](https://tinypng.com/) for this. 
 
-We can co 
+We can compres eg. from 1.2 MB to 56.0 KB which save us 96% of download time.
 
 
 ___
