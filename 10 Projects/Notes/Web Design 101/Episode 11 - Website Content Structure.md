@@ -1,6 +1,6 @@
 ---
 topic: 
-created: 2024-09-13
+created: 2024-09-24
 ---
 
 # Episode 11 - Website Content Structure
@@ -24,7 +24,14 @@ Maybe they want to share the company's history, the team members etc...
 
 We need to brainstorm together with the client. We need to have some (initial) idea about the structure by ourselves as designers and discuss it with the client.
 
+We can use bullet points to capture all thetype of content.
+
+## 3. Start organizing the content where it makes sense
+
+ We can take all the bullet points from the point 2. and organize it
+ into sections.
 
 ___
+
 #### Sources:
 - [WEBSITE CONTENT STRUCTURE: Free Web Design Course | Episode 11 - YouTube](https://www.youtube.com/watch?v=8A6MxYNooYA&list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI&index=12)
