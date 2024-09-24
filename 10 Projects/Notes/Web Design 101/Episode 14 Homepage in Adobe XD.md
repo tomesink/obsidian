@@ -17,8 +17,14 @@ Use grids for layout and content padding.
 
 ![[Screenshot 2024-09-24 at 15.38.07.png]]
 
+![[Screenshot 2024-09-24 at 15.40.08.png]]
 
 
+
+Final design. For real project the girl's head would be
+
+
+![[Screenshot 2024-09-24 at 15.40.23.png]]
 
 ___
 
