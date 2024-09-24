@@ -5,7 +5,10 @@ created: 2024-09-13
 
 # Episode 11 - Website Content Structure
 
-What pages we want have on our website? What kinf of conent
+What pages we want have on our website? What kind of conent we want to have there?
+These questions need to be answered *before* wireframing (notice *relume* - they do exactly this).
+
+
 
 
 ___
