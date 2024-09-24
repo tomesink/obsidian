@@ -20,7 +20,11 @@ After clicking on macbook pro I can see it on sub menu and this menu stays with 
 ![[Pasted image 20240924113410.png]]
 
 
+#### Bad Example 1 
 
+This is bad design overall.
+
+If i want to go from home page
 
 
 
