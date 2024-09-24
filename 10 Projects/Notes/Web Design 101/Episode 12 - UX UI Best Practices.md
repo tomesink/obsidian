@@ -75,7 +75,9 @@ We have 3 calls to actions but no hierarchy ("Call us Now" is also CTA but it is
 
 #### Bad Example 5
 
-The 
+The e-mail link is the only clickable "button". But there is no hierarchy. How would I know it is clickable?
+
+![[Pasted image 20240924121852.png]]
 
 
 
