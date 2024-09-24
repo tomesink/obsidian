@@ -11,7 +11,7 @@ Making sure the people know where they are on the website.
 
 #### Good example 1:
 
-
+Mac navbar menu is greyed out when we are in mac section. We can also see the corrsponding sub menu for 
 
 
 
