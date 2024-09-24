@@ -60,6 +60,8 @@ Pretty straightforward buttons. Learn more, Buy...
 
 Use dedicated colors for your buttons.
 
+Clickable items must look clickable!
+
 #### Bad Example 3:
 
 Sometimes blue color is a button, sometimes not:
@@ -75,7 +77,7 @@ We have 3 calls to actions but no hierarchy ("Call us Now" is also CTA but it is
 
 #### Bad Example 5
 
-The e-mail link is the only clickable "button". But there is no hierarchy. How would I know it is clickable? On desktop i can trying to move with my mouse and the cursor indeed changes but this is not posibble opn mobile 
+The e-mail link is the only clickable "button". But there is no hierarchy. How would I know it is clickable? On desktop i can trying to move with my mouse and the cursor indeed changes but this is not possible on mobile device.
 
 ![[Pasted image 20240924121852.png]]
 
