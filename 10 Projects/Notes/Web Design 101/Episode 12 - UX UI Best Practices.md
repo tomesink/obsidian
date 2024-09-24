@@ -27,9 +27,9 @@ This is bad design overall.
 If i want to go from home page to funding options:
 ![[Pasted image 20240924113543.png]]
 
-I can see the "Fungind options" are not highlighted. I do not know where I am:
+I can see the "Fungind options" are not highlighted or marked. I do not know where I am:
 
-
+![[Pasted image 20240924113638.png]]
 
 
 
