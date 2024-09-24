@@ -35,6 +35,8 @@ Example:
 
 ![[Pasted image 20240924112043.png]]
 
+U can use card sorting method (write the bullet points on cards and sort it together).
+Could this be done in FigJam or other remote method (Trello maybe?)
 
 
 
