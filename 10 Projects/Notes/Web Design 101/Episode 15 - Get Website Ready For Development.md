@@ -9,6 +9,9 @@ created: 2024-09-24
 
 Think about different states of buttons etc. Prototype hover states, menu navigations etc. These states must be designed.
 
+Even if I will be the one who is implementing the design.
+
+## 2. Have all styles ready
 
 
 
