@@ -67,6 +67,10 @@ Sometimes blue color is a button, sometimes not:
 ![[Screenshot 2024-09-24 at 12.11.38.png]]
 
 
+#### Bad Example 4:
+
+We have 3 calls to actions 
+
 
 ___
 
