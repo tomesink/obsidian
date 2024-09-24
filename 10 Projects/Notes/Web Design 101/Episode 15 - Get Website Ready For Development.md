@@ -25,7 +25,8 @@ Vector files. Very small, can be scaled and put as code in webflow.
 
 #### JPEG
 
-For big pictures, her osections etc.
+For big pictures, hero sections etc. Smaller than PNG files. Set the export size to 2x. 
+
 
 
 
