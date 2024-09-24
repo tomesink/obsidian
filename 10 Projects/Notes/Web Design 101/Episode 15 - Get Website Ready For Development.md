@@ -31,8 +31,9 @@ For big pictures, hero sections etc. Smaller than PNG files. Set the export size
 
 Animations, PNGs...
 
-4. Compress filess
+## 4. Compress files
 
+Because 2x JPEG or PNGs
 
 
 ___
