@@ -14,7 +14,9 @@ How to find out:
 
 By interviewing/brainstorming the client. Why they want a website. Why they want to update their web. What are they business needs (hire new people?, sell something?).
 
-Brainstorm and
+Brainstorm and identify primary and secondary goals.
+
+## 2.  Brainstorm and list all types of content sup
 
 
 ___
