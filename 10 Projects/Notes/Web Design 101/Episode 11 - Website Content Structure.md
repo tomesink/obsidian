@@ -10,7 +10,9 @@ These questions need to be answered *before* wireframing (notice *relume* - they
 
 How to find out:
 
+## 1. Find out the goals of the web pages
 
+By interviewing the client. why they want a website. Why they want to update their web. what I
 
 
 ___
