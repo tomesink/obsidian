@@ -22,7 +22,7 @@ Eg. if they want to sell a new product, they need: explanation (what the product
 
 Maybe they want to share the company's history, the team members etc...
 
-we
+we nedd to brainstorm together with the client. We need to have some (initial) idea about the structure by ourselves as designers and discuss it with the
 
 
 ___
