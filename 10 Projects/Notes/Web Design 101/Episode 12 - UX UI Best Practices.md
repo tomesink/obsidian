@@ -15,7 +15,7 @@ Mac navbar menu is greyed out when we are in mac section. We can also see the co
 
 ![[Screenshot 2024-09-24 at 11.30.17.png]]
 
-
+After clicking on macbook pro I can see it on 
 
 
 ___
