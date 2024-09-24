@@ -8,7 +8,7 @@ created: 2024-09-24
 ## Navigations
 
 Making sure the people know where they are on the website.
-Be aware people somet
+Be aware people sometimes do not start from the home page (but accessing the web via a link).
 
 #### Good example 1:
 
@@ -31,6 +31,9 @@ If i want to go from home page to funding options:
 I can see the "Fungind options" are not highlighted or marked. I do not know where I am:
 
 ![[Pasted image 20240924113638.png]]
+
+
+
 
 
 
