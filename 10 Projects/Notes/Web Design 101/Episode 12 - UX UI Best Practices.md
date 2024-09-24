@@ -37,7 +37,17 @@ I can see the "Fungind options" are not highlighted or marked. I do not know whe
 
 You want your buttons are very clear so that people know what's going to happen *before* they click the button.
 
-#### Bad e
+#### Bad example 1:
+
+Bad web overall. 
+But what the heck is "IDEA SEARCH" button? I have no idea what this button does:
+
+![[Pasted image 20240924120606.png]]
+
+
+vs 
+
+
 
 
 
