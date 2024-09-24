@@ -58,6 +58,7 @@ Pretty straightforward buttons. Learn more, Buy...
 
 ## UI
 
+Use dedicated colors
 
 
 
