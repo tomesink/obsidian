@@ -936,6 +936,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Episode 12 - UX UI Best Practices",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 12 - UX UI Best Practices.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":59},\"to\":{\"line\":94,\"ch\":59}},\"scroll\":90.09883595214069}"
+                },
+                {
                   "title": "Episode 11 - Website Content Structure",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 11 - Website Content Structure.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1378,7 +1384,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 12 - UX UI Best Practices.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 13 - Photo Editing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1506,7 +1512,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 12 - UX UI Best Practices.md"
+                "file": "10 Projects/Notes/Web Design 101/Episode 13 - Photo Editing.md"
               }
             }
           },
@@ -1591,7 +1597,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 12 - UX UI Best Practices.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 13 - Photo Editing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1617,7 +1623,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 12 - UX UI Best Practices.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 13 - Photo Editing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1653,6 +1659,8 @@
   },
   "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "10 Projects/Notes/Web Design 101/Episode 12 - UX UI Best Practices.md",
+    "10 Projects/Notes/Web Design 101/Episode 13 - Photo Editing.md",
     "_system/Attachments/Pasted image 20240924123145.png",
     "_system/Attachments/Pasted image 20240924123049.png",
     "_system/Attachments/Pasted image 20240924121852.png",
@@ -1663,9 +1671,7 @@
     "_system/Attachments/Pasted image 20240924120606.png",
     "_system/Attachments/Pasted image 20240924113638.png",
     "_system/Attachments/Pasted image 20240924113543.png",
-    "_system/Attachments/Pasted image 20240924113410.png",
     "10 Projects/Notes/Web Design 101/Episode 11 - Website Content Structure.md",
-    "10 Projects/Notes/Web Design 101/Episode 12 - UX UI Best Practices.md",
     "10 Projects/Notes/Web Design 101/Episode 6 - Layout.md",
     "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
     "10 Projects/Notes/Web Design 101/Episode 5 - Imagery.md",
