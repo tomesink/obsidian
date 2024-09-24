@@ -12,6 +12,12 @@ Adobe XD is discontinued. Also, I am using Figma anyways so this video is not re
 Just some minor hints:
 
 Use grids for layout and content padding.
+![[Screenshot 2024-09-24 at 15.38.57.png]]
+
+
+![[Screenshot 2024-09-24 at 15.38.07.png]]
+
+
 
 
 ___
