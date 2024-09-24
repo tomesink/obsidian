@@ -21,7 +21,7 @@ Use grids for layout and content padding.
 
 
 
-Final design. For real project the girl's head would be
+Final design. For real project the girl's head would be "brought back" in Photoshop (the whole image is overlayed with black opacity because of readability. In real Project the head would be masked and not so dark).
 
 
 ![[Screenshot 2024-09-24 at 15.40.23.png]]
