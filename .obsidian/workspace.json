@@ -968,7 +968,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "notion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -994,7 +994,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -1169,7 +1170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6925998ca2b3cc53",
+  "active": "77966b04a7f238ed",
   "lastOpenFiles": [
     "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
     "TinyPNG.md",
