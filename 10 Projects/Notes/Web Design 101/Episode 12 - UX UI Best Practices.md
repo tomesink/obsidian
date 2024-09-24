@@ -37,7 +37,7 @@ I can see the "Fungind options" are not highlighted or marked. I do not know whe
 
 You want your buttons are very clear so that people know what's going to happen *before* they click the button.
 
-Not only foe 
+Not only for buttons. Be very clear for naming sections, pages...
 
 #### Bad example 2:
 
@@ -55,6 +55,8 @@ Pretty straightforward buttons. Learn more, Buy...
 
 ![[Pasted image 20240924120637.png]]
 
+
+## UI
 
 
 
