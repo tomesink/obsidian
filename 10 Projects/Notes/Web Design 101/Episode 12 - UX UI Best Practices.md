@@ -73,7 +73,9 @@ We have 3 calls to actions but no hierarchy ("Call us Now" is also CTA but it is
 
 ![[Pasted image 20240924121643.png]]
 
+#### Bad Example 5
 
+The 
 
 
 
