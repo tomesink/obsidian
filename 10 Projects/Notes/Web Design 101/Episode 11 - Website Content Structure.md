@@ -20,7 +20,9 @@ Brainstorm and identify primary and secondary goals.
 
 Eg. if they want to sell a new product, they need: explanation (what the product  is), why and how it is better than competition...
 
-Maybe they want to shasre 
+Maybe they want to share the company's history, the team members etc...
+
+we
 
 
 ___
