@@ -38,7 +38,9 @@ Example (of site map):
 U can use card sorting method (write the bullet points on cards and sort it together).
 Could this be done in FigJam or other remote method (Trello maybe?).
 
+## 4. Decide the r
 
+Decide between one-pager architecture or multiple pages.
 
 
 
