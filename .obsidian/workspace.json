@@ -936,6 +936,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Episode 14 Homepage in Adobe XD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 14 Homepage in Adobe XD.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":17},\"to\":{\"line\":9,\"ch\":17}},\"scroll\":4}"
+                },
+                {
                   "title": "Episode 13 - Photo Editing",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 13 - Photo Editing.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1402,7 +1408,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 14 Homepage in Adobe XD.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1530,7 +1536,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 14 Homepage in Adobe XD.md"
+                "file": "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md"
               }
             }
           },
@@ -1615,7 +1621,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 14 Homepage in Adobe XD.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1641,7 +1647,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 14 Homepage in Adobe XD.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1677,12 +1683,13 @@
   },
   "active": "0db6b5a3f390255b",
   "lastOpenFiles": [
+    "10 Projects/Notes/Web Design 101/Episode 14 Homepage in Adobe XD.md",
+    "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md",
     "_system/Attachments/Screenshot 2024-09-24 at 15.40.23.png",
     "_system/Attachments/Screenshot 2024-09-24 at 15.40.08.png",
     "_system/Attachments/Screenshot 2024-09-24 at 15.38.07.png",
     "_system/Attachments/Screenshot 2024-09-24 at 15.38.57.png",
     "10 Projects/Notes/Web Design 101/Episode 13 - Photo Editing.md",
-    "10 Projects/Notes/Web Design 101/Episode 14 Homepage in Adobe XD.md",
     "10 Projects/Notes/Web Design 101/Episode 11 - Website Content Structure.md",
     "10 Projects/Notes/Web Design 101/Episode 12 - UX UI Best Practices.md",
     "_system/Attachments/Pasted image 20240924123145.png",
@@ -1691,7 +1698,6 @@
     "_system/Attachments/Pasted image 20240924121643.png",
     "_system/Attachments/Screenshot 2024-09-24 at 12.11.38.png",
     "_system/Attachments/Pasted image 20240924121129.png",
-    "_system/Attachments/Pasted image 20240924120637.png",
     "10 Projects/Notes/Web Design 101/Episode 6 - Layout.md",
     "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
     "10 Projects/Notes/Web Design 101/Episode 5 - Imagery.md",
