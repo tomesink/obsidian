@@ -28,8 +28,16 @@ We can use bullet points to capture all thetype of content.
 
 ## 3. Start organizing the content where it makes sense
 
- We can take all the bullet points from the point 2. and organize it
+ We can take all the bullet points from the point 2. and organise it
  into sections.
+
+Example:
+
+![[Pasted image 20240924112043.png]]
+
+
+
+
 
 ___
 
