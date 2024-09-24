@@ -86,7 +86,14 @@ The e-mail link is the only clickable "button". But there is no hierarchy. How w
 
 #### Bad Example 6
 
-White text on whyt (mointai)
+White text on white (mountain) picture background? Really?
+
+![[Pasted image 20240924123049.png]]
+
+#### Bad example 7
+
+
+
 
 
 ___
