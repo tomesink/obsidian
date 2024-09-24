@@ -18,7 +18,9 @@ Brainstorm and identify primary and secondary goals.
 
 ## 2.  Brainstorm and list all types of content supporting the goals
 
-Eg. if they want to sell a new product, they need: explanation (what the product  is), why and hiw itis better than cometition 
+Eg. if they want to sell a new product, they need: explanation (what the product  is), why and how it is better than competition...
+
+Maybe they want to shasre 
 
 
 ___
