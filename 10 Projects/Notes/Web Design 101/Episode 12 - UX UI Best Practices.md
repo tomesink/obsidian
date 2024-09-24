@@ -5,6 +5,13 @@ created: 2024-09-24
 
 # Episode 12 - UX UI Best Practices
 
+## Navigations
+
+Making sure the people know where they are on the website.
+
+Good example 1:
+
+
 
 
 
