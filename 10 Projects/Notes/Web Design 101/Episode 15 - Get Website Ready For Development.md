@@ -15,7 +15,13 @@ Even if I will be the one who is implementing the design.
 
 Styles, colors, (variables), typography... everything must be ready and consistent and documented.
 
-## 3. E
+## 3. Exporting assets
+
+We will be exporting the following types of assets:
+
+#### SVG 
+
+Vector files.
 
 
 
