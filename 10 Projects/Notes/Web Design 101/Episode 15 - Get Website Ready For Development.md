@@ -21,7 +21,11 @@ We will be exporting the following types of assets:
 
 #### SVG 
 
-Vector files.
+Vector files. Very small, can be scaled and put as code in webflow.
+
+#### JPEG
+
+For big pictures, her osections etc.
 
 
 
