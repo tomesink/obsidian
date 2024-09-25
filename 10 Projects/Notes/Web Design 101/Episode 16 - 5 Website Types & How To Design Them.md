@@ -17,7 +17,9 @@ How you showcase the product? Photo? Is it on white or black background? Is it s
 
 ### 2. Checkout Process
 
-This 
+This is where the money comes from. Use the best practices. 
+
+
 
 
 ___
