@@ -94,6 +94,12 @@ Using tags or categories to organise items/articles/topics.
 
 ##### Example
 
+Notice categories are exposed on the top (Environment, Poverty ....)
+
+![[Pasted image 20240925201920.png]]
+
+
+
 
 
 
