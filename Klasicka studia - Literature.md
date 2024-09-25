@@ -23,3 +23,5 @@ _povinná literatura_
 
 _doporučená literatura_
 - BARTOŇKOVÁ, Dagmar. _L. Canfora, Dějiny řecké literatury_. přeložil kolektiv autorů pod vedením D. Bartoňkové (přeložila cca 300 stran). Praha: Koniasch Latin Press, 2001, 893 s. [info](https://is.muni.cz/publication/343233?lang=cs)
+
+
