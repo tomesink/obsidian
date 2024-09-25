@@ -165,7 +165,13 @@ Designers portfolio will be more visual, but for writers or programmers, you nee
 
 Even if a client wants to hire as for a works, they're hiring us as a people. So on our personal website we want to show who we are as persons.
 
-##
+### 3. Call To Action
+
+The same as for business sites. This depends.
+
+##### Example
+
+
 
 
 
