@@ -912,13 +912,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Klasicka studia - Literature",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Klasicka studia - Literature.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":19},\"to\":{\"line\":69,\"ch\":43}},\"scroll\":41.91162790697675}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Klasicka studia - Literature.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1046,7 +1052,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Klasicka studia - Literature.md"
+                "file": "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development 1.md"
               }
             }
           },
@@ -1131,7 +1137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Klasicka studia - Literature.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1157,7 +1163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Klasicka studia - Literature.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1193,8 +1199,9 @@
   },
   "active": "49c188a5d913f3df",
   "lastOpenFiles": [
-    "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md",
     "Klasicka studia - Literature.md",
+    "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development 1.md",
+    "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md",
     "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
     "TinyPNG.md",
     "00 Inputs/Processing main notes/Zakladni ctnosti.md",
@@ -1232,7 +1239,6 @@
     "20 Areas/21 Me & Family",
     "20 Areas/🏥 Health.md",
     "10 Projects/Notes/Design System/Lesson 1 - Principles.md",
-    "10 Projects/19 Archive/19.00 Archive.md",
     "30 Resources",
     "10 Projects/19 Archive",
     "Users/martin/Library/CloudStorage/ProtonDrive-jsem@martintomes.net",
