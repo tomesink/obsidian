@@ -68,3 +68,28 @@ _povinná literatura_
 - ČEŠKA, Josef. _Zánik antického světa_. Vyd. 1. Praha: Vyšehrad, 2000, 277 s. ISBN 8070213868. [info](https://is.muni.cz/publication/433201?lang=cs)
 - ČEŠKA, Josef. _Římský stát a katolická církev ve IV. století_. Vyd. 1. Brno: Univerzita Jana Evangelisty Purkyně v Brně, 1983, 162 s., [1. [info](https://is.muni.cz/publication/278524?lang=cs)
 - GIBBON, Edward. _Úpadek a pád Římské říše : výbor_. Edited by Josef Polišenský - Jiří Klabouch, Translated by Adolf Felix. Vyd. 1. Praha: Odeon, 1983, 404 s. [info](https://is.muni.cz/publication/169368?lang=cs)
+
+_doporučená literatura_
+- JONES, A. H. M.; MARTINDALE, J. R.; MORRIS, J. The Prosopography of the Later Roman Empire. Volume I. Cambridge 1971.
+- MARTINDALE, J. R. The Prosopography of the Later Roman Empire. Volume II. Cambridge 1980.
+- _Constantine :dynasty, religion and power in the later Roman empire_. Edited by Timothy David Barnes - Richard Boxhall. 1 online r. ISBN 9781444396249. [info](https://is.muni.cz/publication/1178406?lang=cs)
+- MITCHELL, Stephen. The History of the Later Roman Empire AD 284-641. Oxford 2007.
+- STEIN, E. Geschichte des spätrömischen Reiches. Strassburg 1928.
+- VOGT, Joseph. Der Niedergang Roms: Metamorphose der antiken Kultur. Zürich: Kindler Verlag, 1965.
+- _Extra fines imperii_. Edited by Jaroslav Tejral, Translated by Jana Kličová. Vydání první. Brno: Masarykova univerzita, 2017, 446 stran. ISBN 9788021085794. [info](https://is.muni.cz/publication/1387177?lang=cs)
+- [BEDNAŘÍKOVÁ, Jarmila](https://is.muni.cz/osoba/827?lang=cs). _Attila : Hunové, Řím a Evropa_. Vyd. 1. Praha: Vyšehrad, 2012, 340 s. Historica. ISBN 978-80-7429-169-2. [info](https://is.muni.cz/publication/982627?lang=cs)
+- _The Cambridge companion to the Age of Constantine_. Edited by Noel Emmanuel Lenski. Rev. ed. Cambridge: Cambridge University Press, 2012, xx, 471. ISBN 9781107013407. [info](https://is.muni.cz/publication/1116345?lang=cs)
+- BABIC, Marek. _Od antiky k stredoveku : dejiny neskorého rímskeho cisárstva medzi rokmi 284-476_. 1. vyd. Brno: Centrum pro studium demokracie a kultury (CDK), 2010, 331 s. ISBN 9788073252021. [info](https://is.muni.cz/publication/881068?lang=cs)
+- BEDNAŘÍKOVÁ, Jarmila. _Frankové a Evropa_. Vyd. 1. Praha: Vyšehrad, 2009, 335 s. ISBN 9788070219423. [info](https://is.muni.cz/publication/863442?lang=cs)
+- _A.H.M. Jones and the later Roman Empire_. Edited by David M. Gwynn. Boston: Brill, 2008, xv, 281 p. ISBN 9004163832. [info](https://is.muni.cz/publication/1045041?lang=cs)
+- DOLEŽAL, Stanislav. _Interakce Gótů a římského impéria ve 3.-5. století n.l._ Vyd. 1. Praha: Univerzita Karlova v Praze, nakladatelství Karolinum, 2008, 337 s. ISBN 9788024615318. [info](https://is.muni.cz/publication/825483?lang=cs)
+- REECE, Richard. _The later Roman Empire : an archaeology AD 150-600_. New edition. Stroud: Tempus, 2007, 192 stran. ISBN 9780752442051. [info](https://is.muni.cz/publication/1359450?lang=cs)
+- GOFFART, Walter A. _Barbarian tides : the migration age and the later Roman Empire_. Philadelphia: University of Pennsylvania Press, 2006, x, 372. ISBN 0812239393. [info](https://is.muni.cz/publication/737099?lang=cs)
+- [BEDNAŘÍKOVÁ, Jarmila](https://is.muni.cz/osoba/827?lang=cs). Půda nebo daně? In _Querite primum regnum Dei_. I. Brno: Matice moravská, 2006, s. 99-105. ISBN 80-86488-35-7. [info](https://is.muni.cz/publication/710362?lang=cs)
+- [BEDNAŘÍKOVÁ, Jarmila](https://is.muni.cz/osoba/827?lang=cs), Zdeněk MĚŘÍNSKÝ a Aleš HOMOLA. _Stěhování národů a východ Evropy_. I. Praha: Vyšehrad, 2006, 525 s. Hitorica. ISBN 80-7021-787-1. [info](https://is.muni.cz/publication/592606?lang=cs)
+- _The governor and his subjects in the later Roman empire_. Edited by Danièelle Slootjes. Boston: Brill, 2006, xvii, 204. ISBN 9789047409342. [info](https://is.muni.cz/publication/1032313?lang=cs)
+- _The Cambridge ancient history._ Edited by Averil Cameron - John Bryan Ward-Perkins - Michael Whitby. Repr. Cambridge: Cambridge University Press, 2005, xx, 1166. ISBN 0521325919. [info](https://is.muni.cz/publication/688781?lang=cs)
+- DROBERJAR, Eduard. _Věk barbarů : české země a stěhování národů z pohledu archeologie_. Vyd. 1. Praha: Paseka, 2005, 260 s. ISBN 8071856568. [info](https://is.muni.cz/publication/670798?lang=cs)
+- HERRIN, Judith. _Ženy v purpuru_. Translated by Vladimír Vavřínek. Vyd. 1. Praha: Mladá fronta, 2005, 349 s. ISBN 8020411917. [info](https://is.muni.cz/publication/671386?lang=cs)
+- _Ruling the later Roman Empire_. Edited by Christopher Kelly. Cambridge, MA: Belknap Press of Harvard University Press, 2004, 341 p. ISBN 0674015649. [info](https://is.muni.cz/publication/1040626?lang=cs)
+- KOCÁKOVÁ, Marcela. _Církev pronásledovaná a pronásledující na přelomu antiky a středověku_. Edited by Jarmila Bednaříková. 1995, 76 s. [info](https://is.muni.cz/publication/33857?lang=cs)
