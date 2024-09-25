@@ -12,7 +12,7 @@ Goal is to sell the product.
 The main things are:
 ### 1. Product Showcase
 
-How you showcase
+How you showcase the product? Photo? Is it on white or black background? Is it seen from all angles? Designer has to art directing this.
 
 
 
