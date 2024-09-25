@@ -19,6 +19,17 @@ How you showcase the product? Photo? Is it on white or black background? Is it s
 
 This is where the money comes from. Use the best practices. 
 
+##### Example 1
+
+Direct focus on shoes.
+
+![[Pasted image 20240925195227.png]]
+
+
+
+
+
+
 
 
 
