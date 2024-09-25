@@ -148,7 +148,9 @@ They break text with interactions, small games, etc. Very good navigation.
 
 
 
-## Portfolio (p)
+## Portfolio (personal website)
+
+Subset of the business website. Showcasing your work. Want to get hired, get contacted...
 
 
 
