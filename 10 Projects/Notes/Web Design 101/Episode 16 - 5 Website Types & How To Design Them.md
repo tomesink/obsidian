@@ -120,7 +120,7 @@ Sometimes with bigger imagery
 
 ![[Pasted image 20240925202510.png]]
 
-
+But main focus is on text. The type is big, no too long lines, very readable. Sometimes broken with quotes.
 
 
 
