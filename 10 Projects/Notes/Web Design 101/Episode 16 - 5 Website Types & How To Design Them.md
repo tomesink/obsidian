@@ -37,7 +37,7 @@ They split the checkout process into three steps (instead of one). In the first 
 
 ## Marketing / Business (Company) Website
 
-Most popular kind of website because millions of businesses
+Most popular kind of website because millions of businesses need a website. Even an offline business needs a presentation, need share contact..
 
 
 
