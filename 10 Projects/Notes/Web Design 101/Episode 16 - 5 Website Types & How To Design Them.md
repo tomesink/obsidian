@@ -47,6 +47,12 @@ Who they are? What they do? How they differ from competition? This has to be ver
 
 Copywriting is crucial here.
 
+### 2. Storytelling
+
+You need to tell a story (this is not as important as for e-commerce).
+
+Who they are. Create emotion/connection with customer. Creat
+
 
 
 
