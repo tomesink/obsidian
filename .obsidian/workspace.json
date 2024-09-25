@@ -902,9 +902,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49c188a5d913f3df",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Klasicka studia - Literature.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -1024,7 +1046,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md"
+                "file": "Klasicka studia - Literature.md"
               }
             }
           },
@@ -1109,7 +1131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md",
+                "file": "Klasicka studia - Literature.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1135,7 +1157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md",
+                "file": "Klasicka studia - Literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1169,11 +1191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "49c188a5d913f3df",
   "lastOpenFiles": [
+    "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md",
+    "Klasicka studia - Literature.md",
     "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
     "TinyPNG.md",
-    "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md",
     "00 Inputs/Processing main notes/Zakladni ctnosti.md",
     "10 Projects/Notes/Web Design 101/Episode 14 Homepage in Adobe XD.md",
     "_system/Attachments/Screenshot 2024-09-24 at 15.40.23.png",
@@ -1211,7 +1234,6 @@
     "10 Projects/Notes/Design System/Lesson 1 - Principles.md",
     "10 Projects/19 Archive/19.00 Archive.md",
     "30 Resources",
-    "10 Projects/12 Simmering/CSS layout & positioning.md",
     "10 Projects/19 Archive",
     "Users/martin/Library/CloudStorage/ProtonDrive-jsem@martintomes.net",
     "Users/martin/Library/CloudStorage",
