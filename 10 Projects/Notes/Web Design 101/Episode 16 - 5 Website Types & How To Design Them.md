@@ -51,7 +51,11 @@ Copywriting is crucial here.
 
 You need to tell a story (this is not as important as for e-commerce).
 
-Who they are. Create emotion/connection with customer. Creat
+Who they are. Create emotion/connection with customer. Create trust.
+
+### 3. Social Proof
+
+Testimonials etc.
 
 
 
