@@ -61,3 +61,10 @@ _povinná literatura_
 
 ## Přechodné období mezi antikou a středověkem
 
+_povinná literatura_
+- BEDNAŘÍKOVÁ, Jarmila a Markéta MELOUNOVÁ. _Římské císařství II._ 1. vyd. Brno: Masarykova univerzita, 2014, 103 s. ISBN 9788021069558. [URL](http://digilib.phil.muni.cz/handle/11222.digilib/131234) [info](https://is.muni.cz/publication/1215678?lang=cs)
+- CLAUSS, Manfred. _Konstantin Veliký : římský císař mezi pohanstvím a křesťanstvím_. Translated by Vlastimil Drbal. Vyd. 1. Praha: Vyšehrad, 2005, 141 s. ISBN 8070217340. [info](https://is.muni.cz/publication/682226?lang=cs)
+- [BEDNAŘÍKOVÁ, Jarmila](https://is.muni.cz/osoba/827?lang=cs). _Stěhování národů_. 1. vyd. Praha: Vyšehrad, 2003, 416 s. Edice Historica. ISBN 8070215062. [info](https://is.muni.cz/publication/592388?lang=cs)
+- ČEŠKA, Josef. _Zánik antického světa_. Vyd. 1. Praha: Vyšehrad, 2000, 277 s. ISBN 8070213868. [info](https://is.muni.cz/publication/433201?lang=cs)
+- ČEŠKA, Josef. _Římský stát a katolická církev ve IV. století_. Vyd. 1. Brno: Univerzita Jana Evangelisty Purkyně v Brně, 1983, 162 s., [1. [info](https://is.muni.cz/publication/278524?lang=cs)
+- GIBBON, Edward. _Úpadek a pád Římské říše : výbor_. Edited by Josef Polišenský - Jiří Klabouch, Translated by Adolf Felix. Vyd. 1. Praha: Odeon, 1983, 404 s. [info](https://is.muni.cz/publication/169368?lang=cs)
