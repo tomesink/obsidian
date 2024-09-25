@@ -41,7 +41,9 @@ Most popular kind of website because millions of businesses need a website. Even
 
 Design challenges:
 
-### 1. Clear
+### 1. Clear description, value proposition, benefits
+
+
 
 
 
