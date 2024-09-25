@@ -155,7 +155,11 @@ Presenting who you are and what do you know how to do something.
 
 Main design challenges:
 
-### 1. Art Dier
+### 1. Art Direction
+
+Present your work in meaningful way.
+
+Designers portfolio will be more visual, but fopr w
 
 
 
