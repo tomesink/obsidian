@@ -63,7 +63,7 @@ Tell people what to do (contact, subscribe for newsletter...). Take the relation
 
 ##### Example
 
-Very clear message this is Pilates studio.
+Very clear message this is Pilates studio. Optimised to create trust, not to sell anything.
 
 ![[Pasted image 20240925200835.png]]
 
@@ -75,6 +75,8 @@ Build credibility by showing their teachers, clients, methods...
 
 ![[Pasted image 20240925201047.png]]
 
+
+## Blog / Media Outlet
 
 
 
