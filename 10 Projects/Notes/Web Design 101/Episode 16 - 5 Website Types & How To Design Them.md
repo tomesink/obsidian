@@ -86,7 +86,7 @@ Purpose of these websites is to make people read. Design an article will be the 
 
 ### 2. Imagery 
 
-Just reasdin
+Because just reading text is boring. Image cane be inside the post or in form of a hero/banner to trigger
 
 
 
