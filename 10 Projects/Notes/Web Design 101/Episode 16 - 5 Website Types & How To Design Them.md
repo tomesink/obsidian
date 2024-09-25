@@ -90,7 +90,12 @@ Because just reading text is boring. Image cane be inside the post or kind of a 
 
 ### 3. Categorisation
 
-Using tags or categories
+Using tags or categories to organise items/articles/topics.
+
+##### Example
+
+
+
 
 
 
