@@ -36,7 +36,18 @@ _povinná literatura_
 - OLIVA, Pavel. _Zrození řecké civilizace_. 1. vyd. Praha: Academia, 1976, 176 s. [URL](http://www.ndk.cz/) [info](https://is.muni.cz/publication/171991?lang=cs)
 
 
+## Dějiny starověkého Říma I
 
+_povinná literatura_- ZIMMERMANN, Klaus. _Rom und Karthago_. 3. Aufl., durchgesehene, bib. Darmstadt: WBG (Wissenschaftliche Buchgesellschaft), 2013, vii, 152. ISBN 9783534737529. [info](https://is.muni.cz/publication/1202466?lang=cs)
+- LINKE, Bernhard. _Die römische Republik von den Gracchen bis Sulla_. 2. Aufl., durchgesehene und. Darmstadt: WBG (Wissenschaftliche Buchgesellschaft), 2012, x, 150. ISBN 9783534716180. [info](https://is.muni.cz/publication/1202450?lang=cs)
+- CARANDINI, Andrea. _Rome : day one_. Translated by Stephen Sartarelli. Princeton: Princeton University Press, 2011, 172 stran. ISBN 9780691180793. [info](https://is.muni.cz/publication/1355657?lang=cs)
+- DREYER, Boris. _Die Innenpolitik der Römischen Republik : 264-133 v. Chr._ Darmstadt: WBG (Wissenschaftliche Buchgesellschaft), 2006, vii, 144. ISBN 3534155939. [info](https://is.muni.cz/publication/1208917?lang=cs)
+- _Rubiconthe last years of the Roman Republic_. Edited by Tom Holland. 1st Anchor Books ed. New York: Anchor Books, 2005, 408 p. ISBN 1400078970. [info](https://is.muni.cz/publication/1009555?lang=cs)
+- _The Cambridge ancient history._ Edited by J. A. Crook - A. W. Lintott - Elizabeth Rawson. 2nd ed. Cambridge: Cambridge University Press, 1994, xviii, 929. ISBN 0521256038. [info](https://is.muni.cz/publication/688773?lang=cs)
+- BURIAN, Jan. _Hannibal_. 1. vyd. Praha: Svoboda, 1967, 213 s. [URL](http://www.ndk.cz/) [info](https://is.muni.cz/publication/53893?lang=cs)
+- _Antika v dokumentech._ Edited by Julie Nováková - Jan Pečírka. Vyd. 1. Praha: Státní nakladatelství politické literatury, 1961, 652 s. [info](https://is.muni.cz/publication/721?lang=cs)
+- GROH, V. _Starý Řím_. Praha, 1931. [info](https://is.muni.cz/publication/208397?lang=cs)
+- KRÁL, Josef. _Státní zřízení římské_. Edited by Vladimír Groh. V Praze: Nákladem Jednoty českých filologů, 1921, ix, 303. [URL](https://digi.law.muni.cz/handle/digilaw/14853) [info](https://is.muni.cz/publication/464410?lang=cs)
 
 
 
