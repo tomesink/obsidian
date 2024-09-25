@@ -9,7 +9,10 @@ _povinná literatura_- _Římský člověk a jeho svět_. Edited by Andrea Giard
 - SVOBODA, Ludvík. _Encyklopedie antiky_. Vyd. 1. Praha: Academia, 1973, 741 s. [URL](http://www.ndk.cz/) [info](https://is.muni.cz/publication/148397?lang=cs)
 
 
-_povinná literatura_- HOMÉROS. _Ílias_. Translated by Otmar Vaňorný. 12. vyd. Praha: Petr Rezek, 2007, 598 s. ISBN 8086027252. [info](https://is.muni.cz/publication/824500?lang=cs)
+## Antická řecká literatura: od Homéra k Eurípidovi
+
+_povinná literatura_
+- HOMÉROS. _Ílias_. Translated by Otmar Vaňorný. 12. vyd. Praha: Petr Rezek, 2007, 598 s. ISBN 8086027252. [info](https://is.muni.cz/publication/824500?lang=cs)
 - HOMÉROS. _Odysseia_. Translated by Otmar Vaňorný. 16. vyd. Praha: Petr Rezek, 2007, 451 s. ISBN 8086027260. [info](https://is.muni.cz/publication/824501?lang=cs)
 - HÉSIODOS. _Zpěvy železného věku (Zrození bohů, Práce a dny, Štít, Soutěž Homéra a Hésioda)._ Přeložila Julie Nováková. Praha: Svoboda, 1990. Prémie Antické knihovny. ISBN 80-205-0127-4. [info](https://is.muni.cz/publication/591566?lang=cs)
 - _Řecká lyrika_. Translated by Ferdinand Stiebitz. Vyd. 1. Praha: Státní nakladatelství krásné literatury, hudby a umění, 1954, 356 s. [URL](http://www.ndk.cz/) [info](https://is.muni.cz/publication/158735?lang=cs)
