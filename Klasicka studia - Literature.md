@@ -1,7 +1,7 @@
 
 
 
-## ## Úvod do studia dějin starověku
+## Úvod do studia dějin starověku
 
 _povinná literatura_
 - _Římský člověk a jeho svět_. Edited by Andrea Giardina, Translated by Kateřina Brabcová - Jana Gruberová -. Vydání první. Praha: Vyšehrad, 2014, 375 stran. ISBN 9788074290725. [info](https://is.muni.cz/publication/1204658?lang=cs)
@@ -57,3 +57,7 @@ _povinná literatura_
 _povinná literatura_
 - CANFORA, Luciano. _Dějiny řecké literatury_. Translated by Dagmar Bartoňková. 1. vyd. Praha: KLP-Koniasch Latin Press, 2001, 893 s. ISBN 8085917696. [info](https://is.muni.cz/publication/811991?lang=cs)
 - CONTE, Gian Biagio. _Dějiny římské literatury_. Translated by Dagmar Bartoňková. Vyd. 1. Praha: KLP-Koniasch Latin Press, 2003, 790 s. ISBN 8085917874. [info](https://is.muni.cz/publication/808635?lang=cs)
+
+
+## Přechodné období mezi antikou a středověkem
+
