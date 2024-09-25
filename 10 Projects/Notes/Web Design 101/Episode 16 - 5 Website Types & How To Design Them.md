@@ -5,10 +5,14 @@ created: 2024-09-24
 
 # Episode 16 - 5 Website Types & How To Design Them
 
-## e-commerce
+## E-Commerce
 
 Goal is to sell the product.
 
+The main things are:
+### 1. Product Showcase
+
+How you showcase
 
 
 
