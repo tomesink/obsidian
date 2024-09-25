@@ -38,7 +38,8 @@ _povinná literatura_
 
 ## Dějiny starověkého Říma I
 
-_povinná literatura_- ZIMMERMANN, Klaus. _Rom und Karthago_. 3. Aufl., durchgesehene, bib. Darmstadt: WBG (Wissenschaftliche Buchgesellschaft), 2013, vii, 152. ISBN 9783534737529. [info](https://is.muni.cz/publication/1202466?lang=cs)
+_povinná literatura_
+- ZIMMERMANN, Klaus. _Rom und Karthago_. 3. Aufl., durchgesehene, bib. Darmstadt: WBG (Wissenschaftliche Buchgesellschaft), 2013, vii, 152. ISBN 9783534737529. [info](https://is.muni.cz/publication/1202466?lang=cs)
 - LINKE, Bernhard. _Die römische Republik von den Gracchen bis Sulla_. 2. Aufl., durchgesehene und. Darmstadt: WBG (Wissenschaftliche Buchgesellschaft), 2012, x, 150. ISBN 9783534716180. [info](https://is.muni.cz/publication/1202450?lang=cs)
 - CARANDINI, Andrea. _Rome : day one_. Translated by Stephen Sartarelli. Princeton: Princeton University Press, 2011, 172 stran. ISBN 9780691180793. [info](https://is.muni.cz/publication/1355657?lang=cs)
 - DREYER, Boris. _Die Innenpolitik der Römischen Republik : 264-133 v. Chr._ Darmstadt: WBG (Wissenschaftliche Buchgesellschaft), 2006, vii, 144. ISBN 3534155939. [info](https://is.muni.cz/publication/1208917?lang=cs)
