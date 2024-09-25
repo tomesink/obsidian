@@ -159,7 +159,11 @@ Main design challenges:
 
 Present your work in meaningful way.
 
-Designers portfolio will be more visual, but for writers or programmers, you need to find a way how to present them (still in a visually appeal)
+Designers portfolio will be more visual, but for writers or programmers, you need to find a way how to present them (still in a visually appealing way).
+
+### 2. Personality
+
+Even if a client wants to hire as for a works,  they hire us as a people.
 
 
 
