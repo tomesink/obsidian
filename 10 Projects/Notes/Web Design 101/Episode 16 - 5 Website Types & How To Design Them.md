@@ -131,7 +131,10 @@ These websites have very different design challenges as those above:
 
 ### 1. Engagement
 
-It is very hard to keep people in the course. At the beginning they are excited but 
+It is very hard to keep people in the course. At the beginning they are excited but after a while they loose focus and motivation.
+
+So it is very difficult to keep people engaged, excited.
+### 2. 
 
 
 
