@@ -140,13 +140,15 @@ People need to know where are they in the learning process. How long this chapte
 
 ##### Example
 
-Its kind of "cour"
+Its kind of "course" about the internet, history and its future. Lots of interaction, not just reading.
+
+They break text with interactions, small games, etc. Very good navigation.
 
 [Visions for the Future Internet · Nesta](https://findingctrl.nesta.org.uk/)
 
 
 
-
+## Portfolio (p)
 
 
 
