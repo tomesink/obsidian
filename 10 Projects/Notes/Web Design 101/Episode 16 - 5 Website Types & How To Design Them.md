@@ -35,9 +35,9 @@ They split the checkout process into three steps (instead of one). In the first 
 ![[Pasted image 20240925195721.png]]
 
 
-## Marketing / Business Website
+## Marketing / Business (Company) Website
 
-
+Most popular kind of website because millions of businesses
 
 
 
