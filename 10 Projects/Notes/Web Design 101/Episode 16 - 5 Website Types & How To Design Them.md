@@ -138,6 +138,12 @@ So it is very difficult to keep people engaged, excited.
 
 People need to know where are they in the learning process. How long this chapter takes, can I jump into next lesson etc.
 
+##### Example
+
+Its kind of "cour"
+
+[Visions for the Future Internet · Nesta](https://findingctrl.nesta.org.uk/)
+
 
 
 
