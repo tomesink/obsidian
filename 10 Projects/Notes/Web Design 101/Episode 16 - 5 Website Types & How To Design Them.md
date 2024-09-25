@@ -174,8 +174,9 @@ The same as for business sites. This depends.
 [Zhenya Rynzhuk](https://zhenyary.com/)
 
 Notice how her portfolio quickly flickering on hover of the central image. 
-Sh
+She show her personality by the overall design and also with video and the accompanying music.
 
+Very visual, very art directive.
 
 
 ___
