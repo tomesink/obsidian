@@ -80,7 +80,9 @@ Build credibility by showing their teachers, clients, methods...
 
 For content creating websites you need to focus on common basic things:
 
+### 1. Content
 
+Content itself. Purpose of this websites is to make people read/
 
 
 
