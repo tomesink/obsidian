@@ -176,7 +176,9 @@ The same as for business sites. This depends.
 Notice how her portfolio quickly flickering on hover of the central image. 
 She show her personality by the overall design and also with video and the accompanying music.
 
-Very visual, very art directive.
+Very visual, very art directive. Good cta:
+
+![[Screenshot 2024-09-25 at 20.51.14.png]]
 
 
 ___
