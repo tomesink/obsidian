@@ -55,7 +55,11 @@ Who they are. Create emotion/connection with customer. Create trust.
 
 ### 3. Social Proof
 
-Testimonials etc.
+Testimonials etc. Make people trust you more.
+
+### 4. Call To Action
+
+Tell people what to do (contact, subscribe for newsletter...)
 
 
 
