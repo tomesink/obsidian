@@ -78,7 +78,9 @@ Build credibility by showing their teachers, clients, methods...
 
 ## Blog / Media Outlet
 
-For content creating websites you need to focus on common basic things
+For content creating websites you need to focus on common basic things:
+
+
 
 
 
