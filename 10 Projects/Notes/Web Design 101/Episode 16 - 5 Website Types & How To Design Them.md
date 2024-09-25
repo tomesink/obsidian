@@ -108,6 +108,14 @@ Inside the article. Also nice hero-like design after clicking on the link.
 
 ![[Pasted image 20240925202300.png]]
 
+And than, when you scroll, strong focus on the text
+
+![[Pasted image 20240925202336.png]]
+
+But with decent imagery
+
+![[Pasted image 20240925202410.png]]
+
 
 
 
