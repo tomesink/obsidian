@@ -104,9 +104,9 @@ We have big hero sections here with main/latest posts.
 
 ![[Pasted image 20240925202138.png]]
 
+Inside the article. Also nice hero-like design after clicking on the link.
 
-
-
+![[Pasted image 20240925202300.png]]
 
 
 
