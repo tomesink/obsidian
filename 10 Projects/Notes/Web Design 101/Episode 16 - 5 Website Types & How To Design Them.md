@@ -43,7 +43,9 @@ Design challenges:
 
 ### 1. Clear description, value proposition, benefits
 
+Who they are? What they do? How they differ from competition? This has to be very clear.
 
+Copywriting is crucial here.
 
 
 
