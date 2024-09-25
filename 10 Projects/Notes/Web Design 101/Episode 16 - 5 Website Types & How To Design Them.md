@@ -61,7 +61,11 @@ Testimonials etc. Make people trust you more.
 
 Tell people what to do (contact, subscribe for newsletter...). Take the relationship to the next level.
 
+##### Example
 
+Very clear message this is Pilates studio.
+
+![[Pasted image 20240925200835.png]]
 
 
 
