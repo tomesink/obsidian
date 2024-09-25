@@ -122,6 +122,10 @@ Sometimes with bigger imagery
 
 But main focus is on text. The type is big, no too long lines, very readable. Sometimes broken with quotes.
 
+All articles have social sharing buttons to get more traffic.
+
+
+## Educ
 
 
 
