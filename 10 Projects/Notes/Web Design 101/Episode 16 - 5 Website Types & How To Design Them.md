@@ -5,6 +5,10 @@ created: 2024-09-24
 
 # Episode 16 - 5 Website Types & How To Design Them
 
+## e-commerce
+
+Goal is to sell the product.
+
 
 
 
