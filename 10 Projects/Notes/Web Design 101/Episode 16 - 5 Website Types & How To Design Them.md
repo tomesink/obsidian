@@ -82,9 +82,11 @@ For content creating websites you need to focus on common basic things:
 
 ### 1. Content
 
-Content itself. Purpose of this websites is to make people read/
+Purpose of these websites is to make people read. Design an article will be the main challenge. 
 
+### 2. Imagery 
 
+Just reasdin
 
 
 
