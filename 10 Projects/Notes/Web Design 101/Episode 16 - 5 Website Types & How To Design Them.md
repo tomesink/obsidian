@@ -71,6 +71,11 @@ Social proof does not have to be just testimonials...
 
 ![[Pasted image 20240925200943.png]]
 
+Build credibility by showing their teachers, clients, methods...
+
+![[Pasted image 20240925201047.png]]
+
+
 
 
 
