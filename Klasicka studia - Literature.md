@@ -34,3 +34,14 @@ _povinná literatura_
 - [HABAJ, Michal](https://is.muni.cz/osoba/491553?lang=cs) a František HŘÍBAL. _Alexander Veľký_. Bratislava: Perfekt, 2018, 358 s. ISBN 978-80-8046-900-9. [info](https://is.muni.cz/publication/1833419?lang=cs)
 - OLIVA, Pavel. _Kolébka demokracie : dějiny a kultura klasického Řecka 5.-4. stol. př. n. l._ 1. vyd. Praha: Arista, 2000, 163 s. ISBN 8086410048. [info](https://is.muni.cz/publication/1284832?lang=cs)
 - OLIVA, Pavel. _Zrození řecké civilizace_. 1. vyd. Praha: Academia, 1976, 176 s. [URL](http://www.ndk.cz/) [info](https://is.muni.cz/publication/171991?lang=cs)
+
+
+
+
+
+
+## Dějiny starověkého dějepisectví
+
+_povinná literatura_
+- CANFORA, Luciano. _Dějiny řecké literatury_. Translated by Dagmar Bartoňková. 1. vyd. Praha: KLP-Koniasch Latin Press, 2001, 893 s. ISBN 8085917696. [info](https://is.muni.cz/publication/811991?lang=cs)
+- CONTE, Gian Biagio. _Dějiny římské literatury_. Translated by Dagmar Bartoňková. Vyd. 1. Praha: KLP-Koniasch Latin Press, 2003, 790 s. ISBN 8085917874. [info](https://is.muni.cz/publication/808635?lang=cs)

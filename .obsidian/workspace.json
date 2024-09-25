@@ -926,7 +926,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -1046,7 +1046,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md"
+                "file": "Klasicka studia - Literature.md"
               }
             }
           },
@@ -1131,7 +1131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md",
+                "file": "Klasicka studia - Literature.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1157,7 +1157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md",
+                "file": "Klasicka studia - Literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1191,10 +1191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6925998ca2b3cc53",
+  "active": "49c188a5d913f3df",
   "lastOpenFiles": [
-    "Klasicka studia - Literature.md",
     "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md",
+    "Klasicka studia - Literature.md",
     "10 Projects/Notes/Web Design 101/Episode 4 - Typography.md",
     "TinyPNG.md",
     "00 Inputs/Processing main notes/Zakladni ctnosti.md",
