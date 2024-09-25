@@ -98,6 +98,10 @@ Notice categories are exposed on the top (Environment, Poverty ....)
 
 ![[Pasted image 20240925201920.png]]
 
+We have big hero sections here with main/latest post.
+
+![[Pasted image 20240925202033.png]]
+
 
 
 
