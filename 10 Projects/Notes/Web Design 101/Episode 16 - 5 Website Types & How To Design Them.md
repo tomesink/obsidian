@@ -151,7 +151,11 @@ They break text with interactions, small games, etc. Very good navigation.
 ## Portfolio (personal website)
 
 Subset of the business website. Showcasing your work. Want to get hired, get contacted...
+Presenting who you are and what do you know how to do something.
 
+Main design challenges:
+
+### 1. Art Dier
 
 
 
