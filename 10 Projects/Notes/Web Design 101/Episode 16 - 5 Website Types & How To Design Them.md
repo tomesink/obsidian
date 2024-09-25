@@ -25,6 +25,11 @@ Direct focus on shoes.
 
 ![[Pasted image 20240925195227.png]]
 
+Shoes, shoes, shoes... all different variations and scenarios.
+
+
+![[Pasted image 20240925195345.png]]
+
 
 
 
