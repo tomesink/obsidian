@@ -67,6 +67,11 @@ Very clear message this is Pilates studio.
 
 ![[Pasted image 20240925200835.png]]
 
+Social proof does not have to be just testimonials...
+
+![[Pasted image 20240925200943.png]]
+
+
 
 
 
