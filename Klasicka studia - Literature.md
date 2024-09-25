@@ -25,3 +25,12 @@ _doporučená literatura_
 - BARTOŇKOVÁ, Dagmar. _L. Canfora, Dějiny řecké literatury_. přeložil kolektiv autorů pod vedením D. Bartoňkové (přeložila cca 300 stran). Praha: Koniasch Latin Press, 2001, 893 s. [info](https://is.muni.cz/publication/343233?lang=cs)
 
 
+## Dějiny starověkého Řecka I
+
+_povinná literatura_
+- BURIAN, Jan a Pavel OLIVA. _Civilizace starověkého Středomoří._ Vydání druhé, revidované. Praha: Arista Books, 2015, 346 stran. ISBN 9788086410746. [info](https://is.muni.cz/publication/1310938?lang=cs)
+- BURIAN, Jan a Pavel OLIVA. _Civilizace starověkého Středomoří._ Vydání druhé, revidované. Praha: Arista Books, 2015, Strana 359. ISBN 9788086410753. [info](https://is.muni.cz/publication/1310939?lang=cs)
+- [HABAJ, Michal](https://is.muni.cz/osoba/491553?lang=cs). _Od Tróje k Termopylám. Príbeh archaického Grécka_. Bratislava: Perfekt, 2019, 288 s. ISBN 978-80-8046-946-7. [info](https://is.muni.cz/publication/1833418?lang=cs)
+- [HABAJ, Michal](https://is.muni.cz/osoba/491553?lang=cs) a František HŘÍBAL. _Alexander Veľký_. Bratislava: Perfekt, 2018, 358 s. ISBN 978-80-8046-900-9. [info](https://is.muni.cz/publication/1833419?lang=cs)
+- OLIVA, Pavel. _Kolébka demokracie : dějiny a kultura klasického Řecka 5.-4. stol. př. n. l._ 1. vyd. Praha: Arista, 2000, 163 s. ISBN 8086410048. [info](https://is.muni.cz/publication/1284832?lang=cs)
+- OLIVA, Pavel. _Zrození řecké civilizace_. 1. vyd. Praha: Academia, 1976, 176 s. [URL](http://www.ndk.cz/) [info](https://is.muni.cz/publication/171991?lang=cs)
