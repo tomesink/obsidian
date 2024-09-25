@@ -112,9 +112,17 @@ And than, when you scroll, strong focus on the text
 
 ![[Pasted image 20240925202336.png]]
 
-But with decent imagery
+Simetimes broken down with decent imagery
 
 ![[Pasted image 20240925202410.png]]
+
+Sometimes with bigger imagery
+
+![[Pasted image 20240925202510.png]]
+
+
+
+
 
 
 
