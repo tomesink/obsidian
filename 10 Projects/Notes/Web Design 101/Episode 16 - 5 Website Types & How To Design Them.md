@@ -163,7 +163,9 @@ Designers portfolio will be more visual, but for writers or programmers, you nee
 
 ### 2. Personality
 
-Even if a client wants to hire as for a works,  they hire us as a people.
+Even if a client wants to hire as for a works, they're hiring us as a people. So on our personal website we want to show who we are as persons.
+
+##
 
 
 
