@@ -59,7 +59,9 @@ Testimonials etc. Make people trust you more.
 
 ### 4. Call To Action
 
-Tell people what to do (contact, subscribe for newsletter...)
+Tell people what to do (contact, subscribe for newsletter...). Take the relationship to the next level.
+
+
 
 
 
