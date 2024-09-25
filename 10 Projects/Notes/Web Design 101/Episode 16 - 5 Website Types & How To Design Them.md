@@ -30,7 +30,7 @@ Shoes, shoes, shoes... all different variations and scenarios.
 
 ![[Pasted image 20240925195345.png]]
 
-They split the checkout process into three steps (instead of one). In the first step
+They split the checkout process into three steps (instead of one). In the first step users put their e-mail address. Lots of them do not finish the process and they can target them again because they have their address.
 
 
 
