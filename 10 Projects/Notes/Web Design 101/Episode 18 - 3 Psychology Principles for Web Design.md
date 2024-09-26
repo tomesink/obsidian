@@ -20,7 +20,9 @@ A way how to decide is to look at what other people are doing. We are doing this
 
 In webdesign this principle is expressed in testimonials, logos of companies, using numbers (pages, years, clients....). This builds the trust.
 
-## 3. 
+## 3. Psychology Of Color
+
+How we react on certain colors? 
 
 
 
