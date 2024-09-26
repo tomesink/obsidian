@@ -22,7 +22,9 @@ In webdesign this principle is expressed in testimonials, logos of companies, us
 
 ## 3. Psychology Of Color
 
-How we react on certain colors? 
+How we react on certain colors? Some color have physical effect on humans body (re - stress, green - relax).
+
+We need to understand the psychological effect of colors
 
 
 
