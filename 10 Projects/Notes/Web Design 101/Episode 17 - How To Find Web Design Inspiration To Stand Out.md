@@ -5,7 +5,9 @@ created: 2024-09-24
 
 # Episode 17 - # How To Find Web Design Inspiration To Stand Out
 
+## 1. Competitors
 
+Look up websites of your client's competitors.
 
 
 
