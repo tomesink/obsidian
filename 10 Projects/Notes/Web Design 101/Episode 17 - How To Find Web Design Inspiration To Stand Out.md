@@ -44,7 +44,9 @@ I think I could use Figma (Fig file or FigJam perhaps?)
 
 You can look at other (graphic) designs. Eg. for creating web for "space agency" look at how people draw/design star maps, solar systems, what are the visuals of sci-fi movies, what are their posters and overal aesthetics...
 
-Look for visual inspiration in (design/fashion) magazines.
+Look for visual inspiration in (design/fashion) magazines. 
+
+Google is your friend as well. Look for everything related to your 
 
 
 ___
