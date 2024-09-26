@@ -7,7 +7,11 @@ created: 2024-09-24
 
 ## 1. Mirroring
 
-People typically mirror the behaviour of others, eg. if a person shouts at somebody and is angry, the somebody typically shouts back and is angry. If a person is smiling and is kind to me, I usually respond the same
+People typically mirror the behaviour of others, eg. if a person shouts at somebody and is angry, the somebody typically shouts back and is angry. If a person is smiling and is kind to me, I usually respond the same way.
+
+In web design we can use this im imagery - to show happy people, people doing something some activity etc. The visitors are 
+
+
 
 
 
