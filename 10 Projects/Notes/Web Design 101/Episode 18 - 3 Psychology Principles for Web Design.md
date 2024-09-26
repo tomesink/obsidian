@@ -13,7 +13,9 @@ In web design we can use this im imagery - to show happy people, people doing so
 
 ## 2. Social Validation
 
-The world people see around is quite complicated, yet we need to make decisions.
+The world people see around is quite complicated, yet we need to make decisions. People are looking for shortcuts to decide if this thing is good for me or if this is going to hurt me etc.
+
+A way
 
 
 
