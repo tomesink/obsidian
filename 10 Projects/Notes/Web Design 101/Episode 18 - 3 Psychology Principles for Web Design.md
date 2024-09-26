@@ -5,6 +5,8 @@ created: 2024-09-24
 
 # Episode 18 - 3 Psychology Principles for Web Design
 
+There is af course
+
 
 ## 1. Mirroring
 
