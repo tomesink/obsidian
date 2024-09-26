@@ -9,7 +9,7 @@ There is of course lot more than the 3 principles.
 
 Check out eg.  [List of cognitive biases - Wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases). This could help you as a preson, not only recommend.
 
-Book Recommendation from Ran Segall: Thinking Fast and Slow by Daniel Kahneman. A book about how people think and make decisions.
+Book Recommendation from Ran Segall: Thinking Fast and Slow by Daniel Kahneman. A book about how people think, how they deal with their biases and make decisions.
 
 
 ## 1. Mirroring
