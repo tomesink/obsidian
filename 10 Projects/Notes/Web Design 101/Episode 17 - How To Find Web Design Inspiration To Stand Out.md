@@ -14,9 +14,10 @@ Use google. Take screenshots of their webs. This will help to communicate with a
 
 The websites bellow are good place to look for an inspiration. They are collecting designs, web pages, designers and their works.
 
+Make sure you take screenshots of the design
 ### Awwwards
 
-Daily
+Daily inspirations. Search for category. 
 
 [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
 
