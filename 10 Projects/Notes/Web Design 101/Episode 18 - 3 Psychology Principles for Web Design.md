@@ -18,7 +18,9 @@ The world people see around is quite complicated, yet we need to make decisions.
 A way how to decide is to look at what other people are doing. We are doing this subconciously.
 "If he/they is/are doing this, he/they must be smart and I will do the same thing."
 
-In webdesign this principle is expressed in testimonials, logos of companies, using numbers (pages, years, clients....)
+In webdesign this principle is expressed in testimonials, logos of companies, using numbers (pages, years, clients....). This builds the trust.
+
+## 3. 
 
 
 
