@@ -15,7 +15,8 @@ In web design we can use this im imagery - to show happy people, people doing so
 
 The world people see around is quite complicated, yet we need to make decisions. People are looking for shortcuts to decide if this thing is good for me or if this is going to hurt me etc.
 
-A way how to decide is to look at what other people are doing. We are doing this subconciously. 
+A way how to decide is to look at what other people are doing. We are doing this subconciously.
+"If he/they is/are doing this, he/they must be smart and I will do the same thing."
 
 
 
