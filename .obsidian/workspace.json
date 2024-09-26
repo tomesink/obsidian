@@ -914,6 +914,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Episode 17 - How To Find Web Design Inspiration To Stand Out",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":81},\"to\":{\"line\":50,\"ch\":81}},\"scroll\":28.791024323398425}"
+                },
+                {
                   "title": "Episode 16 - 5 Website Types & How To Design Them",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 16 - 5 Website Types & How To Design Them.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -930,7 +936,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1058,7 +1064,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out.md"
+                "file": "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out 1.md"
               }
             }
           },
@@ -1143,7 +1149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1169,7 +1175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1206,8 +1212,9 @@
   },
   "active": "49c188a5d913f3df",
   "lastOpenFiles": [
-    "10 Projects/Notes/Web Design 101/Episode 16 - 5 Website Types & How To Design Them.md",
     "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out.md",
+    "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out 1.md",
+    "10 Projects/Notes/Web Design 101/Episode 16 - 5 Website Types & How To Design Them.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "_system/Attachments/Screenshot 2024-09-25 at 20.51.14.png",
     "_system/Attachments/Pasted image 20240925202510.png",
@@ -1245,7 +1252,6 @@
     "20 Areas/22 House & Maintenance/22.02 Repairs",
     "20 Areas/22 House & Maintenance",
     "20 Areas/21 Me & Family",
-    "20 Areas/🏥 Health.md",
     "30 Resources",
     "10 Projects/19 Archive",
     "Users/martin/Library/CloudStorage/ProtonDrive-jsem@martintomes.net",
