@@ -46,7 +46,7 @@ You can look at other (graphic) designs. Eg. for creating web for "space agency"
 
 Look for visual inspiration in (design/fashion) magazines. 
 
-Google is your friend as well. Look for everything related to your 
+Google is your friend as well. Look for everything related to your website topic - movies, books, people, images etc. You could find something what has nto been yet used in the web design and translate something (eg. from a book) into your webdesign.
 
 
 ___
