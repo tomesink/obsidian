@@ -7,7 +7,7 @@ created: 2024-09-24
 
 There is of course lot more than the 3 principles.
 
-Check out eg. cognitive bias codex 
+Check out eg.  [List of cognitive biases - Wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
 
 ## 1. Mirroring
