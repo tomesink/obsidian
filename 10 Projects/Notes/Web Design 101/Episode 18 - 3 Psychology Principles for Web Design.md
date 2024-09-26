@@ -24,7 +24,8 @@ In webdesign this principle is expressed in testimonials, logos of companies, us
 
 How we react on certain colors? Some color have physical effect on humans body (re - stress, green - relax).
 
-We need to understand the psychological effect of colors
+We need to understand the psychological effect of colors. This relates to [[Episode 7 - Colors]]
+
 
 
 
