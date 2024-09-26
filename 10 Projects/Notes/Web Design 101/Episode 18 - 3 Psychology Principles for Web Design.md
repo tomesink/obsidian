@@ -7,7 +7,7 @@ created: 2024-09-24
 
 ## 1. Mirroring
 
-People typically mirror the behaviour of others, eg. if a person shouts at somebody and is angry, the somebody typically shouts back and is angry. If a person is smiling and is kind to me, I usually respond the same way.
+People typically mirror the behaviour of others, eg. if a person shouts at somebody and is angry, the somebody typically shouts back and is angry. If a person is smiling and is kind to me, I usually respond the same way. We are doing this subconciously. 
 
 In web design we can use this im imagery - to show happy people, people doing something some activity etc. The visitors are getting into the mood of the images and overall design of the web.
 
@@ -15,7 +15,7 @@ In web design we can use this im imagery - to show happy people, people doing so
 
 The world people see around is quite complicated, yet we need to make decisions. People are looking for shortcuts to decide if this thing is good for me or if this is going to hurt me etc.
 
-A way
+A way how to decide is to look at what other people are doing. We are doing this subconciously. 
 
 
 
