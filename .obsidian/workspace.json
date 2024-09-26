@@ -914,6 +914,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Episode 16 - 5 Website Types & How To Design Them",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 16 - 5 Website Types & How To Design Them.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":180,\"ch\":42},\"to\":{\"line\":180,\"ch\":42}},\"scroll\":166.63899739583334}"
+                },
+                {
                   "title": "Klasicka studia - Literature",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Klasicka studia - Literature.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -924,7 +930,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 16 - 5 Website Types & How To Design Them.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1052,7 +1058,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 16 - 5 Website Types & How To Design Them.md"
+                "file": "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out.md"
               }
             }
           },
@@ -1137,7 +1143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 16 - 5 Website Types & How To Design Them.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1163,7 +1169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 16 - 5 Website Types & How To Design Them.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1199,6 +1205,8 @@
   },
   "active": "49c188a5d913f3df",
   "lastOpenFiles": [
+    "10 Projects/Notes/Web Design 101/Episode 16 - 5 Website Types & How To Design Them.md",
+    "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "_system/Attachments/Screenshot 2024-09-25 at 20.51.14.png",
     "_system/Attachments/Pasted image 20240925202510.png",
@@ -1209,7 +1217,6 @@
     "_system/Attachments/Pasted image 20240925202033.png",
     "_system/Attachments/Pasted image 20240925201920.png",
     "_system/Attachments/Pasted image 20240925201047.png",
-    "10 Projects/Notes/Web Design 101/Episode 16 - 5 Website Types & How To Design Them.md",
     "_system/Attachments/Pasted image 20240925200943.png",
     "Klasicka studia - Literature.md",
     "10 Projects/Notes/Web Design 101/Episode 15 - Get Website Ready For Development.md",
