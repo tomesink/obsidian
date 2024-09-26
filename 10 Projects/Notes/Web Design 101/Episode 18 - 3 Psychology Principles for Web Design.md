@@ -5,7 +5,9 @@ created: 2024-09-24
 
 # Episode 18 - 3 Psychology Principles for Web Design
 
+## 1. Mirroring
 
+People typically mirror the behaviour of others, eg. if a person shouts at somebody and is angry, the somebody typically shouts back.
 
 
 
