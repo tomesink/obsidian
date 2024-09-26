@@ -26,7 +26,13 @@ Daily inspirations. Search for category.
 [The Best Landing Page Design Inspiration, Learn Design and More - Lapa Ninja](https://www.lapa.ninja/)
 
 
-### 
+### Gaetan Paulter
+
+Curated weekly newsletter with links and websites
+
+[Weekly links & websites](https://blog.gaetanpautler.com/)
+
+
 
 
 
