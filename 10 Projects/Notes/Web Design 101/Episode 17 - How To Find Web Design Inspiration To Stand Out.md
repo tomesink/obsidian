@@ -42,9 +42,9 @@ I think I could use Figma (Fig file or FigJam perhaps?)
 
 ## 4. Outside of Web Design
 
-You can look at other (graphic) designs. Eg. for creating web for "space agency" look at how people draw/design star maps, solar systems etc. 
+You can look at other (graphic) designs. Eg. for creating web for "space agency" look at how people draw/design star maps, solar systems, what are the visuals of sci-fi movies, what are their posters and overal aesthetics...
 
-Look for 
+Look for visual inspiration in (design/fashion) magazines.
 
 
 ___
