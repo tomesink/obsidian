@@ -3,9 +3,11 @@ topic:
 created: 2024-09-24
 ---
 
-# Episode 18 - 3 Psychology Principles for Web Design
+# Episode 18 - The Key 3 Psychology Principles for Web Design
 
-There is af course
+There is of course lot more than the 3 principles.
+
+Check out eg. cognitive bias codex 
 
 
 ## 1. Mirroring
