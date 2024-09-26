@@ -42,6 +42,7 @@ I think I could use Figma (Fig file or FigJam perhaps?)
 
 ## 4. Outside of Web Design
 
+You can look at other (graphic) designs. Look at
 
 
 ___
