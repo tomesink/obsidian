@@ -35,7 +35,7 @@ Curated weekly newsletter with links and websites
 
 ## 3. Saving Inspirations
 
-Ran Se
+Ran Segall saves his screenshots in Invision [Collaborate better | InVision](https://www.invisionapp.com/)
 
 
 
