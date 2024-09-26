@@ -35,7 +35,9 @@ Curated weekly newsletter with links and websites
 
 ## 3. Saving Inspirations
 
-Ran Segall saves his screenshots in Invision [Collaborate better | InVision](https://www.invisionapp.com/)
+Ran Segall saves his screenshots in [InVision](https://www.invisionapp.com/).
+
+I think I could use Figma (Fig file or FigJam perhaps?)/
 
 
 
