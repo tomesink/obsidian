@@ -5,6 +5,7 @@ created: 2024-09-24
 
 # Episode 18 - 3 Psychology Principles for Web Design
 
+
 ## 1. Mirroring
 
 People typically mirror the behaviour of others, eg. if a person shouts at somebody and is angry, the somebody typically shouts back and is angry. If a person is smiling and is kind to me, I usually respond the same way. We are doing this subconciously. 
@@ -24,7 +25,7 @@ In webdesign this principle is expressed in testimonials, logos of companies, us
 
 How we react on certain colors? Some color have physical effect on humans body (re - stress, green - relax).
 
-We need to understand the psychological effect of colors. This relates to [[Episode 7 - Colors]]
+We need to understand the psychological effect of colors. This relates to [[Episode 7 - Colors]] (see source links there).
 
 
 

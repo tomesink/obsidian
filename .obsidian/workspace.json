@@ -914,6 +914,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Episode 7 - Colors",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 7 - Colors.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":9},\"to\":{\"line\":65,\"ch\":9}},\"scroll\":53.524647288798235}"
+                },
+                {
                   "title": "Episode 18 - 3 Psychology Principles for Web Design",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 18 - 3 Psychology Principles for Web Design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -942,7 +948,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 18 - 3 Psychology Principles for Web Design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1070,7 +1076,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md"
+                "file": "10 Projects/Notes/Web Design 101/Episode 18 - 3 Psychology Principles for Web Design.md"
               }
             }
           },
@@ -1155,7 +1161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 18 - 3 Psychology Principles for Web Design.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1181,7 +1187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
+                "file": "10 Projects/Notes/Web Design 101/Episode 18 - 3 Psychology Principles for Web Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1218,6 +1224,7 @@
   },
   "active": "49c188a5d913f3df",
   "lastOpenFiles": [
+    "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
     "10 Projects/Notes/Web Design 101/Episode 18 - 3 Psychology Principles for Web Design.md",
     "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out.md",
     "10 Projects/Notes/Web Design 101/Episode 16 - 5 Website Types & How To Design Them.md",
@@ -1243,7 +1250,6 @@
     "10 Projects/Notes/Web Design 101/Episode 12 - UX UI Best Practices.md",
     "10 Projects/Notes/Web Design 101/Episode 6 - Layout.md",
     "10 Projects/Notes/Web Design 101/Episode 5 - Imagery.md",
-    "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
     "10 Projects/Notes/Web Design 101/Episode 8 - Hierarchy.md",
     "10 Projects/Notes/Web Design 101/Episode 9 - Wireframes.md",
     "10 Projects/Notes/Web Design 101/Episode 10 - Good Hero Section.md",
