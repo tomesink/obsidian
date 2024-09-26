@@ -37,7 +37,7 @@ Curated weekly newsletter with links and websites
 
 Ran Segall saves his screenshots in [InVision](https://www.invisionapp.com/). Now part of [Miro](https://miro.com/)
 
-I think I could use Figma (Fig file or FigJam perhaps?)/
+I think I could use Figma (Fig file or FigJam perhaps?)
 
 
 
