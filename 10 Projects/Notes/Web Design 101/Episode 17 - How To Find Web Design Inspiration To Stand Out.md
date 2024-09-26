@@ -8,8 +8,9 @@ created: 2024-09-24
 ## 1. Competitors
 
 Look up websites of your client's competitors. Wee what's working and what's not.
-Use google. Take screenshots of their webs. This will help to communicate wiht client why I do what I do
+Use google. Take screenshots of their webs. This will help to communicate with a client why I do what I do, why I design how I design.
 
+## 2. I
 
 
 
