@@ -257,3 +257,6 @@ These help further communicate ideas, bring the web to life... but not solely re
 
 If you remove all the graphics from your site, the web should STILL work because of its color palette and typography!! It should still do the job. For people with eye handicap, or slow internet the web should still do its job.
 
+### Stock assets
+
+If you are using stock 
