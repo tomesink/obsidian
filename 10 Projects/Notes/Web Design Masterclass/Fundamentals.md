@@ -27,7 +27,9 @@ In Figma these breakpoints are enough:
 ### Guides
 For Figma guides (columns)
 
-#### Desktop 12 columns
+#### Desktop 
+
+Use *12 columns*
 
 You can easily divide them:
 
@@ -36,3 +38,4 @@ You can easily divide them:
 You can use any combination
 
 ![[Pasted image 20240927101842.png]]
+

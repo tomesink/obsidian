@@ -914,6 +914,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Web Design Masterclass",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":12}"
+                },
+                {
+                  "title": "11.01 Web Design 101",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30 Resources/31 Web Design/31.04 Courses/Web Design 101/11.01 Web Design 101.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":11}"
+                },
+                {
                   "title": "Client - janadolezelova.com",
                   "icon": "lucide-trello",
                   "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/11 Now/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
@@ -1128,7 +1140,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Resources/31 Web Design/31.04 Courses/Web Design 101/11.01 Web Design 101.md",
+                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1256,7 +1268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Resources/31 Web Design/31.04 Courses/Web Design 101/11.01 Web Design 101.md"
+                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md"
               }
             }
           },
@@ -1341,7 +1353,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30 Resources/31 Web Design/31.04 Courses/Web Design 101/11.01 Web Design 101.md",
+                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1367,7 +1379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30 Resources/31 Web Design/31.04 Courses/Web Design 101/11.01 Web Design 101.md",
+                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1403,10 +1415,11 @@
   },
   "active": "49c188a5d913f3df",
   "lastOpenFiles": [
+    "10 Projects/11 Now/Web Design Masterclass.md",
+    "30 Resources/31 Web Design/31.04 Courses/Web Design 101/11.01 Web Design 101.md",
     "10 Projects/11 Now/Client - janadolezelova.com.md",
     "10 Projects/11 Now/Design Systems in Figma.md",
     "10 Projects/11 Now/Motion Design In Figma.md",
-    "10 Projects/11 Now/Web Design Masterclass.md",
     "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
     "10 Projects/Notes/Web Design Masterclass",
     "_system/Attachments/Pasted image 20240927101842.png",
@@ -1415,7 +1428,6 @@
     "_system/Attachments/Screenshot 2024-09-27 at 10.05.16.png",
     "_system/Attachments/Pasted image 20240927100219.png",
     "30 Resources/31 Web Design/31.04 Courses/Web Design 101/Episode 3 - History of Web (and Graphic) Design.md",
-    "30 Resources/31 Web Design/31.04 Courses/Web Design 101/11.01 Web Design 101.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Web Design For Beginners 2024.md",
     "10 Projects/Notes/Stockpicking/Uvod do stockpickingu.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Day 5 - Development & publishing!.md",
