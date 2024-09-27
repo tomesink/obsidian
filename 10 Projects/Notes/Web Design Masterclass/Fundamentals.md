@@ -15,7 +15,7 @@ This does not help anybody:
 
 ![[Pasted image 20240927100619.png | 350]]
 
-There are no actual rules
+There are no actual rules to follow
 
 
 ## Responsivnes
