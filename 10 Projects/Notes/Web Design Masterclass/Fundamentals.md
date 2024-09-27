@@ -82,3 +82,4 @@ Again, no rules to follow on how many colors should I use or how do I pick my co
 
 The easiest way is to follow 60/30/10 rule.
 
+60% dominant color (background color)
