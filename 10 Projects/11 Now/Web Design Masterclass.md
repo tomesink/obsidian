@@ -27,7 +27,11 @@ This does not help anybody:
 
 ![[Pasted image 20240927100619.png]]
 
+## Responsivnes
 
+In Figma these breakpoints are enough:
+
+- Desktop 1440
 
 
 
