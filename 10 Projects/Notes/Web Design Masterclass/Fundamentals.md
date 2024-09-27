@@ -191,3 +191,8 @@ More natural a combo of Serif and sans-serif fonts. Eg. if one font for Title, s
 
 ![[Pasted image 20240927150911.png]]
 
+
+## Weights
+
+Purpose is to establish hierarchy. Help elements stand out like button or a link.
+
