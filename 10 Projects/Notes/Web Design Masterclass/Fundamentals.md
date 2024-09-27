@@ -13,7 +13,7 @@ Works well with % based font-sizes (rem).
 If we'd like to achieve the same with say 10px it would be horrible.
 This does not help anybody:
 
-![[Pasted image 20240927100619.png]]
+![[Pasted image 20240927100619.png | 350]]
 
 ## Responsivnes
 
@@ -33,15 +33,15 @@ Use 12 *columns* with 23-40px gaps.
 
 You can easily divide them:
 
-![[Pasted image 20240927101809.png]]
+![[Pasted image 20240927101809.png | 350]]
 
 You can use any combination
 
-![[Pasted image 20240927101842.png]]
+![[Pasted image 20240927101842.png | 350]]
 
 Use 24-64px *margins*
 
-![[Pasted image 20240927102510.png]]
+![[Pasted image 20240927102510.png | 350]]
 
 
 ### Tablet
