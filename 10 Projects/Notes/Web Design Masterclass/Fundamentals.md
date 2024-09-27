@@ -185,3 +185,9 @@ Don't use more than 2-3 fonts per site. Often 1 is enough.
 
 It must be obvious that the font pairing is intentional and different enough. It does not make sense to pair two sans-serif together.
 
+![[Pasted image 20240927150816.png]]
+
+More natural is one font for Title, second for body.
+
+
+
