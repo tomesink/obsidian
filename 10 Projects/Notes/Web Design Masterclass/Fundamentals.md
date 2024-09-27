@@ -118,4 +118,5 @@ This is where color psychology comes in.
 See also [[Episode 7 - Colors]]
 
 
+### 3. Accessibility
 
