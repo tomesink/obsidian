@@ -242,4 +242,10 @@ He uses 1.5 multiplier:
 1. Multiply body by 1.5 (or 2 sometimes)
 2. Choose number within 8px grid in that range
 
-And than f
+And than from there you can increase the title from here.
+
+This is like the golden ratio btw:
+
+
+
+
