@@ -914,6 +914,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Client - janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/11 Now/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Design Systems in Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "Motion Design In Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Web Design Masterclass",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":12}"
+                },
+                {
+                  "title": "Fundamentals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":15.903581372287272}"
+                },
+                {
                   "title": "Web Design Masterclass",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1074,8 +1104,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
-                "mode": "source",
+                "file": "10 Projects/11 Now/Web Design Masterclass.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -1202,7 +1232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md"
+                "file": "10 Projects/11 Now/Web Design Masterclass.md"
               }
             }
           },
@@ -1287,7 +1317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
+                "file": "10 Projects/11 Now/Web Design Masterclass.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1313,7 +1343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
+                "file": "10 Projects/11 Now/Web Design Masterclass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1349,6 +1379,9 @@
   },
   "active": "49c188a5d913f3df",
   "lastOpenFiles": [
+    "10 Projects/11 Now/Client - janadolezelova.com.md",
+    "10 Projects/11 Now/Design Systems in Figma.md",
+    "10 Projects/11 Now/Motion Design In Figma.md",
     "10 Projects/11 Now/Web Design Masterclass.md",
     "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
     "10 Projects/Notes/Web Design Masterclass",
@@ -1359,8 +1392,6 @@
     "_system/Attachments/Pasted image 20240927100219.png",
     "30 Resources/31 Web Design/31.04 Courses/Web Design 101/Episode 3 - History of Web (and Graphic) Design.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design 101/11.01 Web Design 101.md",
-    "10 Projects/11 Now/Motion Design In Figma.md",
-    "10 Projects/11 Now/Design Systems in Figma.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Web Design For Beginners 2024.md",
     "10 Projects/Notes/Stockpicking/Uvod do stockpickingu.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Day 5 - Development & publishing!.md",
@@ -1388,7 +1419,6 @@
     "TinyPNG.md",
     "00 Inputs/Processing main notes/Zakladni ctnosti.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design 101/Episode 14 Homepage in Adobe XD.md",
-    "30 Resources/31 Web Design/31.04 Courses/Web Design 101/Episode 13 - Photo Editing.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs",
     "20 Areas/22 House & Maintenance",
     "20 Areas/21 Me & Family",
