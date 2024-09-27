@@ -198,10 +198,9 @@ Purpose is to establish hierarchy. Help elements stand out like button or a link
 
 Headline should be heavier than body to let the user know this is more important.
 
-### Bold or semibold?
 
 ![[Pasted image 20240927151428.png]]
-
+### Bold or semibold?
 
 Matt stopped using Bold weight and uses only semibold and regular to reduce the gap in the weights to make it feel more harmonious. But this depends on the overall aesthetics of the design and the font type.
 
