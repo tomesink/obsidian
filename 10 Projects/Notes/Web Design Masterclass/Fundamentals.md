@@ -78,4 +78,4 @@ We can ask these questions to help decide:
 
 ## Colors
 
-``
+Again, no rules to follow on how many colors hsould I use or how do I pick my color palette.
