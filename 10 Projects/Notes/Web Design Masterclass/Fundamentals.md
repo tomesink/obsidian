@@ -120,7 +120,12 @@ See also [[Episode 7 - Colors]]
 
 ### 3. Accessibility
 
-Your palette should be accessible. You can use online tools for that.
+Your palette should be accessible. 
 
-AA should be minim
+*AA* should be minimum.
 
+
+You can use online tools for that:
+[Colour Contrast Checker](https://colourcontrast.cc/)
+
+[Contrast | Figma](https://www.figma.com/community/plugin/748533339900865323/contrast)
