@@ -162,6 +162,6 @@ while grotesque font on the other hand is more minimal and serious, more sophist
 But at the end, you have to just see and feel which fonts are looking good. If it looks nice or not.
 And there is no formula for that, it's just instinct.
 
-
+As for design, I need to practice my typography muscle.
 
 
