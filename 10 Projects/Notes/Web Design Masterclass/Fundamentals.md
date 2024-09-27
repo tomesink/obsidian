@@ -275,3 +275,6 @@ This is worse than bad stock photography:
 
 ![[Pasted image 20240927160527.png]]
 
+## Practice constraint
+
+All the effects, animations, over efect
