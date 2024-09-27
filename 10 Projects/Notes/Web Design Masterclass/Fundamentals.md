@@ -44,6 +44,10 @@ Use 24-64px *margins*
 ![[Pasted image 20240927102510.png | 350]]
 
 
+Do not forget to set max-width! Unless you want intentionaloy some element (eg)
+
+
+
 ### Tablet
 
 6 columns, 32 gaps and margins
