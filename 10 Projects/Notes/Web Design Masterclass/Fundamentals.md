@@ -86,4 +86,8 @@ The easiest way is to follow 60/30/10 rule.
 30% secondary color (content/text color)
 10% accent color (primary brand color) this color should "pop out" (eg CTA)
 
-You can add whatever new co
+Additionally you can add whatever new colors or variations of these 3 colors. Whatever is needed to bring the web into life.
+
+Matts 3 color principles:
+
+### 1. 
