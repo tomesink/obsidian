@@ -267,3 +267,4 @@ and super inconsistent
 
 ![[Pasted image 20240927155457.png|350]]
 
+Ideally all the g
