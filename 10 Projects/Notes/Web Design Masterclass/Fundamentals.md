@@ -128,9 +128,9 @@ Your palette should be accessible.
 
 #### 4.5:1 contrast ratio
 
-Two color set. 
+Two color set. It means that the text can be used at any size and weight.
 
-#### contrast ration
+#### 3:1 contrast ratio
 
 
 You can use online tools for that:
