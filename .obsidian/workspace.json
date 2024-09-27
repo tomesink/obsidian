@@ -929,6 +929,30 @@
                   "title": "Motion Design In Figma",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":12}"
+                },
+                {
+                  "title": "Web Design Masterclass",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":2},\"to\":{\"line\":22,\"ch\":2}},\"scroll\":12}"
+                },
+                {
+                  "title": "Client - janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/11 Now/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Design Systems in Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "Motion Design In Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
@@ -1104,8 +1128,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/11 Now/Web Design Masterclass.md",
-                "mode": "preview",
+                "file": "30 Resources/31 Web Design/31.04 Courses/Web Design 101/11.01 Web Design 101.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -1232,7 +1256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/11 Now/Web Design Masterclass.md"
+                "file": "30 Resources/31 Web Design/31.04 Courses/Web Design 101/11.01 Web Design 101.md"
               }
             }
           },
@@ -1317,7 +1341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/11 Now/Web Design Masterclass.md",
+                "file": "30 Resources/31 Web Design/31.04 Courses/Web Design 101/11.01 Web Design 101.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1343,7 +1367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/11 Now/Web Design Masterclass.md",
+                "file": "30 Resources/31 Web Design/31.04 Courses/Web Design 101/11.01 Web Design 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
