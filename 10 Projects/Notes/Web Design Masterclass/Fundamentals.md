@@ -253,3 +253,5 @@ This is like the golden ratio btw:
 
 Matt refers to any media on your site that is graphics: Images, Videos, Icons, Illustrations, 3d objects.
 
+These help further communicate ideas, bring the web to life... but not solely rely on them.
+
