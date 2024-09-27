@@ -1389,7 +1389,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1415,6 +1416,7 @@
   },
   "active": "49c188a5d913f3df",
   "lastOpenFiles": [
+    "_system/Attachments/Pasted image 20240927102709.png",
     "_system/Attachments/Pasted image 20240927102510.png",
     "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
     "10 Projects/11 Now/Web Design Masterclass.md",

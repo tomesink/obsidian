@@ -44,7 +44,11 @@ Use 24-64px *margins*
 ![[Pasted image 20240927102510.png]]
 
 
-### Table
+### Tablet
+
+6 columns, 32 gaps and margins
+
+![[Pasted image 20240927102709.png]]
 
 
 
