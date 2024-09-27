@@ -45,7 +45,7 @@ Use 24-64px *margins*
 
 
 Do not forget to set max-width! It is a goodpractice.
-Unless you want intentionaly some element (eg. picture go edge to edge). If an element do not have max width, you should document it.
+Unless you want intentionally some element (eg. picture go edge to edge). If an element do not have max width, you should document it.
 
 
 
