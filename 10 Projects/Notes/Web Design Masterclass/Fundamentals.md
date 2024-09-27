@@ -201,3 +201,4 @@ Headline should be heavier than body to let the user know this is more important
 ![[Pasted image 20240927151428.png]]
 
 
+Matt stopped using Bold weight and uses only semibold and regular to reduce the gap in the weights to ma
