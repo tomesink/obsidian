@@ -216,4 +216,4 @@ even Inter looks better with -2% :)
 
 #### Line height
 
-For *titles* typically 100% plus minus 10% depending on the font. It does a good job of keeping the title tight.
+For *titles* typically 100% plus minus 10% depending on the font. It does a good job of keeping the title tight and makes it feel like a title, a solid block. 
