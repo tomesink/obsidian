@@ -20,9 +20,12 @@ Is further divisible by 4 or 2 in comparison eg 5px so we can get more values (2
 
 Works well with % based font-sizes (rem).
 
+![[Screenshot 2024-09-27 at 10.05.16.png]]
 
+If we'd l
+This does not help anybody:
 
-
+![[Pasted image 20240927100619.png]]
 
 
 
