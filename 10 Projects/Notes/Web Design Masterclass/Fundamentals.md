@@ -60,6 +60,8 @@ If an element do not have max width, you should document it.
 
 2-4 columns, 24px
 
+
+
 ![[Pasted image 20240927102757.png | 350]]
 
 
