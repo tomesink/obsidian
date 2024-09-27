@@ -31,7 +31,11 @@ This does not help anybody:
 
 In Figma these breakpoints are enough:
 
-- Desktop 1440
+- Desktop *1440px*
+- Tablet *810px*
+-  Phone *390px*
+
+
 
 
 
