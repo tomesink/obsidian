@@ -151,8 +151,9 @@ Rounded sans-serif aree more playful, youthful and approachable
 
 ![[Pasted image 20240927145143.png]]
 
-while grotesque font on the other hand is more minimal and serious, more sophisticated and maybe more trusworthy.
+while grotesque font on the other hand is more minimal and serious, more sophisticated and maybe more trusworthy
 
+![[Pasted image 20240927145328.png]]
 
 
 
