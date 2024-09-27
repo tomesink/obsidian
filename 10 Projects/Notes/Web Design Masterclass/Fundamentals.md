@@ -94,4 +94,9 @@ Matts 3 color principles:
 
 Color palette must be cohesive. The colors must belong together.
 
-You can just simpl
+You can just simply follow the color wheel color theory using whatever tool. Eg.
+[Coolors - The super fast color palettes generator!](https://coolors.co/)
+
+
+
+
