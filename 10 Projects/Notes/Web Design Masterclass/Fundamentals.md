@@ -48,14 +48,14 @@ Use 24-64px *margins*
 
 6 columns, 32 gaps and margins
 
-![[Pasted image 20240927102709.png]]
+![[Pasted image 20240927102709.png | 350]]
 
 
 ### Phone
 
 2-4 columns, 24px
 
-![[Pasted image 20240927102757.png]]
+![[Pasted image 20240927102757.png | 350]]
 
 
 
