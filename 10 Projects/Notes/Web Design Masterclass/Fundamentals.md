@@ -84,3 +84,6 @@ The easiest way is to follow 60/30/10 rule.
 
 60% dominant color (background color)
 30% secondary color (content/text color)
+10% accent color (primary brand color) this color should "pop out" (eg CTA)
+
+You can add whatever new co
