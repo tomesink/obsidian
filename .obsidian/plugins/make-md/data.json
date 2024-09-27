@@ -29,7 +29,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 1,
+  "currentWaypoint": 0,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -44,8 +44,8 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Calendar",
-    "//Calendar/Calendar/02 Snar"
+    "//Calendar/Calendar/02 Snar",
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
