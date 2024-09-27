@@ -8,7 +8,7 @@ Is further divisible by 4 or 2 in comparison eg 5px so we can get more values (2
 
 Works well with % based font-sizes (rem).
 
-![[Screenshot 2024-09-27 at 10.05.16.png]]
+![[Screenshot 2024-09-27 at 10.05.16.png | 350]]
 
 If we'd like to achieve the same with say 10px it would be horrible.
 This does not help anybody:
