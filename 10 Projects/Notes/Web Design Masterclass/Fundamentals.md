@@ -39,3 +39,16 @@ You can use any combination
 
 ![[Pasted image 20240927101842.png]]
 
+Use 24-64px *margins*
+
+![[Pasted image 20240927102510.png]]
+
+
+
+
+
+
+
+
+
+
