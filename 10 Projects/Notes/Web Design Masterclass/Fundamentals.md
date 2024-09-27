@@ -111,7 +111,11 @@ For this you can use shade generator:
 
 The color palette should reflect the brand and its emotion.
 
+This is where color psychology comes in.
 
+![[Pasted image 20240927143823.png]]
+
+See also [[Episode 7 - Colors]]
 
 
 
