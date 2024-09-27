@@ -1158,6 +1158,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "obsidian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"/\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "https://www.make.md/static/latest.md",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-uri-view\",\"state\":{\"path\":\"https://www.make.md/static/latest.md\"}}",
@@ -1168,7 +1174,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "/"
+                "path": "Calendar/02 Snar"
               }
             }
           }
@@ -1453,7 +1459,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "260dda07148ba078",
+  "active": "d788cec64d185035",
   "lastOpenFiles": [
     "Tags",
     "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
