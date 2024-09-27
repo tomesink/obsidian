@@ -10,6 +10,16 @@ type: "[[Course]]"
 created: 2024-09-27
 tags:
 ---
+## Fundamentals
+
+### 8px grid system
+
+Helps us with consistency.
+
+Is furt
+
+
+
 
 
 
