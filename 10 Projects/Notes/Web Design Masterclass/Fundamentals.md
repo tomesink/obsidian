@@ -175,4 +175,11 @@ Even better: ask a friend how this font make him feel?
 
 ### Pairing fonts
 
-Choosing second font is even harder. Here a
+Choosing second font is even harder. Some guidelines:
+
+#### 1. No more than 2 or 3
+
+Dont use more than 2-3 fonts per site. Often 1 is enough.
+
+
+
