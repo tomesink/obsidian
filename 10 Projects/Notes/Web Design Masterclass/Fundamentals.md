@@ -133,7 +133,7 @@ That's what you're the primary when you're trying to hit.
 
 #### 3:1 contrast ratio
 
-That means if text hit this, you can use this text.
+That means if text hit this, you can use this text if it's 24 pixels or above at any weight or between 19-23 pixels bold or heavier
 
 
 You can use online tools for that:
