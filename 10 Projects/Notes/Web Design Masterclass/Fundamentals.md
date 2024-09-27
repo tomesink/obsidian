@@ -201,4 +201,4 @@ Headline should be heavier than body to let the user know this is more important
 ![[Pasted image 20240927151428.png]]
 
 
-Matt stopped using Bold weight and uses only semibold and regular to reduce the gap in the weights to ma
+Matt stopped using Bold weight and uses only semibold and regular to reduce the gap in the weights to make it feel more harmonious. But this depends on the overall aesthetics of the design and the font type.
