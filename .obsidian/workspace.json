@@ -1146,9 +1146,34 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d788cec64d185035",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "https://www.make.md/static/latest.md",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-uri-view\",\"state\":{\"path\":\"https://www.make.md/static/latest.md\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "/"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -1237,8 +1262,26 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "260dda07148ba078",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -1267,9 +1310,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md"
-              }
+              "state": {}
             }
           },
           {
@@ -1353,7 +1394,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1379,7 +1419,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1414,12 +1453,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49c188a5d913f3df",
+  "active": "260dda07148ba078",
   "lastOpenFiles": [
+    "Tags",
+    "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
     "_system/Attachments/Pasted image 20240927102757.png",
     "_system/Attachments/Pasted image 20240927102709.png",
     "_system/Attachments/Pasted image 20240927102510.png",
-    "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
     "10 Projects/11 Now/Web Design Masterclass.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design 101/11.01 Web Design 101.md",
     "10 Projects/11 Now/Client - janadolezelova.com.md",
@@ -1450,7 +1490,6 @@
     "30 Resources/31 Web Design/31.04 Courses/Web Design 101/Episode 16 - 5 Website Types & How To Design Them.md",
     "_system/Attachments/Screenshot 2024-09-25 at 20.51.14.png",
     "_system/Attachments/Pasted image 20240925202510.png",
-    "_system/Attachments/Pasted image 20240925202410.png",
     "Klasicka studia - Literature.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design 101/Episode 15 - Get Website Ready For Development.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design 101/Episode 4 - Typography.md",

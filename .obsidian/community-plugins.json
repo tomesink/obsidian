@@ -37,5 +37,6 @@
   "templater-obsidian",
   "obsidian-projects",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "make-md"
 ]
