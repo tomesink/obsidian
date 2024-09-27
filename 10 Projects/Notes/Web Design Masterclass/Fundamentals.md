@@ -183,5 +183,5 @@ Don't use more than 2-3 fonts per site. Often 1 is enough.
 
 #### 2. Intentional & different
 
-It must be obvious that the font pairing is intentional
+It must be obvious that the font pairing is intentional and different enough. It does not make sense to pair two sans-serif together.
 
