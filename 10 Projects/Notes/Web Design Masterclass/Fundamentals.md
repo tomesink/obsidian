@@ -15,6 +15,9 @@ This does not help anybody:
 
 ![[Pasted image 20240927100619.png | 350]]
 
+The
+
+
 ## Responsivnes
 
 ### Breakpoints
