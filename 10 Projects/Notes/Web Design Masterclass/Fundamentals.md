@@ -124,6 +124,10 @@ Your palette should be accessible.
 
 *AA* should be minimum.
 
+2 levels of contrast ratios
+
+
+
 
 You can use online tools for that:
 [Colour Contrast Checker](https://colourcontrast.cc/)
