@@ -224,4 +224,9 @@ If you open it too much it feel amateur.
 
 ##### Paragraphs
 
-Typically 120-144%.
+Typically 120-144% does the trick and makes it breathe more. It makes it a lot easier to read and more relaxed.
+
+
+#### Font sizes
+
+
