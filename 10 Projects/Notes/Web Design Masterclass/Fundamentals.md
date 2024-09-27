@@ -15,7 +15,7 @@ This does not help anybody:
 
 ![[Pasted image 20240927100619.png | 350]]
 
-## Responsivnes
+## Responsivenes
 
 ### Breakpoints
 In Figma these breakpoints are enough:
@@ -83,3 +83,4 @@ Again, no rules to follow on how many colors should I use or how do I pick my co
 The easiest way is to follow 60/30/10 rule.
 
 60% dominant color (background color)
+30% secondary color (content/text color)
