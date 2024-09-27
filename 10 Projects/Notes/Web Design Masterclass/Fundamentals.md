@@ -90,4 +90,6 @@ Additionally you can add whatever new colors or variations of these 3 colors. Wh
 
 Matts 3 color principles:
 
-### 1. 
+### 1. Cohesive
+
+Color palette must be cohesive. The colors must belong together.
