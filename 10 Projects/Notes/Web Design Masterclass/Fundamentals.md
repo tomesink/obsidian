@@ -82,4 +82,4 @@ Again, no rules to follow on how many colours should I use or how do I pick my c
 
 The easiest way is to follow 60/30/10 rule.
 
-60% dominant colour (background colour)
+60% dominant color (background colour)
