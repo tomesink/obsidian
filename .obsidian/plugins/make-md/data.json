@@ -42,7 +42,7 @@
   "folderNoteName": "",
   "sidebarTabs": true,
   "showRibbon": true,
-  "deleteFileOption": "trash",
+  "deleteFileOption": "system-trash",
   "expandedSpaces": [
     "//Calendar/Calendar/02 Snar",
     "+ Zettelkasten",
@@ -71,7 +71,7 @@
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
-  "inlineContextProperties": true,
+  "inlineContextProperties": false,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
