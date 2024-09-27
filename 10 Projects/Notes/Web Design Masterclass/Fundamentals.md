@@ -120,3 +120,7 @@ See also [[Episode 7 - Colors]]
 
 ### 3. Accessibility
 
+Your palette should be accessible. You can use online tools for that.
+
+AA should be minim
+
