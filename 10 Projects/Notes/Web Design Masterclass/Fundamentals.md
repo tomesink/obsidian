@@ -150,6 +150,8 @@ You can use online tools for that:
 
 ## Typography
 
+### Choosing right font
+
 It's a design muscle you have to train.
 
 Rounded sans-serif aree more playful, youthful and approachable
@@ -171,5 +173,6 @@ I have to always ask myself why my font choice properly reflects the brand. I mu
 Ask what emotions am I feeling with this font?
 Even better: ask a friend how this font make him feel?
 
+### Pairing fonts
 
-
+Choosing second font is even harder. Here a
