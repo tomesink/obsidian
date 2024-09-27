@@ -16,9 +16,9 @@ tags:
 
 Helps us with consistency.
 
-Is further divisible by 4 or 2 in comparison eg 5px so we can get more values:
+Is further divisible by 4 or 2 in comparison eg 5px so we can get more values (2,4,6,8,10,12,14,16,18,20 vs.  )
 
-![[Pasted image 20240927100219.png]]
+
 
 
 
