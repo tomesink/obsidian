@@ -194,7 +194,7 @@ More natural a combo of Serif and sans-serif fonts. Eg. if one font for Title, s
 ![[Pasted image 20240927150911.png]]
 
 
-## Weights
+### Weights
 
 Purpose is to establish hierarchy. Help elements stand out like button or a link.
 
@@ -202,14 +202,18 @@ Headline should be heavier than body to let the user know this is more important
 
 
 ![[Pasted image 20240927151428.png]]
-### Bold or semibold?
+#### Bold or semibold?
 
 Matt stopped using Bold weight and uses only semibold and regular to reduce the gap in the weights to make it feel more harmonious. But this depends on the overall aesthetics of the design and the font type.
 
-### Letter spacing
+#### Letter spacing
 
 Matt uses -2% to -4% of letter spacing.
 
 even Inter looks better with -2% :)
 
 ![[Pasted image 20240927152921.png]]
+
+#### Line height
+
+For *titles* typically 100% plus minus 10%
