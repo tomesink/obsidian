@@ -98,7 +98,7 @@ You can just simply follow the color wheel color theory using whatever tool. Eg.
 
 [Coolors - The super fast color palettes generator!](https://coolors.co/)
 
-Once you have the palette
+Once you have the palette, you can add shades intense to colors that need darker or later versions for whatever reason, eg. hover and click state that need to be darker (eg. )
 [Tailwind Color Generator](https://uicolors.app/create)
 
 
