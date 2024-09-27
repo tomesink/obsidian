@@ -29,13 +29,18 @@ This does not help anybody:
 
 ## Responsivnes
 
+### Breakpoints
 In Figma these breakpoints are enough:
 
 - Desktop *1440px*
 - Tablet *810px*
 -  Phone *390px*
 
+### Guides
 For Figma guides (columns)
+
+Desktop 12 columns
+
 
 
 
