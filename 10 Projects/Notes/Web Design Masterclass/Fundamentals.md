@@ -135,10 +135,13 @@ That's what you're the primary when you're trying to hit.
 
 That means if text hit this, you can use this text if it's 24 pixels or above at any weight or between 19-23 pixels bold or heavier.
 
-For any two color that are less than 3:1 they can be used for decorations which are not parts of the
-
+For any two color that are less than 3:1 they can be used for decorations which are not parts of the text.
 
 You can use online tools for that:
 [Colour Contrast Checker](https://colourcontrast.cc/)
 
 [Contrast | Figma](https://www.figma.com/community/plugin/748533339900865323/contrast)
+
+
+## Typography
+
