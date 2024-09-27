@@ -47,7 +47,7 @@ You can easily divide them:
 
 You can use any combination
 
-
+![[Pasted image 20240927101842.png]]
 
 
 
@@ -57,6 +57,6 @@ You can use any combination
 > ```dataview
 > TABLE WITHOUT ID
 > file.link as ""
-> FROM "Spaces/Notes/Motion Design In Figma"
+> FROM "Spaces/Notes/Web Design Masterclass"
  ```
 
