@@ -165,6 +165,10 @@ And there is no formula for that, it's just instinct.
 As for design, I need to practice my typography muscle. Eventually I will see it.
 But until than I need to be more thoughtful and inquisitive about all my design decisions.
 
-I have to always ask myself why my font choice properly reflects the brand. I must be able to rationalizethat.
+I have to always ask myself why my font choice properly reflects the brand. I must be able to rationalize that.
+
+Ask what emotions am I feeling with this font?
+Even better: ask a friend how this font make him feel?
+Or how the design make my fell.
 
 
