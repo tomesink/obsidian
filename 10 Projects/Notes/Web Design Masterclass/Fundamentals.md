@@ -265,3 +265,5 @@ If you are using them (photos, videos, icons, illustrations whatever) stop using
 
 and super inconsistent
 
+![[Pasted image 20240927155457.png|350]]
+
