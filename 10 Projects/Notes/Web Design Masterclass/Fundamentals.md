@@ -277,4 +277,4 @@ This is worse than bad stock photography:
 
 ## Practice constraint
 
-All the effects, animations, interactions, hover effects, scroll transforms etc should just enhance the user experience. Do not overhelm it. Less is more.
+All the effects, animations, interactions, hover effects, scroll transforms etc should just enhance the user experience or add a small little moment of delight to the user.  Less is more.
