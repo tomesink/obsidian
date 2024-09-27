@@ -78,8 +78,8 @@ We can ask these questions to help decide:
 
 ## Colors
 
-Again, no rules to follow on how many colors should I use or how do I pick my color palette.
+Again, no rules to follow on how many colours should I use or how do I pick my colour palette.
 
 The easiest way is to follow 60/30/10 rule.
 
-60% dominant color (background color)
+60% dominant colour (background colour)
