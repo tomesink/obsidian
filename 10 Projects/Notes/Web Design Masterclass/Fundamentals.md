@@ -96,13 +96,20 @@ Color palette must be cohesive. The colors must belong together.
 
 You can just simply follow the color wheel color theory using whatever tool. Eg.
 
+#### Platette
+
 [Coolors - The super fast color palettes generator!](https://coolors.co/)
 
+#### Shades
 Once you have the palette, you can add shades intense to colors that need darker or later versions for whatever reason, eg. hover and click state that need to be darker (eg. two shades darker).  Or darker version for background for different sections.
 
-f
+For this you can use shade generator:
+
 [Tailwind Color Generator](https://uicolors.app/create)
 
+### 2. Reflect the brand
+
+The color palette 
 
 
 
