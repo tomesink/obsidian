@@ -51,7 +51,11 @@ Use 24-64px *margins*
 ![[Pasted image 20240927102709.png]]
 
 
+### Phone
 
+2-4 columns, 24px
+
+![[Pasted image 20240927102757.png]]
 
 
 
