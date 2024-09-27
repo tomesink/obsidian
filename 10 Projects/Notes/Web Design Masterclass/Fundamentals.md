@@ -29,7 +29,7 @@ For Figma guides (columns)
 
 #### Desktop 
 
-Use *12 columns*
+Use 12 *columns* with 23-40px gaps.
 
 You can easily divide them:
 
@@ -44,7 +44,7 @@ Use 24-64px *margins*
 ![[Pasted image 20240927102510.png]]
 
 
-
+### Table
 
 
 
