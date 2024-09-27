@@ -235,4 +235,9 @@ There is not a standard use. But Matt typically:
 
 Matt starts from 16 pixels and go up. Rarely go down for main body copy. (He might go down for footer?).
 
+##### Titles
 
+He uses 1.5 multiplier:
+
+1. Multiply body by 1.5 (or) 2
+2. Choose number within 8px grid
