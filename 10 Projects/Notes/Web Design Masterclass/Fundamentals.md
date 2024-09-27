@@ -129,8 +129,11 @@ Your palette should be accessible.
 #### 4.5:1 contrast ratio
 
 Two color set. It means that the text can be used at any size and weight.
+That's what you're the primary when you're trying to hit.
 
 #### 3:1 contrast ratio
+
+That means if text hit this, you can use this text.
 
 
 You can use online tools for that:
