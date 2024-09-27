@@ -267,4 +267,6 @@ and super inconsistent
 
 ![[Pasted image 20240927155457.png|350]]
 
-Ideally all the graphics on my site are cohesive and are not cheap (free) stock assets which are already overused.
+Ideally all the graphics on my site are cohesive and are not cheap (free) stock assets which are already overused. Everyone can already recognize their faces.
+
+Also the imag
