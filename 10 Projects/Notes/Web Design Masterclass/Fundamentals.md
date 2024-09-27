@@ -196,3 +196,8 @@ More natural a combo of Serif and sans-serif fonts. Eg. if one font for Title, s
 
 Purpose is to establish hierarchy. Help elements stand out like button or a link.
 
+Headline should be heavier than body to let the user know this is more important.
+
+![[Pasted image 20240927151428.png]]
+
+
