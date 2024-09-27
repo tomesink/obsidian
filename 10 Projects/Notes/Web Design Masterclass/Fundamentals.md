@@ -44,11 +44,11 @@ Use 24-64px *margins*
 ![[Pasted image 20240927102510.png | 350]]
 
 
-Do not forget to set max-width! It is a goodpractice.
-Unless you want intentionally some element (eg. picture go edge to edge). If an element do not have max width, you should document it.
+Do not forget to set max-width! It is a good practice.
 
+Unless you want intentionally some element (eg. picture) to go edge to edge on big size screens). 
 
-
+If an element do not have max width, you should document it.
 ### Tablet
 
 6 columns, 32 gaps and margins
