@@ -27,14 +27,6 @@ In Figma these breakpoints are enough:
 ### Guides
 For Figma guides (columns).
 
-There are no actual rules to follow. Should this card have 24px margin or 32? Should the icon after text has gap 4px or 8 px? It depends... there is no rulebook.
-
-We can ask these questions to help decide:
-
-- Is the spacing help
-
-
-
 #### Desktop 
 
 Use 12 *columns* with 23-40px gaps.
@@ -73,5 +65,11 @@ If an element do not have max width, you should document it.
 ![[Pasted image 20240927102757.png | 350]]
 
 
+## Spacing
 
+There are no actual rules to follow. Should this card have 24px margin or 32? Should the icon after text has gap 4px or 8 px? It depends... there is no rulebook.
+
+We can ask these questions to help decide:
+
+- Is the spacing helping group 
 
