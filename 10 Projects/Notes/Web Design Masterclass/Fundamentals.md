@@ -1,5 +1,7 @@
 # Fundamentals
 
+The more
+
 ## 8px grid system
 
 Helps us with consistency.
@@ -156,6 +158,8 @@ while grotesque font on the other hand is more minimal and serious, more sophist
 ![[Pasted image 20240927145328.png]]
 
 But at the end, you have to just see and feel which fonts are looking good. If it looks nice or not.
-And there is no formula for that, it's
+And there is no formula for that, it's just instinct.
+
+
 
 
