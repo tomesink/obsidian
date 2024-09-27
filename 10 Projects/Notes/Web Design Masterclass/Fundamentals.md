@@ -251,3 +251,5 @@ This is like the golden ratio btw:
 
 ## Graphics
 
+Matt refers to any media on your site that is graphics: Images, Videos, Icons, Illustrations, 3d objects.
+
