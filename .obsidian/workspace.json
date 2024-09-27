@@ -914,13 +914,43 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "2024-08-15",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Calendar/31 Snar/2024-08-15.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "21-5-2019",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Calendar/31 Snar/21-5-2019.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Week 37 2024-05",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40 Calendar/32 Weekly Notes/Week 37 2024-05.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "19.00 Archive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/19 Archive/19.00 Archive.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Episode 18 - The Key 3 Psychology Principles for Web Design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 18 - The Key 3 Psychology Principles for Web Design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":142},\"to\":{\"line\":11,\"ch\":142}},\"scroll\":5.786500366837858}"
+                },
+                {
                   "title": "Episode 7 - Colors",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 7 - Colors.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":9},\"to\":{\"line\":65,\"ch\":9}},\"scroll\":53.524647288798235}"
                 },
                 {
-                  "title": "Episode 18 - 3 Psychology Principles for Web Design",
+                  "title": "Episode 18 - The Key 3 Psychology Principles for Web Design",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design 101/Episode 18 - The Key 3 Psychology Principles for Web Design.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":5.869672637430512}"
@@ -948,7 +978,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 18 - The Key 3 Psychology Principles for Web Design.md",
+                "file": "40 Calendar/31 Snar/21-5-2019.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1076,7 +1106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 18 - The Key 3 Psychology Principles for Web Design.md"
+                "file": "40 Calendar/31 Snar/21-5-2019.md"
               }
             }
           },
@@ -1161,7 +1191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 18 - The Key 3 Psychology Principles for Web Design.md",
+                "file": "40 Calendar/31 Snar/21-5-2019.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1187,7 +1217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design 101/Episode 18 - The Key 3 Psychology Principles for Web Design.md",
+                "file": "40 Calendar/31 Snar/21-5-2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1223,9 +1253,13 @@
   },
   "active": "49c188a5d913f3df",
   "lastOpenFiles": [
+    "40 Calendar/31 Snar/2024-08-15.md",
+    "40 Calendar/31 Snar/21-5-2019.md",
+    "40 Calendar/32 Weekly Notes/Week 37 2024-05.md",
+    "10 Projects/19 Archive/19.00 Archive.md",
+    "10 Projects/Notes/Web Design 101/Episode 18 - The Key 3 Psychology Principles for Web Design.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "10 Projects/Notes/Web Design 101/Episode 7 - Colors.md",
-    "10 Projects/Notes/Web Design 101/Episode 18 - The Key 3 Psychology Principles for Web Design.md",
     "10 Projects/Notes/Web Design 101/Episode 17 - How To Find Web Design Inspiration To Stand Out.md",
     "10 Projects/Notes/Web Design 101/Episode 16 - 5 Website Types & How To Design Them.md",
     "_system/Attachments/Screenshot 2024-09-25 at 20.51.14.png",
@@ -1256,9 +1290,6 @@
     "10 Projects/Notes/Web Design 101/Episode 1 - Introduction to Web Design.md",
     "10 Projects/11 Now/Web Design 101.md",
     "10 Projects/11 Now/Design Systems in Figma.md",
-    "20 Areas/💰 Money & financials.md",
-    "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
-    "_system/Templates/+ 0 Basic Note.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs",
     "20 Areas/22 House & Maintenance",
     "20 Areas/21 Me & Family",
