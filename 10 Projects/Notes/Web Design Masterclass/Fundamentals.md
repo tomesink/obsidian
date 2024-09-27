@@ -246,6 +246,8 @@ And than from there you can increase the title from here.
 
 This is like the golden ratio btw:
 
+![[Pasted image 20240927154547.png | 350]]
 
 
+## Graphics
 
