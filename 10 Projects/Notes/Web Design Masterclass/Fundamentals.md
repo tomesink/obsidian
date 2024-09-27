@@ -4,6 +4,7 @@ it is important to train my design muscle.
 
 The more time you spend looking at beautiful design. the more easily you will be able to differentiate it from bad design. Train your eye by consuming and eventually you'll get to the point where it's kind of second nature.
 
+Always ask myself or a friend how the design make me/him feel?
 ## 8px grid system
 
 Helps us with consistency.
@@ -169,6 +170,6 @@ I have to always ask myself why my font choice properly reflects the brand. I mu
 
 Ask what emotions am I feeling with this font?
 Even better: ask a friend how this font make him feel?
-Or how the design make my fell.
+
 
 
