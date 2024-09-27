@@ -109,7 +109,9 @@ For this you can use shade generator:
 
 ### 2. Reflect the brand
 
-The color palette 
+The color palette should reflect the brand and its emotion.
+
+
 
 
 
