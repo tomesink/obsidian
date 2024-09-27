@@ -1,6 +1,8 @@
 # Fundamentals
 
-The more
+it is important to train my design muscle.
+
+The more time you spend looking at beautiful design. the more easily you will be able to differentiate it from bad design.
 
 ## 8px grid system
 
