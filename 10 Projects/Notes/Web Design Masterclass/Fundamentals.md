@@ -150,6 +150,8 @@ You can use online tools for that:
 
 ## Typography
 
+NOTE: Matt hates the Inter font :) 
+
 ### Choosing right font
 
 It's a design muscle you have to train.
@@ -208,6 +210,6 @@ Matt stopped using Bold weight and uses only semibold and regular to reduce the 
 
 Matt uses -2% to -4% of letter spacing.
 
-
+even Inter looks better with -2% :)
 
 ![[Pasted image 20240927152921.png]]
