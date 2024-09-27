@@ -18,7 +18,7 @@ Helps us with consistency.
 
 Is further divisible by 4 or 2 in comparison eg 5px so we can get more values (2,4,6,8,10,12,14,16,18,20 vs.  5,10,15,20,25,30). Its much more granular.
 
-
+Works well with % based font-sizes (rem).
 
 
 
