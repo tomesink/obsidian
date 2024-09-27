@@ -74,5 +74,5 @@ We can ask these questions to help decide:
 - Is the spacing helping group the right content together to help the user understand what UI elements are related to each other?
 - Is there enough space between the elements to actually feel comfortable?
 - Does anything feel visually unbalanced?
-- Does the spacing feel cohesive?
+- Does the spacing feel cohesive? Whether it be that single UI element or in a section or in the site?
 
