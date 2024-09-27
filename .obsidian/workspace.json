@@ -1158,6 +1158,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "obsidian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"/\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "+ Zettelkasten",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"+ Zettelkasten\"}}",
@@ -1196,8 +1202,10 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "mk-space",
+              "state": {
+                "path": "+ Zettelkasten"
+              }
             }
           }
         ],
@@ -1483,8 +1491,8 @@
   },
   "active": "260dda07148ba078",
   "lastOpenFiles": [
-    "Vault.md",
     "+ Zettelkasten/+ Zettelkasten.md",
+    "Vault.md",
     "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
     "Calendar/02 Snar/21-5-2019.md",
     "Tags",
