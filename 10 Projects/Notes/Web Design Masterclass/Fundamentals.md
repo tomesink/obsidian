@@ -229,4 +229,8 @@ Typically 120-144% does the trick and makes it breathe more. It makes it a lot e
 
 #### Font sizes
 
+There is not a standard use. But Matt typically:
 
+##### Body
+
+Matt starts from 16 pixels.
