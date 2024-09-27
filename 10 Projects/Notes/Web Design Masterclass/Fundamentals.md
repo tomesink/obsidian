@@ -76,3 +76,6 @@ We can ask these questions to help decide:
 - Does anything feel visually unbalanced?
 - Does the spacing feel cohesive? Whether it is a single UI element, section or the whole site. (Its always good to take step back and just see how cohesive your spacing and layouts are feeling. This is an ongoing thing, always check this.). 
 
+## Colors
+
+``
