@@ -233,4 +233,6 @@ There is not a standard use. But Matt typically:
 
 ##### Body
 
-Matt starts from 16 pixels.
+Matt starts from 16 pixels and go up. Rarely go down for main body copy. (He might go down for footer?).
+
+
