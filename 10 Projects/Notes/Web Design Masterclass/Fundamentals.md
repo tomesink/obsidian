@@ -27,7 +27,8 @@ In Figma these breakpoints are enough:
 ### Guides
 For Figma guides (columns).
 
-There are no actual rules to follow. Should this card have 24px margin? Or 32? It depends.
+There are no actual rules to follow. Should this card have 24px margin or 32? Should the icon after text has gap 4px or 8 px? It depends.ss
+
 
 
 
