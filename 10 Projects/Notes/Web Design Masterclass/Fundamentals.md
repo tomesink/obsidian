@@ -255,3 +255,4 @@ Matt refers to any media on your site that is graphics: Images, Videos, Icons, I
 
 These help further communicate ideas, bring the web to life... but not solely rely on them.
 
+If you remove all the graphics from your site, the web should STILL work because of its color palette and typography!! It should still do the job.
