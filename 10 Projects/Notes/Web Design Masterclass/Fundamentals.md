@@ -78,4 +78,7 @@ We can ask these questions to help decide:
 
 ## Colors
 
-Again, no rules to follow on how many colors hsould I use or how do I pick my color palette.
+Again, no rules to follow on how many colors should I use or how do I pick my color palette.
+
+The easiest way is to follow 60/30/10 rule.
+
