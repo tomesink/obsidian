@@ -259,4 +259,4 @@ If you remove all the graphics from your site, the web should STILL work because
 
 ### Stock assets
 
-If you are using stock 
+If you are using stock assets (photos, videos, icons, illustrations whatever) stop using assets that are clearly stock assets
