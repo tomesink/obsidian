@@ -124,9 +124,13 @@ Your palette should be accessible.
 
 *AA* should be minimum.
 
-2 levels of contrast ratios
+2 levels of contrast ratio (ration o)
+
+#### 4.5:1 contrast ration
 
 
+
+#### contrast ration
 
 
 You can use online tools for that:
