@@ -270,3 +270,8 @@ and super inconsistent
 Ideally all the graphics on my site are cohesive and are not cheap (free) stock assets which are already overused. Everyone can already recognize their faces.
 
 Also the AI assets should not look like obvious AI assets.
+
+This is worse than bad stock photography:
+
+![[Pasted image 20240927160527.png]]
+
