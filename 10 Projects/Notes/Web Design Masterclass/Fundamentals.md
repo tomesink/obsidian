@@ -124,11 +124,11 @@ Your palette should be accessible.
 
 *AA* should be minimum.
 
-2 levels of contrast ratio (ration o)
+2 levels of contrast ratio (ratio of 2 colors)
 
-#### 4.5:1 contrast ration
+#### 4.5:1 contrast ratio
 
-
+Two color set. 
 
 #### contrast ration
 
