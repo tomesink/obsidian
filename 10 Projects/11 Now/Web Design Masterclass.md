@@ -35,7 +35,7 @@ In Figma these breakpoints are enough:
 - Tablet *810px*
 -  Phone *390px*
 
-
+For Figma guides (columns)
 
 
 
