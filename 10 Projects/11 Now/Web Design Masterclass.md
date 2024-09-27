@@ -16,7 +16,7 @@ tags:
 
 Helps us with consistency.
 
-Is furt
+Is further divisible by 4 or 2 (in comparison eg 5px)
 
 
 
