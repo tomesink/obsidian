@@ -204,4 +204,10 @@ Headline should be heavier than body to let the user know this is more important
 
 Matt stopped using Bold weight and uses only semibold and regular to reduce the gap in the weights to make it feel more harmonious. But this depends on the overall aesthetics of the design and the font type.
 
+### Letter spacing
+
 Matt uses -2% to -4% of letter spacing.
+
+
+
+![[Pasted image 20240927152921.png]]
