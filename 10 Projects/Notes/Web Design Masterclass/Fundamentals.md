@@ -187,7 +187,7 @@ It must be obvious that the font pairing is intentional and different enough. It
 
 ![[Pasted image 20240927150816.png]]
 
-More natural is one font for Title, second for body.
+More natural a combo of Serif and sans-serif fonts. Eg. if one font for Title, second for body.
 
-
+![[Pasted image 20240927150911.png]]
 
