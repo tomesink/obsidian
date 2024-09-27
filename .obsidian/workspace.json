@@ -1132,7 +1132,7 @@
                 {
                   "title": "Klasicka studia - Literature",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Klasicka studia - Literature.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Inputs/Klasicka studia - Literature.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":19},\"to\":{\"line\":69,\"ch\":43}},\"scroll\":41.91162790697675}"
                 }
               ]
@@ -1155,6 +1155,12 @@
               "stack": [
                 {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "+ Zettelkasten",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"+ Zettelkasten\"}}",
                   "eState": "{}"
                 },
                 {
@@ -1190,10 +1196,8 @@
               ]
             },
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "+ Zettelkasten"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -1477,8 +1481,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d788cec64d185035",
+  "active": "260dda07148ba078",
   "lastOpenFiles": [
+    "Vault.md",
     "+ Zettelkasten/+ Zettelkasten.md",
     "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
     "Calendar/02 Snar/21-5-2019.md",
@@ -1515,11 +1520,10 @@
     "30 Resources/31 Web Design/31.04 Courses/Web Design 101/Episode 16 - 5 Website Types & How To Design Them.md",
     "_system/Attachments/Screenshot 2024-09-25 at 20.51.14.png",
     "_system/Attachments/Pasted image 20240925202510.png",
-    "Klasicka studia - Literature.md",
+    "00 Inputs/Klasicka studia - Literature.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design 101/Episode 15 - Get Website Ready For Development.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design 101/Episode 4 - Typography.md",
     "TinyPNG.md",
-    "00 Inputs/Processing main notes/Zakladni ctnosti.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs",
     "20 Areas/22 House & Maintenance",
     "20 Areas/21 Me & Family",
