@@ -15,9 +15,6 @@ This does not help anybody:
 
 ![[Pasted image 20240927100619.png | 350]]
 
-There are no actual rules to follow
-
-
 ## Responsivnes
 
 ### Breakpoints
@@ -28,7 +25,11 @@ In Figma these breakpoints are enough:
 -  Phone *390px*
 
 ### Guides
-For Figma guides (columns)
+For Figma guides (columns).
+
+There are no actual rules to follow. Should this card have 24px margin? Or 32? It depends.
+
+
 
 #### Desktop 
 
