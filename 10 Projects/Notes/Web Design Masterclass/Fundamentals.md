@@ -93,3 +93,5 @@ Matts 3 color principles:
 ### 1. Cohesive
 
 Color palette must be cohesive. The colors must belong together.
+
+You can just simpl
