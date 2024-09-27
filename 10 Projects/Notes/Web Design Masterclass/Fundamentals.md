@@ -179,7 +179,9 @@ Choosing second font is even harder. Some guidelines:
 
 #### 1. No more than 2 or 3
 
-Dont use more than 2-3 fonts per site. Often 1 is enough.
+Don't use more than 2-3 fonts per site. Often 1 is enough.
 
+#### 2. Intentional & different
 
+It must be obvious that the font pairing is intentional
 
