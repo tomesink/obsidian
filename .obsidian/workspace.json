@@ -1158,6 +1158,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Project1 - Ace",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Project1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":300},\"to\":{\"line\":4,\"ch\":300}}}"
+                },
+                {
                   "title": "Web Design Masterclass",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"10 Projects/Notes/Web Design Masterclass\"}}",
@@ -1268,12 +1274,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Project1 - Ace.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "path": "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024"
               }
             }
           }
@@ -1414,9 +1417,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Project1 - Ace.md"
-              }
+              "state": {}
             }
           },
           {
@@ -1500,7 +1501,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Project1 - Ace.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1526,7 +1526,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Project1 - Ace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1561,10 +1560,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d788cec64d185035",
+  "active": "260dda07148ba078",
   "lastOpenFiles": [
-    "_system/Attachments/~$Portfolio Management.xlsx",
+    "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Web Design For Beginners 2024.md",
     "10 Projects/Notes/Web Design Masterclass/Project1 - Ace.md",
+    "_system/Attachments/~$Portfolio Management.xlsx",
     "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
     "_system/Attachments/Pasted image 20240927160527.png",
     "_system/Attachments/Pasted image 20240927155457.png",
@@ -1591,7 +1591,6 @@
     "10 Projects/11 Now/Motion Design In Figma.md",
     "10 Projects/Notes/Web Design Masterclass",
     "30 Resources/31 Web Design/31.04 Courses/Web Design 101/Episode 3 - History of Web (and Graphic) Design.md",
-    "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Web Design For Beginners 2024.md",
     "10 Projects/Notes/Stockpicking/Uvod do stockpickingu.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Day 5 - Development & publishing!.md",
     "30 Resources/31 Web Design",
