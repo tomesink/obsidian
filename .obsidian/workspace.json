@@ -1158,6 +1158,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "11.02 Web Design Masterclass",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"10 Projects/Notes/11.02 Web Design Masterclass\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "11.02 Web Design Masterclass",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Active/11.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
                   "title": "11.03 Client - janadolezelova.com",
                   "icon": "lucide-trello",
                   "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"10 Projects/11 Active/11.03 Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
@@ -1318,7 +1330,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/11 Active/11.02 Web Design Masterclass.md",
+                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1463,7 +1475,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/11 Active/11.02 Web Design Masterclass.md"
+                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md"
               }
             }
           },
@@ -1548,7 +1560,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/11 Active/11.02 Web Design Masterclass.md",
+                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1574,7 +1586,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/11 Active/11.02 Web Design Masterclass.md",
+                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1611,8 +1623,8 @@
   },
   "active": "d788cec64d185035",
   "lastOpenFiles": [
-    "10 Projects/11 Active/11.03 Client - janadolezelova.com.md",
     "10 Projects/11 Active/11.02 Web Design Masterclass.md",
+    "10 Projects/11 Active/11.03 Client - janadolezelova.com.md",
     "10 Projects/11 Active/11 Active.md",
     "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Web Design For Beginners 2024.md",
