@@ -9,7 +9,7 @@ Set navbar text items to vertical trim.
 
 ### Hero
 
-Spacing between sections: small (88), medium (128) and large (200) defaults for 8px grid system.
+Spacing between sections: small (88), medium (128) and large (200) defaults for 8px grid system. Divide the number by 2.
 
 
 
