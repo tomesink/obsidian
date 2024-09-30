@@ -916,7 +916,7 @@
                 {
                   "title": "Web Design Masterclass",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/11.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":12}"
                 },
                 {
@@ -946,7 +946,7 @@
                 {
                   "title": "Web Design Masterclass",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/11.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":2},\"to\":{\"line\":22,\"ch\":2}},\"scroll\":12}"
                 },
                 {
@@ -970,31 +970,31 @@
                 {
                   "title": "Web Design Masterclass",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/11.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":12}"
                 },
                 {
                   "title": "Fundamentals",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":15.903581372287272}"
                 },
                 {
                   "title": "Web Design Masterclass",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/11.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":12}"
                 },
                 {
                   "title": "Fundamentals",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Web Design Masterclass",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/11.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":0},\"to\":{\"line\":52,\"ch\":0}},\"scroll\":12}"
                 },
                 {
@@ -1012,7 +1012,7 @@
                 {
                   "title": "Web Design Masterclass",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/11.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
@@ -1140,7 +1140,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
+                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -1158,9 +1158,21 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "11.02 Web Design Masterclass",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/11.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":12}"
+                },
+                {
+                  "title": "Web Design For Beginners 2024",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Project1 - Ace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Project1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":300},\"to\":{\"line\":4,\"ch\":300}}}"
                 },
                 {
@@ -1172,13 +1184,13 @@
                 {
                   "title": "Fundamentals",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":279,\"ch\":171},\"to\":{\"line\":279,\"ch\":171}},\"scroll\":0}"
                 },
                 {
-                  "title": "Web Design Masterclass",
+                  "title": "11.02 Web Design Masterclass",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/11.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":12}"
                 },
                 {
@@ -1244,7 +1256,7 @@
                 {
                   "title": "Fundamentals",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -1274,9 +1286,12 @@
               ]
             },
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024"
+                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -1417,7 +1432,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md"
+              }
             }
           },
           {
@@ -1501,6 +1518,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1526,6 +1544,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1560,12 +1579,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "260dda07148ba078",
+  "active": "d788cec64d185035",
   "lastOpenFiles": [
+    "10 Projects/11 Now/11.02 Web Design Masterclass.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Web Design For Beginners 2024.md",
-    "10 Projects/Notes/Web Design Masterclass/Project1 - Ace.md",
+    "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
-    "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
+    "10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md",
     "_system/Attachments/Pasted image 20240927160527.png",
     "_system/Attachments/Pasted image 20240927155457.png",
     "_system/Attachments/Pasted image 20240927155358.png",
@@ -1577,7 +1597,6 @@
     "_system/Attachments/Pasted image 20240927145328.png",
     "_system/Attachments/Pasted image 20240927145143.png",
     "Tags",
-    "10 Projects/11 Now/Web Design Masterclass.md",
     "10 Projects/11 Now/11 Now.md",
     "10 Projects/10 Projects.md",
     "Vault.md",
@@ -1589,7 +1608,7 @@
     "10 Projects/11 Now/Client - janadolezelova.com.md",
     "10 Projects/11 Now/Design Systems in Figma.md",
     "10 Projects/11 Now/Motion Design In Figma.md",
-    "10 Projects/Notes/Web Design Masterclass",
+    "10 Projects/Notes/11.02 Web Design Masterclass",
     "30 Resources/31 Web Design/31.04 Courses/Web Design 101/Episode 3 - History of Web (and Graphic) Design.md",
     "10 Projects/Notes/Stockpicking/Uvod do stockpickingu.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Day 5 - Development & publishing!.md",
