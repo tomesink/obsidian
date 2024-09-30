@@ -9,7 +9,7 @@ Set navbar text items to vertical trim.
 
 ### Hero
 
-Spacing between sections: small (88), medium (128) and large (200) defaults for 8px grid system. Divide the number by 2 to get the half padding: We are going with 128 -> 64px up and bottom paddings.
+Spacing between sections: small (88), medium (128) and large (200) defaults for 8px grid system. Divide the number by 2 to get the half padding: We are going with 128 -> 64px up and bottom paddings. Do not forget to set the section to huig
 
 
 
