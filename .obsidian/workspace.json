@@ -1160,6 +1160,18 @@
                 {
                   "title": "Web Design Masterclass",
                   "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"10 Projects/Notes/Web Design Masterclass\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fundamentals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":279,\"ch\":171},\"to\":{\"line\":279,\"ch\":171}},\"scroll\":0}"
+                },
+                {
+                  "title": "Web Design Masterclass",
+                  "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Now/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":12}"
                 },
@@ -1258,7 +1270,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
+                "file": "10 Projects/Notes/Web Design Masterclass/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1403,7 +1415,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md"
+                "file": "10 Projects/Notes/Web Design Masterclass/Untitled.md"
               }
             }
           },
@@ -1488,7 +1500,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
+                "file": "10 Projects/Notes/Web Design Masterclass/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1514,7 +1526,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
+                "file": "10 Projects/Notes/Web Design Masterclass/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1551,10 +1563,11 @@
   },
   "active": "d788cec64d185035",
   "lastOpenFiles": [
+    "10 Projects/Notes/Web Design Masterclass/Untitled.md",
+    "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "_system/Attachments/Pasted image 20240927160527.png",
     "_system/Attachments/Pasted image 20240927155457.png",
-    "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
     "_system/Attachments/Pasted image 20240927155358.png",
     "_system/Attachments/Pasted image 20240927154547.png",
     "_system/Attachments/Pasted image 20240927152921.png",
