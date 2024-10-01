@@ -57,7 +57,7 @@ If an element do not have max width, you should document it.
 
 If you have 24px gaps between grids than you can easily set gaps in a container also to 24px to align with the grid
 
-
+![[Screenshot 2024-10-01 at 11.09.37.png|350]]
 
 
 ### Tablet
