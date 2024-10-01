@@ -41,7 +41,7 @@ The figma logo on white background means we need to build fake UI, not use a pho
 
 Something like this:
 
-![[Pasted image 20241001142830.png]]\
+![[Pasted image 20241001143156.png]]
 
 
 
