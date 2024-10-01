@@ -30,5 +30,9 @@ After the logo is better in this case:
 ![[Pasted image 20241001112612.png]]
 
 
+Matt do not enjoy illustrations on web site unless a client demands it.
+
+
+
 
 
