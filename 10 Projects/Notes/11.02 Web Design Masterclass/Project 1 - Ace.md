@@ -32,7 +32,7 @@ After the logo is better in this case:
 
 Matt do not enjoy illustrations on web site unless a client demands it.
 
-
+The figma logo on white background means we need to build 
 
 
 
