@@ -59,7 +59,6 @@ If you have 24px gaps between grids than you can easily set gaps in a container 
 
 ![[Screenshot 2024-10-01 at 11.09.37.png|350]]
 
-
 ### Tablet
 
 6 columns, 32 gaps and margins

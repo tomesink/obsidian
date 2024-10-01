@@ -1158,6 +1158,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Fundamentals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":0},\"to\":{\"line\":60,\"ch\":0}},\"scroll\":50.08984375}"
+                },
+                {
                   "title": "Project 1 - Ace",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1336,7 +1342,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md",
+                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1481,7 +1487,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md"
+                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md"
               }
             }
           },
@@ -1566,7 +1572,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md",
+                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1592,7 +1598,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md",
+                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1629,6 +1635,7 @@
   },
   "active": "d788cec64d185035",
   "lastOpenFiles": [
+    "10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md",
     "_system/Attachments/Screenshot 2024-10-01 at 11.09.37.png",
     "_system/Attachments/Pasted image 20241001110920.png",
     "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
@@ -1637,7 +1644,6 @@
     "10 Projects/11 Active/11.03 Client - janadolezelova.com.md",
     "10 Projects/11 Active/11 Active.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Web Design For Beginners 2024.md",
-    "10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md",
     "_system/Attachments/Pasted image 20240927160527.png",
     "_system/Attachments/Pasted image 20240927155457.png",
     "_system/Attachments/Pasted image 20240927155358.png",
@@ -1646,7 +1652,6 @@
     "_system/Attachments/Pasted image 20240927151428.png",
     "_system/Attachments/Pasted image 20240927150911.png",
     "_system/Attachments/Pasted image 20240927150816.png",
-    "_system/Attachments/Pasted image 20240927145328.png",
     "Tags",
     "10 Projects/10 Projects.md",
     "Vault.md",
