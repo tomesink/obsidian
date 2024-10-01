@@ -20,12 +20,14 @@ Want to align odd number (5 in this case) of columns with your 12 column grid?
 
 ![[Pasted image 20241001112118.png]]
 
-Just add an empty rectangle where it is best suited (after the logo or):
+Just add an empty rectangle where it is best suited (after the logo or at the end):
 
 ![[Screenshot 2024-10-01 at 11.23.54.png]]
 
 
+After the logo is better in this case:
 
+![[Pasted image 20241001112612.png]]
 
 
 
