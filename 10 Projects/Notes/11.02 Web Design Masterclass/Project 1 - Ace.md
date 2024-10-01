@@ -16,11 +16,13 @@ Matt likes the social proof being in the hero section.
 
 ### Alignment
 
-Want to align odd number of columns with your 12 column grid? 
+Want to align odd number (5 in this case) of columns with your 12 column grid? 
 
 ![[Pasted image 20241001112118.png]]
 
 Just add an empty square at the end:
+
+![[Pasted image 20241001112308.png]]
 
 
 
