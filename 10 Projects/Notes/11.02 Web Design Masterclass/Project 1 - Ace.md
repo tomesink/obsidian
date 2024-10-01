@@ -37,6 +37,14 @@ The figma logo on white background means we need to build fake UI, not use a pho
 ![[Pasted image 20241001121511.png]]
 
 
+### Carousel wireframe
+
+Somet
+
+![[Pasted image 20241001142749.png]]
+
+
+
 
 
 
