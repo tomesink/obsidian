@@ -32,7 +32,11 @@ After the logo is better in this case:
 
 Matt do not enjoy illustrations on web site unless a client demands it.
 
-The figma logo on white background means we need to build 
+The figma logo on white background means we need to build fake UI, not use a photo nor icon
+
+![[Pasted image 20241001121511.png]]
+
+
 
 
 
