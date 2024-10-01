@@ -22,7 +22,7 @@ Want to align odd number (5 in this case) of columns with your 12 column grid?
 
 Just add an empty square at the end:
 
-![[Pasted image 20241001112308.png]]
+![[Screenshot 2024-10-01 at 11.23.54.png]]
 
 
 
