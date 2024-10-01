@@ -54,6 +54,8 @@ Do not forget to set max-width! It is a good practice.
 Unless you want intentionally some element (eg. picture) to go edge to edge on big size screens). 
 
 If an element do not have max width, you should document it.
+
+If you have 24px gaps between grids than you can easily set gaps in a container also to 24px to align with the grids
 ### Tablet
 
 6 columns, 32 gaps and margins
