@@ -10,7 +10,7 @@ Bude potreba:
 - Certifikat skrine
 - Prukaz zbrane
 - Zbrojak
-- Vnitrni predpis + dodatky
+- Vnitrni predpis + dodatky vsechny 
 - Plna moc od Richarda
 
 Kontakt: +420 606 828 034 - Ptat se po pani Novakove z odboru zbrani
