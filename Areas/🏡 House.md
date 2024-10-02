@@ -3,7 +3,6 @@ up:
   - "[[Home]]"
 related: 
 created: 2024-08-13
-rank:
 ---
 
 
@@ -12,16 +11,11 @@ rank:
 
 
 > [!Watch]+ # House maintenance
-> House efforts with a rank above `3`.
+> House efforts 
 > 
 > ```dataview
 > TABLE WITHOUT ID
->  file.link as "",
->  rank as "Rank"
-> 
+>  file.link as ""
 > FROM "20 Areas/Notes/House"
-> 
-> WHERE rank > 3
-> 
 > SORT rank desc
 > ```
