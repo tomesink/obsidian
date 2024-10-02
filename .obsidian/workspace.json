@@ -56,13 +56,13 @@
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
                   "title": "🏡 House",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
@@ -284,19 +284,19 @@
                 {
                   "title": "My Investments",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Finance/My Investments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Finance/My Investments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":12},\"to\":{\"line\":10,\"ch\":12}},\"scroll\":8}"
                 },
                 {
                   "title": "🏡 House",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
                 },
                 {
@@ -398,55 +398,55 @@
                 {
                   "title": "Content strategy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Content strategy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Content strategy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Create + send invoice for downpayment (50%)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Create + send invoice for downpayment (50%).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Create + send proposal",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Create + send proposal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Create + send proposal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Full Site HI-FI Mockups",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Full Site HI-FI Mockups.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Home Page Hi-Fi Concepts",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Home Page Hi-Fi Concepts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Invite client to shared Notion workspace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Invite client to shared Notion workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Prepare + send contract to client",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Prepare + send contract to client.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Sales call",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Sales call.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Sales call.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Setup shared Slack workspace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Clients/janadolezelova.com/Setup shared Slack workspace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -644,13 +644,13 @@
                 {
                   "title": "Learning",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":18.355239786856128}"
                 },
                 {
@@ -668,7 +668,7 @@
                 {
                   "title": "🏡 House",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
                 },
                 {
@@ -1292,13 +1292,13 @@
                 {
                   "title": "🏡 House",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
                 },
                 {
                   "title": "Prayers",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Prayers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Prayers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -1310,13 +1310,13 @@
                 {
                   "title": "My Investments",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Finance/My Investments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Finance/My Investments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
                   "title": "My Expenses",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Finance/My Expenses.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Finance/My Expenses.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
                 },
                 {
@@ -1328,19 +1328,19 @@
                 {
                   "title": "My Subscriptions",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Finance/My Subscriptions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Finance/My Subscriptions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 },
                 {
                   "title": "My Expenses",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Finance/My Expenses.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Finance/My Expenses.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":7},\"to\":{\"line\":13,\"ch\":7}}}"
                 },
                 {
                   "title": "23 Money & financials",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":9},\"to\":{\"line\":16,\"ch\":9}}}"
                 },
                 {
@@ -1430,25 +1430,25 @@
                 {
                   "title": "23 Money & financials",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":8}"
                 },
                 {
                   "title": "🏡 House",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
                 },
                 {
                   "title": "Learning",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.9257142857142857}"
                 },
                 {
                   "title": "2024-09 Praskla trubka u mamky",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/22 House & Maintenance/2024-09 Praskla trubka u mamky.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/22 House & Maintenance/2024-09 Praskla trubka u mamky.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":4}"
                 },
                 {
@@ -1926,7 +1926,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d788cec64d185035",
+  "active": "260dda07148ba078",
   "lastOpenFiles": [
     "10 Projects/11 Active/Client - janadolezelova.com.md",
     "10 Projects/11 Active/Web Design Masterclass.md",
@@ -1939,12 +1939,12 @@
     "00 Inputs/bookmarks_05_09_2024.md",
     "30 Resources/31 Web Design/31.04 Courses/31.04 Courses.md",
     "30 Resources/31 Courses/Course - Web Design For Beginners 2024/Course - Web Design For Beginners 2024.md",
-    "20 Areas/🏡 House.md",
-    "20 Areas/Prayers.md",
-    "20 Areas/Notes/Finance/My Investments.md",
-    "20 Areas/Notes/Finance/My Expenses.md",
-    "20 Areas/Notes/Finance/My Subscriptions.md",
-    "20 Areas/23 Money & financials.md",
+    "Areas/🏡 House.md",
+    "Areas/Prayers.md",
+    "Areas/Notes/Finance/My Investments.md",
+    "Areas/Notes/Finance/My Expenses.md",
+    "Areas/Notes/Finance/My Subscriptions.md",
+    "Areas/23 Money & financials.md",
     "00 Inputs/Track Your Design Business.md",
     "+ Zettelkasten/Indexes/Webdesign.md",
     "+ Zettelkasten/Indexes/Philosophy.md",
@@ -1970,8 +1970,8 @@
     "30 Resources/31 Courses",
     "30 Resources/31 Web Design/31.04 Courses",
     "20 Areas/22 House & Maintenance/22.02 Repairs",
-    "20 Areas/22 House & Maintenance",
-    "20 Areas/21 Me & Family",
+    "Areas/22 House & Maintenance",
+    "Areas/21 Me & Family",
     "30 Resources",
     "10 Projects/19 Archive",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",

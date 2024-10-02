@@ -48,13 +48,13 @@
   "00 Inputs": "LiInbox",
   "Views": "LiEye",
   "10 Projects": "LiWorkflow",
-  "20 Areas": "LiRecycle",
-  "20 Areas/Learning.md": "LiGraduationCap",
-  "20 Areas/Prayers.md": "✝",
-  "20 Areas/Notes/Business": "LiLaptop",
-  "20 Areas/Me & family.md": "🙋‍♂️",
   "30 Resources": "LiPenBox",
   "Calendar": "LiCalendar",
   "10 Projects/12 Simmering": "〰",
-  "10 Projects/11 Active": "🔥"
+  "10 Projects/11 Active": "🔥",
+  "Areas": "LiRecycle",
+  "Areas/Learning.md": "LiGraduationCap",
+  "Areas/Me & family.md": "🙋‍♂️",
+  "Areas/Prayers.md": "✝",
+  "Areas/Notes/Business": "LiLaptop"
 }
