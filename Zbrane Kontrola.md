@@ -10,7 +10,8 @@ Bude potreba:
 - Certifikat skrine
 - Prukaz zbrane
 - Zbrojak
-- Vbnitrni predpis
+- Vnitrni predpis + dodatky
+- Plna moc od Richarda
 
 
 ___
