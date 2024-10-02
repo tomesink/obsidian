@@ -88,3 +88,5 @@ Do not spend too much time on font. Do not let choosing fonts block your progres
 
 Matt uses WhatFont extension [WhatFont - Chrome Web Store](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 
+Matt uses [Pangram Pangram Foundry — Free to Try Quality Fonts and Typefaces](https://pangrampangram.com/) to get Fonts.
+
