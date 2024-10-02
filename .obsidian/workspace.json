@@ -1870,6 +1870,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "+ Zettelkasten",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"+ Zettelkasten\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Archive",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Archive\"}}",
@@ -1988,7 +1994,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "+ Zettelkasten"
+                "path": "Projects/10 Efforts"
               }
             }
           }
@@ -2274,17 +2280,17 @@
   },
   "active": "260dda07148ba078",
   "lastOpenFiles": [
-    "+ Zettelkasten/+ Zettelkasten.md",
-    "Archive/Archive.md",
+    "Projects/10 Efforts/10 Efforts.md",
     "Resources/70 Library/71 Webdesign/Design Systems in Figma.md",
-    "Vault.md",
+    "+ Zettelkasten/+ Zettelkasten.md",
     "Tags",
+    "Archive/Archive.md",
+    "Vault.md",
     "Resources/Resources.md",
     "Projects/10 Efforts/Simmering/Simmering.md",
     "Projects/11 Clients/Client - janadolezelova.com.md",
     "Projects/10 Efforts/Active/Active.md",
     "Archive/90 Archive/90 Archive.md",
-    "Projects/10 Efforts/10 Efforts.md",
     "00 Inputs/Zbrane Kontrola.md",
     "Archive",
     "Resources",

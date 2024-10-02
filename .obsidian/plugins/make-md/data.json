@@ -70,7 +70,10 @@
     "//Projects/Projects/10 Me/Projects/10 Me/12 Simmering",
     "//90 Archive",
     "//Projects/Projects/10 Me",
-    "/"
+    "/",
+    "//Projects",
+    "//Projects/Projects/10 Efforts",
+    "//Projects/Projects/10 Efforts/Projects/10 Efforts/Active"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
