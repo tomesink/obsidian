@@ -95,5 +95,7 @@ Adobe fonts for serifs. [Search fonts | Adobe Fonts](https://fonts.adobe.com/fon
 
 Serif fonts not suited for buttons.
 
-Try to find 2-4 fonts for Headings and 2-4 fonts for body and try to combine them to see if they fit"
+Try to find 2-4 fonts for Headings and 2-4 fonts for body and try to combine them to see if they fit
+
+![[Pasted image 20241002130915.png|350]]
 
