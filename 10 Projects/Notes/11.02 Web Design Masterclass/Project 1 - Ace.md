@@ -64,4 +64,7 @@ It is better to have a moodboard providing us some visual direction
 
 and figure out the web by ourselves.
 
-Look for patte
+Look for patterns in the moodboard, similar pictures, color palettes and sort/group them:
+
+![[Pasted image 20241002112433.png]]
+
