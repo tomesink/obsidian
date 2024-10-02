@@ -1158,6 +1158,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "My Subscriptions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Finance/My Subscriptions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "My Expenses",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Finance/My Expenses.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":7},\"to\":{\"line\":13,\"ch\":7}}}"
+                },
+                {
+                  "title": "23 Money & financials",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":9},\"to\":{\"line\":16,\"ch\":9}}}"
+                },
+                {
+                  "title": "Track Your Design Business",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Inputs/Track Your Design Business.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "710 Graphic Design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"+ Zettelkasten/700 Arts/710 Graphic Design\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "711 Typography",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography\"}}",
@@ -1444,7 +1474,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "+ Zettelkasten/700 Arts/710 Graphic Design"
+                "path": "20 Areas/Notes/Finance"
               }
             }
           }
@@ -1730,6 +1760,10 @@
   },
   "active": "d788cec64d185035",
   "lastOpenFiles": [
+    "20 Areas/Notes/Finance/My Subscriptions.md",
+    "20 Areas/Notes/Finance/My Expenses.md",
+    "20 Areas/23 Money & financials.md",
+    "00 Inputs/Track Your Design Business.md",
     "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/Serif and Sans-Serif are two main type of fonts.md",
     "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/Typography creates feeling.md",
     "+ Zettelkasten/Indexes/Webdesign.md",
@@ -1738,7 +1772,6 @@
     "+ Zettelkasten/Indexes/Life.md",
     "+ Zettelkasten/Indexes/Economy.md",
     "+ Zettelkasten/Indexes/Bitcoin.md",
-    "20 Areas/23 Money & financials.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs/22.02 Repairs.md",
     "20 Areas/🏡 House.md",
     "20 Areas/🏥 Health.md",
@@ -1765,9 +1798,6 @@
     "Tags",
     "10 Projects/10 Projects.md",
     "Vault.md",
-    "+ Zettelkasten/+ Zettelkasten.md",
-    "Calendar/02 Snar/21-5-2019.md",
-    "30 Resources/31 Web Design/31.04 Courses/Web Design 101/11.01 Web Design 101.md",
     "10 Projects/Notes/11.02 Web Design Masterclass",
     "30 Resources/31 Web Design",
     "30 Resources/31 Web Design/31.04 Courses",
