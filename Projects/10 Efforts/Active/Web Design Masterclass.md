@@ -19,5 +19,5 @@ tags:
 > ```dataview
 > TABLE WITHOUT ID
 > file.link as ""
-> FROM "10 Projects/Notes/Web Design Masterclass"
+> FROM "Projects/10 Efforts/Notes/Web Design Masterclass"
 > ```
