@@ -1164,6 +1164,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "🏡 House",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "22 House ",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Areas/22 House \"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Areas/22 House & Maintenance",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Areas/22 House & Maintenance\"}}",
@@ -1646,7 +1658,7 @@
                 {
                   "title": "2024-09 Praskla trubka u mamky",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/22 House /2024-09 Praskla trubka u mamky.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/22 House /2024-09 Praskla trubka u mamky.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":4}"
                 },
                 {
@@ -2131,8 +2143,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d788cec64d185035",
+  "active": "260dda07148ba078",
   "lastOpenFiles": [
+    "Areas/🏡 House.md",
     "Areas/23 Money.md",
     "Areas/Notes/Finance/My Subscriptions.md",
     "Areas/Notes/Finance/My Investments.md",
@@ -2159,7 +2172,6 @@
     "Areas/Notes/Politics/Ako EÚ smeruje do spoločnosti, kde budú podvádzať všetci-.md",
     "Areas/Notes/Family/Programovani pro decka.md",
     "Areas/Areas.md",
-    "10 Projects/11 Active/Client - janadolezelova.com.md",
     "_system/Attachments/Pasted image 20241002131409.png",
     "_system/Attachments/Pasted image 20241002130915.png",
     "_system/Attachments/Pasted image 20241002112433.png",
@@ -2176,7 +2188,7 @@
     "70 Library/31 Courses",
     "30 Resources/31 Web Design/31.04 Courses",
     "20 Areas/22 House & Maintenance/22.02 Repairs",
-    "Areas/22 House ",
+    "Areas/Notes/22 House ",
     "Areas/21 Me & Family",
     "70 Library",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",

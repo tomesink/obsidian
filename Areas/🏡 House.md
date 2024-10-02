@@ -16,6 +16,6 @@ created: 2024-08-13
 > ```dataview
 > TABLE WITHOUT ID
 >  file.link as ""
-> FROM "20 Areas/Notes/House"
+> FROM "Areas/Notes/22 House"
 > SORT rank desc
 > ```
