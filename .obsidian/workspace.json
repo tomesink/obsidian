@@ -50,7 +50,7 @@
                 {
                   "title": "7110.1.1 Purpose of typography in design",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/Web Design/Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 },
                 {
@@ -512,13 +512,13 @@
                 {
                   "title": "7110.1.1 Purpose of typography in design",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/Web Design/Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 },
                 {
                   "title": "7110.1.1a Serif",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/Serif and Sans-Serif are two main type of fonts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/Web Design/Serif and Sans-Serif are two main type of fonts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
@@ -530,13 +530,13 @@
                 {
                   "title": "7110.1.1a Serif",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/Serif and Sans-Serif are two main type of fonts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/Web Design/Serif and Sans-Serif are two main type of fonts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
                 },
                 {
                   "title": "7110.1.1 Purpose of typography in design",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/Web Design/Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":28},\"to\":{\"line\":22,\"ch\":28}}}"
                 },
                 {
@@ -554,7 +554,7 @@
                 {
                   "title": "7110.1.1a Serif",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/Serif and Sans-Serif are two main type of fonts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/Web Design/Serif and Sans-Serif are two main type of fonts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
@@ -1158,6 +1158,54 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Web Design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"+ Zettelkasten/700 Arts/Web Design\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "700 Arts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"+ Zettelkasten/700 Arts\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Web Design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"+ Zettelkasten/700 Arts/Web Design\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Typography creates feeling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/Web Design/Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Serif and Sans-Serif are two main type of fonts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/Web Design/Serif and Sans-Serif are two main type of fonts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "00 Inputs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"00 Inputs\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Typography creates feeling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/Web Design/Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Serif and Sans-Serif are two main type of fonts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/Web Design/Serif and Sans-Serif are two main type of fonts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
                   "title": "710 Graphic Design",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"+ Zettelkasten/700 Arts/710 Graphic Design\"}}",
@@ -1286,13 +1334,13 @@
                 {
                   "title": "Serif and Sans-Serif are two main type of fonts",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/Serif and Sans-Serif are two main type of fonts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/Web Design/Serif and Sans-Serif are two main type of fonts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
                   "title": "Typography creates feeling",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/Web Design/Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
@@ -1304,7 +1352,7 @@
                 {
                   "title": "Typography creates feeling",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/Web Design/Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":5}"
                 },
                 {
@@ -1502,13 +1550,13 @@
                 {
                   "title": "Serif and Sans-Serif are two main type of fonts",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/Serif and Sans-Serif are two main type of fonts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/Web Design/Serif and Sans-Serif are two main type of fonts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":8}"
                 },
                 {
                   "title": "Typography creates feeling",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/710 Graphic Design/Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/700 Arts/Web Design/Typography creates feeling.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 },
                 {
@@ -1564,7 +1612,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/Serif and Sans-Serif are two main type of fonts.md",
+                "file": "+ Zettelkasten/+About.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1709,7 +1757,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/Serif and Sans-Serif are two main type of fonts.md"
+                "file": "+ Zettelkasten/+About.md"
               }
             }
           },
@@ -1794,7 +1842,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/Serif and Sans-Serif are two main type of fonts.md",
+                "file": "+ Zettelkasten/+About.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1820,7 +1868,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/Serif and Sans-Serif are two main type of fonts.md",
+                "file": "+ Zettelkasten/+About.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1855,8 +1903,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "260dda07148ba078",
+  "active": "d788cec64d185035",
   "lastOpenFiles": [
+    "+ Zettelkasten/700 Arts/Web Design/Typography creates feeling.md",
+    "+ Zettelkasten/700 Arts/Web Design/Serif and Sans-Serif are two main type of fonts.md",
     "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711 Typography.md",
     "+ Zettelkasten/+About.md",
     "00 Inputs/Carl Menger.md",
@@ -1870,8 +1920,6 @@
     "20 Areas/Notes/Finance/My Subscriptions.md",
     "20 Areas/23 Money & financials.md",
     "00 Inputs/Track Your Design Business.md",
-    "+ Zettelkasten/700 Arts/710 Graphic Design/Serif and Sans-Serif are two main type of fonts.md",
-    "+ Zettelkasten/700 Arts/710 Graphic Design/Typography creates feeling.md",
     "+ Zettelkasten/Indexes/Webdesign.md",
     "+ Zettelkasten/Indexes/Philosophy.md",
     "+ Zettelkasten/Indexes/Math.md",

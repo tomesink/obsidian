@@ -6,6 +6,7 @@ topic:
   - "[[Webdesign]]"
 created: 2024-09-01
 tags:
+  - typography
 ---
 
 # Serif and Sans-Serif are two main type of fonts

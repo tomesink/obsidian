@@ -2,6 +2,8 @@
 created: 2024-09-13
 topic:
   - "[[Webdesign]]"
+tags:
+  - typography
 ---
 # Typography creates feeling
 
