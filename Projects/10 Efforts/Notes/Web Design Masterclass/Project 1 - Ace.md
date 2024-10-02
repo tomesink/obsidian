@@ -109,4 +109,6 @@ Feel free to customize (eg. saturate,, de-saturate) the colors. You do not have 
 
 ## Images
 
-You need to have consistent images. Stack photos are kind 
+You need to have consistent images. Stack photos are kind of limited in that sense.
+
+Matt advices t orefer
