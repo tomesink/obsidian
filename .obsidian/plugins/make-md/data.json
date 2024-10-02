@@ -58,7 +58,10 @@
     "//20 Areas",
     "//20 Areas/20 Areas/22 House & Maintenance",
     "//20 Areas/20 Areas/22 House & Maintenance/20 Areas/22 House & Maintenance/22.02 Repairs",
-    "//20 Areas/20 Areas/Notes"
+    "//20 Areas/20 Areas/Notes",
+    "//00 Inputs",
+    "//+ Zettelkasten",
+    "//+ Zettelkasten/+ Zettelkasten/Indexes"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
