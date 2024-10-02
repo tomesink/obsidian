@@ -1158,6 +1158,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "🏡 House",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":8.645833333333334}"
+                },
+                {
+                  "title": "Learning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.9257142857142857}"
+                },
+                {
+                  "title": "2024-09 Praskla trubka u mamky",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":4}"
+                },
+                {
+                  "title": "Project 1 - Ace",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":111,\"ch\":0},\"to\":{\"line\":111,\"ch\":0}},\"scroll\":101.34803675856307}"
+                },
+                {
                   "title": "Fundamentals",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1342,7 +1366,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
+                "file": "20 Areas/🏥 Health.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1487,7 +1511,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md"
+                "file": "20 Areas/🏥 Health.md"
               }
             }
           },
@@ -1572,7 +1596,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
+                "file": "20 Areas/🏥 Health.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1598,7 +1622,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
+                "file": "20 Areas/🏥 Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1633,8 +1657,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "260dda07148ba078",
+  "active": "d788cec64d185035",
   "lastOpenFiles": [
+    "20 Areas/🏡 House.md",
+    "20 Areas/Learning.md",
+    "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
+    "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
     "30 Resources/31 Web Design/31.04 Courses/31.04 Courses.md",
     "_system/Attachments/Pasted image 20241002131409.png",
     "_system/Attachments/Pasted image 20241002130915.png",
@@ -1647,7 +1675,6 @@
     "_system/Attachments/Pasted image 20241001121511.png",
     "_system/Attachments/Pasted image 20241001112612.png",
     "10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md",
-    "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "10 Projects/11 Active/11.02 Web Design Masterclass.md",
     "10 Projects/11 Active/11.03 Client - janadolezelova.com.md",
@@ -1673,9 +1700,6 @@
     "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Day 3 - Structure & Wireframes for your website.md",
     "10 Projects/19 Archive/19.00 Archive.md",
     "40 Calendar/32 Weekly Notes/Week 37 2024-05.md",
-    "Calendar/02 Snar/2024-08-15.md",
-    "30 Resources/31 Web Design/31.04 Courses/Web Design 101/Episode 18 - The Key 3 Psychology Principles for Web Design.md",
-    "30 Resources/31 Web Design/31.04 Courses/Web Design 101/Episode 7 - Colors.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs",
     "20 Areas/22 House & Maintenance",
     "20 Areas/21 Me & Family",
