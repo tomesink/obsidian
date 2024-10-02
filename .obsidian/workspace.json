@@ -56,7 +56,7 @@
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
@@ -290,7 +290,7 @@
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":12},\"to\":{\"line\":10,\"ch\":12}},\"scroll\":8}"
                 },
                 {
@@ -650,7 +650,7 @@
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/💰 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":18.355239786856128}"
                 },
                 {
@@ -1161,7 +1161,7 @@
                   "title": "🏡 House",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/🏡 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":8.645833333333334}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
                 },
                 {
                   "title": "Learning",
@@ -1366,7 +1366,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Areas/🏥 Health.md",
+                "file": "20 Areas/23 Money & financials.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1511,7 +1511,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Areas/🏥 Health.md"
+                "file": "20 Areas/23 Money & financials.md"
               }
             }
           },
@@ -1596,7 +1596,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Areas/🏥 Health.md",
+                "file": "20 Areas/23 Money & financials.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1622,7 +1622,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Areas/🏥 Health.md",
+                "file": "20 Areas/23 Money & financials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1657,9 +1657,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d788cec64d185035",
+  "active": "260dda07148ba078",
   "lastOpenFiles": [
     "20 Areas/🏡 House.md",
+    "20 Areas/🏥 Health.md",
     "20 Areas/Learning.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
     "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
@@ -1699,7 +1700,6 @@
     "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Day 4 - Design.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Day 3 - Structure & Wireframes for your website.md",
     "10 Projects/19 Archive/19.00 Archive.md",
-    "40 Calendar/32 Weekly Notes/Week 37 2024-05.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs",
     "20 Areas/22 House & Maintenance",
     "20 Areas/21 Me & Family",
