@@ -63,9 +63,8 @@
     "//30 Resources",
     "//20 Areas",
     "//Areas/Areas/21 Me & Family",
-    "//Areas/Areas/Notes",
     "//Areas",
-    "//Areas/Areas/22 House & Maintenance"
+    "//Areas/Areas/Notes"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

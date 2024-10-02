@@ -1158,6 +1158,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "22 House ",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Areas/22 House \"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Areas/22 House & Maintenance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Areas/22 House & Maintenance\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "23 Money",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
                   "title": "My Subscriptions",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Finance/My Subscriptions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1518,7 +1536,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":7},\"to\":{\"line\":13,\"ch\":7}}}"
                 },
                 {
-                  "title": "23 Money & financials",
+                  "title": "23 Money",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":9},\"to\":{\"line\":16,\"ch\":9}}}"
@@ -1608,7 +1626,7 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "23 Money & financials",
+                  "title": "23 Money",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":8}"
@@ -1628,7 +1646,7 @@
                 {
                   "title": "2024-09 Praskla trubka u mamky",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/22 House & Maintenance/2024-09 Praskla trubka u mamky.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/22 House /2024-09 Praskla trubka u mamky.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":4}"
                 },
                 {
@@ -1822,7 +1840,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/23 Money.md",
+                "file": "Areas/🏡 House.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1967,7 +1985,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/23 Money.md"
+                "file": "Areas/🏡 House.md"
               }
             }
           },
@@ -2052,7 +2070,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/23 Money.md",
+                "file": "Areas/🏡 House.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -2078,7 +2096,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/23 Money.md",
+                "file": "Areas/🏡 House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -2113,8 +2131,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "260dda07148ba078",
+  "active": "d788cec64d185035",
   "lastOpenFiles": [
+    "Areas/23 Money.md",
     "Areas/Notes/Finance/My Subscriptions.md",
     "Areas/Notes/Finance/My Investments.md",
     "Areas/Notes/Finance/My Expenses.md",
@@ -2141,7 +2160,6 @@
     "Areas/Notes/Family/Programovani pro decka.md",
     "Areas/Areas.md",
     "10 Projects/11 Active/Client - janadolezelova.com.md",
-    "10 Projects/11 Active/Web Design Masterclass.md",
     "_system/Attachments/Pasted image 20241002131409.png",
     "_system/Attachments/Pasted image 20241002130915.png",
     "_system/Attachments/Pasted image 20241002112433.png",
@@ -2158,7 +2176,7 @@
     "70 Library/31 Courses",
     "30 Resources/31 Web Design/31.04 Courses",
     "20 Areas/22 House & Maintenance/22.02 Repairs",
-    "Areas/22 House & Maintenance",
+    "Areas/22 House ",
     "Areas/21 Me & Family",
     "70 Library",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
