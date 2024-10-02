@@ -86,3 +86,5 @@ He chooses sans-serif for body.
 
 Do not spend too much time on font. Do not let choosing fonts block your progress.
 
+Matt uses WhatFont extension [WhatFont - Chrome Web Store](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+
