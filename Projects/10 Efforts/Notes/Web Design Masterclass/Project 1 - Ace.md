@@ -118,4 +118,6 @@ Write down what kind of imagery you need for each section/feature:
 ![[Pasted image 20241002164614.png|350]]
 
 Matt uses [DEATH TO STOCK® - Access our trending visual universe](https://www.deathtothestockphoto.com/)
+alternatively also [Free Stock Photos, Royalty Free Stock Images & Copyright Free Pictures · Pexels](https://www.pexels.com/)
+
 
