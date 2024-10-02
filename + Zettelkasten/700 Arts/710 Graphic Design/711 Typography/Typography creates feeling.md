@@ -3,7 +3,7 @@ created: 2024-09-13
 topic:
   - "[[Webdesign]]"
 ---
-# 711.1.1 Typography creates feeling
+# Typography creates feeling
 
 Words are powerful that's why text is important.
 

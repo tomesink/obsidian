@@ -7,7 +7,7 @@ topic:
 created: 2024-09-01
 ---
 
-# 711.1.2 Serif and Sans-Serif are two main type of fonts
+# Serif and Sans-Serif are two main type of fonts
 
 Main types of fonts are Serif and Sans-Serif.
 
