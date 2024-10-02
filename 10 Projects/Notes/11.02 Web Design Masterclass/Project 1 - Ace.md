@@ -76,3 +76,4 @@ Now it's the time to look at some web inspirations.
 
 Matt uses [Godly — Astronomically good web design inspiration](https://godly.website/)
 
+Take screenshots, search based on th
