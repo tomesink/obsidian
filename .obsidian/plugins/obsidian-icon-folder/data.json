@@ -51,9 +51,9 @@
   "Areas/Me & family.md": "🙋‍♂️",
   "Areas/Prayers.md": "✝",
   "Areas/Notes/Business": "LiLaptop",
-  "Projects/10 Me": "LiWorkflow",
   "Resources/70 Library": "LiPenBox",
   "00 Inputs/Calendar": "LiCalendar",
-  "Projects/10 Me/Active": "🔥",
-  "Projects/10 Me/Simmering": "〰"
+  "Projects/10 Efforts": "LiWorkflow",
+  "Projects/10 Efforts/Active": "🔥",
+  "Projects/10 Efforts/Simmering": "〰"
 }
