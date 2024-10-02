@@ -60,7 +60,7 @@ Matt do not want to overwhelm himself by going into the web because there is a c
 
 It is better to have a moodboard providing us some visual direction 
 
-![[Pasted image 20241002111840.png]]
+![[Pasted image 20241002111840.png|350]]
 
-
+and figure out the web by ourselves.
 
