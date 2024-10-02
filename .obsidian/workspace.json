@@ -1158,6 +1158,54 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Image",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Web/Webflow/Image.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Element over Image",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Web/Webflow/Element over Image.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Custom Slider Arrows",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Web/Webflow/Custom Slider Arrows.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Auto Height",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Web/Webflow/Auto Height.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Webflow",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Areas/Notes/Web/Webflow\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fonty",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Web/Fonty.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Decka",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Family/Decka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Velká čistka v USA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Politics/Velká čistka v USA.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Zdravotnictvi",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Politics/Zdravotnictvi.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1730,12 +1778,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Areas/Notes/Politics/Velká čistka v USA.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "path": "Areas/Notes/Web/HTML"
               }
             }
           }
@@ -1876,9 +1921,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Areas/Notes/Politics/Velká čistka v USA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -1962,7 +2005,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Notes/Politics/Velká čistka v USA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1988,7 +2030,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Notes/Politics/Velká čistka v USA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -2025,6 +2066,16 @@
   },
   "active": "d788cec64d185035",
   "lastOpenFiles": [
+    "Areas/Notes/Web/Webflow/Image.md",
+    "Areas/Notes/Web/Webflow/Element over Image.md",
+    "Areas/Notes/Web/Webflow/Custom Slider Arrows.md",
+    "Areas/Notes/Web/Webflow/Auto Height.md",
+    "Areas/Notes/Web/Fonty.md",
+    "Areas/Notes/Family/Decka.md",
+    "Areas/Notes/Politics/Velká čistka v USA.md",
+    "Areas/Notes/Notes.md",
+    "90 Archive/90 Archive.md",
+    "90 Archive",
     "Areas/Notes/Politics/Zdravotnictvi.md",
     "Areas/Notes/Politics/Soukromi.md",
     "Areas/Notes/Politics/Svoboda slova.md",
@@ -2034,7 +2085,6 @@
     "Areas/Notes/Politics/Dane.md",
     "Areas/Notes/Politics/Ako EÚ smeruje do spoločnosti, kde budú podvádzať všetci-.md",
     "Areas/Notes/Family/Programovani pro decka.md",
-    "Areas/Notes/Family/Decka.md",
     "Areas/Areas.md",
     "10 Projects/11 Active/Client - janadolezelova.com.md",
     "10 Projects/11 Active/Web Design Masterclass.md",
@@ -2043,14 +2093,6 @@
     "+ Zettelkasten/700 Arts/Web Design/Typography creates feeling.md",
     "+ Zettelkasten/700 Arts/Web Design/Serif and Sans-Serif are two main type of fonts.md",
     "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711 Typography.md",
-    "00 Inputs/Carl Menger.md",
-    "00 Inputs/bookmarks_05_09_2024.md",
-    "30 Resources/31 Web Design/31.04 Courses/31.04 Courses.md",
-    "70 Library/31 Courses/Course - Web Design For Beginners 2024/Course - Web Design For Beginners 2024.md",
-    "Areas/🏡 House.md",
-    "Areas/Prayers.md",
-    "Areas/Notes/Finance/My Investments.md",
-    "Areas/Notes/Finance/My Expenses.md",
     "_system/Attachments/Pasted image 20241002131409.png",
     "_system/Attachments/Pasted image 20241002130915.png",
     "_system/Attachments/Pasted image 20241002112433.png",
@@ -2070,7 +2112,6 @@
     "Areas/22 House & Maintenance",
     "Areas/21 Me & Family",
     "70 Library",
-    "10 Projects/19 Archive",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",

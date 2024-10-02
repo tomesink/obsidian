@@ -65,7 +65,8 @@
     "//Areas/Areas/Notes/Areas/Notes/Family",
     "//Areas/Areas/21 Me & Family",
     "//Areas/Areas/Notes",
-    "//Areas/Areas/Notes/Areas/Notes/z_archive"
+    "//Areas",
+    "//Areas/Areas/Notes/Areas/Notes/Politics"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
