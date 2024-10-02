@@ -62,7 +62,9 @@
     "//10 Projects/10 Projects/19 Archive",
     "//30 Resources",
     "//20 Areas",
-    "//Areas"
+    "//Areas",
+    "//Areas/Areas/Notes",
+    "//Areas/Areas/Notes/Areas/Notes/Family"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

@@ -48,7 +48,6 @@
   "00 Inputs": "LiInbox",
   "Views": "LiEye",
   "10 Projects": "LiWorkflow",
-  "30 Resources": "LiPenBox",
   "Calendar": "LiCalendar",
   "10 Projects/12 Simmering": "〰",
   "10 Projects/11 Active": "🔥",
@@ -56,5 +55,6 @@
   "Areas/Learning.md": "LiGraduationCap",
   "Areas/Me & family.md": "🙋‍♂️",
   "Areas/Prayers.md": "✝",
-  "Areas/Notes/Business": "LiLaptop"
+  "Areas/Notes/Business": "LiLaptop",
+  "70 Library": "LiPenBox"
 }
