@@ -976,7 +976,7 @@
                 {
                   "title": "Fundamentals",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":15.903581372287272}"
                 },
                 {
@@ -988,7 +988,7 @@
                 {
                   "title": "Fundamentals",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -1140,7 +1140,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md",
+                "file": "10 Projects/Notes/Web Design Masterclass/Fundamentals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -1156,6 +1156,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Web Design Masterclass",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"10 Projects/Notes/Web Design Masterclass\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "10 Projects/Notes/11.02 Web Design Masterclass",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"10 Projects/Notes/11.02 Web Design Masterclass\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "+About",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/+About.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":45.819912513092234}"
                 },
                 {
                   "title": "Web Design",
@@ -1424,19 +1442,19 @@
                 {
                   "title": "Project 1 - Ace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":111,\"ch\":0},\"to\":{\"line\":111,\"ch\":0}},\"scroll\":101.34803675856307}"
                 },
                 {
                   "title": "Fundamentals",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":0},\"to\":{\"line\":60,\"ch\":0}},\"scroll\":50.08984375}"
                 },
                 {
                   "title": "Project 1 - Ace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 },
                 {
@@ -1478,7 +1496,7 @@
                 {
                   "title": "Project 1 - Ace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -1496,7 +1514,7 @@
                 {
                   "title": "Project 1 - Ace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":300},\"to\":{\"line\":4,\"ch\":300}}}"
                 },
                 {
@@ -1508,7 +1526,7 @@
                 {
                   "title": "Fundamentals",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":279,\"ch\":171},\"to\":{\"line\":279,\"ch\":171}},\"scroll\":0}"
                 },
                 {
@@ -1580,7 +1598,7 @@
                 {
                   "title": "Fundamentals",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/Notes/Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -1612,7 +1630,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Zettelkasten/+About.md",
+                "file": "10 Projects/19 Archive/19.00 Archive.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1757,7 +1775,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Zettelkasten/+About.md"
+                "file": "10 Projects/19 Archive/19.00 Archive.md"
               }
             }
           },
@@ -1842,7 +1860,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Zettelkasten/+About.md",
+                "file": "10 Projects/19 Archive/19.00 Archive.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1868,7 +1886,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Zettelkasten/+About.md",
+                "file": "10 Projects/19 Archive/19.00 Archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1903,12 +1921,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "260dda07148ba078",
+  "active": "d788cec64d185035",
   "lastOpenFiles": [
+    "+ Zettelkasten/+About.md",
     "+ Zettelkasten/700 Arts/Web Design/Typography creates feeling.md",
     "+ Zettelkasten/700 Arts/Web Design/Serif and Sans-Serif are two main type of fonts.md",
     "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711 Typography.md",
-    "+ Zettelkasten/+About.md",
     "00 Inputs/Carl Menger.md",
     "00 Inputs/bookmarks_05_09_2024.md",
     "30 Resources/31 Web Design/31.04 Courses/31.04 Courses.md",
@@ -1930,7 +1948,7 @@
     "20 Areas/🏥 Health.md",
     "20 Areas/Learning.md",
     "20 Areas/22 House & Maintenance/2024-09 Praskla trubka u mamky.md",
-    "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
+    "10 Projects/Notes/Web Design Masterclass/Project 1 - Ace.md",
     "_system/Attachments/Pasted image 20241002131409.png",
     "_system/Attachments/Pasted image 20241002130915.png",
     "_system/Attachments/Pasted image 20241002112433.png",
@@ -1943,7 +1961,7 @@
     "_system/Attachments/Pasted image 20241001112612.png",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "Tags",
-    "10 Projects/Notes/11.02 Web Design Masterclass",
+    "10 Projects/Notes/Web Design Masterclass",
     "30 Resources/31 Web Design",
     "30 Resources/31 Web Design/31.04 Courses",
     "20 Areas/22 House & Maintenance/22.02 Repairs",
