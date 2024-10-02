@@ -80,4 +80,6 @@ Take screenshots, search based on the keyword.
 
 ## Fonts
 
-Matt searches for big bol
+Matt searches for big bold unique fonts (could be serifs) for headlines.
+
+He chooses sans-serif for body.
