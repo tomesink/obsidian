@@ -1870,6 +1870,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Simmering",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/10 Efforts/Simmering\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "10 Efforts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/10 Efforts\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "+ Zettelkasten",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"+ Zettelkasten\"}}",
@@ -1986,15 +1998,18 @@
                 {
                   "title": "Zbrane Kontrola",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Inputs/Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Projects/10 Efforts"
+                "file": "Projects/10 Efforts/Active/Zbrane Kontrola.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -2135,7 +2150,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/10 Efforts/Active/Zbrane Kontrola.md"
+              }
             }
           },
           {
@@ -2219,6 +2236,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/10 Efforts/Active/Zbrane Kontrola.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -2244,6 +2262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/10 Efforts/Active/Zbrane Kontrola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -2278,8 +2297,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "260dda07148ba078",
+  "active": "934aebca44b0052e",
   "lastOpenFiles": [
+    "Projects/10 Efforts/Simmering/Simmering.md",
+    "00 Inputs/00 Inputs.md",
     "Projects/10 Efforts/10 Efforts.md",
     "Resources/70 Library/71 Webdesign/Design Systems in Figma.md",
     "+ Zettelkasten/+ Zettelkasten.md",
@@ -2287,11 +2308,10 @@
     "Archive/Archive.md",
     "Vault.md",
     "Resources/Resources.md",
-    "Projects/10 Efforts/Simmering/Simmering.md",
     "Projects/11 Clients/Client - janadolezelova.com.md",
     "Projects/10 Efforts/Active/Active.md",
     "Archive/90 Archive/90 Archive.md",
-    "00 Inputs/Zbrane Kontrola.md",
+    "Projects/10 Efforts/Active/Zbrane Kontrola.md",
     "Archive",
     "Resources",
     "Projects/Projects.md",
