@@ -54,7 +54,11 @@ Use Pinterest.
 
 Matt uses Figma as a moodboard.
 
-In this moodboarding/visual/color finding phase Matt is not looking for web site inspirations.  He looks at visual purely. There is already lots of visual inspirations. Matt do not want to overwhelm himself by gooi
+In this moodboarding/visual/color finding phase Matt is not looking for web site inspirations.  He looks at visual purely. There is already lots of visual inspirations. 
+
+Matt do not want to overwhelm himself by going into the web because there is a chance to find a website I like and a danger to fall into a trap of copying
+
+
 
 
 
