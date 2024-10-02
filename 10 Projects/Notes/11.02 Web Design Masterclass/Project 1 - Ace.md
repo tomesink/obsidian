@@ -83,3 +83,6 @@ Take screenshots, search based on the keyword.
 Matt searches for big bold unique fonts (could be serifs) for headlines.
 
 He chooses sans-serif for body.
+
+Do not spend too much time on font. Do not let choosing fonts block your progress.
+
