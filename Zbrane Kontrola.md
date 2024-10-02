@@ -13,7 +13,7 @@ Bude potreba:
 - Vnitrni predpis + dodatky
 - Plna moc od Richarda
 
-Kontakt - +420 606 828 034 - 
+Kontakt: +420 606 828 034 - Ptat se po pani Novakove z odboru zbrani
 
 ___
 #### Sources:
