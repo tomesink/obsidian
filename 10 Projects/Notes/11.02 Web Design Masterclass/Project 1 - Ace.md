@@ -46,7 +46,9 @@ Something like this:
 
 ## Inspiration
 
-LOOK FOR KEYW
+Look for keywords in the project brief.
+
+
 
 
 
