@@ -1172,7 +1172,7 @@
                 {
                   "title": "2024-09 Praskla trubka u mamky",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/22 House & Maintenance/2024-09 Praskla trubka u mamky.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":4}"
                 },
                 {
@@ -1659,10 +1659,11 @@
   },
   "active": "260dda07148ba078",
   "lastOpenFiles": [
+    "20 Areas/22 House & Maintenance/22.02 Repairs/22.02 Repairs.md",
     "20 Areas/🏡 House.md",
     "20 Areas/🏥 Health.md",
     "20 Areas/Learning.md",
-    "20 Areas/22 House & Maintenance/22.02 Repairs/2024-09 Praskla trubka u mamky.md",
+    "20 Areas/22 House & Maintenance/2024-09 Praskla trubka u mamky.md",
     "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
     "30 Resources/31 Web Design/31.04 Courses/31.04 Courses.md",
     "_system/Attachments/Pasted image 20241002131409.png",
@@ -1699,7 +1700,6 @@
     "30 Resources/31 Web Design/31.04 Courses",
     "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Day 4 - Design.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Day 3 - Structure & Wireframes for your website.md",
-    "10 Projects/19 Archive/19.00 Archive.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs",
     "20 Areas/22 House & Maintenance",
     "20 Areas/21 Me & Family",
