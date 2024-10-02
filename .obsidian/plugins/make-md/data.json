@@ -48,7 +48,6 @@
     "+ Zettelkasten",
     "+ Zettelkasten/+ Zettelkasten/700 Arts/+ Zettelkasten/700 Arts/710 Graphic Design",
     "+ Zettelkasten/+ Zettelkasten/700 Arts/+ Zettelkasten/700 Arts/710 Graphic Design/+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography",
-    "/",
     "//10 Projects/10 Projects/11 Now",
     "//10 Projects/10 Projects/Notes/10 Projects/Notes/11.02 Web Design Masterclass",
     "//20 Areas/20 Areas/22 House & Maintenance/20 Areas/22 House & Maintenance/22.02 Repairs",
@@ -71,7 +70,7 @@
     "//Projects/Projects/10 Me/Projects/10 Me/12 Simmering",
     "//90 Archive",
     "//Projects/Projects/10 Me",
-    "//Resources"
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
