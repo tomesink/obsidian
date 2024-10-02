@@ -93,3 +93,7 @@ Matt uses [Pangram Pangram Foundry — Free to Try Quality Fonts and Typefaces](
 
 Adobe fonts for serifs. [Search fonts | Adobe Fonts](https://fonts.adobe.com/fonts) 
 
+Serif fonts not suited for buttons.
+
+Try to find 2-4 fonts for Headings and 2-4 fonts for body and try to combine them to see if they fit"
+
