@@ -1158,6 +1158,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Prayers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Prayers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "House",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"20 Areas/Notes/House\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "My Investments",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Finance/My Investments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "My Expenses",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Finance/My Expenses.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Finance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"20 Areas/Notes/Finance\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "My Subscriptions",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Notes/Finance/My Subscriptions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1472,9 +1502,12 @@
               ]
             },
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "20 Areas/Notes/Finance"
+                "file": "20 Areas/🏡 House.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -1615,7 +1648,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20 Areas/🏡 House.md"
+              }
             }
           },
           {
@@ -1699,6 +1734,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20 Areas/🏡 House.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1724,6 +1760,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20 Areas/🏡 House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1760,8 +1797,10 @@
   },
   "active": "d788cec64d185035",
   "lastOpenFiles": [
-    "20 Areas/Notes/Finance/My Subscriptions.md",
+    "20 Areas/Prayers.md",
+    "20 Areas/Notes/Finance/My Investments.md",
     "20 Areas/Notes/Finance/My Expenses.md",
+    "20 Areas/Notes/Finance/My Subscriptions.md",
     "20 Areas/23 Money & financials.md",
     "00 Inputs/Track Your Design Business.md",
     "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/Serif and Sans-Serif are two main type of fonts.md",
@@ -1796,8 +1835,6 @@
     "10 Projects/11 Active/11 Active.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Web Design For Beginners 2024.md",
     "Tags",
-    "10 Projects/10 Projects.md",
-    "Vault.md",
     "10 Projects/Notes/11.02 Web Design Masterclass",
     "30 Resources/31 Web Design",
     "30 Resources/31 Web Design/31.04 Courses",
