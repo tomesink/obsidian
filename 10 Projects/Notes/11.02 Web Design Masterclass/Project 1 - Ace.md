@@ -90,3 +90,6 @@ Matt uses WhatFont extension [WhatFont - Chrome Web Store](https://chromewebstor
 
 Matt uses [Pangram Pangram Foundry — Free to Try Quality Fonts and Typefaces](https://pangrampangram.com/) to get Fonts.
 
+
+Adobe fonts for serifs. [Search fonts | Adobe Fonts](https://fonts.adobe.com/fonts) 
+
