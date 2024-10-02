@@ -58,7 +58,9 @@ In this moodboarding/visual/color finding phase Matt is not looking for web site
 
 Matt do not want to overwhelm himself by going into the web because there is a chance to find a website I like and a danger to fall into a trap of copying too much from it.
 
+It is better to have a moodboard providing us some visual direction 
 
+![[Pasted image 20241002111840.png]]
 
 
 
