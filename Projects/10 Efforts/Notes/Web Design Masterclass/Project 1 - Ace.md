@@ -113,6 +113,6 @@ You need to have consistent images. Stack photos are kind of limited in that sen
 
 Matt advice is to refer to the Wireframe.
 
-Write down what kind of imagery you need for each section:
+Write down what kind of imagery you need for each section/feature:
 
 ![[Pasted image 20241002164614.png|350]]
