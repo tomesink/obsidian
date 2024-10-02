@@ -111,4 +111,5 @@ Feel free to customize (eg. saturate,, de-saturate) the colors. You do not have 
 
 You need to have consistent images. Stack photos are kind of limited in that sense.
 
-Matt advices t orefer
+Matt advice is to refer to the Wireframe.
+
