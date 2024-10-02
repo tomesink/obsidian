@@ -72,7 +72,11 @@
     "//Projects/Projects/10 Me/Projects/10 Me/12 Simmering",
     "//Archive",
     "//90 Archive",
-    "//Projects"
+    "//Projects",
+    "//Projects/Projects/10 Me/Projects/10 Me/Active",
+    "//Resources",
+    "//Resources/Resources/70 Library",
+    "//Projects/Projects/11 Clients"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

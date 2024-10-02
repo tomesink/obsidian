@@ -44,7 +44,7 @@
                 {
                   "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/10 Me/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -74,7 +74,7 @@
                 {
                   "title": "11.02 Design System",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Active/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
@@ -86,7 +86,7 @@
                 {
                   "title": "11.02 Design System",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Active/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
@@ -110,31 +110,31 @@
                 {
                   "title": "11.02 Design System",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Active/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
                   "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/10 Me/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
                   "title": "11.02 Design System",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Active/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
                   "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/10 Me/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
                   "title": "CSS layout & positioning",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/12 Simmering/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Simmering/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
@@ -164,7 +164,7 @@
                 {
                   "title": "11.02 Design System",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Active/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
@@ -176,13 +176,13 @@
                 {
                   "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/10 Me/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
                   "title": "Stockpicking",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/12 Simmering/Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Simmering/Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
@@ -194,7 +194,7 @@
                 {
                   "title": "CSS layout & positioning",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/12 Simmering/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Simmering/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
@@ -206,7 +206,7 @@
                 {
                   "title": "11.02 Design System",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Active/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
@@ -224,13 +224,13 @@
                 {
                   "title": "Stockpicking",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/12 Simmering/Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Simmering/Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
                   "title": "CSS layout & positioning",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/12 Simmering/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Simmering/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
@@ -242,31 +242,31 @@
                 {
                   "title": "11.02 Design System",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Active/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
                   "title": "CSS layout & positioning",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/12 Simmering/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Simmering/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
                   "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/10 Me/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
                   "title": "Stockpicking",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/12 Simmering/Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Simmering/Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
                   "title": "11.02 Design System",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Active/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":13},\"to\":{\"line\":20,\"ch\":13}},\"scroll\":14}"
                 },
                 {
@@ -356,7 +356,7 @@
                 {
                   "title": "Stockpicking",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/12 Simmering/Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Simmering/Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
@@ -368,7 +368,7 @@
                 {
                   "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/10 Me/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -380,7 +380,7 @@
                 {
                   "title": "11.01 Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/10 Me/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -392,7 +392,7 @@
                 {
                   "title": "11.02 Design System",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Active/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
                 },
                 {
@@ -844,7 +844,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10 Me/Active/Design Systems in Figma.md",
+                "file": "Resources/70 Library/71 Webdesign/Design Systems in Figma.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -870,7 +870,7 @@
                 {
                   "title": "11.02 Design System",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Active/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":169,\"ch\":106},\"to\":{\"line\":169,\"ch\":106}},\"scroll\":162.830988228853}"
                 },
                 {
@@ -882,7 +882,7 @@
                 {
                   "title": "11.02 Design System",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Active/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":0},\"to\":{\"line\":78,\"ch\":0}},\"scroll\":14.41388867503272}"
                 },
                 {
@@ -928,13 +928,13 @@
                 {
                   "title": "Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/10 Me/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
                   "title": "Design Systems in Figma",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Active/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
@@ -952,13 +952,13 @@
                 {
                   "title": "Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/10 Me/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
                   "title": "Design Systems in Figma",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Active/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
@@ -1024,7 +1024,7 @@
                 {
                   "title": "Design Systems in Figma",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Me/Active/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":24.232096354166668}"
                 },
                 {
@@ -1370,7 +1370,7 @@
                 {
                   "title": "Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/10 Me/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -1694,7 +1694,7 @@
                 {
                   "title": "Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/10 Me/Active/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -1870,6 +1870,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Client - janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Design Systems in Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":19.87109375}"
+                },
+                {
+                  "title": "Simmering",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/10 Me/Simmering\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Projects/10 Me/12 Simmering",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/10 Me/12 Simmering\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Active",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/10 Me/Active\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "11 Active",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/10 Me/11 Active\"}}",
@@ -1928,7 +1958,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Projects/10 Me/Active"
+                "path": "Projects/11 Clients/janadolezelova.com"
               }
             }
           }
@@ -2214,6 +2244,8 @@
   },
   "active": "260dda07148ba078",
   "lastOpenFiles": [
+    "Projects/11 Clients/Client - janadolezelova.com.md",
+    "Resources/70 Library/71 Webdesign/Design Systems in Figma.md",
     "Projects/10 Me/Active/Active.md",
     "Archive/90 Archive/90 Archive.md",
     "Projects/10 Me/10 Me.md",
@@ -2242,8 +2274,6 @@
     "Areas/Notes/Notes.md",
     "Archive/90 Archive",
     "Areas/Notes/Politics/Zdravotnictvi.md",
-    "Areas/Notes/Politics/Svoboda slova.md",
-    "Areas/Notes/Politics/Same sex parenting.md",
     "_system/Attachments/Pasted image 20241002131409.png",
     "_system/Attachments/Pasted image 20241002130915.png",
     "_system/Attachments/Pasted image 20241002112433.png",
