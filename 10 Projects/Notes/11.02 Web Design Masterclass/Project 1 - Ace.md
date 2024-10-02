@@ -50,6 +50,8 @@ Look for keywords in the project brief.
 
 ![[Pasted image 20241002110301.png|350]]
 
+### Moodboard
+
 Use Pinterest.
 
 Matt uses Figma as a moodboard.
@@ -68,3 +70,8 @@ Look for patterns in the moodboard, similar pictures, color palettes and sort/gr
 
 ![[Pasted image 20241002112433.png]]
 
+### Web pages
+
+Now it's the time to look at some web inspirations.
+
+Matt uses
