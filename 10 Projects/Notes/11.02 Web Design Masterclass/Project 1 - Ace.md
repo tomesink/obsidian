@@ -99,3 +99,8 @@ Try to find 2-4 fonts for Headings and 2-4 fonts for body and try to combine the
 
 ![[Pasted image 20241002130915.png|350]]
 
+## Colors
+
+From the moodboard, use the eyedrop tool and create several palettes of 2 colors:
+
+![[Pasted image 20241002131409.png]]
