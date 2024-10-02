@@ -70,8 +70,8 @@
     "//10 Me/10 Me/Clients",
     "//Projects/Projects/10 Me/Projects/10 Me/12 Simmering",
     "//90 Archive",
-    "//Resources/Resources/70 Library",
-    "//Projects/Projects/10 Me"
+    "//Projects/Projects/10 Me",
+    "//Resources"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

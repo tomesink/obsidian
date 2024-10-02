@@ -44,16 +44,16 @@
     "debugMode": false
   },
   "_system": "LiTerminal",
-  "+ Zettelkasten": "LiSheetsInBox",
   "00 Inputs": "LiInbox",
   "Areas": "LiRecycle",
   "Areas/Learning.md": "LiGraduationCap",
   "Areas/Me & family.md": "🙋‍♂️",
   "Areas/Prayers.md": "✝",
   "Areas/Notes/Business": "LiLaptop",
-  "Resources/70 Library": "LiPenBox",
   "00 Inputs/Calendar": "LiCalendar",
   "Projects/10 Efforts": "LiWorkflow",
   "Projects/10 Efforts/Active": "🔥",
-  "Projects/10 Efforts/Simmering": "〰"
+  "Projects/10 Efforts/Simmering": "〰",
+  "Resources/+ Zettelkasten": "LiSheetsInBox",
+  "70 Library": "LiPenBox"
 }
