@@ -1858,9 +1858,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "934aebca44b0052e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zbrane Kontrola.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -1997,7 +2019,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/🏡 House.md"
+                "file": "Zbrane Kontrola.md"
               }
             }
           },
@@ -2082,7 +2104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/🏡 House.md",
+                "file": "Zbrane Kontrola.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -2108,7 +2130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/🏡 House.md",
+                "file": "Zbrane Kontrola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -2143,9 +2165,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d788cec64d185035",
+  "active": "934aebca44b0052e",
   "lastOpenFiles": [
     "Areas/🏡 House.md",
+    "Zbrane Kontrola.md",
     "Areas/23 Money.md",
     "Areas/Notes/Finance/My Subscriptions.md",
     "Areas/Notes/Finance/My Investments.md",
@@ -2171,7 +2194,6 @@
     "Areas/Notes/Politics/Dane.md",
     "Areas/Notes/Politics/Ako EÚ smeruje do spoločnosti, kde budú podvádzať všetci-.md",
     "Areas/Notes/Family/Programovani pro decka.md",
-    "Areas/Areas.md",
     "_system/Attachments/Pasted image 20241002131409.png",
     "_system/Attachments/Pasted image 20241002130915.png",
     "_system/Attachments/Pasted image 20241002112433.png",
