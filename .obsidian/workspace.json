@@ -56,7 +56,7 @@
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
@@ -290,7 +290,7 @@
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":12},\"to\":{\"line\":10,\"ch\":12}},\"scroll\":8}"
                 },
                 {
@@ -650,7 +650,7 @@
                 {
                   "title": "💰 Finance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":18.355239786856128}"
                 },
                 {
@@ -1158,6 +1158,48 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "My Subscriptions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Finance/My Subscriptions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "My Investments",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Finance/My Investments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "My Expenses",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Finance/My Expenses.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Curve",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Finance/Curve.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Banky",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Finance/Banky.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Soukromi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Politics/Soukromi.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "HTML",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Areas/Notes/Web/HTML\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Image",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Web/Webflow/Image.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1478,7 +1520,7 @@
                 {
                   "title": "23 Money & financials",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":9},\"to\":{\"line\":16,\"ch\":9}}}"
                 },
                 {
@@ -1568,7 +1610,7 @@
                 {
                   "title": "23 Money & financials",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money & financials.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":8}"
                 },
                 {
@@ -1778,9 +1820,12 @@
               ]
             },
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Areas/Notes/Web/HTML"
+                "file": "Areas/23 Money.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -1921,7 +1966,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Areas/23 Money.md"
+              }
             }
           },
           {
@@ -2005,6 +2052,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Areas/23 Money.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -2030,6 +2078,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Areas/23 Money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -2064,8 +2113,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d788cec64d185035",
+  "active": "260dda07148ba078",
   "lastOpenFiles": [
+    "Areas/Notes/Finance/My Subscriptions.md",
+    "Areas/Notes/Finance/My Investments.md",
+    "Areas/Notes/Finance/My Expenses.md",
+    "Areas/Notes/Finance/Curve.md",
+    "Areas/Notes/Finance/Banky.md",
+    "Areas/Notes/Politics/Soukromi.md",
     "Areas/Notes/Web/Webflow/Image.md",
     "Areas/Notes/Web/Webflow/Element over Image.md",
     "Areas/Notes/Web/Webflow/Custom Slider Arrows.md",
@@ -2077,7 +2132,6 @@
     "90 Archive/90 Archive.md",
     "90 Archive",
     "Areas/Notes/Politics/Zdravotnictvi.md",
-    "Areas/Notes/Politics/Soukromi.md",
     "Areas/Notes/Politics/Svoboda slova.md",
     "Areas/Notes/Politics/Same sex parenting.md",
     "Areas/Notes/Politics/Opiod deaths.md",
@@ -2088,11 +2142,6 @@
     "Areas/Areas.md",
     "10 Projects/11 Active/Client - janadolezelova.com.md",
     "10 Projects/11 Active/Web Design Masterclass.md",
-    "10 Projects/19 Archive/19.00 Archive.md",
-    "+ Zettelkasten/+About.md",
-    "+ Zettelkasten/700 Arts/Web Design/Typography creates feeling.md",
-    "+ Zettelkasten/700 Arts/Web Design/Serif and Sans-Serif are two main type of fonts.md",
-    "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711 Typography.md",
     "_system/Attachments/Pasted image 20241002131409.png",
     "_system/Attachments/Pasted image 20241002130915.png",
     "_system/Attachments/Pasted image 20241002112433.png",
