@@ -1870,6 +1870,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "10 Me",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"10 Me\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Zbrane Kontrola",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1878,12 +1884,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Zbrane Kontrola.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "path": "10 Me/Clients"
               }
             }
           }
@@ -2024,9 +2027,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zbrane Kontrola.md"
-              }
+              "state": {}
             }
           },
           {
@@ -2110,7 +2111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zbrane Kontrola.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -2136,7 +2136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zbrane Kontrola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -2173,7 +2172,14 @@
   },
   "active": "934aebca44b0052e",
   "lastOpenFiles": [
+    "10 Me/10 Me.md",
     "Zbrane Kontrola.md",
+    "Archive/Archive.md",
+    "Archive",
+    "Resources/Resources.md",
+    "Resources",
+    "Projects/Projects.md",
+    "Projects",
     "Areas/🏡 House.md",
     "Areas/23 Money.md",
     "Areas/Notes/Finance/My Subscriptions.md",
@@ -2196,10 +2202,6 @@
     "Areas/Notes/Politics/Svoboda slova.md",
     "Areas/Notes/Politics/Same sex parenting.md",
     "Areas/Notes/Politics/Opiod deaths.md",
-    "Areas/Notes/Politics/Deneen- Západní elity stále nepochopily, že liberalismus má problém.md",
-    "Areas/Notes/Politics/Dane.md",
-    "Areas/Notes/Politics/Ako EÚ smeruje do spoločnosti, kde budú podvádzať všetci-.md",
-    "Areas/Notes/Family/Programovani pro decka.md",
     "_system/Attachments/Pasted image 20241002131409.png",
     "_system/Attachments/Pasted image 20241002130915.png",
     "_system/Attachments/Pasted image 20241002112433.png",
@@ -2216,9 +2218,6 @@
     "70 Library/71 Webdesign",
     "30 Resources/31 Web Design/31.04 Courses",
     "20 Areas/22 House & Maintenance/22.02 Repairs",
-    "Areas/Notes/22 House ",
-    "Areas/21 Me & Family",
-    "70 Library",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
