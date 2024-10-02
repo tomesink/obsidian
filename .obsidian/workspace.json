@@ -1158,6 +1158,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Webdesign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/Indexes/Webdesign.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "Philosophy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/Indexes/Philosophy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
+                },
+                {
+                  "title": "Math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/Indexes/Math.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "Life",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/Indexes/Life.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":6}"
+                },
+                {
+                  "title": "Economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/Indexes/Economy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
+                },
+                {
+                  "title": "Bitcoin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Zettelkasten/Indexes/Bitcoin.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":8}"
+                },
+                {
                   "title": "Indexes",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"+ Zettelkasten/Indexes\"}}",
@@ -1378,7 +1414,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Zettelkasten/Indexes/Bitcoin.md",
+                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711.1.1 Typography creates feeling.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1523,7 +1559,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Zettelkasten/Indexes/Bitcoin.md"
+                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711.1.1 Typography creates feeling.md"
               }
             }
           },
@@ -1608,7 +1644,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Zettelkasten/Indexes/Bitcoin.md",
+                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711.1.1 Typography creates feeling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1634,7 +1670,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Zettelkasten/Indexes/Bitcoin.md",
+                "file": "+ Zettelkasten/700 Arts/710 Graphic Design/711 Typography/711.1.1 Typography creates feeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1671,6 +1707,12 @@
   },
   "active": "d788cec64d185035",
   "lastOpenFiles": [
+    "+ Zettelkasten/Indexes/Webdesign.md",
+    "+ Zettelkasten/Indexes/Philosophy.md",
+    "+ Zettelkasten/Indexes/Math.md",
+    "+ Zettelkasten/Indexes/Life.md",
+    "+ Zettelkasten/Indexes/Economy.md",
+    "+ Zettelkasten/Indexes/Bitcoin.md",
     "20 Areas/23 Money & financials.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs/22.02 Repairs.md",
     "20 Areas/🏡 House.md",
@@ -1703,15 +1745,9 @@
     "+ Zettelkasten/+ Zettelkasten.md",
     "Calendar/02 Snar/21-5-2019.md",
     "30 Resources/31 Web Design/31.04 Courses/Web Design 101/11.01 Web Design 101.md",
-    "10 Projects/11 Active/Design Systems in Figma.md",
-    "10 Projects/11 Active/Motion Design In Figma.md",
     "10 Projects/Notes/11.02 Web Design Masterclass",
-    "30 Resources/31 Web Design/31.04 Courses/Web Design 101/Episode 3 - History of Web (and Graphic) Design.md",
-    "10 Projects/Notes/Stockpicking/Uvod do stockpickingu.md",
-    "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Day 5 - Development & publishing!.md",
     "30 Resources/31 Web Design",
     "30 Resources/31 Web Design/31.04 Courses",
-    "30 Resources/31 Web Design/31.04 Courses/Web Design For Beginners 2024/Day 4 - Design.md",
     "20 Areas/22 House & Maintenance/22.02 Repairs",
     "20 Areas/22 House & Maintenance",
     "20 Areas/21 Me & Family",
