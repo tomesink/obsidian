@@ -44,6 +44,8 @@ Something like this:
 ![[Pasted image 20241001143156.png]]
 
 
+## Inspiration
+
 
 
 
