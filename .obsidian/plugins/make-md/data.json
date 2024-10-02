@@ -67,8 +67,11 @@
     "//70 Resources",
     "//Tags",
     "//10 Projects",
-    "//10 Me",
-    "//10 Me/10 Me/Clients"
+    "//10 Me/10 Me/Clients",
+    "//Projects/Projects/10 Me",
+    "//Projects/Projects/10 Me/Projects/10 Me/12 Simmering",
+    "//Archive",
+    "//90 Archive"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
