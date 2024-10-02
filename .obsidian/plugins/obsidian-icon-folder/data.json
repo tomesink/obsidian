@@ -46,15 +46,14 @@
   "_system": "LiTerminal",
   "+ Zettelkasten": "LiSheetsInBox",
   "00 Inputs": "LiInbox",
-  "Views": "LiEye",
-  "10 Projects": "LiWorkflow",
   "Calendar": "LiCalendar",
-  "10 Projects/12 Simmering": "〰",
-  "10 Projects/11 Active": "🔥",
   "Areas": "LiRecycle",
   "Areas/Learning.md": "LiGraduationCap",
   "Areas/Me & family.md": "🙋‍♂️",
   "Areas/Prayers.md": "✝",
   "Areas/Notes/Business": "LiLaptop",
-  "70 Library": "LiPenBox"
+  "70 Library": "LiPenBox",
+  "10 Me": "LiWorkflow",
+  "10 Me/12 Simmering": "〰",
+  "10 Me/11 Active": "🔥"
 }

@@ -63,11 +63,10 @@
     "//Areas/Areas/21 Me & Family",
     "//Areas/Areas/22 House ",
     "//Areas/Areas/Notes/Areas/Notes/22 House ",
-    "//Areas",
-    "//10 Projects",
     "//10 Projects/10 Projects/12 Simmering",
     "//70 Resources",
-    "//Tags"
+    "//Tags",
+    "//10 Projects"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
