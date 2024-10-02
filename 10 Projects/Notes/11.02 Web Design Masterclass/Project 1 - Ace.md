@@ -74,4 +74,5 @@ Look for patterns in the moodboard, similar pictures, color palettes and sort/gr
 
 Now it's the time to look at some web inspirations.
 
-Matt uses
+Matt uses [Godly — Astronomically good web design inspiration](https://godly.website/)
+
