@@ -1461,8 +1461,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5026054382324,
-    "collapsed": true
+    "width": 359.5026054382324
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -1634,8 +1633,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d788cec64d185035",
+  "active": "260dda07148ba078",
   "lastOpenFiles": [
+    "30 Resources/31 Web Design/31.04 Courses/31.04 Courses.md",
     "_system/Attachments/Pasted image 20241002131409.png",
     "_system/Attachments/Pasted image 20241002130915.png",
     "_system/Attachments/Pasted image 20241002112433.png",
@@ -1646,7 +1646,6 @@
     "_system/Attachments/Pasted image 20241001142749.png",
     "_system/Attachments/Pasted image 20241001121511.png",
     "_system/Attachments/Pasted image 20241001112612.png",
-    "_system/Attachments/Screenshot 2024-10-01 at 11.23.54.png",
     "10 Projects/Notes/11.02 Web Design Masterclass/Fundamentals.md",
     "10 Projects/Notes/11.02 Web Design Masterclass/Project 1 - Ace.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
