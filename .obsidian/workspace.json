@@ -1158,6 +1158,60 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Zdravotnictvi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Politics/Zdravotnictvi.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Soukromi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Politics/Soukromi.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Svoboda slova",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Politics/Svoboda slova.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Same sex parenting",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Politics/Same sex parenting.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Opiod deaths",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Politics/Opiod deaths.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deneen- Západní elity stále nepochopily, že liberalismus má problém",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Politics/Deneen- Západní elity stále nepochopily, že liberalismus má problém.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dane",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Politics/Dane.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ako EÚ smeruje do spoločnosti, kde budú podvádzať všetci-",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Politics/Ako EÚ smeruje do spoločnosti, kde budú podvádzať všetci-.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Programovani pro decka",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Family/Programovani pro decka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Decka",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Family/Decka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -1678,7 +1732,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Notes/Family/Programovani pro decka.md",
+                "file": "Areas/Notes/Politics/Velká čistka v USA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -1823,7 +1877,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Notes/Family/Programovani pro decka.md"
+                "file": "Areas/Notes/Politics/Velká čistka v USA.md"
               }
             }
           },
@@ -1908,7 +1962,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Notes/Family/Programovani pro decka.md",
+                "file": "Areas/Notes/Politics/Velká čistka v USA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1934,7 +1988,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Notes/Family/Programovani pro decka.md",
+                "file": "Areas/Notes/Politics/Velká čistka v USA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1971,6 +2025,15 @@
   },
   "active": "d788cec64d185035",
   "lastOpenFiles": [
+    "Areas/Notes/Politics/Zdravotnictvi.md",
+    "Areas/Notes/Politics/Soukromi.md",
+    "Areas/Notes/Politics/Svoboda slova.md",
+    "Areas/Notes/Politics/Same sex parenting.md",
+    "Areas/Notes/Politics/Opiod deaths.md",
+    "Areas/Notes/Politics/Deneen- Západní elity stále nepochopily, že liberalismus má problém.md",
+    "Areas/Notes/Politics/Dane.md",
+    "Areas/Notes/Politics/Ako EÚ smeruje do spoločnosti, kde budú podvádzať všetci-.md",
+    "Areas/Notes/Family/Programovani pro decka.md",
     "Areas/Notes/Family/Decka.md",
     "Areas/Areas.md",
     "10 Projects/11 Active/Client - janadolezelova.com.md",
@@ -1988,15 +2051,6 @@
     "Areas/Prayers.md",
     "Areas/Notes/Finance/My Investments.md",
     "Areas/Notes/Finance/My Expenses.md",
-    "Areas/Notes/Finance/My Subscriptions.md",
-    "Areas/23 Money & financials.md",
-    "00 Inputs/Track Your Design Business.md",
-    "+ Zettelkasten/Indexes/Webdesign.md",
-    "+ Zettelkasten/Indexes/Philosophy.md",
-    "+ Zettelkasten/Indexes/Math.md",
-    "+ Zettelkasten/Indexes/Life.md",
-    "+ Zettelkasten/Indexes/Economy.md",
-    "+ Zettelkasten/Indexes/Bitcoin.md",
     "_system/Attachments/Pasted image 20241002131409.png",
     "_system/Attachments/Pasted image 20241002130915.png",
     "_system/Attachments/Pasted image 20241002112433.png",
