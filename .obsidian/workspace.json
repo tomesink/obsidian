@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Projects/11 Clients/janadolezelova.com",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/11 Clients/janadolezelova.com\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "10.01 Dokonceni Kaiserbau",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
                   "title": "Simmering Projects",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Archive/Simmering Projects\"}}",
@@ -254,12 +266,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "path": "Projects/11 Clients/Notes/janadolezelova.com"
               }
             }
           }
@@ -399,9 +408,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md"
-              }
+              "state": {}
             }
           },
           {
@@ -485,7 +492,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -511,7 +517,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -548,6 +553,10 @@
   },
   "active": "260dda07148ba078",
   "lastOpenFiles": [
+    "Projects/11 Clients/11 Clients.md",
+    "Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md",
+    "Projects/11 Clients/Notes/Notes.md",
+    "Projects/11 Clients/Notes",
     "Archive/Simmering Projects/Simmering Projects.md",
     "Archive/Inactive Projects/Inactive Projects.md",
     "Projects/10 Efforts/10.07 Framer Course.md",
@@ -556,7 +565,6 @@
     "Archive/Simmering Projects/10.05 CSS layout & positioning.md",
     "Projects/10 Efforts/10.04 Motion Design In Figma.md",
     "Projects/10 Efforts/10.03 Zbrane Kontrola.md",
-    "Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md",
     "Projects/10 Efforts/10.02 Web Design Masterclass.md",
     "Projects/11 Clients/11.01 janadolezelova.com.md",
     "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md",
@@ -580,8 +588,6 @@
     "Areas/🏡 House.md",
     "Areas/23 Money.md",
     "Areas/Notes/Finance/My Subscriptions.md",
-    "Areas/Notes/Finance/My Investments.md",
-    "Areas/Notes/Finance/My Expenses.md",
     "Archive/90 Archive",
     "_system/Attachments/Pasted image 20241002131409.png",
     "_system/Attachments/Pasted image 20241002130915.png",
@@ -593,7 +599,6 @@
     "_system/Attachments/~$Portfolio Management.xlsx",
     "Projects/10 Efforts/Notes/Web Design Masterclass",
     "Resources/70 Library/71 Webdesign",
-    "30 Resources/31 Web Design/31.04 Courses",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
