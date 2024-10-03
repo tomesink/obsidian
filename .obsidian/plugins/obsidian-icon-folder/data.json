@@ -53,7 +53,7 @@
   "00 Inputs/Calendar": "LiCalendar",
   "Projects/10 Efforts": "LiWorkflow",
   "Projects/10 Efforts/Active": "🔥",
-  "Projects/10 Efforts/Simmering": "〰",
   "Resources/70 Library": "LiPenBox",
-  "+ Zettelkasten": "LiSheetsInBox"
+  "+ Zettelkasten": "LiSheetsInBox",
+  "Archive/Simmering Projects": "〰"
 }

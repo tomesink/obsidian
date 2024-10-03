@@ -18,57 +18,63 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Simmering Projects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Archive/Simmering Projects\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "10.07 Framer Course",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.07 Framer Course.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.07 Framer Course.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
                 },
                 {
                   "title": "10.06 Stockpicking",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Simmering/10.06 Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Archive/Simmering Projects/10.06 Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
                   "title": "10.05 CSS layout & positioning",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Simmering/10.05 CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Archive/Simmering Projects/10.05 CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
                   "title": "10.04 Motion Design In Figma",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.04 Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.04 Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":12}"
                 },
                 {
                   "title": "10.03 Zbrane Kontrola",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
                   "title": "10.01 Dokonceni Kaiserbau",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
                   "title": "10.03 Zbrane Kontrola",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
                   "title": "10.02 Web Design Masterclass",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
                   "title": "10.01 Dokonceni Kaiserbau",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}}}"
                 },
                 {
@@ -92,7 +98,7 @@
                 {
                   "title": "10.02 Web Design Masterclass",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":12}"
                 },
                 {
@@ -104,13 +110,13 @@
                 {
                   "title": "10.02 Web Design Masterclass",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":12}"
                 },
                 {
                   "title": "10.03 Zbrane Kontrola",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":36},\"to\":{\"line\":12,\"ch\":36}},\"scroll\":4}"
                 },
                 {
@@ -242,15 +248,18 @@
                 {
                   "title": "10.03 Zbrane Kontrola",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Archive/Inactive Projects"
+                "file": "Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -391,7 +400,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Inactive Projects/Inactive Projects.md"
+                "file": "Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md"
               }
             }
           },
@@ -476,7 +485,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Inactive Projects/Inactive Projects.md",
+                "file": "Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -502,7 +511,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Inactive Projects/Inactive Projects.md",
+                "file": "Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -537,23 +546,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de69993f2f9f92e8",
+  "active": "260dda07148ba078",
   "lastOpenFiles": [
-    "Projects/10 Efforts/Active/10.07 Framer Course.md",
+    "Archive/Simmering Projects/Simmering Projects.md",
     "Archive/Inactive Projects/Inactive Projects.md",
+    "Projects/10 Efforts/10.07 Framer Course.md",
     "Archive/Inactive Projects",
-    "Projects/10 Efforts/Simmering/10.06 Stockpicking.md",
-    "Projects/10 Efforts/Simmering/10.05 CSS layout & positioning.md",
-    "Projects/10 Efforts/Active/10.04 Motion Design In Figma.md",
-    "Projects/10 Efforts/Active/10.03 Zbrane Kontrola.md",
-    "Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md",
-    "Projects/10 Efforts/Active/10.02 Web Design Masterclass.md",
+    "Archive/Simmering Projects/10.06 Stockpicking.md",
+    "Archive/Simmering Projects/10.05 CSS layout & positioning.md",
+    "Projects/10 Efforts/10.04 Motion Design In Figma.md",
+    "Projects/10 Efforts/10.03 Zbrane Kontrola.md",
+    "Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md",
+    "Projects/10 Efforts/10.02 Web Design Masterclass.md",
     "Projects/11 Clients/11.01 janadolezelova.com.md",
     "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md",
     "_system/Attachments/Pasted image 20241003094137.png",
     "_system/Attachments/Pasted image 20241003094025.png",
     "_system/Attachments/Pasted image 20241002164614.png",
-    "Projects/10 Efforts/Simmering/Simmering.md",
     "00 Inputs/00 Inputs.md",
     "Projects/10 Efforts/10 Efforts.md",
     "Resources/70 Library/71 Webdesign/Design Systems in Figma.md",
