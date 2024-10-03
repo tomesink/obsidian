@@ -127,3 +127,5 @@ Matt identified 3 fonts combinations a 3 styles from moodboard and have 2 versio
 
 Now we have 3 directions to work with.
 
+Use a font replacer in figma to replace fonts in batch: [figma.com/community/plugin/1100808562040625391/font-replacer-ultimate-swap-change-and-replace-fonts](https://www.figma.com/community/plugin/1100808562040625391/font-replacer-ultimate-swap-change-and-replace-fonts)
+
