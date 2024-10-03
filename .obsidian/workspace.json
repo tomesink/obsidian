@@ -18,6 +18,54 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Areas/Notes/Finance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Areas/Notes/Finance\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "My Investments",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Money/My Investments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Curve",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Money/Curve.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Banky",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Money/Banky.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Curve",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Money/Curve.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "My Investments",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Money/My Investments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "My Subscriptions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Finance/My Subscriptions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Personal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Areas/Notes/Personal\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Vareni 20-11-2018",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Archive/90 Archive/apple_notes_archive/🍺 Vareni piva/Vareni 20-11-2018.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -358,7 +406,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Areas/Notes/Personal"
+                "path": "Areas/Notes/Money"
               }
             }
           }
@@ -641,8 +689,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "934aebca44b0052e",
+  "active": "260dda07148ba078",
   "lastOpenFiles": [
+    "Areas/Notes/Money/My Investments.md",
+    "Areas/Notes/Finance/My Subscriptions.md",
+    "Areas/Notes/Money/Curve.md",
+    "Areas/Notes/Money/Banky.md",
+    "Areas/Notes/Finance/My Expenses.md",
     "Archive/90 Archive/apple_notes_archive/🍺 Vareni piva/Vareni 20-11-2018.md",
     "Areas/Learning.md",
     "Areas/23 Money.md",
@@ -669,12 +722,7 @@
     "_system/Attachments/Pasted image 20241003094025.png",
     "_system/Attachments/Pasted image 20241002164614.png",
     "00 Inputs/00 Inputs.md",
-    "Resources/70 Library/71 Webdesign/Design Systems in Figma.md",
-    "+ Zettelkasten/+ Zettelkasten.md",
     "Tags",
-    "Archive/Archive.md",
-    "Vault.md",
-    "Resources/Resources.md",
     "Archive",
     "Resources",
     "Projects",

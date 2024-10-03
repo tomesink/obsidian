@@ -80,8 +80,9 @@
     "//Areas",
     "//Projects/Projects/10 Personal",
     "//Areas/Areas/Notes",
-    "//Archive/Archive/90 Archive/Archive/90 Archive/apple_notes_archive/Archive/90 Archive/apple_notes_archive/🍺 Vareni piva",
-    "//Areas/Areas/Notes/Areas/Notes/Personal"
+    "//Areas/Areas/Notes/Areas/Notes/Personal",
+    "//Archive/Archive/90 Archive/Archive/90 Archive/apple_notes_archive",
+    "//Areas/Areas/Notes/Areas/Notes/Finance"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
