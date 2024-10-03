@@ -85,7 +85,9 @@
     "//Areas/Areas/Notes/Areas/Notes/22 House ",
     "//Resources",
     "//Resources/Resources/70 Library",
-    "//Areas/Areas/Notes/Areas/Notes/Web"
+    "//Areas/Areas/Notes/Areas/Notes/Web",
+    "//Areas/Areas/Notes/Areas/Notes/Family",
+    "//Areas/Areas/Notes/Areas/Notes/Personal"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

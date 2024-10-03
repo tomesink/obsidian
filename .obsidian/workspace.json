@@ -18,6 +18,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Areas/Notes/Me",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Areas/Notes/Me\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Areas/Notes/Family",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Areas/Notes/Family\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "22 House",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/22 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "21 Me",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/21 Me.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Course - Design Systems in Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Course - Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
                   "title": "Image",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Webflow/Image.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -384,7 +414,7 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Design Systems in Figma",
+                  "title": "Course - Design Systems in Figma",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Course - Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":19.87109375}"
@@ -464,12 +494,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Resources/70 Library/71 Webdesign/Course - Design Systems in Figma.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "path": "Areas/Notes/21 Me"
               }
             }
           }
@@ -609,9 +636,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resources/70 Library/71 Webdesign/Course - Design Systems in Figma.md"
-              }
+              "state": {}
             }
           },
           {
@@ -695,7 +720,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/70 Library/71 Webdesign/Course - Design Systems in Figma.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -721,7 +745,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/70 Library/71 Webdesign/Course - Design Systems in Figma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -758,12 +781,15 @@
   },
   "active": "260dda07148ba078",
   "lastOpenFiles": [
+    "Areas/Notes/Personal/Personal.md",
+    "Areas/22 House.md",
+    "Areas/21 Me.md",
+    "Resources/70 Library/71 Webdesign/Course - Design Systems in Figma.md",
     "Resources/70 Library/71 Webdesign/Webflow/Image.md",
     "Areas/Notes/Web/Web.md",
     "Resources/70 Library/71 Webdesign/Webflow/Grid.md",
     "Resources/70 Library/71 Webdesign/Webflow/Element over Image.md",
     "Resources/70 Library/71 Webdesign/Webflow/Auto Height.md",
-    "Areas/22 House.md",
     "Areas/Notes/22 House /22 House.md",
     "Areas/23 Money.md",
     "Areas/Notes/23 Money/My Investments.md",
@@ -773,7 +799,6 @@
     "Areas/Notes/Finance/My Expenses.md",
     "Archive/90 Archive/apple_notes_archive/🍺 Vareni piva/Vareni 20-11-2018.md",
     "Areas/Learning.md",
-    "Areas/21 Me.md",
     "Areas/21 Me/21 Me.md",
     "Projects/11 Clients/11 Clients.md",
     "Projects/10 Personal/10 Personal.md",
@@ -783,9 +808,7 @@
     "Projects/11 Clients/Notes",
     "Archive/Simmering Projects/Simmering Projects.md",
     "Archive/Inactive Projects/Inactive Projects.md",
-    "Projects/10 Personal/10.07 Framer Course.md",
     "Archive/Inactive Projects",
-    "Archive/Simmering Projects/10.06 Stockpicking.md",
     "_system/Attachments/Pasted image 20241003094137.png",
     "_system/Attachments/Pasted image 20241003094025.png",
     "_system/Attachments/Pasted image 20241002164614.png",
