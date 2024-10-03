@@ -80,12 +80,14 @@
     "//Areas",
     "//Projects/Projects/10 Personal",
     "//Areas/Areas/Notes",
-    "//Areas/Areas/Notes/Areas/Notes/Personal",
     "//Archive/Archive/90 Archive/Archive/90 Archive/apple_notes_archive",
     "//Areas/Areas/Notes/Areas/Notes/Finance",
     "//Areas/Areas/Notes/Areas/Notes/Money",
     "//Areas/Areas/Notes/Areas/Notes/22 House ",
-    "//Areas/Areas/Notes/Areas/Notes/22 House"
+    "//Resources",
+    "//Resources/Resources/70 Library",
+    "//Resources/Resources/70 Library/Resources/70 Library/71 Webdesign",
+    "//Areas/Areas/Notes/Areas/Notes/Web"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

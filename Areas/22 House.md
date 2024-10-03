@@ -12,10 +12,10 @@ sticker: emoji//1f3e1
 
 
 > [!Watch]+ # House maintenance
-> House efforts 
+> House notes 
 > 
 > ```dataview
 > TABLE WITHOUT ID
 >  file.link as ""
-> FROM "Areas/Notes"
+> FROM "Areas/Notes/22 House"
 > ```

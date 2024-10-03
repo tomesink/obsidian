@@ -18,6 +18,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Grid",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Web/Webflow/Grid.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Element over Image",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Web/Webflow/Element over Image.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Auto Height",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Web/Webflow/Auto Height.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "22 House",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/22 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "22 House",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/22 House /22 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "23 Money",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
                   "title": "22 House",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/22 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -424,7 +460,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/23 Money.md",
+                "file": "Areas/Notes/Web/Webflow/Image.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -568,7 +604,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/23 Money.md"
+                "file": "Areas/Notes/Web/Webflow/Image.md"
               }
             }
           },
@@ -653,7 +689,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/23 Money.md",
+                "file": "Areas/Notes/Web/Webflow/Image.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -679,7 +715,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/23 Money.md",
+                "file": "Areas/Notes/Web/Webflow/Image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -714,9 +750,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "260dda07148ba078",
+  "active": "934aebca44b0052e",
   "lastOpenFiles": [
+    "Areas/Notes/Web/Webflow/Grid.md",
+    "Areas/Notes/Web/Webflow/Element over Image.md",
+    "Areas/Notes/Web/Webflow/Auto Height.md",
     "Areas/22 House.md",
+    "Areas/Notes/22 House /22 House.md",
     "Areas/23 Money.md",
     "Areas/Notes/23 Money/My Investments.md",
     "Areas/Notes/Finance/My Subscriptions.md",
@@ -740,13 +780,9 @@
     "Archive/Simmering Projects/10.06 Stockpicking.md",
     "Archive/Simmering Projects/10.05 CSS layout & positioning.md",
     "Projects/10 Personal/10.04 Motion Design In Figma.md",
-    "Projects/10 Personal/10.03 Zbrane Kontrola.md",
-    "Projects/10 Personal/10.02 Web Design Masterclass.md",
-    "Projects/10 Personal/Notes/Web Design Masterclass/Project 1 - Ace.md",
     "_system/Attachments/Pasted image 20241003094137.png",
     "_system/Attachments/Pasted image 20241003094025.png",
     "_system/Attachments/Pasted image 20241002164614.png",
-    "00 Inputs/00 Inputs.md",
     "Tags",
     "Archive",
     "Resources",
