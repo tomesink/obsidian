@@ -9,12 +9,12 @@ sticker: emoji//1f4b0
 ---
 
 
-> [!Watch]+ # House maintenance
-> House efforts 
+> [!Watch]+ # Money maintenance
+>
 > 
 > ```dataview
 > TABLE WITHOUT ID
 >  file.link as ""
-> FROM "Areas/Notes/Money"
+> FROM "Areas/Notes/23 Money"
 > ```
 
