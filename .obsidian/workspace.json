@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "10.07 Framer Course",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.07 Framer Course.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
                   "title": "10.06 Stockpicking",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Simmering/10.06 Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -242,12 +248,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Projects/10 Efforts/Active/10.07 Framer Course.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "path": "Archive/Inactive Projects"
               }
             }
           }
@@ -388,7 +391,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10 Efforts/Active/10.07 Framer Course.md"
+                "file": "Archive/Inactive Projects/Inactive Projects.md"
               }
             }
           },
@@ -473,7 +476,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10 Efforts/Active/10.07 Framer Course.md",
+                "file": "Archive/Inactive Projects/Inactive Projects.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -499,7 +502,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10 Efforts/Active/10.07 Framer Course.md",
+                "file": "Archive/Inactive Projects/Inactive Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -534,12 +537,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "260dda07148ba078",
+  "active": "de69993f2f9f92e8",
   "lastOpenFiles": [
-    "Archive/90 Archive/90.10 Archived Projects/90.10 Archived Projects.md",
-    "Archive/90 Archive/90.10 Archived Projects",
-    "Projects/10 Efforts/Simmering/10.06 Stockpicking.md",
     "Projects/10 Efforts/Active/10.07 Framer Course.md",
+    "Archive/Inactive Projects/Inactive Projects.md",
+    "Archive/Inactive Projects",
+    "Projects/10 Efforts/Simmering/10.06 Stockpicking.md",
     "Projects/10 Efforts/Simmering/10.05 CSS layout & positioning.md",
     "Projects/10 Efforts/Active/10.04 Motion Design In Figma.md",
     "Projects/10 Efforts/Active/10.03 Zbrane Kontrola.md",
