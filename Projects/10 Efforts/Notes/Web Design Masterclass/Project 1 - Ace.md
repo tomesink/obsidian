@@ -99,6 +99,9 @@ Try to find 2-4 fonts for Headings and 2-4 fonts for body and try to combine the
 
 ![[Pasted image 20241002130915.png|350]]
 
+To find a similar (but free) typeface as Matt uses you can use Typewolf to find suggestions. Because Typewolf doesn't have a search function on their website, just type "Rauschen B Typewolf" in Google and you'll find the page if they have a page for this typeface. [https://www.typewolf.com/](https://www.typewolf.com/)
+
+
 ### Colors
 
 From the moodboard, use the eyedrop tool and create several palettes of 2 colors:
