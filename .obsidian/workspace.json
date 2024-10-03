@@ -18,6 +18,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "LMŠ Lesinka",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/21 Me/LMŠ Lesinka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "🌱 Mowing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/22 House/🌱 Mowing.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "Generali pojistovna unicredit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/23 Money/Generali pojistovna unicredit.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "21 Me",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Areas/Notes/21 Me\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Areas/Notes/Me",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Areas/Notes/Me\"}}",
@@ -494,9 +518,12 @@
               ]
             },
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Areas/Notes/21 Me"
+                "file": "Areas/Notes/23 Money/Generali pojistovna unicredit.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -636,7 +663,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Areas/Notes/23 Money/Generali pojistovna unicredit.md"
+              }
             }
           },
           {
@@ -720,6 +749,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Areas/Notes/23 Money/Generali pojistovna unicredit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -745,6 +775,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Areas/Notes/23 Money/Generali pojistovna unicredit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -781,6 +812,10 @@
   },
   "active": "260dda07148ba078",
   "lastOpenFiles": [
+    "Areas/Notes/21 Me/LMŠ Lesinka.md",
+    "Areas/Notes/22 House/🌱 Mowing.md",
+    "Areas/Notes/Admin/Admin.md",
+    "Areas/Notes/23 Money/Generali pojistovna unicredit.md",
     "Areas/Notes/Personal/Personal.md",
     "Areas/22 House.md",
     "Areas/21 Me.md",
@@ -803,11 +838,7 @@
     "Projects/11 Clients/11 Clients.md",
     "Projects/10 Personal/10 Personal.md",
     "Projects/11 Clients/11.01 janadolezelova.com.md",
-    "Projects/10 Personal/10.01 Dokonceni Kaiserbau.md",
-    "Projects/11 Clients/Notes/Notes.md",
     "Projects/11 Clients/Notes",
-    "Archive/Simmering Projects/Simmering Projects.md",
-    "Archive/Inactive Projects/Inactive Projects.md",
     "Archive/Inactive Projects",
     "_system/Attachments/Pasted image 20241003094137.png",
     "_system/Attachments/Pasted image 20241003094025.png",

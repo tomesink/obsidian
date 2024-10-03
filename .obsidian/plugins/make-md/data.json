@@ -87,7 +87,8 @@
     "//Resources/Resources/70 Library",
     "//Areas/Areas/Notes/Areas/Notes/Web",
     "//Areas/Areas/Notes/Areas/Notes/Family",
-    "//Areas/Areas/Notes/Areas/Notes/Personal"
+    "//Areas/Areas/Notes/Areas/Notes/Personal",
+    "//Areas/Areas/Notes/Areas/Notes/Business"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
