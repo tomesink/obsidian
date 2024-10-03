@@ -73,10 +73,10 @@
     "/",
     "//Projects",
     "//00 Inputs",
-    "//Projects/Projects/10 Efforts",
     "//Projects/Projects/10 Efforts/Projects/10 Efforts/Active",
     "//Projects/Projects/11 Clients",
-    "//Projects/Projects/10 Efforts/Projects/10 Efforts/Simmering"
+    "//Projects/Projects/10 Efforts/Projects/10 Efforts/Simmering",
+    "//Projects/Projects/10 Efforts"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
