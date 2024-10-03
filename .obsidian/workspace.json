@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "11.01 janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/11.01 janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "janadolezelova.com",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/11 Clients/janadolezelova.com\"}}",
@@ -102,7 +108,7 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Client - janadolezelova.com",
+                  "title": "11.01 janadolezelova.com",
                   "icon": "lucide-trello",
                   "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/11.01 janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
@@ -188,18 +194,12 @@
               ]
             },
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Projects/11 Clients/11.01 janadolezelova.com.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -340,7 +340,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/11 Clients/11.01 janadolezelova.com.md"
+                "file": "Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md"
               }
             }
           },
@@ -425,7 +425,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/11 Clients/11.01 janadolezelova.com.md",
+                "file": "Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -451,7 +451,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/11 Clients/11.01 janadolezelova.com.md",
+                "file": "Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -486,8 +486,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "260dda07148ba078",
+  "active": "934aebca44b0052e",
   "lastOpenFiles": [
+    "Projects/11 Clients/11.01 janadolezelova.com.md",
+    "Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md",
     "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md",
     "_system/Attachments/Pasted image 20241003094137.png",
     "_system/Attachments/Pasted image 20241003094025.png",
@@ -503,7 +505,6 @@
     "Archive/Archive.md",
     "Vault.md",
     "Resources/Resources.md",
-    "Projects/11 Clients/11.01 janadolezelova.com.md",
     "Projects/10 Efforts/Active/Active.md",
     "Archive/90 Archive/90 Archive.md",
     "Archive",
