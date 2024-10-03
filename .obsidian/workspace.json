@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Zbrane Kontrola",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "10.02 Web Design Masterclass",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "10.01 Dokonceni Kaiserbau",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}}}"
+                },
+                {
                   "title": "11.01 janadolezelova.com",
                   "icon": "lucide-trello",
                   "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/11.01 janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
@@ -36,9 +54,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":130,\"ch\":184},\"to\":{\"line\":130,\"ch\":184}},\"scroll\":128.0651734074513}"
                 },
                 {
-                  "title": "Web Design Masterclass",
+                  "title": "10.02 Web Design Masterclass",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":12}"
                 },
                 {
@@ -48,9 +66,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":119,\"ch\":67},\"to\":{\"line\":119,\"ch\":67}},\"scroll\":101.70726817042606}"
                 },
                 {
-                  "title": "Web Design Masterclass",
+                  "title": "10.02 Web Design Masterclass",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":12}"
                 },
                 {
@@ -488,14 +506,14 @@
   },
   "active": "934aebca44b0052e",
   "lastOpenFiles": [
-    "Projects/11 Clients/11.01 janadolezelova.com.md",
+    "Projects/10 Efforts/Active/Zbrane Kontrola.md",
+    "Projects/10 Efforts/Active/10.02 Web Design Masterclass.md",
     "Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md",
+    "Projects/11 Clients/11.01 janadolezelova.com.md",
     "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md",
     "_system/Attachments/Pasted image 20241003094137.png",
     "_system/Attachments/Pasted image 20241003094025.png",
-    "Projects/10 Efforts/Active/Web Design Masterclass.md",
     "_system/Attachments/Pasted image 20241002164614.png",
-    "Projects/10 Efforts/Active/Zbrane Kontrola.md",
     "Projects/10 Efforts/Simmering/Simmering.md",
     "00 Inputs/00 Inputs.md",
     "Projects/10 Efforts/10 Efforts.md",
