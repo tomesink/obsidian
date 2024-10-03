@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "janadolezelova.com",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/11 Clients/Notes/janadolezelova.com\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Projects/11 Clients/janadolezelova.com",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/11 Clients/janadolezelova.com\"}}",
@@ -266,9 +272,18 @@
               ]
             },
             "state": {
-              "type": "mk-space",
+              "type": "kanban",
               "state": {
-                "path": "Projects/11 Clients/Notes/janadolezelova.com"
+                "file": "Projects/11 Clients/11.01 janadolezelova.com.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -408,7 +423,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/11 Clients/11.01 janadolezelova.com.md"
+              }
             }
           },
           {
@@ -492,6 +509,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/11 Clients/11.01 janadolezelova.com.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -517,6 +535,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/11 Clients/11.01 janadolezelova.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -551,7 +570,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "260dda07148ba078",
+  "active": "934aebca44b0052e",
   "lastOpenFiles": [
     "Projects/11 Clients/11 Clients.md",
     "Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md",
