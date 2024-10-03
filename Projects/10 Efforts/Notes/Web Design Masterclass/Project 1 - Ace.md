@@ -119,7 +119,7 @@ Write down what kind of imagery you need for each section/feature:
 
 Matt uses [DEATH TO STOCK](https://www.deathtothestockphoto.com/), alternatively also [Pexels](https://www.pexels.com/)
 
-## Concepts
+## Exploration
 
 Matt identified 3 fonts combinations a 3 styles from moodboard and have 2 versions of wireframe. He duplicated a wireframe so that he can match a font combo and style to each wireframe:
 
