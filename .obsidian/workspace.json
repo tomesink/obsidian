@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "21 Me",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/21 Me.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
                   "title": "Learning",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -322,7 +328,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Me & family.md",
+                "file": "Areas/22 House.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -466,7 +472,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Me & family.md"
+                "file": "Areas/22 House.md"
               }
             }
           },
@@ -551,7 +557,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Me & family.md",
+                "file": "Areas/22 House.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -577,7 +583,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Me & family.md",
+                "file": "Areas/22 House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -614,6 +620,7 @@
   },
   "active": "934aebca44b0052e",
   "lastOpenFiles": [
+    "Areas/21 Me.md",
     "Areas/Learning.md",
     "Areas/23 Money.md",
     "Areas/21 Me/21 Me.md",
@@ -647,7 +654,6 @@
     "Archive/90 Archive/90 Archive.md",
     "Archive",
     "Resources",
-    "Projects/Projects.md",
     "Projects",
     "Archive/90 Archive",
     "_system/Attachments/Pasted image 20241002131409.png",

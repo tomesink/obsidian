@@ -2,7 +2,7 @@
 up:
   - "[[Home]]"
 related:
-  - "[[🏡 House]]"
+  - "[[22 House]]"
 created: 2024-08-13
 rank: 
 ---

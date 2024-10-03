@@ -12,7 +12,7 @@ rank: "3"
 	- [[My Investments]]
 - Out
 	- [[My Insurance]]
-	- [[🏡 House]]
+	- [[22 House]]
 	- [[My Medical]]
 	- [[My Auto]]
 	- [[My Expenses]]

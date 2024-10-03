@@ -47,12 +47,12 @@
   "00 Inputs": "LiInbox",
   "Areas": "LiRecycle",
   "Areas/Learning.md": "LiGraduationCap",
-  "Areas/Me & family.md": "🙋‍♂️",
   "Areas/Prayers.md": "✝",
   "Areas/Notes/Business": "LiLaptop",
   "00 Inputs/Calendar": "LiCalendar",
   "Resources/70 Library": "LiPenBox",
   "+ Zettelkasten": "LiSheetsInBox",
   "Archive/Simmering Projects": "〰",
-  "Projects/10 Personal": "LiWorkflow"
+  "Projects/10 Personal": "LiWorkflow",
+  "Areas/21 Me.md": "🙋‍♂️"
 }
