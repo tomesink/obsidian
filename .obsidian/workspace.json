@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "janadolezelova.com",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/11 Clients/janadolezelova.com\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Project 1 - Ace",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":130,\"ch\":184},\"to\":{\"line\":130,\"ch\":184}},\"scroll\":128.0651734074513}"
+                },
+                {
                   "title": "Web Design Masterclass",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -92,7 +104,7 @@
                 {
                   "title": "Client - janadolezelova.com",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/Client - janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/11.01 janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
                   "eState": "{}"
                 },
                 {
@@ -176,12 +188,18 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Projects/11 Clients/11.01 janadolezelova.com.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -322,7 +340,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md"
+                "file": "Projects/11 Clients/11.01 janadolezelova.com.md"
               }
             }
           },
@@ -407,7 +425,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md",
+                "file": "Projects/11 Clients/11.01 janadolezelova.com.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -433,7 +451,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md",
+                "file": "Projects/11 Clients/11.01 janadolezelova.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -468,11 +486,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "934aebca44b0052e",
+  "active": "260dda07148ba078",
   "lastOpenFiles": [
+    "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md",
     "_system/Attachments/Pasted image 20241003094137.png",
     "_system/Attachments/Pasted image 20241003094025.png",
-    "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md",
     "Projects/10 Efforts/Active/Web Design Masterclass.md",
     "_system/Attachments/Pasted image 20241002164614.png",
     "Projects/10 Efforts/Active/Zbrane Kontrola.md",
@@ -485,7 +503,7 @@
     "Archive/Archive.md",
     "Vault.md",
     "Resources/Resources.md",
-    "Projects/11 Clients/Client - janadolezelova.com.md",
+    "Projects/11 Clients/11.01 janadolezelova.com.md",
     "Projects/10 Efforts/Active/Active.md",
     "Archive/90 Archive/90 Archive.md",
     "Archive",
@@ -510,7 +528,6 @@
     "_system/Attachments/Pasted image 20241002110301.png",
     "_system/Attachments/Pasted image 20241001143156.png",
     "_system/Attachments/Pasted image 20241001142830.png",
-    "_system/Attachments/Pasted image 20241001142749.png",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "Projects/10 Efforts/Notes/Web Design Masterclass",
     "Resources/70 Library/71 Webdesign",
