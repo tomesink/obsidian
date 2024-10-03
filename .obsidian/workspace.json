@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Web Design Masterclass",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":12}"
+                },
+                {
                   "title": "Project 1 - Ace",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -172,7 +178,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10 Efforts/Active/Web Design Masterclass.md",
+                "file": "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -316,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10 Efforts/Active/Web Design Masterclass.md"
+                "file": "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md"
               }
             }
           },
@@ -401,7 +407,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10 Efforts/Active/Web Design Masterclass.md",
+                "file": "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -427,7 +433,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10 Efforts/Active/Web Design Masterclass.md",
+                "file": "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -464,9 +470,9 @@
   },
   "active": "934aebca44b0052e",
   "lastOpenFiles": [
+    "Projects/10 Efforts/Active/Web Design Masterclass.md",
     "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md",
     "_system/Attachments/Pasted image 20241002164614.png",
-    "Projects/10 Efforts/Active/Web Design Masterclass.md",
     "Projects/10 Efforts/Active/Zbrane Kontrola.md",
     "Projects/10 Efforts/Simmering/Simmering.md",
     "00 Inputs/00 Inputs.md",

@@ -119,4 +119,6 @@ Write down what kind of imagery you need for each section/feature:
 
 Matt uses [DEATH TO STOCK](https://www.deathtothestockphoto.com/), alternatively also [Pexels](https://www.pexels.com/)
 
+## Concepts
 
+Creat
