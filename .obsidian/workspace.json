@@ -18,21 +18,27 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Image",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Webflow/Image.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Grid",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Web/Webflow/Grid.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Webflow/Grid.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 },
                 {
                   "title": "Element over Image",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Web/Webflow/Element over Image.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Webflow/Element over Image.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Auto Height",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/Web/Webflow/Auto Height.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Webflow/Auto Height.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -380,7 +386,7 @@
                 {
                   "title": "Design Systems in Figma",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/70 Library/71 Webdesign/Course - Design Systems in Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":19.87109375}"
                 },
                 {
@@ -460,7 +466,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Notes/Web/Webflow/Image.md",
+                "file": "Resources/70 Library/71 Webdesign/Course - Design Systems in Figma.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -604,7 +610,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Notes/Web/Webflow/Image.md"
+                "file": "Resources/70 Library/71 Webdesign/Course - Design Systems in Figma.md"
               }
             }
           },
@@ -689,7 +695,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Notes/Web/Webflow/Image.md",
+                "file": "Resources/70 Library/71 Webdesign/Course - Design Systems in Figma.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -715,7 +721,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Notes/Web/Webflow/Image.md",
+                "file": "Resources/70 Library/71 Webdesign/Course - Design Systems in Figma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -750,11 +756,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "934aebca44b0052e",
+  "active": "260dda07148ba078",
   "lastOpenFiles": [
-    "Areas/Notes/Web/Webflow/Grid.md",
-    "Areas/Notes/Web/Webflow/Element over Image.md",
-    "Areas/Notes/Web/Webflow/Auto Height.md",
+    "Resources/70 Library/71 Webdesign/Webflow/Image.md",
+    "Areas/Notes/Web/Web.md",
+    "Resources/70 Library/71 Webdesign/Webflow/Grid.md",
+    "Resources/70 Library/71 Webdesign/Webflow/Element over Image.md",
+    "Resources/70 Library/71 Webdesign/Webflow/Auto Height.md",
     "Areas/22 House.md",
     "Areas/Notes/22 House /22 House.md",
     "Areas/23 Money.md",
@@ -778,8 +786,6 @@
     "Projects/10 Personal/10.07 Framer Course.md",
     "Archive/Inactive Projects",
     "Archive/Simmering Projects/10.06 Stockpicking.md",
-    "Archive/Simmering Projects/10.05 CSS layout & positioning.md",
-    "Projects/10 Personal/10.04 Motion Design In Figma.md",
     "_system/Attachments/Pasted image 20241003094137.png",
     "_system/Attachments/Pasted image 20241003094025.png",
     "_system/Attachments/Pasted image 20241002164614.png",
