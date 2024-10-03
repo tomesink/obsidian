@@ -18,6 +18,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Programovani pro decka",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/21 Me/Programovani pro decka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "21 Me",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/21 Me.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+                },
+                {
+                  "title": "23 Money",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":5},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Generali pojistovna unicredit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/23 Money/Generali pojistovna unicredit.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "LMŠ Lesinka",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/21 Me/LMŠ Lesinka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -520,7 +544,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Notes/23 Money/Generali pojistovna unicredit.md",
+                "file": "Areas/Notes/21 Me/Decka.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -664,7 +688,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Notes/23 Money/Generali pojistovna unicredit.md"
+                "file": "Areas/Notes/21 Me/Decka.md"
               }
             }
           },
@@ -749,7 +773,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Notes/23 Money/Generali pojistovna unicredit.md",
+                "file": "Areas/Notes/21 Me/Decka.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -775,7 +799,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Notes/23 Money/Generali pojistovna unicredit.md",
+                "file": "Areas/Notes/21 Me/Decka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -810,15 +834,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "260dda07148ba078",
+  "active": "934aebca44b0052e",
   "lastOpenFiles": [
+    "Areas/Notes/21 Me/Programovani pro decka.md",
+    "Areas/21 Me.md",
+    "Areas/23 Money.md",
+    "Areas/Notes/23 Money/Generali pojistovna unicredit.md",
     "Areas/Notes/21 Me/LMŠ Lesinka.md",
     "Areas/Notes/22 House/🌱 Mowing.md",
     "Areas/Notes/Admin/Admin.md",
-    "Areas/Notes/23 Money/Generali pojistovna unicredit.md",
     "Areas/Notes/Personal/Personal.md",
     "Areas/22 House.md",
-    "Areas/21 Me.md",
     "Resources/70 Library/71 Webdesign/Course - Design Systems in Figma.md",
     "Resources/70 Library/71 Webdesign/Webflow/Image.md",
     "Areas/Notes/Web/Web.md",
@@ -826,7 +852,6 @@
     "Resources/70 Library/71 Webdesign/Webflow/Element over Image.md",
     "Resources/70 Library/71 Webdesign/Webflow/Auto Height.md",
     "Areas/Notes/22 House /22 House.md",
-    "Areas/23 Money.md",
     "Areas/Notes/23 Money/My Investments.md",
     "Areas/Notes/Finance/My Subscriptions.md",
     "Areas/Notes/23 Money/Curve.md",
@@ -837,7 +862,6 @@
     "Areas/21 Me/21 Me.md",
     "Projects/11 Clients/11 Clients.md",
     "Projects/10 Personal/10 Personal.md",
-    "Projects/11 Clients/11.01 janadolezelova.com.md",
     "Projects/11 Clients/Notes",
     "Archive/Inactive Projects",
     "_system/Attachments/Pasted image 20241003094137.png",
