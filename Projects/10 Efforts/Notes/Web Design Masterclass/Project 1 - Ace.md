@@ -128,8 +128,8 @@ Matt identified 3 fonts combinations a 3 styles from moodboard and have 2 versio
 
 ![[Pasted image 20241003094137.png]]
 
-Now we have 3 directions to work with.
+Now we have 3 directions to work with. This is done in a separate Figma page. He copy 
 
 Use a font replacer in figma to replace fonts in batch: [figma.com/community/plugin/1100808562040625391/font-replacer-ultimate-swap-change-and-replace-fonts](https://www.figma.com/community/plugin/1100808562040625391/font-replacer-ultimate-swap-change-and-replace-fonts)
 
-In this step Matt does the font "audit" and fixes and customizes all fonts for a concept (eg. Home A), the font sizes, line widhts etc.
+In this step Matt does the font "audit" and fixes and customizes all fonts for a concept (eg. Home A), the font sizes, line height, letter spacing.
