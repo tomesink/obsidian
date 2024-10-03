@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "10.02 Web Design Masterclass",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":12}"
+                },
+                {
                   "title": "10.04 Motion Design In Figma",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/10.04 Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -592,7 +598,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10 Personal/10.02 Web Design Masterclass.md",
+                "file": "Projects/10 Personal/Notes/Web Design Masterclass/Project 1 - Ace.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -736,7 +742,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10 Personal/10.02 Web Design Masterclass.md"
+                "file": "Projects/10 Personal/Notes/Web Design Masterclass/Project 1 - Ace.md"
               }
             }
           },
@@ -821,7 +827,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10 Personal/10.02 Web Design Masterclass.md",
+                "file": "Projects/10 Personal/Notes/Web Design Masterclass/Project 1 - Ace.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -847,7 +853,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10 Personal/10.02 Web Design Masterclass.md",
+                "file": "Projects/10 Personal/Notes/Web Design Masterclass/Project 1 - Ace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -884,6 +890,7 @@
   },
   "active": "934aebca44b0052e",
   "lastOpenFiles": [
+    "Projects/10 Personal/10.02 Web Design Masterclass.md",
     "Projects/10 Personal/10.04 Motion Design In Figma.md",
     "Areas/Notes/21 Me/21.02 Family.md",
     "Areas/Notes/21 Me/Stravovani LMŠ Lesinka.md",
@@ -909,7 +916,6 @@
     "Areas/Notes/Finance/My Expenses.md",
     "Archive/90 Archive/apple_notes_archive/🍺 Vareni piva/Vareni 20-11-2018.md",
     "Areas/Learning.md",
-    "Areas/21 Me/21 Me.md",
     "Projects/11 Clients/Notes",
     "Archive/Inactive Projects",
     "_system/Attachments/Pasted image 20241003094137.png",
