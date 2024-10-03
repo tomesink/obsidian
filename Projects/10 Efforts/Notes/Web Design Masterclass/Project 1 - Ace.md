@@ -78,7 +78,7 @@ Matt uses [Godly — Astronomically good web design inspiration](https://godly.w
 
 Take screenshots, search based on the keyword.
 
-## Fonts
+### Fonts
 
 Matt searches for big bold unique fonts (could be serifs) for headlines.
 
@@ -99,7 +99,7 @@ Try to find 2-4 fonts for Headings and 2-4 fonts for body and try to combine the
 
 ![[Pasted image 20241002130915.png|350]]
 
-## Colors
+### Colors
 
 From the moodboard, use the eyedrop tool and create several palettes of 2 colors:
 
@@ -123,4 +123,4 @@ Matt uses [DEATH TO STOCK](https://www.deathtothestockphoto.com/), alternatively
 
 Matt identified 3 fonts combinations a 3 styles from moodboard and have 2 versions of wireframe. He duplicated a wireframe so that he can match a font combo and style to each wireframe:
 
-
+![[Pasted image 20241003094025.png]]
