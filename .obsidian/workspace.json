@@ -18,6 +18,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Learning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "23 Money",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "Learning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "23 Money",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "11 Clients",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/11 Clients\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "10 Personal",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/10 Personal\"}}",
@@ -290,9 +320,12 @@
               ]
             },
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Projects/11 Clients"
+                "file": "Areas/Me & family.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -432,7 +465,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Areas/Me & family.md"
+              }
             }
           },
           {
@@ -516,6 +551,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Areas/Me & family.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -541,6 +577,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Areas/Me & family.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -575,8 +612,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "260dda07148ba078",
+  "active": "934aebca44b0052e",
   "lastOpenFiles": [
+    "Areas/Learning.md",
+    "Areas/23 Money.md",
     "Areas/21 Me/21 Me.md",
     "Projects/11 Clients/11 Clients.md",
     "Projects/10 Personal/10 Personal.md",
@@ -610,8 +649,6 @@
     "Resources",
     "Projects/Projects.md",
     "Projects",
-    "Areas/🏡 House.md",
-    "Areas/23 Money.md",
     "Archive/90 Archive",
     "_system/Attachments/Pasted image 20241002131409.png",
     "_system/Attachments/Pasted image 20241002130915.png",
