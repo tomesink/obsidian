@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "21.02 Family",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/21 Me/21.02 Family.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":8},\"to\":{\"line\":2,\"ch\":8}}}"
+                },
+                {
                   "title": "Programovani pro decka",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/21 Me/Programovani pro decka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -44,7 +50,7 @@
                 {
                   "title": "LMŠ Lesinka",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/21 Me/LMŠ Lesinka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/Notes/21 Me/Stravovani LMŠ Lesinka.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -544,7 +550,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Notes/21 Me/Family.md",
+                "file": "Areas/Notes/21 Me/Stravovani LMŠ Lesinka.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -688,7 +694,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Notes/21 Me/Family.md"
+                "file": "Areas/Notes/21 Me/Stravovani LMŠ Lesinka.md"
               }
             }
           },
@@ -773,7 +779,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Notes/21 Me/Family.md",
+                "file": "Areas/Notes/21 Me/Stravovani LMŠ Lesinka.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -799,7 +805,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Notes/21 Me/Family.md",
+                "file": "Areas/Notes/21 Me/Stravovani LMŠ Lesinka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -836,11 +842,12 @@
   },
   "active": "934aebca44b0052e",
   "lastOpenFiles": [
+    "Areas/Notes/21 Me/21.02 Family.md",
     "Areas/Notes/21 Me/Programovani pro decka.md",
     "Areas/21 Me.md",
     "Areas/23 Money.md",
     "Areas/Notes/23 Money/Generali pojistovna unicredit.md",
-    "Areas/Notes/21 Me/LMŠ Lesinka.md",
+    "Areas/Notes/21 Me/Stravovani LMŠ Lesinka.md",
     "Areas/Notes/22 House/🌱 Mowing.md",
     "Areas/Notes/Admin/Admin.md",
     "Areas/Notes/Personal/Personal.md",
@@ -861,7 +868,6 @@
     "Areas/Learning.md",
     "Areas/21 Me/21 Me.md",
     "Projects/11 Clients/11 Clients.md",
-    "Projects/10 Personal/10 Personal.md",
     "Projects/11 Clients/Notes",
     "Archive/Inactive Projects",
     "_system/Attachments/Pasted image 20241003094137.png",

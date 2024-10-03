@@ -1,7 +1,8 @@
 
 Lesní Mateřská Škola Lesinka, Ochoz u Brna
 
-  
+ [iCanteen - přihlášení uživatele](https://strav.nasejidelna.cz/0248/login)
+
 
 Deti: 
 
