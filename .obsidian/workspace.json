@@ -18,9 +18,33 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Zbrane Kontrola",
+                  "title": "10.05 CSS layout & positioning",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Simmering/10.05 CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "10.04 Motion Design In Figma",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.04 Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":12}"
+                },
+                {
+                  "title": "10.03 Zbrane Kontrola",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "10.01 Dokonceni Kaiserbau",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "10.03 Zbrane Kontrola",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
@@ -72,9 +96,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":12}"
                 },
                 {
-                  "title": "Zbrane Kontrola",
+                  "title": "10.03 Zbrane Kontrola",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":36},\"to\":{\"line\":12,\"ch\":36}},\"scroll\":4}"
                 },
                 {
@@ -204,9 +228,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Zbrane Kontrola",
+                  "title": "10.03 Zbrane Kontrola",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Active/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 }
               ]
@@ -214,7 +238,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md",
+                "file": "Projects/10 Efforts/Simmering/10.06 Stockpicking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -358,7 +382,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md"
+                "file": "Projects/10 Efforts/Simmering/10.06 Stockpicking.md"
               }
             }
           },
@@ -443,7 +467,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md",
+                "file": "Projects/10 Efforts/Simmering/10.06 Stockpicking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -469,7 +493,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md",
+                "file": "Projects/10 Efforts/Simmering/10.06 Stockpicking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -506,9 +530,11 @@
   },
   "active": "934aebca44b0052e",
   "lastOpenFiles": [
-    "Projects/10 Efforts/Active/Zbrane Kontrola.md",
-    "Projects/10 Efforts/Active/10.02 Web Design Masterclass.md",
+    "Projects/10 Efforts/Simmering/10.05 CSS layout & positioning.md",
+    "Projects/10 Efforts/Active/10.04 Motion Design In Figma.md",
+    "Projects/10 Efforts/Active/10.03 Zbrane Kontrola.md",
     "Projects/10 Efforts/Active/10.01 Dokonceni Kaiserbau.md",
+    "Projects/10 Efforts/Active/10.02 Web Design Masterclass.md",
     "Projects/11 Clients/11.01 janadolezelova.com.md",
     "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md",
     "_system/Attachments/Pasted image 20241003094137.png",
@@ -537,8 +563,6 @@
     "Areas/Notes/Finance/Curve.md",
     "Areas/Notes/Finance/Banky.md",
     "Areas/Notes/Politics/Soukromi.md",
-    "Areas/Notes/Web/Webflow/Image.md",
-    "Areas/Notes/Web/Webflow/Element over Image.md",
     "Archive/90 Archive",
     "_system/Attachments/Pasted image 20241002131409.png",
     "_system/Attachments/Pasted image 20241002130915.png",

@@ -4,7 +4,7 @@ zettel:
 topic:
   - "[[Webdesign]]"
 references:
-  - "[[CSS layout & positioning]]"
+  - "[[10.05 CSS layout & positioning]]"
 created: 2024-09-01
 status:
   - To Do
