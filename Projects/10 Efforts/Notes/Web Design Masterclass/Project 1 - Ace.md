@@ -128,7 +128,7 @@ Matt identified 3 fonts combinations a 3 styles from moodboard and have 2 versio
 
 ![[Pasted image 20241003094137.png]]
 
-Now we have 3 directions to work with. This is done in a separate Figma page. He copy 
+Now we have 3 directions to work with. This is done in a separate Figma page. He copy pasted the wireframes from Wireframe page into Exploration page and he will start colorizing them.
 
 Use a font replacer in figma to replace fonts in batch: [figma.com/community/plugin/1100808562040625391/font-replacer-ultimate-swap-change-and-replace-fonts](https://www.figma.com/community/plugin/1100808562040625391/font-replacer-ultimate-swap-change-and-replace-fonts)
 
