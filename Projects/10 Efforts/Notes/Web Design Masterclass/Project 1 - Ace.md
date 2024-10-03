@@ -123,4 +123,7 @@ Matt uses [DEATH TO STOCK](https://www.deathtothestockphoto.com/), alternatively
 
 Matt identified 3 fonts combinations a 3 styles from moodboard and have 2 versions of wireframe. He duplicated a wireframe so that he can match a font combo and style to each wireframe and also assign the simple colors:
 
+![[Pasted image 20241003094137.png]]
+
+
 
