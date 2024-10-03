@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "10.06 Stockpicking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Simmering/10.06 Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
                   "title": "10.05 CSS layout & positioning",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Simmering/10.05 CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -238,7 +244,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10 Efforts/Simmering/10.06 Stockpicking.md",
+                "file": "Projects/10 Efforts/Active/10.07 Framer Course.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -382,7 +388,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10 Efforts/Simmering/10.06 Stockpicking.md"
+                "file": "Projects/10 Efforts/Active/10.07 Framer Course.md"
               }
             }
           },
@@ -467,7 +473,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10 Efforts/Simmering/10.06 Stockpicking.md",
+                "file": "Projects/10 Efforts/Active/10.07 Framer Course.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -493,7 +499,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10 Efforts/Simmering/10.06 Stockpicking.md",
+                "file": "Projects/10 Efforts/Active/10.07 Framer Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -530,6 +536,8 @@
   },
   "active": "934aebca44b0052e",
   "lastOpenFiles": [
+    "Projects/10 Efforts/Simmering/10.06 Stockpicking.md",
+    "Projects/10 Efforts/Active/10.07 Framer Course.md",
     "Projects/10 Efforts/Simmering/10.05 CSS layout & positioning.md",
     "Projects/10 Efforts/Active/10.04 Motion Design In Figma.md",
     "Projects/10 Efforts/Active/10.03 Zbrane Kontrola.md",
@@ -561,8 +569,6 @@
     "Areas/Notes/Finance/My Investments.md",
     "Areas/Notes/Finance/My Expenses.md",
     "Areas/Notes/Finance/Curve.md",
-    "Areas/Notes/Finance/Banky.md",
-    "Areas/Notes/Politics/Soukromi.md",
     "Archive/90 Archive",
     "_system/Attachments/Pasted image 20241002131409.png",
     "_system/Attachments/Pasted image 20241002130915.png",
