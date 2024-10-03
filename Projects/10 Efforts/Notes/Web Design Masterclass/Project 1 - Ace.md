@@ -125,5 +125,5 @@ Matt identified 3 fonts combinations a 3 styles from moodboard and have 2 versio
 
 ![[Pasted image 20241003094137.png]]
 
-
+Now we have 3 dierctions to work with.
 
