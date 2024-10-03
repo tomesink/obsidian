@@ -121,4 +121,6 @@ Matt uses [DEATH TO STOCK](https://www.deathtothestockphoto.com/), alternatively
 
 ## Concepts
 
-Matt identified 3 fonts combinations a 3 styles from moodboard and have 
+Matt identified 3 fonts combinations a 3 styles from moodboard and have 2 versions of wireframe. He duplicated a wireframe so that he can match a font combo and style to each wireframe:
+
+
