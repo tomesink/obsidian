@@ -82,7 +82,8 @@
     "//Areas/Areas/Notes",
     "//Areas/Areas/Notes/Areas/Notes/Personal",
     "//Archive/Archive/90 Archive/Archive/90 Archive/apple_notes_archive",
-    "//Areas/Areas/Notes/Areas/Notes/Finance"
+    "//Areas/Areas/Notes/Areas/Notes/Finance",
+    "//Areas/Areas/Notes/Areas/Notes/Money"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
