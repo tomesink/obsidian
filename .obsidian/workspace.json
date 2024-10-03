@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "10 Personal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/10 Personal\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "10 Efforts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/10 Efforts\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "11.01 janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/11.01 janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "janadolezelova.com",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Projects/11 Clients/Notes/janadolezelova.com\"}}",
@@ -32,7 +50,7 @@
                 {
                   "title": "10.01 Dokonceni Kaiserbau",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/10.01 Dokonceni Kaiserbau.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
@@ -44,7 +62,7 @@
                 {
                   "title": "10.07 Framer Course",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.07 Framer Course.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/10.07 Framer Course.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
                 },
                 {
@@ -62,37 +80,37 @@
                 {
                   "title": "10.04 Motion Design In Figma",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.04 Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/10.04 Motion Design In Figma.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":12}"
                 },
                 {
                   "title": "10.03 Zbrane Kontrola",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
                   "title": "10.01 Dokonceni Kaiserbau",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/10.01 Dokonceni Kaiserbau.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
                   "title": "10.03 Zbrane Kontrola",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
                   "title": "10.02 Web Design Masterclass",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
                   "title": "10.01 Dokonceni Kaiserbau",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/10.01 Dokonceni Kaiserbau.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}}}"
                 },
                 {
@@ -110,31 +128,31 @@
                 {
                   "title": "Project 1 - Ace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/Notes/Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":130,\"ch\":184},\"to\":{\"line\":130,\"ch\":184}},\"scroll\":128.0651734074513}"
                 },
                 {
                   "title": "10.02 Web Design Masterclass",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":12}"
                 },
                 {
                   "title": "Project 1 - Ace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/Notes/Web Design Masterclass/Project 1 - Ace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":119,\"ch\":67},\"to\":{\"line\":119,\"ch\":67}},\"scroll\":101.70726817042606}"
                 },
                 {
                   "title": "10.02 Web Design Masterclass",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/10.02 Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":12}"
                 },
                 {
                   "title": "10.03 Zbrane Kontrola",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":36},\"to\":{\"line\":12,\"ch\":36}},\"scroll\":4}"
                 },
                 {
@@ -266,24 +284,15 @@
                 {
                   "title": "10.03 Zbrane Kontrola",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Efforts/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/10.03 Zbrane Kontrola.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "kanban",
+              "type": "mk-space",
               "state": {
-                "file": "Projects/11 Clients/11.01 janadolezelova.com.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "path": "Projects/11 Clients"
               }
             }
           }
@@ -423,9 +432,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/11 Clients/11.01 janadolezelova.com.md"
-              }
+              "state": {}
             }
           },
           {
@@ -509,7 +516,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/11 Clients/11.01 janadolezelova.com.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -535,7 +541,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/11 Clients/11.01 janadolezelova.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -570,28 +575,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "934aebca44b0052e",
+  "active": "260dda07148ba078",
   "lastOpenFiles": [
     "Projects/11 Clients/11 Clients.md",
-    "Projects/10 Efforts/10.01 Dokonceni Kaiserbau.md",
+    "Projects/10 Personal/10 Personal.md",
+    "Projects/11 Clients/11.01 janadolezelova.com.md",
+    "Projects/10 Personal/10.01 Dokonceni Kaiserbau.md",
     "Projects/11 Clients/Notes/Notes.md",
     "Projects/11 Clients/Notes",
     "Archive/Simmering Projects/Simmering Projects.md",
     "Archive/Inactive Projects/Inactive Projects.md",
-    "Projects/10 Efforts/10.07 Framer Course.md",
+    "Projects/10 Personal/10.07 Framer Course.md",
     "Archive/Inactive Projects",
     "Archive/Simmering Projects/10.06 Stockpicking.md",
     "Archive/Simmering Projects/10.05 CSS layout & positioning.md",
-    "Projects/10 Efforts/10.04 Motion Design In Figma.md",
-    "Projects/10 Efforts/10.03 Zbrane Kontrola.md",
-    "Projects/10 Efforts/10.02 Web Design Masterclass.md",
-    "Projects/11 Clients/11.01 janadolezelova.com.md",
-    "Projects/10 Efforts/Notes/Web Design Masterclass/Project 1 - Ace.md",
+    "Projects/10 Personal/10.04 Motion Design In Figma.md",
+    "Projects/10 Personal/10.03 Zbrane Kontrola.md",
+    "Projects/10 Personal/10.02 Web Design Masterclass.md",
+    "Projects/10 Personal/Notes/Web Design Masterclass/Project 1 - Ace.md",
     "_system/Attachments/Pasted image 20241003094137.png",
     "_system/Attachments/Pasted image 20241003094025.png",
     "_system/Attachments/Pasted image 20241002164614.png",
     "00 Inputs/00 Inputs.md",
-    "Projects/10 Efforts/10 Efforts.md",
     "Resources/70 Library/71 Webdesign/Design Systems in Figma.md",
     "+ Zettelkasten/+ Zettelkasten.md",
     "Tags",
@@ -616,7 +621,7 @@
     "_system/Attachments/Pasted image 20241001143156.png",
     "_system/Attachments/Pasted image 20241001142830.png",
     "_system/Attachments/~$Portfolio Management.xlsx",
-    "Projects/10 Efforts/Notes/Web Design Masterclass",
+    "Projects/10 Personal/Notes/Web Design Masterclass",
     "Resources/70 Library/71 Webdesign",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",

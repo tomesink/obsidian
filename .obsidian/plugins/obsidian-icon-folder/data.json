@@ -51,8 +51,8 @@
   "Areas/Prayers.md": "✝",
   "Areas/Notes/Business": "LiLaptop",
   "00 Inputs/Calendar": "LiCalendar",
-  "Projects/10 Efforts": "LiWorkflow",
   "Resources/70 Library": "LiPenBox",
   "+ Zettelkasten": "LiSheetsInBox",
-  "Archive/Simmering Projects": "〰"
+  "Archive/Simmering Projects": "〰",
+  "Projects/10 Personal": "LiWorkflow"
 }
