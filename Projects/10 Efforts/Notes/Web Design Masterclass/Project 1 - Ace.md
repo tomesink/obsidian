@@ -121,4 +121,4 @@ Matt uses [DEATH TO STOCK](https://www.deathtothestockphoto.com/), alternatively
 
 ## Concepts
 
-Creat
+Matt identified 3 fonts combinations a 3 styles from moodboard and have 
