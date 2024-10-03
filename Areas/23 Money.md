@@ -5,6 +5,7 @@ related:
 created: 2015-01-01
 tags: []
 rank: "3"
+sticker: emoji//1f4b0
 ---
 
 

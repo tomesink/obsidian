@@ -3,6 +3,7 @@ up:
   - "[[Home]]"
 related: 
 created: 2024-08-13
+sticker: emoji//1f3e1
 ---
 
 

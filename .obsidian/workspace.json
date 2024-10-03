@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "23 Money",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/23 Money.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "22 House",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/22 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
                   "title": "21 Me",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Areas/21 Me.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -328,7 +340,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/22 House.md",
+                "file": "Areas/Learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -472,7 +484,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/22 House.md"
+                "file": "Areas/Learning.md"
               }
             }
           },
@@ -557,7 +569,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/22 House.md",
+                "file": "Areas/Learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -583,7 +595,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/22 House.md",
+                "file": "Areas/Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -620,9 +632,10 @@
   },
   "active": "934aebca44b0052e",
   "lastOpenFiles": [
+    "Areas/23 Money.md",
+    "Areas/22 House.md",
     "Areas/21 Me.md",
     "Areas/Learning.md",
-    "Areas/23 Money.md",
     "Areas/21 Me/21 Me.md",
     "Projects/11 Clients/11 Clients.md",
     "Projects/10 Personal/10 Personal.md",
@@ -651,7 +664,6 @@
     "Vault.md",
     "Resources/Resources.md",
     "Projects/10 Efforts/Active/Active.md",
-    "Archive/90 Archive/90 Archive.md",
     "Archive",
     "Resources",
     "Projects",
