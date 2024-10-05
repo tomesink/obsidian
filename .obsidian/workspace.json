@@ -626,7 +626,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libri Latini.md",
+                "file": "00 Inputs/Libri Latini.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -771,7 +771,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libri Latini.md"
+                "file": "00 Inputs/Libri Latini.md"
               }
             }
           },
@@ -856,7 +856,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libri Latini.md",
+                "file": "00 Inputs/Libri Latini.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -882,7 +882,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libri Latini.md",
+                "file": "00 Inputs/Libri Latini.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -917,10 +917,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58c6d3b2df61788f",
+  "active": "260dda07148ba078",
   "lastOpenFiles": [
     "Areas/Learning.md",
-    "Libri Latini.md",
+    "00 Inputs/Libri Latini.md",
     "Projects/10 Personal/Notes/Web Design Masterclass/Project 1 - Ace.md",
     "Projects/10 Personal/10.02 Web Design Masterclass.md",
     "Projects/10 Personal/10.04 Motion Design In Figma.md",
