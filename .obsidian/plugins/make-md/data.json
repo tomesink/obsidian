@@ -88,7 +88,8 @@
     "//Areas/Areas/Notes/Areas/Notes/21 Me",
     "//Projects",
     "//Archive",
-    "//Archive/Archive/Simmering Projects"
+    "//Archive/Archive/Simmering Projects",
+    "//Areas"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

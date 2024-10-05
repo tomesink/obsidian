@@ -620,13 +620,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "10.05 CSS layout & positioning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Archive/Simmering Projects/10.05 CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Libri Latini",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 Inputs/Libri Latini.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inputs/Libri Latini.md",
+                "file": "Projects/10 Personal/10.01 Dokonceni Kaiserbau.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -771,7 +783,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inputs/Libri Latini.md"
+                "file": "Projects/10 Personal/10.01 Dokonceni Kaiserbau.md"
               }
             }
           },
@@ -856,7 +868,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inputs/Libri Latini.md",
+                "file": "Projects/10 Personal/10.01 Dokonceni Kaiserbau.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -882,7 +894,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inputs/Libri Latini.md",
+                "file": "Projects/10 Personal/10.01 Dokonceni Kaiserbau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -917,12 +929,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58c6d3b2df61788f",
+  "active": "260dda07148ba078",
   "lastOpenFiles": [
+    "Archive/Simmering Projects/10.05 CSS layout & positioning.md",
+    "00 Inputs/Libri Latini.md",
     "Tags",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "Areas/Learning.md",
-    "00 Inputs/Libri Latini.md",
     "Projects/10 Personal/Notes/Web Design Masterclass/Project 1 - Ace.md",
     "Projects/10 Personal/10.02 Web Design Masterclass.md",
     "Projects/10 Personal/10.04 Motion Design In Figma.md",
