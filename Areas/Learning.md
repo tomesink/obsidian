@@ -4,7 +4,7 @@ Checkout Penpot app
 
 [Penpot: The Design Tool for Design & Code Collaboration](https://penpot.app/)
 #### Basics 
-- [ ] Web Design 101: Free Full Course (2020) - [Link](https://www.youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI)
+- [x] Web Design 101: Free Full Course (2020) - [Link](https://www.youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI)
 - [ ] Learn Web Design For Beginners - Full Course (2024) - [Link](https://www.youtube.com/watch?v=j6Ule7GXaRs)
 
 #### Intermediate

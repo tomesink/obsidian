@@ -622,6 +622,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Fundamentals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/Notes/Web Design Masterclass/Fundamentals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":112},\"to\":{\"line\":83,\"ch\":112}},\"scroll\":59.811344783671224}"
+                },
+                {
                   "title": "Web Design Masterclass",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -692,7 +698,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10 Personal/Notes/Web Design Masterclass/Fundamentals.md",
+                "file": "Areas/Learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -837,7 +843,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10 Personal/Notes/Web Design Masterclass/Fundamentals.md"
+                "file": "Areas/Learning.md"
               }
             }
           },
@@ -922,7 +928,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10 Personal/Notes/Web Design Masterclass/Fundamentals.md",
+                "file": "Areas/Learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -948,7 +954,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10 Personal/Notes/Web Design Masterclass/Fundamentals.md",
+                "file": "Areas/Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -985,8 +991,8 @@
   },
   "active": "58c6d3b2df61788f",
   "lastOpenFiles": [
-    "Projects/10 Personal/Web Design Masterclass.md",
     "Projects/10 Personal/Notes/Web Design Masterclass/Fundamentals.md",
+    "Projects/10 Personal/Web Design Masterclass.md",
     "Archive/Simmering Projects/Stockpicking.md",
     "Archive/Simmering Projects/CSS layout & positioning.md",
     "Projects/11 Clients/janadolezelova.com.md",
