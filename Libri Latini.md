@@ -1,0 +1,1 @@
+Proc musim vyplnovat znovu fakturacni udaje, kdyz jsem uz registrovany a nemam fakturacni adresu jinou od dodaci? Registroval jsem se presne kvuli tomu, abych nemusel vse opisovat dvakrat. Neslo by to poladit? Je to dost otravne. Dekuji. 

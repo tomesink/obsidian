@@ -610,8 +610,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58c6d3b2df61788f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libri Latini.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -748,7 +771,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Learning.md"
+                "file": "Libri Latini.md"
               }
             }
           },
@@ -833,7 +856,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Learning.md",
+                "file": "Libri Latini.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -859,7 +882,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Learning.md",
+                "file": "Libri Latini.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -894,8 +917,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "934aebca44b0052e",
+  "active": "58c6d3b2df61788f",
   "lastOpenFiles": [
+    "Areas/Learning.md",
+    "Libri Latini.md",
     "Projects/10 Personal/Notes/Web Design Masterclass/Project 1 - Ace.md",
     "Projects/10 Personal/10.02 Web Design Masterclass.md",
     "Projects/10 Personal/10.04 Motion Design In Figma.md",
@@ -920,8 +945,6 @@
     "Areas/Notes/Finance/My Subscriptions.md",
     "Areas/Notes/23 Money/Curve.md",
     "Areas/Notes/23 Money/Banky.md",
-    "Areas/Notes/Finance/My Expenses.md",
-    "Archive/90 Archive/apple_notes_archive/🍺 Vareni piva/Vareni 20-11-2018.md",
     "Projects/11 Clients/Notes",
     "Archive/Inactive Projects",
     "_system/Attachments/Pasted image 20241003094137.png",
