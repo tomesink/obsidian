@@ -86,7 +86,9 @@
     "//Areas/Areas/Notes/Areas/Notes/Personal",
     "//Areas/Areas/Notes/Areas/Notes/Business",
     "//Areas/Areas/Notes/Areas/Notes/21 Me",
-    "//00 Inputs"
+    "//Projects",
+    "//Archive",
+    "//Archive/Archive/Simmering Projects"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
