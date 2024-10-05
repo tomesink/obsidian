@@ -622,6 +622,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Web Design Masterclass",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Stockpicking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Archive/Simmering Projects/Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
                   "title": "CSS layout & positioning",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Archive/Simmering Projects/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -680,7 +692,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Simmering Projects/Stockpicking.md",
+                "file": "Projects/10 Personal/Notes/Web Design Masterclass/Fundamentals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -825,7 +837,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Simmering Projects/Stockpicking.md"
+                "file": "Projects/10 Personal/Notes/Web Design Masterclass/Fundamentals.md"
               }
             }
           },
@@ -910,7 +922,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Simmering Projects/Stockpicking.md",
+                "file": "Projects/10 Personal/Notes/Web Design Masterclass/Fundamentals.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -936,7 +948,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Simmering Projects/Stockpicking.md",
+                "file": "Projects/10 Personal/Notes/Web Design Masterclass/Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -973,12 +985,14 @@
   },
   "active": "58c6d3b2df61788f",
   "lastOpenFiles": [
+    "Projects/10 Personal/Web Design Masterclass.md",
+    "Projects/10 Personal/Notes/Web Design Masterclass/Fundamentals.md",
+    "Archive/Simmering Projects/Stockpicking.md",
     "Archive/Simmering Projects/CSS layout & positioning.md",
     "Projects/11 Clients/janadolezelova.com.md",
     "Projects/10 Personal/Framer Course.md",
     "Projects/10 Personal/Motion Design In Figma.md",
     "Projects/10 Personal/Zbrane Kontrola.md",
-    "Projects/10 Personal/Web Design Masterclass.md",
     "Projects/10 Personal/Dokonceni Kaiserbau.md",
     "00 Inputs/Libri Latini.md",
     "Tags",
@@ -999,8 +1013,6 @@
     "Resources/70 Library/71 Webdesign/Webflow/Image.md",
     "Areas/Notes/Web/Web.md",
     "Resources/70 Library/71 Webdesign/Webflow/Grid.md",
-    "Resources/70 Library/71 Webdesign/Webflow/Element over Image.md",
-    "Resources/70 Library/71 Webdesign/Webflow/Auto Height.md",
     "Projects/11 Clients/Notes",
     "Archive/Inactive Projects",
     "_system/Attachments/Pasted image 20241003094137.png",
