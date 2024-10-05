@@ -380,13 +380,13 @@
                 {
                   "title": "10.06 Stockpicking",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Archive/Simmering Projects/10.06 Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Archive/Simmering Projects/Stockpicking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
                   "title": "10.05 CSS layout & positioning",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Archive/Simmering Projects/10.05 CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Archive/Simmering Projects/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
@@ -622,6 +622,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "CSS layout & positioning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Archive/Simmering Projects/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "janadolezelova.com",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Projects/11 Clients/janadolezelova.com.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Framer Course",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/10 Personal/Framer Course.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -652,9 +664,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
-                  "title": "10.05 CSS layout & positioning",
+                  "title": "CSS layout & positioning",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Archive/Simmering Projects/10.05 CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Archive/Simmering Projects/CSS layout & positioning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
@@ -666,18 +678,12 @@
               ]
             },
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Projects/11 Clients/janadolezelova.com.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Archive/Simmering Projects/Stockpicking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -819,7 +825,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/11 Clients/janadolezelova.com.md"
+                "file": "Archive/Simmering Projects/Stockpicking.md"
               }
             }
           },
@@ -904,7 +910,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/11 Clients/janadolezelova.com.md",
+                "file": "Archive/Simmering Projects/Stockpicking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -930,7 +936,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/11 Clients/janadolezelova.com.md",
+                "file": "Archive/Simmering Projects/Stockpicking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -967,12 +973,13 @@
   },
   "active": "58c6d3b2df61788f",
   "lastOpenFiles": [
+    "Archive/Simmering Projects/CSS layout & positioning.md",
+    "Projects/11 Clients/janadolezelova.com.md",
     "Projects/10 Personal/Framer Course.md",
     "Projects/10 Personal/Motion Design In Figma.md",
     "Projects/10 Personal/Zbrane Kontrola.md",
     "Projects/10 Personal/Web Design Masterclass.md",
     "Projects/10 Personal/Dokonceni Kaiserbau.md",
-    "Archive/Simmering Projects/10.05 CSS layout & positioning.md",
     "00 Inputs/Libri Latini.md",
     "Tags",
     "_system/Attachments/~$Portfolio Management.xlsx",
@@ -994,7 +1001,6 @@
     "Resources/70 Library/71 Webdesign/Webflow/Grid.md",
     "Resources/70 Library/71 Webdesign/Webflow/Element over Image.md",
     "Resources/70 Library/71 Webdesign/Webflow/Auto Height.md",
-    "Areas/Notes/22 House /22 House.md",
     "Projects/11 Clients/Notes",
     "Archive/Inactive Projects",
     "_system/Attachments/Pasted image 20241003094137.png",
