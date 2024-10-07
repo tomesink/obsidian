@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🗃",
       "🕹",
       "🪜",
       "🏗",
@@ -19,8 +20,7 @@
       "🍺",
       "💻",
       "💰",
-      "🏡",
-      "🙎‍♂️"
+      "🏡"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -52,7 +52,7 @@
   "10 Projects/11 Personal": "🪜",
   "10 Projects": "🏗",
   "10 Projects/12 Clients": "🕹",
-  "20 Admin": "LiRecycle",
+  "20 Admin": "🗃",
   "20 Admin/21 Me.md": "🙋‍♂️",
   "20 Admin/Learning.md": "LiGraduationCap",
   "20 Admin/Prayers.md": "✝",
