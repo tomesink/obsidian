@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "21 Me",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/21 Me.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "23 Money",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/23 Money.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
                   "title": "Learning",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Areas/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -610,7 +622,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Areas/23 Money.md",
+                "file": "20 Areas/22 House.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -631,7 +643,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1dc0cb1cebc39098",
+            "id": "dddbab8b18fd423a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -643,8 +655,10 @@
               ]
             },
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -689,25 +703,6 @@
             }
           },
           {
-            "id": "dddbab8b18fd423a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "00f70c4c83995f59",
             "type": "leaf",
             "state": {
@@ -715,8 +710,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -746,7 +740,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Areas/23 Money.md"
+                "file": "20 Areas/22 House.md"
               }
             }
           },
@@ -831,7 +825,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Areas/23 Money.md",
+                "file": "20 Areas/22 House.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -857,7 +851,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Areas/23 Money.md",
+                "file": "20 Areas/22 House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -893,14 +887,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "934aebca44b0052e",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
-    "20 Areas/Learning.md",
+    "20 Areas/21 Me.md",
     "20 Areas/23 Money.md",
+    "20 Areas/Learning.md",
     "20 Areas/22 House.md",
     "Resources/Resources.md",
     "Projects/Projects.md",
-    "20 Areas/21 Me.md",
     "10 Personal/10 Personal.md",
     "20 Areas/Areas.md",
     "Archive/Archive.md",
