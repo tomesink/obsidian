@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "💰",
+      "🏡",
       "🚀",
       "📒",
       "🗃",
@@ -18,9 +20,7 @@
       "🔥",
       "〰",
       "🎲",
-      "🛫",
-      "🍺",
-      "💻"
+      "🛫"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -56,5 +56,7 @@
   "20 Admin/21 Me.md": "🙋‍♂️",
   "20 Admin/Learning.md": "LiGraduationCap",
   "20 Admin/Prayers.md": "✝",
-  "30 Business": "🚀"
+  "30 Business": "🚀",
+  "20 Admin/22 House.md": "🏡",
+  "20 Admin/23 Money.md": "💰"
 }

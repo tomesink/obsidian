@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "22 House",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Admin/22 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
                   "title": "21 Me",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Admin/21 Me.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -622,7 +628,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Admin/22 House.md",
+                "file": "Vault.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -749,7 +755,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Admin/22 House.md"
+                "file": "Vault.md"
               }
             }
           },
@@ -834,7 +840,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Admin/22 House.md",
+                "file": "Vault.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -860,7 +866,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Admin/22 House.md",
+                "file": "Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -896,13 +902,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "934aebca44b0052e",
   "lastOpenFiles": [
+    "20 Admin/22 House.md",
     "10 Projects",
     "20 Admin/21 Me.md",
     "20 Admin/23 Money.md",
     "20 Admin/Learning.md",
-    "20 Admin/22 House.md",
     "Resources/Resources.md",
     "Projects/Projects.md",
     "10 Personal/10 Personal.md",
@@ -943,7 +949,6 @@
     "_system/Attachments/Pasted image 20241001143156.png",
     "_system/Attachments/Pasted image 20241001142830.png",
     "10 Projects/11 Personal/Notes/Web Design Masterclass",
-    "Resources/70 Library/71 Webdesign",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
