@@ -49,12 +49,12 @@
   "Resources/70 Library": "LiPenBox",
   "+ Zettelkasten": "LiSheetsInBox",
   "90 Archive/Simmering Projects": "〰",
-  "20 Areas": "LiRecycle",
-  "20 Areas/21 Me.md": "🙋‍♂️",
-  "20 Areas/Learning.md": "LiGraduationCap",
-  "20 Areas/Prayers.md": "✝",
-  "20 Areas/Notes/30 Business": "LiLaptop",
   "10 Projects/11 Personal": "🪜",
   "10 Projects": "🏗",
-  "10 Projects/12 Clients": "🕹"
+  "10 Projects/12 Clients": "🕹",
+  "20 Admin": "LiRecycle",
+  "20 Admin/21 Me.md": "🙋‍♂️",
+  "20 Admin/Learning.md": "LiGraduationCap",
+  "20 Admin/Prayers.md": "✝",
+  "20 Admin/Notes/30 Business": "LiLaptop"
 }
