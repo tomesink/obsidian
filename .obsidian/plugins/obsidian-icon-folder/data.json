@@ -45,14 +45,14 @@
   },
   "_system": "LiTerminal",
   "00 Inputs": "LiInbox",
-  "Areas": "LiRecycle",
-  "Areas/Learning.md": "LiGraduationCap",
-  "Areas/Prayers.md": "✝",
   "00 Inputs/Calendar": "LiCalendar",
   "Resources/70 Library": "LiPenBox",
   "+ Zettelkasten": "LiSheetsInBox",
-  "Archive/Simmering Projects": "〰",
   "Projects/10 Personal": "LiWorkflow",
-  "Areas/21 Me.md": "🙋‍♂️",
-  "Areas/Notes/30 Business": "LiLaptop"
+  "90 Archive/Simmering Projects": "〰",
+  "20 Areas": "LiRecycle",
+  "20 Areas/21 Me.md": "🙋‍♂️",
+  "20 Areas/Learning.md": "LiGraduationCap",
+  "20 Areas/Prayers.md": "✝",
+  "20 Areas/Notes/30 Business": "LiLaptop"
 }
