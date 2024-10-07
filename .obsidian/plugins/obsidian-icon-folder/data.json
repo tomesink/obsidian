@@ -48,11 +48,11 @@
   "00 Inputs/Calendar": "LiCalendar",
   "Resources/70 Library": "LiPenBox",
   "+ Zettelkasten": "LiSheetsInBox",
-  "Projects/10 Personal": "LiWorkflow",
   "90 Archive/Simmering Projects": "〰",
   "20 Areas": "LiRecycle",
   "20 Areas/21 Me.md": "🙋‍♂️",
   "20 Areas/Learning.md": "LiGraduationCap",
   "20 Areas/Prayers.md": "✝",
-  "20 Areas/Notes/30 Business": "LiLaptop"
+  "20 Areas/Notes/30 Business": "LiLaptop",
+  "10 Personal": "LiWorkflow"
 }
