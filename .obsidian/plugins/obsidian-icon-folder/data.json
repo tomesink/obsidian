@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🕹",
+      "🪜",
+      "🏗",
       "LiPenBox",
       "LiWorkflow",
       "🙋‍♂️",
@@ -17,10 +20,7 @@
       "💻",
       "💰",
       "🏡",
-      "🙎‍♂️",
-      "LiTerminal",
-      "LiSheetsInBox",
-      "LiInbox"
+      "🙎‍♂️"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -54,5 +54,7 @@
   "20 Areas/Learning.md": "LiGraduationCap",
   "20 Areas/Prayers.md": "✝",
   "20 Areas/Notes/30 Business": "LiLaptop",
-  "10 Projects/11 Personal": "LiWorkflow"
+  "10 Projects/11 Personal": "🪜",
+  "10 Projects": "🏗",
+  "10 Projects/12 Clients": "🕹"
 }
