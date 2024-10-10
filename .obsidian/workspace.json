@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Saas Figma Template to Webflow",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Personal/Saas Figma Template to Webflow.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
                   "title": "Web Design Masterclass",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Personal/Web Design Masterclass.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -670,7 +676,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/11 Personal/Saas Figma Template to Webflow.md",
+                "file": "20 Admin/Learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -797,7 +803,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/11 Personal/Saas Figma Template to Webflow.md"
+                "file": "20 Admin/Learning.md"
               }
             }
           },
@@ -899,7 +905,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/11 Personal/Saas Figma Template to Webflow.md",
+                "file": "20 Admin/Learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -925,7 +931,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/11 Personal/Saas Figma Template to Webflow.md",
+                "file": "20 Admin/Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -962,8 +968,8 @@
   },
   "active": "934aebca44b0052e",
   "lastOpenFiles": [
-    "10 Projects/11 Personal/Web Design Masterclass.md",
     "10 Projects/11 Personal/Saas Figma Template to Webflow.md",
+    "10 Projects/11 Personal/Web Design Masterclass.md",
     "10 Projects/11 Personal/Dokonceni Kaiserbau.md",
     "90 Archive/Simmering Projects/Motion Design In Figma.md",
     "90 Archive/Simmering Projects/CSS layout & positioning.md",
