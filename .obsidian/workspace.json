@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Vault",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vault.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "22 House",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Admin/22 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -628,7 +634,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault.md",
+                "file": "10 Projects/11 Personal/Dokonceni Kaiserbau.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -755,7 +761,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault.md"
+                "file": "10 Projects/11 Personal/Dokonceni Kaiserbau.md"
               }
             }
           },
@@ -816,6 +822,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "79cc9792f69fcc21",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -840,7 +854,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault.md",
+                "file": "10 Projects/11 Personal/Dokonceni Kaiserbau.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -866,7 +880,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault.md",
+                "file": "10 Projects/11 Personal/Dokonceni Kaiserbau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -895,7 +909,6 @@
       "obsidian42-brat:BRAT": false,
       "sheet-plus:Create excel file": false,
       "dbfolder:Create a new database table": false,
-      "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
@@ -904,6 +917,7 @@
   },
   "active": "934aebca44b0052e",
   "lastOpenFiles": [
+    "Vault.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "20 Admin/22 House.md",
     "10 Projects",
