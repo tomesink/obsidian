@@ -23,6 +23,6 @@ rank:
 | Kveten      | 3h, uz moc necmoudilo, asi to byl fakt problem v moc oleje |
 | Cervenec    | 5h, Porad dost oleje, porad cmoudi                         |
 | Srpen       | 3h                                                         |
-|             |                                                            |
+| Rijen       | 1h                                                         |
 
 
