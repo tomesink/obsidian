@@ -6,6 +6,7 @@ related:
 created: 2024-08-13
 rank: 
 ---
+
 #### Najezd 2023
 
 |  Mesic<br/> | Hodiny<br/> |
@@ -21,5 +22,7 @@ rank:
 | Kveten      | 2, moc oleje, cmoudilo z vyfuku obcas                      |
 | Kveten      | 3h, uz moc necmoudilo, asi to byl fakt problem v moc oleje |
 | Cervenec    | 5h, Porad dost oleje, porad cmoudi                         |
+| Srpen       | 3h                                                         |
+|             |                                                            |
 
 
