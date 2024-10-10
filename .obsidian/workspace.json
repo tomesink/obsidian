@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "22 House",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Admin/22 House.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7}"
+                },
+                {
+                  "title": "Learning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20 Admin/Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":35},\"to\":{\"line\":33,\"ch\":35}},\"scroll\":22.43217751600843}"
+                },
+                {
                   "title": "Saas Figma Template to Webflow",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Personal/Saas Figma Template to Webflow.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -676,7 +688,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Admin/Learning.md",
+                "file": "20 Admin/Notes/Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -803,7 +815,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Admin/Learning.md"
+                "file": "20 Admin/Notes/Notes.md"
               }
             }
           },
@@ -905,7 +917,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Admin/Learning.md",
+                "file": "20 Admin/Notes/Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -931,7 +943,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Admin/Learning.md",
+                "file": "20 Admin/Notes/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -966,8 +978,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "934aebca44b0052e",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "20 Admin/22 House.md",
+    "20 Admin/Learning.md",
     "10 Projects/11 Personal/Saas Figma Template to Webflow.md",
     "10 Projects/11 Personal/Web Design Masterclass.md",
     "10 Projects/11 Personal/Dokonceni Kaiserbau.md",
@@ -976,11 +990,9 @@
     "90 Archive/Simmering Projects/Framer Course.md",
     "Vault.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
-    "20 Admin/22 House.md",
     "10 Projects",
     "20 Admin/21 Me.md",
     "20 Admin/23 Money.md",
-    "20 Admin/Learning.md",
     "Resources/Resources.md",
     "Projects/Projects.md",
     "10 Personal/10 Personal.md",
