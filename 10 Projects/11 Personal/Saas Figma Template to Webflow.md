@@ -5,8 +5,8 @@ topic:
 references: 
 status:
   - In Progress
-URL: https://learn.flux-academy.com/courses/enrolled/2642822
-type: "[[Course]]"
+URL: https://dribbble.com/shots/19588909-Freebie-Free-Figma-Template-by-inkyy-com
+type: 
 created: 2024-09-27
 tags:
 ---
