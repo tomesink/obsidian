@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Dokonceni Kaiserbau",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10 Projects/11 Personal/Dokonceni Kaiserbau.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
                   "title": "Vault",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vault.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -634,7 +640,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Projects/11 Personal/Dokonceni Kaiserbau.md",
+                "file": "10 Projects/11 Personal/Framer Course.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -761,7 +767,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/11 Personal/Dokonceni Kaiserbau.md"
+                "file": "10 Projects/11 Personal/Framer Course.md"
               }
             }
           },
@@ -854,7 +860,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/11 Personal/Dokonceni Kaiserbau.md",
+                "file": "10 Projects/11 Personal/Framer Course.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -880,7 +886,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Projects/11 Personal/Dokonceni Kaiserbau.md",
+                "file": "10 Projects/11 Personal/Framer Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -917,6 +923,7 @@
   },
   "active": "934aebca44b0052e",
   "lastOpenFiles": [
+    "10 Projects/11 Personal/Dokonceni Kaiserbau.md",
     "Vault.md",
     "_system/Attachments/~$Portfolio Management.xlsx",
     "20 Admin/22 House.md",
@@ -938,7 +945,6 @@
     "10 Projects/11 Personal/Framer Course.md",
     "10 Projects/11 Personal/Motion Design In Figma.md",
     "10 Projects/11 Personal/Zbrane Kontrola.md",
-    "10 Projects/11 Personal/Dokonceni Kaiserbau.md",
     "00 Inputs/Libri Latini.md",
     "Tags",
     "10 Projects/11 Personal/Notes/Web Design Masterclass/Project 1 - Ace.md",
